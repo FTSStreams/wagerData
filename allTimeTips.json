@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-06T23:41:16.191158+00:00",
-  "last_updated_timestamp": 1751845276,
+  "last_updated": "2025-07-06T23:51:14.610869+00:00",
+  "last_updated_timestamp": 1751845874,
   "summary": {
-    "total_tips_sent": 296,
-    "total_amount_sent": 5906.33,
+    "total_tips_sent": 297,
+    "total_amount_sent": 5909.33,
     "by_type": {
       "milestone": {
-        "total_amount": 1338.7,
-        "tip_count": 174
+        "total_amount": 1341.7,
+        "tip_count": 175
       },
       "slot_challenge": {
         "total_amount": 125.0,
@@ -46,6 +46,12 @@
       "total_tips": 12
     },
     {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "total_received": 330.25,
+      "total_tips": 20
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "total_received": 329.75,
@@ -56,12 +62,6 @@
       "username": "F1Fan1997",
       "total_received": 327.5,
       "total_tips": 20
-    },
-    {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
-      "total_received": 327.25,
-      "total_tips": 19
     },
     {
       "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
@@ -251,6 +251,25 @@
       "total_received": 338.75
     },
     {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 205.25,
+          "count": 19,
+          "first_tip": "2025-05-03T16:58:54.015704",
+          "latest_tip": "2025-07-06T23:42:45.565927"
+        },
+        "manual": {
+          "amount": 125.0,
+          "count": 1,
+          "first_tip": "2025-07-03T00:00:00",
+          "latest_tip": "2025-07-03T00:00:00"
+        }
+      },
+      "total_received": 330.25
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tips_by_type": {
@@ -268,25 +287,6 @@
         }
       },
       "total_received": 327.5
-    },
-    {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 202.25,
-          "count": 18,
-          "first_tip": "2025-05-03T16:58:54.015704",
-          "latest_tip": "2025-07-06T22:02:44.998079"
-        },
-        "manual": {
-          "amount": 125.0,
-          "count": 1,
-          "first_tip": "2025-07-03T00:00:00",
-          "latest_tip": "2025-07-03T00:00:00"
-        }
-      },
-      "total_received": 327.25
     },
     {
       "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
@@ -691,8 +691,8 @@
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
-      "amount": 17.0,
-      "count": 10,
+      "amount": 20.0,
+      "count": 11,
       "period_key": "2025-07"
     },
     {
@@ -736,16 +736,6 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 5,
-      "period_key": "2025-07"
-    },
-    {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
       "username": "kaswasright123",
       "tip_type": "slot_challenge",
@@ -753,6 +743,16 @@
       "year": 2025,
       "amount": 5.0,
       "count": 1,
+      "period_key": "2025-07"
+    },
+    {
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2025-07"
     },
     {
