@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-07T15:35:58.184621+00:00",
-  "last_updated_timestamp": 1751902558,
+  "last_updated": "2025-07-07T15:45:57.812744+00:00",
+  "last_updated_timestamp": 1751903157,
   "summary": {
-    "total_tips_sent": 299,
-    "total_amount_sent": 5924.33,
+    "total_tips_sent": 303,
+    "total_amount_sent": 6724.33,
     "by_type": {
       "milestone": {
         "total_amount": 1356.7,
@@ -15,8 +15,8 @@
         "tip_count": 9
       },
       "manual": {
-        "total_amount": 4442.63,
-        "tip_count": 113
+        "total_amount": 5242.63,
+        "tip_count": 117
       }
     }
   },
@@ -26,6 +26,12 @@
       "username": "kaswasright123",
       "total_received": 2282.0,
       "total_tips": 46
+    },
+    {
+      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
+      "username": "degmaster96",
+      "total_received": 1217.0,
+      "total_tips": 16
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -38,12 +44,6 @@
       "username": "enimatekkkk",
       "total_received": 531.65,
       "total_tips": 25
-    },
-    {
-      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
-      "username": "degmaster96",
-      "total_received": 417.0,
-      "total_tips": 12
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -169,6 +169,25 @@
       "total_received": 2282.0
     },
     {
+      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
+      "username": "degmaster96",
+      "tips_by_type": {
+        "manual": {
+          "amount": 1200.0,
+          "count": 6,
+          "first_tip": "2025-07-05T04:02:53.348041",
+          "latest_tip": "2025-07-07T15:43:49.250923"
+        },
+        "milestone": {
+          "amount": 17.0,
+          "count": 10,
+          "first_tip": "2025-07-04T15:16:35.637144",
+          "latest_tip": "2025-07-06T05:21:40.105595"
+        }
+      },
+      "total_received": 1217.0
+    },
+    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "tips_by_type": {
@@ -205,25 +224,6 @@
         }
       },
       "total_received": 531.65
-    },
-    {
-      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
-      "username": "degmaster96",
-      "tips_by_type": {
-        "manual": {
-          "amount": 400.0,
-          "count": 2,
-          "first_tip": "2025-07-05T04:02:53.348041",
-          "latest_tip": "2025-07-05T04:23:41.922129"
-        },
-        "milestone": {
-          "amount": 17.0,
-          "count": 10,
-          "first_tip": "2025-07-04T15:16:35.637144",
-          "latest_tip": "2025-07-06T05:21:40.105595"
-        }
-      },
-      "total_received": 417.0
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -546,6 +546,16 @@
   ],
   "monthly_breakdown": [
     {
+      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
+      "username": "degmaster96",
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "amount": 1200.0,
+      "count": 6,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "tip_type": "manual",
@@ -553,16 +563,6 @@
       "year": 2025,
       "amount": 500.0,
       "count": 1,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
-      "username": "degmaster96",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "amount": 400.0,
-      "count": 2,
       "period_key": "2025-07"
     },
     {
