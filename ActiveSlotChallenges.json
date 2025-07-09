@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-07-09T16:10:06.120577+00:00",
-  "last_updated_timestamp": 1752077406,
-  "total_challenges": 8,
+  "last_updated": "2025-07-09T16:20:05.247335+00:00",
+  "last_updated_timestamp": 1752078005,
+  "total_challenges": 10,
   "challenges": [
     {
       "challenge_id": 6,
@@ -107,6 +107,32 @@
       "emoji": "\ud83e\udd9d",
       "min_bet": 0.11,
       "start_timestamp": 1750996501
+    },
+    {
+      "challenge_id": 48,
+      "game_identifier": "pragmatic:vs20portals",
+      "game_name": "Fire Portals",
+      "required_multiplier": 400.0,
+      "prize": 40.0,
+      "start_time": "2025-07-09T16:14:13+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udd25",
+      "min_bet": 0.1,
+      "start_timestamp": 1752077653
+    },
+    {
+      "challenge_id": 49,
+      "game_identifier": "pragmatic:vs20jewelparty",
+      "game_name": "Jewel Rush",
+      "required_multiplier": 250.0,
+      "prize": 25.0,
+      "start_time": "2025-07-09T16:19:50+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc8e",
+      "min_bet": 0.1,
+      "start_timestamp": 1752077990
     }
   ]
 }
