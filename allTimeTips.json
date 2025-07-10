@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-10T15:48:44.742340+00:00",
-  "last_updated_timestamp": 1752162524,
+  "last_updated": "2025-07-10T15:58:44.382054+00:00",
+  "last_updated_timestamp": 1752163124,
   "summary": {
-    "total_tips_sent": 322,
-    "total_amount_sent": 7607.33,
+    "total_tips_sent": 323,
+    "total_amount_sent": 7634.33,
     "by_type": {
       "milestone": {
-        "total_amount": 1386.7,
-        "tip_count": 187
+        "total_amount": 1413.7,
+        "tip_count": 188
       },
       "slot_challenge": {
         "total_amount": 125.0,
@@ -36,8 +36,8 @@
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
-      "total_received": 993.8,
-      "total_tips": 29
+      "total_received": 1020.8,
+      "total_tips": 30
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -191,20 +191,20 @@
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "tips_by_type": {
+        "milestone": {
+          "amount": 510.8,
+          "count": 27,
+          "first_tip": "2025-05-06T16:32:32.359275",
+          "latest_tip": "2025-07-10T15:50:14.710576"
+        },
         "manual": {
           "amount": 4.0,
           "count": 1,
           "first_tip": "2025-05-07T14:47:40.331905",
           "latest_tip": "2025-05-07T14:47:40.331905"
-        },
-        "milestone": {
-          "amount": 483.8,
-          "count": 26,
-          "first_tip": "2025-05-06T16:32:32.359275",
-          "latest_tip": "2025-07-07T19:47:26.367769"
         }
       },
-      "total_received": 997.8
+      "total_received": 1024.8
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -621,8 +621,8 @@
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
-      "amount": 62.0,
-      "count": 15,
+      "amount": 89.0,
+      "count": 16,
       "period_key": "2025-07"
     },
     {
