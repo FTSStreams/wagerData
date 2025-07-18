@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-18T11:03:07.569638+00:00",
-  "last_updated_timestamp": 1752836587,
+  "last_updated": "2025-07-18T11:13:06.039351+00:00",
+  "last_updated_timestamp": 1752837186,
   "summary": {
-    "total_tips_sent": 386,
-    "total_amount_sent": 11798.33,
+    "total_tips_sent": 387,
+    "total_amount_sent": 11825.33,
     "by_type": {
       "milestone": {
-        "total_amount": 1642.7,
-        "tip_count": 220
+        "total_amount": 1669.7,
+        "tip_count": 221
       },
       "slot_challenge": {
         "total_amount": 125.0,
@@ -36,8 +36,8 @@
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
-      "total_received": 1047.8,
-      "total_tips": 31
+      "total_received": 1074.8,
+      "total_tips": 32
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -192,10 +192,10 @@
       "username": "GemEventual123",
       "tips_by_type": {
         "milestone": {
-          "amount": 537.8,
-          "count": 28,
+          "amount": 564.8,
+          "count": 29,
           "first_tip": "2025-05-06T16:32:32.359275",
-          "latest_tip": "2025-07-18T10:54:34.640609"
+          "latest_tip": "2025-07-18T11:04:34.302331"
         },
         "manual": {
           "amount": 4.0,
@@ -204,7 +204,7 @@
           "latest_tip": "2025-05-07T14:47:40.331905"
         }
       },
-      "total_received": 1051.8
+      "total_received": 1078.8
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -596,6 +596,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "GemEventual123",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 143.0,
+      "count": 18,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "tip_type": "manual",
@@ -616,16 +626,6 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-      "username": "GemEventual123",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 116.0,
-      "count": 17,
-      "period_key": "2025-07"
-    },
-    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "milestone",
@@ -636,8 +636,8 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-      "username": "Laztheraz",
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
@@ -646,8 +646,8 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
