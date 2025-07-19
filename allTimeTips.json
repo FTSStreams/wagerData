@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-19T12:48:19.060301+00:00",
-  "last_updated_timestamp": 1752929299,
+  "last_updated": "2025-07-19T12:58:18.761693+00:00",
+  "last_updated_timestamp": 1752929898,
   "summary": {
-    "total_tips_sent": 388,
-    "total_amount_sent": 11852.33,
+    "total_tips_sent": 389,
+    "total_amount_sent": 11879.33,
     "by_type": {
       "milestone": {
         "total_amount": 1696.7,
@@ -15,8 +15,8 @@
         "tip_count": 9
       },
       "manual": {
-        "total_amount": 10030.63,
-        "tip_count": 157
+        "total_amount": 10057.63,
+        "tip_count": 158
       }
     }
   },
@@ -24,8 +24,8 @@
     {
       "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
       "username": "degmaster96",
-      "total_received": 6006.0,
-      "total_tips": 58
+      "total_received": 6033.0,
+      "total_tips": 59
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -148,10 +148,10 @@
       "username": "degmaster96",
       "tips_by_type": {
         "manual": {
-          "amount": 5958.0,
-          "count": 44,
+          "amount": 5985.0,
+          "count": 45,
           "first_tip": "2025-07-05T04:02:53.348041",
-          "latest_tip": "2025-07-15T05:34:06.613453"
+          "latest_tip": "2025-07-19T12:55:54.614126"
         },
         "milestone": {
           "amount": 48.0,
@@ -160,7 +160,7 @@
           "latest_tip": "2025-07-15T04:24:27.866899"
         }
       },
-      "total_received": 6006.0
+      "total_received": 6033.0
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -551,8 +551,8 @@
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
-      "amount": 5958.0,
-      "count": 44,
+      "amount": 5985.0,
+      "count": 45,
       "period_key": "2025-07"
     },
     {
