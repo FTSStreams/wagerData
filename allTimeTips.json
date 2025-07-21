@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-21T03:25:36.397255+00:00",
-  "last_updated_timestamp": 1753068336,
+  "last_updated": "2025-07-21T03:35:36.580274+00:00",
+  "last_updated_timestamp": 1753068936,
   "summary": {
-    "total_tips_sent": 392,
-    "total_amount_sent": 12409.33,
+    "total_tips_sent": 393,
+    "total_amount_sent": 12423.33,
     "by_type": {
       "milestone": {
-        "total_amount": 1726.7,
-        "tip_count": 224
+        "total_amount": 1740.7,
+        "tip_count": 225
       },
       "slot_challenge": {
         "total_amount": 125.0,
@@ -24,8 +24,8 @@
     {
       "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
       "username": "degmaster96",
-      "total_received": 6533.0,
-      "total_tips": 60
+      "total_received": 6547.0,
+      "total_tips": 61
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -154,13 +154,13 @@
           "latest_tip": "2025-07-20T00:38:24.245378"
         },
         "milestone": {
-          "amount": 48.0,
-          "count": 14,
+          "amount": 62.0,
+          "count": 15,
           "first_tip": "2025-07-04T15:16:35.637144",
-          "latest_tip": "2025-07-15T04:24:27.866899"
+          "latest_tip": "2025-07-21T03:27:07.036882"
         }
       },
-      "total_received": 6533.0
+      "total_received": 6547.0
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -646,6 +646,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
+      "username": "degmaster96",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 62.0,
+      "count": 15,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
       "tip_type": "milestone",
@@ -663,16 +673,6 @@
       "year": 2025,
       "amount": 55.0,
       "count": 2,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
-      "username": "degmaster96",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 48.0,
-      "count": 14,
       "period_key": "2025-07"
     },
     {
