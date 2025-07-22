@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-22T16:04:17.611939+00:00",
-  "last_updated_timestamp": 1753200257,
+  "last_updated": "2025-07-22T16:14:11.964005+00:00",
+  "last_updated_timestamp": 1753200851,
   "summary": {
-    "total_tips_sent": 398,
-    "total_amount_sent": 12635.33,
+    "total_tips_sent": 399,
+    "total_amount_sent": 12640.33,
     "by_type": {
       "milestone": {
         "total_amount": 1767.7,
@@ -15,8 +15,8 @@
         "tip_count": 9
       },
       "manual": {
-        "total_amount": 10742.63,
-        "tip_count": 163
+        "total_amount": 10747.63,
+        "tip_count": 164
       }
     }
   },
@@ -118,6 +118,12 @@
       "total_tips": 6
     },
     {
+      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
+      "username": "4TIFLIP",
+      "total_received": 15.0,
+      "total_tips": 3
+    },
+    {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "angelz420",
       "total_received": 13.0,
@@ -133,12 +139,6 @@
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "total_received": 11.0,
-      "total_tips": 2
-    },
-    {
-      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-      "username": "4TIFLIP",
-      "total_received": 10.0,
       "total_tips": 2
     }
   ],
@@ -492,6 +492,19 @@
       "total_received": 21.05
     },
     {
+      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
+      "username": "4TIFLIP",
+      "tips_by_type": {
+        "manual": {
+          "amount": 15.0,
+          "count": 3,
+          "first_tip": "2025-06-23T16:12:36.850105",
+          "latest_tip": "2025-07-22T16:07:44.059101"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
       "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
       "username": "meow4henny",
       "tips_by_type": {
@@ -503,19 +516,6 @@
         }
       },
       "total_received": 11.0
-    },
-    {
-      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-      "username": "4TIFLIP",
-      "tips_by_type": {
-        "manual": {
-          "amount": 10.0,
-          "count": 2,
-          "first_tip": "2025-06-23T16:12:36.850105",
-          "latest_tip": "2025-07-08T15:47:44.598181"
-        }
-      },
-      "total_received": 10.0
     },
     {
       "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
@@ -756,6 +756,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
+      "username": "4TIFLIP",
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "amount": 10.0,
+      "count": 2,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
       "username": "ohmyramm",
       "tip_type": "milestone",
@@ -763,26 +773,6 @@
       "year": 2025,
       "amount": 7.0,
       "count": 6,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 5,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-      "username": "4TIFLIP",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 1,
       "period_key": "2025-07"
     },
     {
@@ -813,6 +803,16 @@
       "year": 2025,
       "amount": 5.0,
       "count": 1,
+      "period_key": "2025-07"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2025-07"
     },
     {
