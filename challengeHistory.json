@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-07-26T18:18:48.810317+00:00",
-  "last_updated_timestamp": 1753553928,
-  "total_completed_challenges": 9,
-  "total_prizes_paid": 125.0,
+  "last_updated": "2025-07-26T18:28:48.874788+00:00",
+  "last_updated_timestamp": 1753554528,
+  "total_completed_challenges": 10,
+  "total_prizes_paid": 140.0,
   "challenges": [
+    {
+      "challenge_id": 6,
+      "game_name": "Toshi Video Club",
+      "game_identifier": "hacksaw:1087",
+      "required_multiplier": 250.0,
+      "achieved_multiplier": 341.70000000000005,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "GemEventual123",
+        "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+        "bet_amount": 0.43811999999999995,
+        "payout": 149.705604,
+        "multiplier_achieved": 341.70000000000005
+      },
+      "prize_amount": 15.0,
+      "challenge_start": "2025-07-26T18:20:36+00:00",
+      "challenge_start_timestamp": 1753554036,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1087"
+    },
     {
       "challenge_id": 47,
       "game_name": "Franks Farm",
