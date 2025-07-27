@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-27T02:08:48.116654+00:00",
-  "last_updated_timestamp": 1753582128,
+  "last_updated": "2025-07-27T02:18:48.306076+00:00",
+  "last_updated_timestamp": 1753582728,
   "summary": {
-    "total_tips_sent": 428,
-    "total_amount_sent": 16793.329999999998,
+    "total_tips_sent": 429,
+    "total_amount_sent": 16795.329999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 1835.7,
-        "tip_count": 230
+        "total_amount": 1837.7,
+        "tip_count": 231
       },
       "slot_challenge": {
         "total_amount": 140.0,
@@ -66,8 +66,8 @@
     {
       "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
       "username": "gl13",
-      "total_received": 235.5,
-      "total_tips": 24
+      "total_received": 237.5,
+      "total_tips": 25
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -305,13 +305,13 @@
           "latest_tip": "2025-07-03T00:00:00"
         },
         "milestone": {
-          "amount": 90.5,
-          "count": 14,
+          "amount": 92.5,
+          "count": 15,
           "first_tip": "2025-05-04T16:38:22.416213",
-          "latest_tip": "2025-07-05T19:51:41.392238"
+          "latest_tip": "2025-07-27T02:10:18.253688"
         }
       },
-      "total_received": 235.5
+      "total_received": 237.5
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -782,6 +782,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 7.0,
+      "count": 6,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
       "tip_type": "milestone",
@@ -799,16 +809,6 @@
       "year": 2025,
       "amount": 7.0,
       "count": 6,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 5,
       "period_key": "2025-07"
     },
     {
