@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-28T18:33:53.571837+00:00",
-  "last_updated_timestamp": 1753727633,
+  "last_updated": "2025-07-28T18:43:53.268712+00:00",
+  "last_updated_timestamp": 1753728233,
   "summary": {
-    "total_tips_sent": 461,
-    "total_amount_sent": 18785.33,
+    "total_tips_sent": 462,
+    "total_amount_sent": 18796.33,
     "by_type": {
       "milestone": {
-        "total_amount": 1910.7,
-        "tip_count": 256
+        "total_amount": 1921.7,
+        "tip_count": 257
       },
       "slot_challenge": {
         "total_amount": 140.0,
@@ -42,8 +42,8 @@
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
       "username": "ftsontop",
-      "total_received": 1090.0,
-      "total_tips": 15
+      "total_received": 1101.0,
+      "total_tips": 16
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -223,13 +223,13 @@
           "latest_tip": "2025-07-28T00:50:08.579627"
         },
         "milestone": {
-          "amount": 23.0,
-          "count": 12,
+          "amount": 34.0,
+          "count": 13,
           "first_tip": "2025-07-27T23:20:32.504433",
-          "latest_tip": "2025-07-28T04:00:32.817844"
+          "latest_tip": "2025-07-28T18:35:22.415521"
         }
       },
-      "total_received": 1090.0
+      "total_received": 1101.0
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -754,6 +754,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
+      "username": "ftsontop",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 34.0,
+      "count": 13,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
       "tip_type": "manual",
@@ -766,16 +776,6 @@
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 23.0,
-      "count": 12,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-      "username": "ftsontop",
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
