@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-28T00:09:04.114307+00:00",
-  "last_updated_timestamp": 1753661344,
+  "last_updated": "2025-07-28T00:19:04.445633+00:00",
+  "last_updated_timestamp": 1753661944,
   "summary": {
-    "total_tips_sent": 437,
-    "total_amount_sent": 17675.329999999998,
+    "total_tips_sent": 439,
+    "total_amount_sent": 17677.329999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 1867.7,
-        "tip_count": 235
+        "total_amount": 1869.7,
+        "tip_count": 237
       },
       "slot_challenge": {
         "total_amount": 140.0,
@@ -524,6 +524,19 @@
       "total_received": 11.0
     },
     {
+      "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
+      "username": "ftsontop",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 5.0,
+          "count": 5,
+          "first_tip": "2025-07-27T23:20:32.504433",
+          "latest_tip": "2025-07-28T00:11:08.429207"
+        }
+      },
+      "total_received": 5.0
+    },
+    {
       "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
       "username": "nasereps",
       "tips_by_type": {
@@ -548,19 +561,6 @@
         }
       },
       "total_received": 3.25
-    },
-    {
-      "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-      "username": "ftsontop",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 3.0,
-          "count": 3,
-          "first_tip": "2025-07-27T23:20:32.504433",
-          "latest_tip": "2025-07-27T23:30:33.233826"
-        }
-      },
-      "total_received": 3.0
     }
   ],
   "monthly_breakdown": [
@@ -835,6 +835,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
+      "username": "ftsontop",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 5.0,
+      "count": 5,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
       "username": "kaswasright123",
       "tip_type": "slot_challenge",
@@ -842,16 +852,6 @@
       "year": 2025,
       "amount": 5.0,
       "count": 1,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-      "username": "ftsontop",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 3.0,
-      "count": 3,
       "period_key": "2025-07"
     },
     {
