@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-07-29T20:31:57.122406+00:00",
-  "last_updated_timestamp": 1753821117,
+  "last_updated": "2025-07-29T20:41:56.470836+00:00",
+  "last_updated_timestamp": 1753821716,
   "summary": {
-    "total_tips_sent": 465,
-    "total_amount_sent": 18817.33,
+    "total_tips_sent": 466,
+    "total_amount_sent": 18898.33,
     "by_type": {
       "milestone": {
-        "total_amount": 1937.7,
-        "tip_count": 259
+        "total_amount": 2018.7,
+        "tip_count": 260
       },
       "slot_challenge": {
         "total_amount": 140.0,
@@ -36,8 +36,8 @@
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
-      "total_received": 1143.8,
-      "total_tips": 34
+      "total_received": 1224.8,
+      "total_tips": 35
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -192,10 +192,10 @@
       "username": "GemEventual123",
       "tips_by_type": {
         "milestone": {
-          "amount": 618.8,
-          "count": 30,
+          "amount": 699.8,
+          "count": 31,
           "first_tip": "2025-05-06T16:32:32.359275",
-          "latest_tip": "2025-07-25T22:15:15.334613"
+          "latest_tip": "2025-07-29T20:33:25.547931"
         },
         "manual": {
           "amount": 4.0,
@@ -210,7 +210,7 @@
           "latest_tip": "2025-07-26T18:20:36.731644"
         }
       },
-      "total_received": 1147.8
+      "total_received": 1228.8
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -624,6 +624,16 @@
       "period_key": "2025-07"
     },
     {
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "GemEventual123",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2025,
+      "amount": 278.0,
+      "count": 20,
+      "period_key": "2025-07"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -641,16 +651,6 @@
       "year": 2025,
       "amount": 213.5,
       "count": 6,
-      "period_key": "2025-07"
-    },
-    {
-      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-      "username": "GemEventual123",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2025,
-      "amount": 197.0,
-      "count": 19,
       "period_key": "2025-07"
     },
     {
