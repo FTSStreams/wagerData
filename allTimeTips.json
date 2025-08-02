@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-08-02T21:03:50.213205+00:00",
-  "last_updated_timestamp": 1754168630,
+  "last_updated": "2025-08-02T21:13:50.144184+00:00",
+  "last_updated_timestamp": 1754169230,
   "summary": {
-    "total_tips_sent": 607,
-    "total_amount_sent": 19068.33,
+    "total_tips_sent": 609,
+    "total_amount_sent": 19070.33,
     "by_type": {
       "milestone": {
-        "total_amount": 2183.7,
-        "tip_count": 400
+        "total_amount": 2185.7,
+        "tip_count": 402
       },
       "slot_challenge": {
         "total_amount": 140.0,
@@ -54,8 +54,8 @@
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
-      "total_received": 456.25,
-      "total_tips": 30
+      "total_received": 458.25,
+      "total_tips": 32
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -255,10 +255,10 @@
       "username": "WhiteRabbit420",
       "tips_by_type": {
         "milestone": {
-          "amount": 331.25,
-          "count": 29,
+          "amount": 333.25,
+          "count": 31,
           "first_tip": "2025-05-03T16:58:54.015704",
-          "latest_tip": "2025-08-02T20:56:26.933597"
+          "latest_tip": "2025-08-02T21:05:53.460228"
         },
         "manual": {
           "amount": 125.0,
@@ -267,7 +267,7 @@
           "latest_tip": "2025-07-03T00:00:00"
         }
       },
-      "total_received": 456.25
+      "total_received": 458.25
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -634,6 +634,16 @@
       "period_key": "2025-08"
     },
     {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2025,
+      "amount": 5.0,
+      "count": 5,
+      "period_key": "2025-08"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "milestone",
@@ -656,16 +666,6 @@
     {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2025,
-      "amount": 3.0,
-      "count": 3,
-      "period_key": "2025-08"
-    },
-    {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
       "tip_type": "milestone",
       "month": 8,
       "year": 2025,
