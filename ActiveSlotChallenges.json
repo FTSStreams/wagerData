@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-08-07T17:11:23.462142+00:00",
-  "last_updated_timestamp": 1754586683,
-  "total_challenges": 8,
+  "last_updated": "2025-08-07T17:21:23.652737+00:00",
+  "last_updated_timestamp": 1754587283,
+  "total_challenges": 10,
   "challenges": [
     {
       "challenge_id": 39,
@@ -107,6 +107,32 @@
       "emoji": "\ud83d\udd25",
       "min_bet": 0.1,
       "start_timestamp": 1752077653
+    },
+    {
+      "challenge_id": 68,
+      "game_identifier": "nolimit:Mental2",
+      "game_name": "Mental 2",
+      "required_multiplier": 300.0,
+      "prize": 30.0,
+      "start_time": "2025-08-07T17:17:40+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc80",
+      "min_bet": 0.1,
+      "start_timestamp": 1754587060
+    },
+    {
+      "challenge_id": 69,
+      "game_identifier": "nolimit:Seamen",
+      "game_name": "Seamen",
+      "required_multiplier": 200.0,
+      "prize": 20.0,
+      "start_time": "2025-08-07T17:21:07+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2693",
+      "min_bet": 0.1,
+      "start_timestamp": 1754587267
     }
   ]
 }
