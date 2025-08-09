@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-08-09T14:20:18.603903+00:00",
-  "last_updated_timestamp": 1754749218,
+  "last_updated": "2025-08-09T14:30:18.417450+00:00",
+  "last_updated_timestamp": 1754749818,
   "summary": {
-    "total_tips_sent": 674,
-    "total_amount_sent": 19274.33,
+    "total_tips_sent": 676,
+    "total_amount_sent": 19312.33,
     "by_type": {
       "milestone": {
-        "total_amount": 2374.7,
-        "tip_count": 463
+        "total_amount": 2412.7,
+        "tip_count": 465
       },
       "slot_challenge": {
         "total_amount": 141.0,
@@ -48,14 +48,14 @@
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
-      "total_received": 618.65,
-      "total_tips": 42
+      "total_received": 645.65,
+      "total_tips": 43
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
-      "total_received": 476.25,
-      "total_tips": 39
+      "total_received": 487.25,
+      "total_tips": 40
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -242,23 +242,23 @@
           "latest_tip": "2025-08-07T17:25:17.390028"
         },
         "milestone": {
-          "amount": 292.65,
-          "count": 38,
+          "amount": 319.65,
+          "count": 39,
           "first_tip": "2025-05-07T11:21:58.232307",
-          "latest_tip": "2025-08-06T14:12:13.512148"
+          "latest_tip": "2025-08-09T14:21:47.903616"
         }
       },
-      "total_received": 618.65
+      "total_received": 645.65
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tips_by_type": {
         "milestone": {
-          "amount": 351.25,
-          "count": 38,
+          "amount": 362.25,
+          "count": 39,
           "first_tip": "2025-05-03T16:58:54.015704",
-          "latest_tip": "2025-08-07T21:09:19.349545"
+          "latest_tip": "2025-08-09T14:22:23.231501"
         },
         "manual": {
           "amount": 125.0,
@@ -267,7 +267,7 @@
           "latest_tip": "2025-07-03T00:00:00"
         }
       },
-      "total_received": 476.25
+      "total_received": 487.25
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -600,6 +600,16 @@
       "period_key": "2025-08"
     },
     {
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2025,
+      "amount": 89.0,
+      "count": 16,
+      "period_key": "2025-08"
+    },
+    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "tip_type": "milestone",
@@ -610,13 +620,13 @@
       "period_key": "2025-08"
     },
     {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
       "tip_type": "milestone",
       "month": 8,
       "year": 2025,
-      "amount": 62.0,
-      "count": 15,
+      "amount": 34.0,
+      "count": 13,
       "period_key": "2025-08"
     },
     {
@@ -627,16 +637,6 @@
       "year": 2025,
       "amount": 24.0,
       "count": 24,
-      "period_key": "2025-08"
-    },
-    {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2025,
-      "amount": 23.0,
-      "count": 12,
       "period_key": "2025-08"
     },
     {
