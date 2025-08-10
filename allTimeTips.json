@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-08-10T15:59:55.821624+00:00",
-  "last_updated_timestamp": 1754841595,
+  "last_updated": "2025-08-10T16:09:55.715069+00:00",
+  "last_updated_timestamp": 1754842195,
   "summary": {
-    "total_tips_sent": 683,
-    "total_amount_sent": 19350.33,
+    "total_tips_sent": 684,
+    "total_amount_sent": 19352.33,
     "by_type": {
       "milestone": {
-        "total_amount": 2450.7,
-        "tip_count": 472
+        "total_amount": 2452.7,
+        "tip_count": 473
       },
       "slot_challenge": {
         "total_amount": 141.0,
@@ -120,8 +120,8 @@
     {
       "user_id": "734805f3-3084-4811-be99-89a95167d52d",
       "username": "MaxWeen92",
-      "total_received": 33.0,
-      "total_tips": 20
+      "total_received": 35.0,
+      "total_tips": 21
     },
     {
       "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
@@ -472,6 +472,25 @@
       "total_received": 39.7
     },
     {
+      "user_id": "734805f3-3084-4811-be99-89a95167d52d",
+      "username": "MaxWeen92",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 34.0,
+          "count": 20,
+          "first_tip": "2025-07-28T15:20:34.186491",
+          "latest_tip": "2025-08-10T16:01:24.875606"
+        },
+        "slot_challenge": {
+          "amount": 1.0,
+          "count": 1,
+          "first_tip": "2025-08-07T03:14:40.433191",
+          "latest_tip": "2025-08-07T03:14:40.433191"
+        }
+      },
+      "total_received": 35.0
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tips_by_type": {
@@ -489,25 +508,6 @@
         }
       },
       "total_received": 34.05
-    },
-    {
-      "user_id": "734805f3-3084-4811-be99-89a95167d52d",
-      "username": "MaxWeen92",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 32.0,
-          "count": 19,
-          "first_tip": "2025-07-28T15:20:34.186491",
-          "latest_tip": "2025-08-10T14:51:25.104539"
-        },
-        "slot_challenge": {
-          "amount": 1.0,
-          "count": 1,
-          "first_tip": "2025-08-07T03:14:40.433191",
-          "latest_tip": "2025-08-07T03:14:40.433191"
-        }
-      },
-      "total_received": 33.0
     },
     {
       "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
@@ -670,6 +670,16 @@
       "period_key": "2025-08"
     },
     {
+      "user_id": "734805f3-3084-4811-be99-89a95167d52d",
+      "username": "MaxWeen92",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2025,
+      "amount": 11.0,
+      "count": 8,
+      "period_key": "2025-08"
+    },
+    {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
       "tip_type": "manual",
@@ -687,16 +697,6 @@
       "year": 2025,
       "amount": 10.0,
       "count": 9,
-      "period_key": "2025-08"
-    },
-    {
-      "user_id": "734805f3-3084-4811-be99-89a95167d52d",
-      "username": "MaxWeen92",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2025,
-      "amount": 9.0,
-      "count": 7,
       "period_key": "2025-08"
     },
     {
