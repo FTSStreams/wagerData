@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-08-15T16:00:08.733628+00:00",
-  "last_updated_timestamp": 1755273608,
+  "last_updated": "2025-08-15T16:10:07.177577+00:00",
+  "last_updated_timestamp": 1755274207,
   "summary": {
-    "total_tips_sent": 693,
-    "total_amount_sent": 19475.33,
+    "total_tips_sent": 694,
+    "total_amount_sent": 19477.33,
     "by_type": {
       "milestone": {
-        "total_amount": 2555.7,
-        "tip_count": 481
+        "total_amount": 2557.7,
+        "tip_count": 482
       },
       "slot_challenge": {
         "total_amount": 161.0,
@@ -112,16 +112,16 @@
       "total_tips": 7
     },
     {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "total_received": 41.7,
+      "total_tips": 17
+    },
+    {
       "user_id": "734805f3-3084-4811-be99-89a95167d52d",
       "username": "MaxWeen92",
       "total_received": 41.0,
       "total_tips": 23
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "total_received": 39.7,
-      "total_tips": 16
     },
     {
       "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
@@ -459,6 +459,25 @@
       "total_received": 42.0
     },
     {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 21.7,
+          "count": 15,
+          "first_tip": "2025-06-05T04:25:18.923348",
+          "latest_tip": "2025-08-15T16:01:36.698259"
+        },
+        "manual": {
+          "amount": 20.0,
+          "count": 2,
+          "first_tip": "2025-07-01T01:14:30.897532",
+          "latest_tip": "2025-07-03T00:00:00"
+        }
+      },
+      "total_received": 41.7
+    },
+    {
       "user_id": "734805f3-3084-4811-be99-89a95167d52d",
       "username": "MaxWeen92",
       "tips_by_type": {
@@ -476,25 +495,6 @@
         }
       },
       "total_received": 41.0
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "tips_by_type": {
-        "manual": {
-          "amount": 20.0,
-          "count": 2,
-          "first_tip": "2025-07-01T01:14:30.897532",
-          "latest_tip": "2025-07-03T00:00:00"
-        },
-        "milestone": {
-          "amount": 19.7,
-          "count": 14,
-          "first_tip": "2025-06-05T04:25:18.923348",
-          "latest_tip": "2025-08-07T18:12:53.115206"
-        }
-      },
-      "total_received": 39.7
     },
     {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
@@ -721,8 +721,8 @@
       "tip_type": "milestone",
       "month": 8,
       "year": 2025,
-      "amount": 5.0,
-      "count": 5,
+      "amount": 7.0,
+      "count": 6,
       "period_key": "2025-08"
     },
     {
