@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-08-29T12:56:02.944343+00:00",
-  "last_updated_timestamp": 1756472162,
+  "last_updated": "2025-08-29T13:06:03.267208+00:00",
+  "last_updated_timestamp": 1756472763,
   "summary": {
-    "total_tips_sent": 716,
-    "total_amount_sent": 19701.33,
+    "total_tips_sent": 717,
+    "total_amount_sent": 19728.33,
     "by_type": {
       "milestone": {
-        "total_amount": 2771.7,
-        "tip_count": 502
+        "total_amount": 2798.7,
+        "tip_count": 503
       },
       "slot_challenge": {
         "total_amount": 161.0,
@@ -48,8 +48,8 @@
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
-      "total_received": 645.65,
-      "total_tips": 43
+      "total_received": 672.65,
+      "total_tips": 44
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -235,20 +235,20 @@
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
       "tips_by_type": {
+        "milestone": {
+          "amount": 346.65,
+          "count": 40,
+          "first_tip": "2025-05-07T11:21:58.232307",
+          "latest_tip": "2025-08-29T12:57:32.277565"
+        },
         "manual": {
           "amount": 326.0,
           "count": 4,
           "first_tip": "2025-06-18T16:39:26.011976",
           "latest_tip": "2025-08-07T17:25:17.390028"
-        },
-        "milestone": {
-          "amount": 319.65,
-          "count": 39,
-          "first_tip": "2025-05-07T11:21:58.232307",
-          "latest_tip": "2025-08-09T14:21:47.903616"
         }
       },
-      "total_received": 645.65
+      "total_received": 672.65
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -631,8 +631,8 @@
       "tip_type": "milestone",
       "month": 8,
       "year": 2025,
-      "amount": 89.0,
-      "count": 16,
+      "amount": 116.0,
+      "count": 17,
       "period_key": "2025-08"
     },
     {
