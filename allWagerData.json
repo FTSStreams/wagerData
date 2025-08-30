@@ -1,11 +1,11 @@
 {
   "data_type": "comprehensive_wager_data",
-  "last_updated": "2025-08-30T00:02:15.527898+00:00",
-  "last_updated_timestamp": 1756512135,
+  "last_updated": "2025-08-30T00:12:14.671060+00:00",
+  "last_updated_timestamp": 1756512734,
   "periods": {
     "lifetime": {
       "start_date": "2025-01-01T00:00:00+00:00",
-      "end_date": "2025-08-30T00:02:08.891515+00:00",
+      "end_date": "2025-08-30T00:12:08.407251+00:00",
       "description": "All wager data since January 1, 2025"
     },
     "current_month": {
@@ -17,28 +17,28 @@
   "summary": {
     "lifetime": {
       "total_users": 50,
-      "total_wagered": 2638273.8660665154,
-      "total_weighted_wagered": 1449210.6581618686,
+      "total_wagered": 2638334.1351861437,
+      "total_weighted_wagered": 1449270.9272818794,
       "highest_wagerer": {
         "username": "tremor11",
-        "amount": 664991.9993372011
+        "amount": 664991.9993370464
       },
       "highest_weighted_wagerer": {
         "username": "tremor11",
-        "amount": 485914.6486249212
+        "amount": 485914.6486250394
       }
     },
     "current_month": {
       "total_users": 19,
-      "total_wagered": 390362.82988882565,
-      "total_weighted_wagered": 139494.6889589613,
+      "total_wagered": 390423.0990088837,
+      "total_weighted_wagered": 139554.95807895937,
       "highest_wagerer": {
         "username": "enimatekkkk",
-        "amount": 246015.39885196477
+        "amount": 246015.39885203206
       },
       "highest_weighted_wagerer": {
         "username": "GemEventual123",
-        "amount": 44815.73516199983
+        "amount": 44815.73516199629
       }
     }
   },
@@ -48,7 +48,7 @@
         {
           "username": "tremor11",
           "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-          "wagered": 664991.9993372011,
+          "wagered": 664991.9993370464,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -56,7 +56,7 @@
         {
           "username": "enimatekkkk",
           "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-          "wagered": 511163.2986689785,
+          "wagered": 511163.2986690134,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -64,7 +64,7 @@
         {
           "username": "GemEventual123",
           "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-          "wagered": 380146.7685479922,
+          "wagered": 380146.7685479838,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -72,7 +72,7 @@
         {
           "username": "hexta",
           "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
-          "wagered": 313274.5854389774,
+          "wagered": 313274.58543886704,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -80,7 +80,7 @@
         {
           "username": "WhiteRabbit420",
           "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-          "wagered": 154202.0092880092,
+          "wagered": 154241.32928787646,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -88,7 +88,7 @@
         {
           "username": "Deg4Flip",
           "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-          "wagered": 70500.79229700005,
+          "wagered": 70500.79229699912,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -96,7 +96,7 @@
         {
           "username": "gl13",
           "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-          "wagered": 67596.38648999706,
+          "wagered": 67596.38648999641,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -104,7 +104,7 @@
         {
           "username": "F1Fan1997",
           "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-          "wagered": 63488.17599599784,
+          "wagered": 63488.1759959981,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -120,7 +120,7 @@
         {
           "username": "Laztheraz",
           "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-          "wagered": 53686.429280001714,
+          "wagered": 53686.42928000221,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -128,7 +128,7 @@
         {
           "username": "MaxWeen92",
           "user_id": "734805f3-3084-4811-be99-89a95167d52d",
-          "wagered": 52229.8008360009,
+          "wagered": 52229.80083600091,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -136,7 +136,7 @@
         {
           "username": "ftskick",
           "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
-          "wagered": 47658.759417001995,
+          "wagered": 47658.75941700137,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -144,7 +144,7 @@
         {
           "username": "MrBrizz",
           "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-          "wagered": 44970.78811899962,
+          "wagered": 44991.73723900042,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -152,7 +152,7 @@
         {
           "username": "ftsontop",
           "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-          "wagered": 32158.96363499995,
+          "wagered": 32158.963634999924,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -160,7 +160,7 @@
         {
           "username": "kaswasright123",
           "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-          "wagered": 29103.51441500052,
+          "wagered": 29103.514415000685,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -168,7 +168,7 @@
         {
           "username": "MacMacman",
           "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-          "wagered": 27612.12454899731,
+          "wagered": 27612.124548997162,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -176,7 +176,7 @@
         {
           "username": "jonnyb12345",
           "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-          "wagered": 14405.761755000083,
+          "wagered": 14405.761755000232,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -184,7 +184,7 @@
         {
           "username": "argnt",
           "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
-          "wagered": 8621.853415706046,
+          "wagered": 8621.853415706162,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -192,7 +192,7 @@
         {
           "username": "1who1",
           "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
-          "wagered": 8035.884222054451,
+          "wagered": 8035.884222054478,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -200,7 +200,7 @@
         {
           "username": "ohmyramm",
           "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-          "wagered": 6866.284587999928,
+          "wagered": 6866.284587999831,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -208,7 +208,7 @@
         {
           "username": "Jackboichilin",
           "user_id": "342be084-9d68-4cb2-9274-2a7574b477e2",
-          "wagered": 6424.110949000251,
+          "wagered": 6424.110949000187,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -216,7 +216,7 @@
         {
           "username": "Lujomvpp",
           "user_id": "769e2a8f-34be-439c-9906-1fed77a4d186",
-          "wagered": 5989.411516000036,
+          "wagered": 5989.411516000035,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -224,7 +224,7 @@
         {
           "username": "liq543",
           "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-          "wagered": 5076.522509000019,
+          "wagered": 5076.522508999965,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -232,7 +232,7 @@
         {
           "username": "CastelliFc",
           "user_id": "ace92500-2b44-4ed9-9760-056019c1d3b3",
-          "wagered": 2907.6181220001095,
+          "wagered": 2907.618122000106,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -240,7 +240,7 @@
         {
           "username": "GVB1234",
           "user_id": "aa50a544-5b1c-40ef-87e9-33270bd7733d",
-          "wagered": 2489.665282000001,
+          "wagered": 2489.6652820000036,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -248,7 +248,7 @@
         {
           "username": "Lujogamblers",
           "user_id": "8aaeb92b-ce9e-449e-abee-bd7b2602e26f",
-          "wagered": 2105.427825999977,
+          "wagered": 2105.4278259999783,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -256,7 +256,7 @@
         {
           "username": "rileywilsonsc",
           "user_id": "7284cdab-c1a8-4d1d-8e48-5c50978720d2",
-          "wagered": 1824.072390000001,
+          "wagered": 1824.0723900000035,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -264,7 +264,7 @@
         {
           "username": "Rowbitch",
           "user_id": "deb6a668-44ea-4dac-8f44-4b58b89af416",
-          "wagered": 1633.4643449999387,
+          "wagered": 1633.464344999936,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -272,7 +272,7 @@
         {
           "username": "Meow4Henny",
           "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
-          "wagered": 1305.68,
+          "wagered": 1305.6800000000003,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -280,7 +280,7 @@
         {
           "username": "rebeltrankil09",
           "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-          "wagered": 859.8140550000006,
+          "wagered": 859.8140550000059,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -288,7 +288,7 @@
         {
           "username": "wafflesop22",
           "user_id": "f6a288d0-ec25-4168-86e6-053a5c139efe",
-          "wagered": 691.4823120000003,
+          "wagered": 691.4823120000009,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -296,7 +296,7 @@
         {
           "username": "Angelz420",
           "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-          "wagered": 466.17999999999984,
+          "wagered": 466.1799999999969,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -304,7 +304,7 @@
         {
           "username": "Thereturnofdeeg",
           "user_id": "8546512a-fdf8-4275-ae0b-9005ab0af94d",
-          "wagered": 356.91295999999994,
+          "wagered": 356.9129600000007,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -312,7 +312,7 @@
         {
           "username": "Eatpats",
           "user_id": "e254c06d-6439-4ff9-826e-6878f17cdde0",
-          "wagered": 354.5205329999987,
+          "wagered": 354.5205329999988,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -320,7 +320,7 @@
         {
           "username": "XoZealoX",
           "user_id": "943e53c8-d6ac-4a1f-b830-397de4f634cf",
-          "wagered": 280.8752600000017,
+          "wagered": 280.87526000000094,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -328,7 +328,7 @@
         {
           "username": "Lujomaxwin",
           "user_id": "16bc1319-3322-44b9-b7cf-0ae260764642",
-          "wagered": 194.48504299999993,
+          "wagered": 194.485042999999,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -336,7 +336,7 @@
         {
           "username": "its2easy4jaz",
           "user_id": "cfeb6dc5-c912-4914-89a7-76c1e24e79cc",
-          "wagered": 138.55067699999978,
+          "wagered": 138.55067699999972,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -344,7 +344,7 @@
         {
           "username": "betwithskullygg",
           "user_id": "12415d3c-3c80-4a4d-ae5c-a190ccd3b2c4",
-          "wagered": 122.18859419999998,
+          "wagered": 122.18859420000011,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -352,7 +352,7 @@
         {
           "username": "4TIFLIP",
           "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-          "wagered": 68.34756639999989,
+          "wagered": 68.34756639999999,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -376,7 +376,7 @@
         {
           "username": "Zekedid",
           "user_id": "8999b8c9-3495-437e-86a6-92c7c6ba3643",
-          "wagered": 36.131448000000326,
+          "wagered": 36.131448000000205,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -384,7 +384,7 @@
         {
           "username": "GUNN3RHDD",
           "user_id": "4efe8f59-4d88-4932-ae6f-280acbcbc1c8",
-          "wagered": 31.69427999999991,
+          "wagered": 31.694280000000006,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -408,7 +408,7 @@
         {
           "username": "Ademyhtty",
           "user_id": "5ba5329e-ef0c-40ab-9ee3-8ef892e55eec",
-          "wagered": 11.557260000000017,
+          "wagered": 11.557260000000005,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -416,7 +416,7 @@
         {
           "username": "slepttrtxfz",
           "user_id": "1500bfb4-6aab-4d32-be41-4c9074fac444",
-          "wagered": 7.970633999999994,
+          "wagered": 7.970633999999999,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -424,7 +424,7 @@
         {
           "username": "freedomgambler",
           "user_id": "0dd0b943-425b-4194-8e5a-3951c38dd1b7",
-          "wagered": 7.27,
+          "wagered": 7.270000000000001,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -450,7 +450,7 @@
         {
           "username": "tremor11",
           "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-          "weighted_wagered": 485914.6486249212,
+          "weighted_wagered": 485914.6486250394,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1070.9,
@@ -463,7 +463,7 @@
         {
           "username": "GemEventual123",
           "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-          "weighted_wagered": 375342.545848792,
+          "weighted_wagered": 375342.5458487829,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 51004.80000000001,
@@ -476,7 +476,7 @@
         {
           "username": "WhiteRabbit420",
           "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-          "weighted_wagered": 106846.40178201316,
+          "weighted_wagered": 106885.72178190647,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 881.36,
@@ -489,7 +489,7 @@
         {
           "username": "enimatekkkk",
           "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-          "weighted_wagered": 92952.92061910291,
+          "weighted_wagered": 92952.92061910304,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1000,
@@ -502,7 +502,7 @@
         {
           "username": "F1Fan1997",
           "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-          "weighted_wagered": 61268.76882819714,
+          "weighted_wagered": 61268.76882819871,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1925.4499999999996,
@@ -515,7 +515,7 @@
         {
           "username": "Laztheraz",
           "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-          "weighted_wagered": 50976.74828000222,
+          "weighted_wagered": 50976.74828000251,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 2054.3571428571427,
@@ -528,7 +528,7 @@
         {
           "username": "MrBrizz",
           "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-          "weighted_wagered": 44299.31693019979,
+          "weighted_wagered": 44320.266050200415,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1432.3333333333333,
@@ -541,7 +541,7 @@
         {
           "username": "ftskick",
           "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
-          "weighted_wagered": 37676.470814200446,
+          "weighted_wagered": 37676.47081420161,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 3282.872780725656,
@@ -554,7 +554,7 @@
         {
           "username": "Deg4Flip",
           "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-          "weighted_wagered": 27401.29420100009,
+          "weighted_wagered": 27401.294201001627,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 764.25,
@@ -567,7 +567,7 @@
         {
           "username": "gl13",
           "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-          "weighted_wagered": 24914.469609900385,
+          "weighted_wagered": 24914.469609901007,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 456.4,
@@ -580,7 +580,7 @@
         {
           "username": "MacMacman",
           "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-          "weighted_wagered": 19674.58064899818,
+          "weighted_wagered": 19674.58064899766,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1053.28,
@@ -593,7 +593,7 @@
         {
           "username": "kaswasright123",
           "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-          "weighted_wagered": 15940.390452000323,
+          "weighted_wagered": 15940.390452000991,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 820.7,
@@ -606,7 +606,7 @@
         {
           "username": "ftsontop",
           "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-          "weighted_wagered": 15426.381983000087,
+          "weighted_wagered": 15426.381983000081,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 730.04,
@@ -619,7 +619,7 @@
         {
           "username": "hexta",
           "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
-          "weighted_wagered": 14222.413681601529,
+          "weighted_wagered": 14222.413681604092,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 3166.25,
@@ -632,7 +632,7 @@
         {
           "username": "jonnyb12345",
           "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-          "weighted_wagered": 13711.016673300353,
+          "weighted_wagered": 13711.016673300377,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1123.5121895334983,
@@ -658,7 +658,7 @@
         {
           "username": "MaxWeen92",
           "user_id": "734805f3-3084-4811-be99-89a95167d52d",
-          "weighted_wagered": 10869.074243999903,
+          "weighted_wagered": 10869.074243999963,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 845.9999999999999,
@@ -671,7 +671,7 @@
         {
           "username": "1who1",
           "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
-          "weighted_wagered": 7257.197487354333,
+          "weighted_wagered": 7257.197487354335,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1391.2222222222222,
@@ -684,7 +684,7 @@
         {
           "username": "argnt",
           "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
-          "weighted_wagered": 6495.768971105219,
+          "weighted_wagered": 6495.768971105244,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1983.7000000000003,
@@ -697,7 +697,7 @@
         {
           "username": "ohmyramm",
           "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-          "weighted_wagered": 6059.413608499979,
+          "weighted_wagered": 6059.413608499894,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 2430.36,
@@ -710,7 +710,7 @@
         {
           "username": "Lujomvpp",
           "user_id": "769e2a8f-34be-439c-9906-1fed77a4d186",
-          "weighted_wagered": 3758.3854469999915,
+          "weighted_wagered": 3758.3854469999883,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 463.1,
@@ -723,7 +723,7 @@
         {
           "username": "liq543",
           "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-          "weighted_wagered": 2954.6382363999996,
+          "weighted_wagered": 2954.638236400025,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 828.7,
@@ -736,7 +736,7 @@
         {
           "username": "Jackboichilin",
           "user_id": "342be084-9d68-4cb2-9274-2a7574b477e2",
-          "weighted_wagered": 2595.5897250801404,
+          "weighted_wagered": 2595.5897250800754,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 665.5250000000001,
@@ -749,7 +749,7 @@
         {
           "username": "rileywilsonsc",
           "user_id": "7284cdab-c1a8-4d1d-8e48-5c50978720d2",
-          "weighted_wagered": 1824.072390000001,
+          "weighted_wagered": 1824.0723900000035,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 437.00000000000006,
@@ -762,7 +762,7 @@
         {
           "username": "Rowbitch",
           "user_id": "deb6a668-44ea-4dac-8f44-4b58b89af416",
-          "weighted_wagered": 1387.2055387999585,
+          "weighted_wagered": 1387.205538799945,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 809.4499999999999,
@@ -775,7 +775,7 @@
         {
           "username": "Meow4Henny",
           "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
-          "weighted_wagered": 1227.6799999999998,
+          "weighted_wagered": 1227.6800000000003,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 96.38,
@@ -788,7 +788,7 @@
         {
           "username": "Lujogamblers",
           "user_id": "8aaeb92b-ce9e-449e-abee-bd7b2602e26f",
-          "weighted_wagered": 871.1525729999772,
+          "weighted_wagered": 871.1525729999786,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 772,
@@ -801,7 +801,7 @@
         {
           "username": "rebeltrankil09",
           "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-          "weighted_wagered": 809.8562969999998,
+          "weighted_wagered": 809.8562970000052,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1260,
@@ -814,7 +814,7 @@
         {
           "username": "CastelliFc",
           "user_id": "ace92500-2b44-4ed9-9760-056019c1d3b3",
-          "weighted_wagered": 762.8915205999994,
+          "weighted_wagered": 762.8915205999972,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 333.55,
@@ -827,7 +827,7 @@
         {
           "username": "GVB1234",
           "user_id": "aa50a544-5b1c-40ef-87e9-33270bd7733d",
-          "weighted_wagered": 423.27183799999864,
+          "weighted_wagered": 423.2718379999983,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 14,
@@ -840,7 +840,7 @@
         {
           "username": "Angelz420",
           "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-          "weighted_wagered": 419.46400000000034,
+          "weighted_wagered": 419.4639999999974,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 39.43,
@@ -853,7 +853,7 @@
         {
           "username": "Thereturnofdeeg",
           "user_id": "8546512a-fdf8-4275-ae0b-9005ab0af94d",
-          "weighted_wagered": 356.91295999999994,
+          "weighted_wagered": 356.9129600000007,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 331.33333333333337,
@@ -866,7 +866,7 @@
         {
           "username": "XoZealoX",
           "user_id": "943e53c8-d6ac-4a1f-b830-397de4f634cf",
-          "weighted_wagered": 280.8752600000017,
+          "weighted_wagered": 280.87526000000094,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 3360.1000000000004,
@@ -879,7 +879,7 @@
         {
           "username": "Eatpats",
           "user_id": "e254c06d-6439-4ff9-826e-6878f17cdde0",
-          "weighted_wagered": 127.92845720000018,
+          "weighted_wagered": 127.92845720000024,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 8.78,
@@ -892,7 +892,7 @@
         {
           "username": "Lujomaxwin",
           "user_id": "16bc1319-3322-44b9-b7cf-0ae260764642",
-          "weighted_wagered": 108.31681999999942,
+          "weighted_wagered": 108.31681999999948,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 64.8,
@@ -905,7 +905,7 @@
         {
           "username": "wafflesop22",
           "user_id": "f6a288d0-ec25-4168-86e6-053a5c139efe",
-          "weighted_wagered": 94.49533000000005,
+          "weighted_wagered": 94.49533000000028,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 44.333333333333336,
@@ -918,14 +918,14 @@
         {
           "username": "betwithskullygg",
           "user_id": "12415d3c-3c80-4a4d-ae5c-a190ccd3b2c4",
-          "weighted_wagered": 84.53539419999998,
+          "weighted_wagered": 84.53539420000006,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 16.98,
             "game": "Mission Uncrossable",
             "game_identifier": null,
-            "wagered": 0.075,
-            "payout": 1.2735
+            "wagered": 0.07,
+            "payout": 1.1886
           }
         },
         {
@@ -944,7 +944,7 @@
         {
           "username": "4TIFLIP",
           "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-          "weighted_wagered": 68.34756639999989,
+          "weighted_wagered": 68.34756639999999,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 170.45000000000002,
@@ -957,7 +957,7 @@
         {
           "username": "GUNN3RHDD",
           "user_id": "4efe8f59-4d88-4932-ae6f-280acbcbc1c8",
-          "weighted_wagered": 31.624779999999912,
+          "weighted_wagered": 31.62478000000001,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 36.699999999999996,
@@ -983,7 +983,7 @@
         {
           "username": "Zekedid",
           "user_id": "8999b8c9-3495-437e-86a6-92c7c6ba3643",
-          "weighted_wagered": 29.48630400000026,
+          "weighted_wagered": 29.48630400000008,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 50.09649854054399,
@@ -1022,7 +1022,7 @@
         {
           "username": "slepttrtxfz",
           "user_id": "1500bfb4-6aab-4d32-be41-4c9074fac444",
-          "weighted_wagered": 7.970633999999994,
+          "weighted_wagered": 7.970633999999999,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 24.000000000000004,
@@ -1035,7 +1035,7 @@
         {
           "username": "freedomgambler",
           "user_id": "0dd0b943-425b-4194-8e5a-3951c38dd1b7",
-          "weighted_wagered": 7.27,
+          "weighted_wagered": 7.270000000000001,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 4.299816959999999,
@@ -1091,7 +1091,7 @@
         {
           "username": "enimatekkkk",
           "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-          "wagered": 246015.39885196477,
+          "wagered": 246015.39885203206,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1099,7 +1099,7 @@
         {
           "username": "WhiteRabbit420",
           "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-          "wagered": 49048.721904858365,
+          "wagered": 49088.041904854756,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1107,7 +1107,7 @@
         {
           "username": "GemEventual123",
           "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-          "wagered": 46117.55467399962,
+          "wagered": 46117.554673996456,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1115,7 +1115,7 @@
         {
           "username": "Laztheraz",
           "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-          "wagered": 17666.250000002823,
+          "wagered": 17666.24999999976,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1123,7 +1123,7 @@
         {
           "username": "MaxWeen92",
           "user_id": "734805f3-3084-4811-be99-89a95167d52d",
-          "wagered": 10025.55024699995,
+          "wagered": 10025.55024699996,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1131,7 +1131,7 @@
         {
           "username": "MrBrizz",
           "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-          "wagered": 7542.390511000088,
+          "wagered": 7563.339631000647,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1139,7 +1139,7 @@
         {
           "username": "ftsontop",
           "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-          "wagered": 3907.6001289999886,
+          "wagered": 3907.6001289999635,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1147,7 +1147,7 @@
         {
           "username": "F1Fan1997",
           "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-          "wagered": 3212.9739640001853,
+          "wagered": 3212.9739639999884,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1155,7 +1155,7 @@
         {
           "username": "jonnyb12345",
           "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-          "wagered": 3009.7709999999756,
+          "wagered": 3009.7710000000707,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1163,7 +1163,7 @@
         {
           "username": "liq543",
           "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-          "wagered": 1802.4865610000024,
+          "wagered": 1802.4865609999874,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1171,7 +1171,7 @@
         {
           "username": "gl13",
           "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-          "wagered": 1168.9983570000147,
+          "wagered": 1168.998357000055,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1179,7 +1179,7 @@
         {
           "username": "ohmyramm",
           "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-          "wagered": 293.455557000007,
+          "wagered": 293.4555570000029,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1187,7 +1187,7 @@
         {
           "username": "Jackboichilin",
           "user_id": "342be084-9d68-4cb2-9274-2a7574b477e2",
-          "wagered": 253.85707599999995,
+          "wagered": 253.85707600000006,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1195,7 +1195,7 @@
         {
           "username": "Deg4Flip",
           "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-          "wagered": 215.3948399999996,
+          "wagered": 215.39483999999948,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1235,7 +1235,7 @@
         {
           "username": "rebeltrankil09",
           "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-          "wagered": 0.9568679999999999,
+          "wagered": 0.956868,
           "sessions": 0,
           "payout": 0,
           "net": 0
@@ -1245,7 +1245,7 @@
         {
           "username": "GemEventual123",
           "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-          "weighted_wagered": 44815.73516199983,
+          "weighted_wagered": 44815.73516199629,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1372.8,
@@ -1258,7 +1258,7 @@
         {
           "username": "WhiteRabbit420",
           "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-          "weighted_wagered": 33502.97424285875,
+          "weighted_wagered": 33542.294242861986,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 188.26666666666665,
@@ -1271,7 +1271,7 @@
         {
           "username": "enimatekkkk",
           "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-          "weighted_wagered": 20194.323881499764,
+          "weighted_wagered": 20194.32388150029,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1000,
@@ -1284,7 +1284,7 @@
         {
           "username": "Laztheraz",
           "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-          "weighted_wagered": 16805.47800000292,
+          "weighted_wagered": 16805.478000000097,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 1304.857142857143,
@@ -1297,7 +1297,7 @@
         {
           "username": "MrBrizz",
           "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-          "weighted_wagered": 7436.34303590009,
+          "weighted_wagered": 7457.292155900658,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 777.4414765349657,
@@ -1310,7 +1310,7 @@
         {
           "username": "MaxWeen92",
           "user_id": "734805f3-3084-4811-be99-89a95167d52d",
-          "weighted_wagered": 5874.950154999943,
+          "weighted_wagered": 5874.950155000003,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 845.9999999999999,
@@ -1323,7 +1323,7 @@
         {
           "username": "F1Fan1997",
           "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-          "weighted_wagered": 3119.4440812001094,
+          "weighted_wagered": 3119.444081200019,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 343.84999999999997,
@@ -1336,7 +1336,7 @@
         {
           "username": "jonnyb12345",
           "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-          "weighted_wagered": 2904.8489588999237,
+          "weighted_wagered": 2904.8489589000724,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 487.8666666666667,
@@ -1349,7 +1349,7 @@
         {
           "username": "ftsontop",
           "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
-          "weighted_wagered": 2606.673476999992,
+          "weighted_wagered": 2606.673476999988,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 100.9,
@@ -1362,7 +1362,7 @@
         {
           "username": "gl13",
           "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-          "weighted_wagered": 945.8327270000149,
+          "weighted_wagered": 945.8327270000077,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 299.36,
@@ -1375,7 +1375,7 @@
         {
           "username": "liq543",
           "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-          "weighted_wagered": 812.001977999996,
+          "weighted_wagered": 812.0019780000066,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 828.7,
@@ -1388,7 +1388,7 @@
         {
           "username": "ohmyramm",
           "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-          "weighted_wagered": 241.79056800000708,
+          "weighted_wagered": 241.790568000003,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 380.8,
@@ -1401,20 +1401,20 @@
         {
           "username": "Deg4Flip",
           "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-          "weighted_wagered": 149.97982600000017,
+          "weighted_wagered": 149.97982599999983,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 39.63,
             "game": "Mines",
             "game_identifier": null,
-            "wagered": 0.35,
-            "payout": 13.8705
+            "wagered": 0.3885,
+            "payout": 15.396255000000002
           }
         },
         {
           "username": "Jackboichilin",
           "user_id": "342be084-9d68-4cb2-9274-2a7574b477e2",
-          "weighted_wagered": 45.03359760000004,
+          "weighted_wagered": 45.03359760000012,
           "sessions": 0,
           "highest_multiplier": {
             "multiplier": 214.6,
