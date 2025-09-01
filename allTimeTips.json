@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-09-01T14:01:20.565051+00:00",
-  "last_updated_timestamp": 1756735280,
+  "last_updated": "2025-09-01T14:11:20.263151+00:00",
+  "last_updated_timestamp": 1756735880,
   "summary": {
-    "total_tips_sent": 727,
-    "total_amount_sent": 19834.33,
+    "total_tips_sent": 738,
+    "total_amount_sent": 19850.33,
     "by_type": {
       "milestone": {
-        "total_amount": 2904.7,
-        "tip_count": 513
+        "total_amount": 2920.7,
+        "tip_count": 524
       },
       "slot_challenge": {
         "total_amount": 161.0,
@@ -36,8 +36,8 @@
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
-      "total_received": 1421.8,
-      "total_tips": 54
+      "total_received": 1431.8,
+      "total_tips": 59
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -48,8 +48,8 @@
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
-      "total_received": 672.65,
-      "total_tips": 44
+      "total_received": 676.65,
+      "total_tips": 48
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -60,8 +60,8 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "total_received": 432.75,
-      "total_tips": 51
+      "total_received": 434.75,
+      "total_tips": 53
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -192,10 +192,10 @@
       "username": "GemEventual123",
       "tips_by_type": {
         "milestone": {
-          "amount": 896.8,
-          "count": 50,
+          "amount": 906.8,
+          "count": 55,
           "first_tip": "2025-05-06T16:32:32.359275",
-          "latest_tip": "2025-08-26T17:48:51.975625"
+          "latest_tip": "2025-09-01T14:07:05.013864"
         },
         "manual": {
           "amount": 4.0,
@@ -210,7 +210,7 @@
           "latest_tip": "2025-07-26T18:20:36.731644"
         }
       },
-      "total_received": 1425.8
+      "total_received": 1435.8
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -236,10 +236,10 @@
       "username": "enimatekkkk",
       "tips_by_type": {
         "milestone": {
-          "amount": 346.65,
-          "count": 40,
+          "amount": 350.65,
+          "count": 44,
           "first_tip": "2025-05-07T11:21:58.232307",
-          "latest_tip": "2025-08-29T12:57:32.277565"
+          "latest_tip": "2025-09-01T14:09:17.657961"
         },
         "manual": {
           "amount": 326.0,
@@ -248,7 +248,7 @@
           "latest_tip": "2025-08-07T17:25:17.390028"
         }
       },
-      "total_received": 672.65
+      "total_received": 676.65
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -280,10 +280,10 @@
           "latest_tip": "2025-05-09T16:16:52.506532"
         },
         "milestone": {
-          "amount": 179.75,
-          "count": 35,
+          "amount": 181.75,
+          "count": 37,
           "first_tip": "2025-05-04T16:37:49.184577",
-          "latest_tip": "2025-08-30T17:53:38.293390"
+          "latest_tip": "2025-09-01T14:10:24.428305"
         },
         "slot_challenge": {
           "amount": 15.0,
@@ -292,7 +292,7 @@
           "latest_tip": "2025-06-30T00:46:56.683986"
         }
       },
-      "total_received": 441.75
+      "total_received": 443.75
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -596,6 +596,26 @@
   ],
   "monthly_breakdown": [
     {
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "GemEventual123",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2025,
+      "amount": 10.0,
+      "count": 5,
+      "period_key": "2025-09"
+    },
+    {
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2025,
+      "amount": 4.0,
+      "count": 4,
+      "period_key": "2025-09"
+    },
+    {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
       "tip_type": "milestone",
@@ -606,8 +626,18 @@
       "period_key": "2025-09"
     },
     {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2025,
+      "amount": 2.0,
+      "count": 2,
+      "period_key": "2025-09"
+    },
+    {
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "GemEventual123",
       "tip_type": "milestone",
       "month": 8,
       "year": 2025,
@@ -616,8 +646,8 @@
       "period_key": "2025-08"
     },
     {
-      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-      "username": "GemEventual123",
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
       "tip_type": "milestone",
       "month": 8,
       "year": 2025,
@@ -756,6 +786,16 @@
       "period_key": "2025-08"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2025,
+      "amount": 3.0,
+      "count": 1,
+      "period_key": "2025-08"
+    },
+    {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
       "username": "ohmyramm",
       "tip_type": "milestone",
@@ -773,16 +813,6 @@
       "year": 2025,
       "amount": 3.0,
       "count": 3,
-      "period_key": "2025-08"
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "manual",
-      "month": 8,
-      "year": 2025,
-      "amount": 3.0,
-      "count": 1,
       "period_key": "2025-08"
     },
     {
@@ -886,16 +916,6 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "amount": 125.0,
-      "count": 2,
-      "period_key": "2025-07"
-    },
-    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "manual",
@@ -903,6 +923,16 @@
       "year": 2025,
       "amount": 125.0,
       "count": 1,
+      "period_key": "2025-07"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "amount": 125.0,
+      "count": 2,
       "period_key": "2025-07"
     },
     {
@@ -966,8 +996,8 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
@@ -976,8 +1006,8 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
       "tip_type": "milestone",
       "month": 7,
       "year": 2025,
@@ -1106,16 +1136,6 @@
       "period_key": "2025-07"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 1,
-      "period_key": "2025-07"
-    },
-    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tip_type": "manual",
@@ -1129,6 +1149,16 @@
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
       "username": "kaswasright123",
       "tip_type": "slot_challenge",
+      "month": 7,
+      "year": 2025,
+      "amount": 5.0,
+      "count": 1,
+      "period_key": "2025-07"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "tip_type": "manual",
       "month": 7,
       "year": 2025,
       "amount": 5.0,
@@ -1236,8 +1266,8 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-      "username": "Laztheraz",
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
       "tip_type": "milestone",
       "month": 6,
       "year": 2025,
@@ -1246,8 +1276,8 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
+      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
+      "username": "kaswasright123",
       "tip_type": "milestone",
       "month": 6,
       "year": 2025,
@@ -1266,8 +1296,8 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-      "username": "kaswasright123",
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
       "tip_type": "milestone",
       "month": 6,
       "year": 2025,
@@ -1328,7 +1358,7 @@
     {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
       "username": "ohmyramm",
-      "tip_type": "manual",
+      "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
       "amount": 10.0,
@@ -1346,16 +1376,6 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "tip_type": "slot_challenge",
-      "month": 6,
-      "year": 2025,
-      "amount": 10.0,
-      "count": 2,
-      "period_key": "2025-06"
-    },
-    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "tip_type": "manual",
@@ -1366,12 +1386,12 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "tip_type": "milestone",
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "tip_type": "manual",
       "month": 6,
       "year": 2025,
-      "amount": 5.7,
+      "amount": 10.0,
       "count": 2,
       "period_key": "2025-06"
     },
@@ -1386,8 +1406,18 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-      "username": "4TIFLIP",
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2025,
+      "amount": 5.7,
+      "count": 2,
+      "period_key": "2025-06"
+    },
+    {
+      "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
+      "username": "nasereps",
       "tip_type": "manual",
       "month": 6,
       "year": 2025,
@@ -1396,8 +1426,8 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
-      "username": "nasereps",
+      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
+      "username": "4TIFLIP",
       "tip_type": "manual",
       "month": 6,
       "year": 2025,
@@ -1426,16 +1456,6 @@
       "period_key": "2025-06"
     },
     {
-      "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
-      "username": "Meow4Henny",
-      "tip_type": "manual",
-      "month": 6,
-      "year": 2025,
-      "amount": 1.0,
-      "count": 1,
-      "period_key": "2025-06"
-    },
-    {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
       "tip_type": "manual",
@@ -1448,6 +1468,16 @@
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
+      "tip_type": "manual",
+      "month": 6,
+      "year": 2025,
+      "amount": 1.0,
+      "count": 1,
+      "period_key": "2025-06"
+    },
+    {
+      "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
+      "username": "Meow4Henny",
       "tip_type": "manual",
       "month": 6,
       "year": 2025,
@@ -1556,16 +1586,6 @@
       "period_key": "2025-05"
     },
     {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
-      "tip_type": "milestone",
-      "month": 5,
-      "year": 2025,
-      "amount": 14.25,
-      "count": 3,
-      "period_key": "2025-05"
-    },
-    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "tip_type": "milestone",
@@ -1573,6 +1593,16 @@
       "year": 2025,
       "amount": 14.25,
       "count": 1,
+      "period_key": "2025-05"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2025,
+      "amount": 14.25,
+      "count": 3,
       "period_key": "2025-05"
     },
     {
@@ -1646,8 +1676,8 @@
       "period_key": "2025-05"
     },
     {
-      "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
-      "username": "Hexta",
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "gemeventual123",
       "tip_type": "manual",
       "month": 5,
       "year": 2025,
@@ -1656,8 +1686,8 @@
       "period_key": "2025-05"
     },
     {
-      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-      "username": "gemeventual123",
+      "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
+      "username": "Hexta",
       "tip_type": "manual",
       "month": 5,
       "year": 2025,
