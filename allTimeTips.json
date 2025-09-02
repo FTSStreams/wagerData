@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-09-02T16:02:14.661587+00:00",
-  "last_updated_timestamp": 1756828934,
+  "last_updated": "2025-09-02T16:12:14.330779+00:00",
+  "last_updated_timestamp": 1756829534,
   "summary": {
-    "total_tips_sent": 784,
-    "total_amount_sent": 19932.33,
+    "total_tips_sent": 785,
+    "total_amount_sent": 19934.33,
     "by_type": {
       "milestone": {
-        "total_amount": 3002.7,
-        "tip_count": 570
+        "total_amount": 3004.7,
+        "tip_count": 571
       },
       "slot_challenge": {
         "total_amount": 161.0,
@@ -555,6 +555,19 @@
       "total_received": 15.0
     },
     {
+      "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
+      "username": "gdigital87",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 11.0,
+          "count": 8,
+          "first_tip": "2025-09-02T14:58:45.269559",
+          "latest_tip": "2025-09-02T16:03:43.884563"
+        }
+      },
+      "total_received": 11.0
+    },
+    {
       "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
       "username": "meow4henny",
       "tips_by_type": {
@@ -566,19 +579,6 @@
         }
       },
       "total_received": 11.0
-    },
-    {
-      "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
-      "username": "gdigital87",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 9.0,
-          "count": 7,
-          "first_tip": "2025-09-02T14:58:45.269559",
-          "latest_tip": "2025-09-02T15:23:43.629888"
-        }
-      },
-      "total_received": 9.0
     },
     {
       "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
@@ -644,8 +644,8 @@
       "tip_type": "milestone",
       "month": 9,
       "year": 2025,
-      "amount": 9.0,
-      "count": 7,
+      "amount": 11.0,
+      "count": 8,
       "period_key": "2025-09"
     },
     {
