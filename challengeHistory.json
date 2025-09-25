@@ -1,10 +1,124 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-09-04T14:52:23.872543+00:00",
-  "last_updated_timestamp": 1756997543,
-  "total_completed_challenges": 12,
-  "total_prizes_paid": 161.0,
+  "last_updated": "2025-09-25T15:29:39.599566+00:00",
+  "last_updated_timestamp": 1758814179,
+  "total_completed_challenges": 19,
+  "total_prizes_paid": 381.0,
   "challenges": [
+    {
+      "challenge_id": 104,
+      "game_name": "Outlaws Inc.",
+      "game_identifier": "hacksaw:1083",
+      "required_multiplier": 500.0,
+      "achieved_multiplier": 1310.0,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1,
+        "payout": 131.0,
+        "multiplier_achieved": 1310.0
+      },
+      "prize_amount": 50.0,
+      "challenge_start": "2025-09-25T15:16:14+00:00",
+      "challenge_start_timestamp": 1758813374,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1083"
+    },
+    {
+      "challenge_id": 103,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 500.0,
+      "achieved_multiplier": 1652.8999999999999,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.14396,
+        "payout": 237.951484,
+        "multiplier_achieved": 1652.8999999999999
+      },
+      "prize_amount": 50.0,
+      "challenge_start": "2025-09-25T15:15:41+00:00",
+      "challenge_start_timestamp": 1758813341,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
+    {
+      "challenge_id": 44,
+      "game_name": "Cursed Seas",
+      "game_identifier": "hacksaw:1263",
+      "required_multiplier": 400.0,
+      "achieved_multiplier": 722.3,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1,
+        "payout": 72.23,
+        "multiplier_achieved": 722.3
+      },
+      "prize_amount": 40.0,
+      "challenge_start": "2025-09-25T15:14:40+00:00",
+      "challenge_start_timestamp": 1758813280,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1263"
+    },
+    {
+      "challenge_id": 42,
+      "game_name": "Finger Lickn Free Spins",
+      "game_identifier": "pragmatic:vs10fingerlfs",
+      "required_multiplier": 300.0,
+      "achieved_multiplier": 783.4,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1,
+        "payout": 78.34,
+        "multiplier_achieved": 783.4
+      },
+      "prize_amount": 30.0,
+      "challenge_start": "2025-09-25T08:37:58+00:00",
+      "challenge_start_timestamp": 1758789478,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs10fingerlfs"
+    },
+    {
+      "challenge_id": 40,
+      "game_name": "Hand of Anubis",
+      "game_identifier": "hacksaw:1164",
+      "required_multiplier": 500.0,
+      "achieved_multiplier": 736.8000000000001,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1,
+        "payout": 73.68,
+        "multiplier_achieved": 736.8000000000001
+      },
+      "prize_amount": 50.0,
+      "challenge_start": "2025-09-24T10:34:10+00:00",
+      "challenge_start_timestamp": 1758710050,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1164"
+    },
+    {
+      "challenge_id": 101,
+      "game_name": "Home of the Brave",
+      "game_identifier": "nolimit:HomeOfTheBrave",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": null,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-09-04T15:00:35+00:00",
+      "challenge_start_timestamp": 1756998035,
+      "game_url": "https://roobet.com/casino/game/nolimit:HomeOfTheBrave"
+    },
     {
       "challenge_id": 69,
       "game_name": "Seamen",
@@ -156,6 +270,25 @@
       "challenge_start": "2025-06-26T18:31:55+00:00",
       "challenge_start_timestamp": 1750962715,
       "game_url": "https://roobet.com/casino/game/hacksaw:1225"
+    },
+    {
+      "challenge_id": 41,
+      "game_name": "Zeus Vs Hades - Gods of War",
+      "game_identifier": "pragmatic:vs15godsofwar",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-06-25T06:57:19+00:00",
+      "challenge_start_timestamp": 1750834639,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs15godsofwar"
     },
     {
       "challenge_id": 2,
