@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-09-25T18:36:01.225886+00:00",
-  "last_updated_timestamp": 1758825361,
-  "total_challenges": 7,
+  "last_updated": "2025-09-25T18:45:59.633489+00:00",
+  "last_updated_timestamp": 1758825959,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 39,
@@ -94,6 +94,32 @@
       "emoji": "\u2744\ufe0f",
       "min_bet": 0.1,
       "start_timestamp": 1758825327
+    },
+    {
+      "challenge_id": 106,
+      "game_identifier": "Hacksaw:1396",
+      "game_name": "Xmas Drop",
+      "required_multiplier": 500.0,
+      "prize": 40.0,
+      "start_time": "2025-09-25T18:36:56+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf81",
+      "min_bet": 0.1,
+      "start_timestamp": 1758825416
+    },
+    {
+      "challenge_id": 107,
+      "game_identifier": "Hacksaw:1201",
+      "game_name": "Alpha Eagle",
+      "required_multiplier": 350.0,
+      "prize": 25.0,
+      "start_time": "2025-09-25T18:38:23+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd85",
+      "min_bet": 0.1,
+      "start_timestamp": 1758825503
     }
   ]
 }
