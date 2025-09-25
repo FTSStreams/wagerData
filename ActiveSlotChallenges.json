@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-09-04T14:52:23.860624+00:00",
-  "last_updated_timestamp": 1756997543,
-  "total_challenges": 8,
+  "last_updated": "2025-09-25T15:29:39.586308+00:00",
+  "last_updated_timestamp": 1758814179,
+  "total_challenges": 6,
   "challenges": [
     {
       "challenge_id": 39,
@@ -18,45 +18,6 @@
       "start_timestamp": 1750834479
     },
     {
-      "challenge_id": 40,
-      "game_identifier": "hacksaw:1164",
-      "game_name": "Hand of Anubis",
-      "required_multiplier": 500.0,
-      "prize": 50.0,
-      "start_time": "2025-06-25T06:56:03+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\udc2b",
-      "min_bet": 0.1,
-      "start_timestamp": 1750834563
-    },
-    {
-      "challenge_id": 41,
-      "game_identifier": "pragmatic:vs15godsofwar",
-      "game_name": "Zeus Vs Hades - Gods of War",
-      "required_multiplier": 750.0,
-      "prize": 75.0,
-      "start_time": "2025-06-25T06:57:19+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\u26a1",
-      "min_bet": 0.1,
-      "start_timestamp": 1750834639
-    },
-    {
-      "challenge_id": 42,
-      "game_identifier": "pragmatic:vs10fingerlfs",
-      "game_name": "Finger Lickn Free Spins",
-      "required_multiplier": 300.0,
-      "prize": 30.0,
-      "start_time": "2025-06-25T06:58:36+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\udc14",
-      "min_bet": 0.1,
-      "start_timestamp": 1750834716
-    },
-    {
       "challenge_id": 43,
       "game_identifier": "hacksaw:1534",
       "game_name": "SixSixSix",
@@ -68,19 +29,6 @@
       "emoji": "\ud83d\ude08",
       "min_bet": 0.1,
       "start_timestamp": 1750872105
-    },
-    {
-      "challenge_id": 44,
-      "game_identifier": "hacksaw:1263",
-      "game_name": "Cursed Seas",
-      "required_multiplier": 400.0,
-      "prize": 40.0,
-      "start_time": "2025-06-26T20:33:20+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
-      "min_bet": 0.1,
-      "start_timestamp": 1750970000
     },
     {
       "challenge_id": 45,
@@ -107,6 +55,32 @@
       "emoji": "\ud83d\udd25",
       "min_bet": 0.1,
       "start_timestamp": 1752077653
+    },
+    {
+      "challenge_id": 100,
+      "game_identifier": "nolimit:Seamen",
+      "game_name": "Seamen",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-09-04T14:59:24+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2693",
+      "min_bet": 0.2,
+      "start_timestamp": 1756997964
+    },
+    {
+      "challenge_id": 102,
+      "game_identifier": "nolimit:HomeOfTheBrave",
+      "game_name": "Home of the Brave",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-09-04T15:01:50+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "min_bet": 0.2,
+      "start_timestamp": 1756998110
     }
   ]
 }
