@@ -6,8 +6,8 @@
     "start_timestamp": 1759276800,
     "end_timestamp": 1761955199
   },
-  "last_updated": "2025-10-01T11:47:44.947888+00:00",
-  "last_updated_timestamp": 1759319264,
+  "last_updated": "2025-10-01T11:57:44.981775+00:00",
+  "last_updated_timestamp": 1759319864,
   "entries": [
     {
       "rank": 1,
@@ -31,32 +31,32 @@
     },
     {
       "rank": 3,
+      "username": "MrBrizz",
+      "multiplier": 16,
+      "game": "Bounty Hunter",
+      "game_identifier": null,
+      "wagered": 0.2872,
+      "payout": 4.5952,
+      "prize": 25
+    },
+    {
+      "rank": 4,
       "username": "jonnyb12345",
       "multiplier": 9,
       "game": "Plinko",
       "game_identifier": null,
       "wagered": 0.07,
       "payout": 0.6300000000000001,
-      "prize": 25
+      "prize": 10
     },
     {
-      "rank": 4,
+      "rank": 5,
       "username": "Laztheraz",
       "multiplier": 5.6000000000000005,
       "game": "Fortune of Giza",
       "game_identifier": null,
       "wagered": 0.2,
       "payout": 1.12,
-      "prize": 10
-    },
-    {
-      "rank": 5,
-      "username": "gdigital87",
-      "multiplier": 3.6994848231690334,
-      "game": "Wanted Dead or a Wild",
-      "game_identifier": null,
-      "wagered": 0.43091999999999997,
-      "payout": 1.5941819999999998,
       "prize": 5
     }
   ]
