@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-10-02T14:45:27.684981+00:00",
-  "last_updated_timestamp": 1759416327,
+  "last_updated": "2025-10-02T14:55:27.552424+00:00",
+  "last_updated_timestamp": 1759416927,
   "summary": {
-    "total_tips_sent": 1016,
-    "total_amount_sent": 35301.33,
+    "total_tips_sent": 1017,
+    "total_amount_sent": 35351.33,
     "by_type": {
       "milestone": {
         "total_amount": 3637.7,
@@ -15,8 +15,8 @@
         "tip_count": 18
       },
       "manual": {
-        "total_amount": 31242.63,
-        "tip_count": 296
+        "total_amount": 31292.63,
+        "tip_count": 297
       }
     }
   },
@@ -24,8 +24,8 @@
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
       "username": "gdigital87",
-      "total_received": 14460.0,
-      "total_tips": 104
+      "total_received": 14510.0,
+      "total_tips": 105
     },
     {
       "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
@@ -148,10 +148,10 @@
       "username": "gdigital87",
       "tips_by_type": {
         "manual": {
-          "amount": 14344.0,
-          "count": 87,
+          "amount": 14394.0,
+          "count": 88,
           "first_tip": "2025-09-07T14:31:49.246707",
-          "latest_tip": "2025-10-01T21:32:46.653324"
+          "latest_tip": "2025-10-02T14:51:59.524426"
         },
         "milestone": {
           "amount": 116.0,
@@ -160,7 +160,7 @@
           "latest_tip": "2025-09-22T15:33:24.985030"
         }
       },
-      "total_received": 14460.0
+      "total_received": 14510.0
     },
     {
       "user_id": "6311d25f-f60d-460c-82e1-a9eb2da0eda4",
@@ -665,8 +665,8 @@
       "tip_type": "manual",
       "month": 10,
       "year": 2025,
-      "amount": 100.0,
-      "count": 1,
+      "amount": 150.0,
+      "count": 2,
       "period_key": "2025-10"
     },
     {
