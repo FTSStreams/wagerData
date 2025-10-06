@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-10-06T17:02:34.149040+00:00",
-  "last_updated_timestamp": 1759770154,
+  "last_updated": "2025-10-06T17:12:33.611477+00:00",
+  "last_updated_timestamp": 1759770753,
   "summary": {
-    "total_tips_sent": 1074,
-    "total_amount_sent": 37530.329999999994,
+    "total_tips_sent": 1075,
+    "total_amount_sent": 37533.329999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 3697.7,
-        "tip_count": 737
+        "total_amount": 3700.7,
+        "tip_count": 738
       },
       "slot_challenge": {
         "total_amount": 421.0,
@@ -72,8 +72,8 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "total_received": 480.75,
-      "total_tips": 73
+      "total_received": 483.75,
+      "total_tips": 74
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -324,10 +324,10 @@
           "latest_tip": "2025-05-09T16:16:52.506532"
         },
         "milestone": {
-          "amount": 227.75,
-          "count": 57,
+          "amount": 230.75,
+          "count": 58,
           "first_tip": "2025-05-04T16:37:49.184577",
-          "latest_tip": "2025-10-05T09:07:20.784509"
+          "latest_tip": "2025-10-06T17:04:03.466753"
         },
         "slot_challenge": {
           "amount": 15.0,
@@ -336,7 +336,7 @@
           "latest_tip": "2025-06-30T00:46:56.683986"
         }
       },
-      "total_received": 489.75
+      "total_received": 492.75
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -725,8 +725,8 @@
       "tip_type": "milestone",
       "month": 10,
       "year": 2025,
-      "amount": 14.0,
-      "count": 9,
+      "amount": 17.0,
+      "count": 10,
       "period_key": "2025-10"
     },
     {
