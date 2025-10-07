@@ -1,22 +1,9 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-07T18:17:44.942250+00:00",
-  "last_updated_timestamp": 1759861064,
-  "total_challenges": 5,
+  "last_updated": "2025-10-07T18:27:44.903816+00:00",
+  "last_updated_timestamp": 1759861664,
+  "total_challenges": 7,
   "challenges": [
-    {
-      "challenge_id": 109,
-      "game_identifier": "Hacksaw:1201",
-      "game_name": "Alpha Eagle",
-      "required_multiplier": 50.0,
-      "prize": 2.0,
-      "start_time": "2025-10-07T16:32:29+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83e\udd85",
-      "min_bet": 0.1,
-      "start_timestamp": 1759854749
-    },
     {
       "challenge_id": 110,
       "game_identifier": "hacksaw:1891",
@@ -68,6 +55,45 @@
       "emoji": "\ud83c\udf78",
       "min_bet": 0.1,
       "start_timestamp": 1759860983
+    },
+    {
+      "challenge_id": 115,
+      "game_identifier": "evo:nlc-seamen",
+      "game_name": "Seamen",
+      "required_multiplier": 300.0,
+      "prize": 15.0,
+      "start_time": "2025-10-07T18:19:21+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2693",
+      "min_bet": 0.1,
+      "start_timestamp": 1759861161
+    },
+    {
+      "challenge_id": 116,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-07T18:20:06+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd20",
+      "min_bet": 0.1,
+      "start_timestamp": 1759861206
+    },
+    {
+      "challenge_id": 117,
+      "game_identifier": "hacksaw:1201",
+      "game_name": "Alpha Eagle",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-07T18:26:55+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd85",
+      "min_bet": 0.1,
+      "start_timestamp": 1759861615
     }
   ]
 }
