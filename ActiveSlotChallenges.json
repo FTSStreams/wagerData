@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-07T18:27:44.903816+00:00",
-  "last_updated_timestamp": 1759861664,
-  "total_challenges": 7,
+  "last_updated": "2025-10-07T18:37:44.595996+00:00",
+  "last_updated_timestamp": 1759862264,
+  "total_challenges": 8,
   "challenges": [
     {
       "challenge_id": 110,
@@ -16,19 +16,6 @@
       "emoji": "\ud83d\udd2a",
       "min_bet": 0.1,
       "start_timestamp": 1759860754
-    },
-    {
-      "challenge_id": 112,
-      "game_identifier": "Hacksaw:1396",
-      "game_name": "Xmas Drop",
-      "required_multiplier": 800.0,
-      "prize": 40.0,
-      "start_time": "2025-10-07T18:14:05+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83c\udf85",
-      "min_bet": 0.1,
-      "start_timestamp": 1759860845
     },
     {
       "challenge_id": 113,
@@ -94,6 +81,32 @@
       "emoji": "\ud83e\udd85",
       "min_bet": 0.1,
       "start_timestamp": 1759861615
+    },
+    {
+      "challenge_id": 119,
+      "game_identifier": "hacksaw:1396",
+      "game_name": "Xmas Drop",
+      "required_multiplier": 800.0,
+      "prize": 40.0,
+      "start_time": "2025-10-07T18:29:37+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf85",
+      "min_bet": 0.1,
+      "start_timestamp": 1759861777
+    },
+    {
+      "challenge_id": 120,
+      "game_identifier": "evo:nlc-mental-2-3",
+      "game_name": "Mental 2",
+      "required_multiplier": 750.0,
+      "prize": 50.0,
+      "start_time": "2025-10-07T18:31:14+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udfe5",
+      "min_bet": 0.1,
+      "start_timestamp": 1759861874
     }
   ]
 }
