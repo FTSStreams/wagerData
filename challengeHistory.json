@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-07T18:07:45.244687+00:00",
-  "last_updated_timestamp": 1759860465,
-  "total_completed_challenges": 28,
+  "last_updated": "2025-10-07T18:17:44.955489+00:00",
+  "last_updated_timestamp": 1759861064,
+  "total_completed_challenges": 29,
   "total_prizes_paid": 423.0,
   "challenges": [
+    {
+      "challenge_id": 111,
+      "game_name": "Xmas Drop",
+      "game_identifier": "Hacksaw:1396",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": null,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-10-07T18:13:35+00:00",
+      "challenge_start_timestamp": 1759860815,
+      "game_url": "https://roobet.com/casino/game/Hacksaw:1396"
+    },
     {
       "challenge_id": 108,
       "game_name": "Xmas Drop",
