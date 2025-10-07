@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-07T16:47:45.083211+00:00",
-  "last_updated_timestamp": 1759855665,
-  "total_completed_challenges": 27,
-  "total_prizes_paid": 421.0,
+  "last_updated": "2025-10-07T16:57:44.886405+00:00",
+  "last_updated_timestamp": 1759856264,
+  "total_completed_challenges": 28,
+  "total_prizes_paid": 423.0,
   "challenges": [
+    {
+      "challenge_id": 108,
+      "game_name": "Xmas Drop",
+      "game_identifier": "hacksaw:1396",
+      "required_multiplier": 2.0,
+      "achieved_multiplier": 29.799999999999997,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "gdigital87",
+        "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
+        "bet_amount": 0.21509999999999999,
+        "payout": 6.409979999999999,
+        "multiplier_achieved": 29.799999999999997
+      },
+      "prize_amount": 2.0,
+      "challenge_start": "2025-10-07T16:49:26+00:00",
+      "challenge_start_timestamp": 1759855766,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1396"
+    },
     {
       "challenge_id": 105,
       "game_name": "Stormforged",
