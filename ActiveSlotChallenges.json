@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-07T18:07:45.231780+00:00",
-  "last_updated_timestamp": 1759860465,
-  "total_challenges": 1,
+  "last_updated": "2025-10-07T18:17:44.942250+00:00",
+  "last_updated_timestamp": 1759861064,
+  "total_challenges": 5,
   "challenges": [
     {
       "challenge_id": 109,
@@ -16,6 +16,58 @@
       "emoji": "\ud83e\udd85",
       "min_bet": 0.1,
       "start_timestamp": 1759854749
+    },
+    {
+      "challenge_id": 110,
+      "game_identifier": "hacksaw:1891",
+      "game_name": "The Wildwood Curse",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-07T18:12:34+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udd2a",
+      "min_bet": 0.1,
+      "start_timestamp": 1759860754
+    },
+    {
+      "challenge_id": 112,
+      "game_identifier": "Hacksaw:1396",
+      "game_name": "Xmas Drop",
+      "required_multiplier": 800.0,
+      "prize": 40.0,
+      "start_time": "2025-10-07T18:14:05+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf85",
+      "min_bet": 0.1,
+      "start_timestamp": 1759860845
+    },
+    {
+      "challenge_id": 113,
+      "game_identifier": "hacksaw:1830",
+      "game_name": "Le Zeus",
+      "required_multiplier": 1000.0,
+      "prize": 50.0,
+      "start_time": "2025-10-07T18:15:08+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd9d",
+      "min_bet": 0.1,
+      "start_timestamp": 1759860908
+    },
+    {
+      "challenge_id": 114,
+      "game_identifier": "hacksaw:1824",
+      "game_name": "Miami Mayhem",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-07T18:16:23+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf78",
+      "min_bet": 0.1,
+      "start_timestamp": 1759860983
     }
   ]
 }
