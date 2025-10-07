@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-07T16:27:45.272202+00:00",
-  "last_updated_timestamp": 1759854465,
-  "total_challenges": 1,
+  "last_updated": "2025-10-07T16:37:47.123502+00:00",
+  "last_updated_timestamp": 1759855067,
+  "total_challenges": 2,
   "challenges": [
     {
       "challenge_id": 108,
@@ -16,6 +16,19 @@
       "emoji": "\ud83c\udf85",
       "min_bet": 0.1,
       "start_timestamp": 1759854137
+    },
+    {
+      "challenge_id": 109,
+      "game_identifier": "Hacksaw:1201",
+      "game_name": "Alpha Eagle",
+      "required_multiplier": 50.0,
+      "prize": 2.0,
+      "start_time": "2025-10-07T16:32:29+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd85",
+      "min_bet": 0.1,
+      "start_timestamp": 1759854749
     }
   ]
 }
