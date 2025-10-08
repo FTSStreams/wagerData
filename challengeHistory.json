@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-08T18:31:41.569779+00:00",
-  "last_updated_timestamp": 1759948301,
-  "total_completed_challenges": 35,
-  "total_prizes_paid": 448.0,
+  "last_updated": "2025-10-08T18:41:40.928814+00:00",
+  "last_updated_timestamp": 1759948900,
+  "total_completed_challenges": 36,
+  "total_prizes_paid": 473.0,
   "challenges": [
+    {
+      "challenge_id": 114,
+      "game_name": "Miami Mayhem",
+      "game_identifier": "hacksaw:1824",
+      "required_multiplier": 500.0,
+      "achieved_multiplier": 646.8000000000001,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "gdigital87",
+        "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
+        "bet_amount": 0.1,
+        "payout": 64.68,
+        "multiplier_achieved": 646.8000000000001
+      },
+      "prize_amount": 25.0,
+      "challenge_start": "2025-10-08T18:33:46+00:00",
+      "challenge_start_timestamp": 1759948426,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1824"
+    },
     {
       "challenge_id": 117,
       "game_name": "Alpha Eagle",
