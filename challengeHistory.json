@@ -1,8 +1,8 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-08T15:11:40.932082+00:00",
-  "last_updated_timestamp": 1759936300,
-  "total_completed_challenges": 33,
+  "last_updated": "2025-10-08T15:21:41.626292+00:00",
+  "last_updated_timestamp": 1759936901,
+  "total_completed_challenges": 35,
   "total_prizes_paid": 448.0,
   "challenges": [
     {
@@ -25,6 +25,25 @@
       "game_url": "https://roobet.com/casino/game/hacksaw:1201"
     },
     {
+      "challenge_id": 120,
+      "game_name": "Mental 2",
+      "game_identifier": "evo:nlc-mental-2-3",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-10-07T18:31:14+00:00",
+      "challenge_start_timestamp": 1759861874,
+      "game_url": "https://roobet.com/casino/game/evo:nlc-mental-2-3"
+    },
+    {
       "challenge_id": 118,
       "game_name": "Xmas Drop",
       "game_identifier": "hacksaw:1201",
@@ -42,6 +61,25 @@
       "challenge_start": "2025-10-07T18:28:19+00:00",
       "challenge_start_timestamp": 1759861699,
       "game_url": "https://roobet.com/casino/game/hacksaw:1201"
+    },
+    {
+      "challenge_id": 115,
+      "game_name": "Seamen",
+      "game_identifier": "evo:nlc-seamen",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-10-07T18:19:21+00:00",
+      "challenge_start_timestamp": 1759861161,
+      "game_url": "https://roobet.com/casino/game/evo:nlc-seamen"
     },
     {
       "challenge_id": 112,
