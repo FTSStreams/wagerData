@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-08T20:51:41.331310+00:00",
-  "last_updated_timestamp": 1759956701,
-  "total_challenges": 4,
+  "last_updated": "2025-10-08T21:01:40.968123+00:00",
+  "last_updated_timestamp": 1759957300,
+  "total_challenges": 7,
   "challenges": [
     {
       "challenge_id": 110,
@@ -31,19 +31,6 @@
       "start_timestamp": 1759860908
     },
     {
-      "challenge_id": 116,
-      "game_identifier": "hacksaw:1067",
-      "game_name": "Wanted Dead or a Wild",
-      "required_multiplier": 500.0,
-      "prize": 25.0,
-      "start_time": "2025-10-07T18:20:06+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83e\udd20",
-      "min_bet": 0.1,
-      "start_timestamp": 1759861206
-    },
-    {
       "challenge_id": 119,
       "game_identifier": "hacksaw:1396",
       "game_name": "Xmas Drop",
@@ -55,6 +42,58 @@
       "emoji": "\ud83c\udf85",
       "min_bet": 0.1,
       "start_timestamp": 1759861777
+    },
+    {
+      "challenge_id": 121,
+      "game_identifier": "hacksaw:1914",
+      "game_name": "Sun Princess",
+      "required_multiplier": 600.0,
+      "prize": 33.0,
+      "start_time": "2025-10-08T20:53:19+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf1e",
+      "min_bet": 0.1,
+      "start_timestamp": 1759956799
+    },
+    {
+      "challenge_id": 122,
+      "game_identifier": "hacksaw:1867",
+      "game_name": "Chaos Crew 3",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-08T20:55:03+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude3c",
+      "min_bet": 0.1,
+      "start_timestamp": 1759956903
+    },
+    {
+      "challenge_id": 123,
+      "game_identifier": "hacksaw:1164",
+      "game_name": "Hand of Anubis",
+      "required_multiplier": 300.0,
+      "prize": 15.0,
+      "start_time": "2025-10-08T20:56:37+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udef3",
+      "min_bet": 0.1,
+      "start_timestamp": 1759956997
+    },
+    {
+      "challenge_id": 124,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 600.0,
+      "prize": 60.0,
+      "start_time": "2025-10-08T20:59:39+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.2,
+      "start_timestamp": 1759957179
     }
   ]
 }
