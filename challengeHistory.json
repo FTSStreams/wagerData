@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-08T14:15:14.443756+00:00",
-  "last_updated_timestamp": 1759932914,
-  "total_completed_challenges": 32,
-  "total_prizes_paid": 423.0,
+  "last_updated": "2025-10-08T14:25:11.670923+00:00",
+  "last_updated_timestamp": 1759933511,
+  "total_completed_challenges": 33,
+  "total_prizes_paid": 448.0,
   "challenges": [
+    {
+      "challenge_id": 117,
+      "game_name": "Alpha Eagle",
+      "game_identifier": "hacksaw:1201",
+      "required_multiplier": 500.0,
+      "achieved_multiplier": 760.8,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1,
+        "payout": 76.08,
+        "multiplier_achieved": 760.8
+      },
+      "prize_amount": 25.0,
+      "challenge_start": "2025-10-08T14:17:53+00:00",
+      "challenge_start_timestamp": 1759933073,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1201"
+    },
     {
       "challenge_id": 118,
       "game_name": "Xmas Drop",
