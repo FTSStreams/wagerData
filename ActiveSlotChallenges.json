@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-09T20:23:16.469050+00:00",
-  "last_updated_timestamp": 1760041396,
-  "total_challenges": 7,
+  "last_updated": "2025-10-09T20:33:17.333011+00:00",
+  "last_updated_timestamp": 1760041997,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 110,
@@ -94,6 +94,32 @@
       "emoji": "\ud83c\udd9a",
       "min_bet": 0.2,
       "start_timestamp": 1759957179
+    },
+    {
+      "challenge_id": 126,
+      "game_identifier": "pragmatic:vswayswildgang",
+      "game_name": "Wild Gang",
+      "required_multiplier": 400.0,
+      "prize": 20.0,
+      "start_time": "2025-10-09T20:23:27+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd20",
+      "min_bet": 0.1,
+      "start_timestamp": 1760041407
+    },
+    {
+      "challenge_id": 127,
+      "game_identifier": "pragmatic:vs20olympx",
+      "game_name": "Gates of Olympus 1000",
+      "required_multiplier": 400.0,
+      "prize": 20.0,
+      "start_time": "2025-10-09T20:26:39+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf29\ufe0f",
+      "min_bet": 0.1,
+      "start_timestamp": 1760041599
     }
   ]
 }
