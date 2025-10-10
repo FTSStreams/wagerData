@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-10T20:03:18.012889+00:00",
-  "last_updated_timestamp": 1760126598,
-  "total_completed_challenges": 42,
-  "total_prizes_paid": 589.0,
+  "last_updated": "2025-10-10T20:13:17.853579+00:00",
+  "last_updated_timestamp": 1760127197,
+  "total_completed_challenges": 43,
+  "total_prizes_paid": 590.0,
   "challenges": [
+    {
+      "challenge_id": 128,
+      "game_name": "Reactoonz",
+      "game_identifier": "playngo:reactoonz",
+      "required_multiplier": 2.0,
+      "achieved_multiplier": 67.55,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 13.51,
+        "multiplier_achieved": 67.55
+      },
+      "prize_amount": 1.0,
+      "challenge_start": "2025-10-10T20:05:57+00:00",
+      "challenge_start_timestamp": 1760126757,
+      "game_url": "https://roobet.com/casino/game/playngo:reactoonz"
+    },
     {
       "challenge_id": 126,
       "game_name": "Wild Gang",
