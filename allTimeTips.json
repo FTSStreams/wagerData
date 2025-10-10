@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-10-10T15:43:17.605047+00:00",
-  "last_updated_timestamp": 1760110997,
+  "last_updated": "2025-10-10T15:53:17.115409+00:00",
+  "last_updated_timestamp": 1760111597,
   "summary": {
-    "total_tips_sent": 1118,
-    "total_amount_sent": 38252.329999999994,
+    "total_tips_sent": 1120,
+    "total_amount_sent": 38254.329999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 4145.7,
-        "tip_count": 767
+        "total_amount": 4147.7,
+        "tip_count": 769
       },
       "slot_challenge": {
         "total_amount": 589.0,
@@ -638,6 +638,19 @@
       "total_received": 3.25
     },
     {
+      "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
+      "username": "DegenMaster69",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2025-10-10T15:34:47.393442",
+          "latest_tip": "2025-10-10T15:45:22.633934"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
       "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
       "username": "Joeyforreal",
       "tips_by_type": {
@@ -662,19 +675,6 @@
         }
       },
       "total_received": 2.5
-    },
-    {
-      "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
-      "username": "DegenMaster69",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 1.0,
-          "count": 1,
-          "first_tip": "2025-10-10T15:34:47.393442",
-          "latest_tip": "2025-10-10T15:34:47.393442"
-        }
-      },
-      "total_received": 1.0
     }
   ],
   "monthly_breakdown": [
@@ -839,8 +839,8 @@
       "period_key": "2025-10"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
+      "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
+      "username": "DegenMaster69",
       "tip_type": "milestone",
       "month": 10,
       "year": 2025,
@@ -849,13 +849,13 @@
       "period_key": "2025-10"
     },
     {
-      "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
-      "username": "DegenMaster69",
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
       "tip_type": "milestone",
       "month": 10,
       "year": 2025,
-      "amount": 1.0,
-      "count": 1,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2025-10"
     },
     {
