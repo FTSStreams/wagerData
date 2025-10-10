@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-10T10:53:18.097199+00:00",
-  "last_updated_timestamp": 1760093598,
-  "total_completed_challenges": 40,
-  "total_prizes_paid": 549.0,
+  "last_updated": "2025-10-10T11:03:19.130661+00:00",
+  "last_updated_timestamp": 1760094199,
+  "total_completed_challenges": 41,
+  "total_prizes_paid": 569.0,
   "challenges": [
+    {
+      "challenge_id": 127,
+      "game_name": "Gates of Olympus 1000",
+      "game_identifier": "pragmatic:vs20olympx",
+      "required_multiplier": 400.0,
+      "achieved_multiplier": 1112.0,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1783675,
+        "payout": 198.34466,
+        "multiplier_achieved": 1112.0
+      },
+      "prize_amount": 20.0,
+      "challenge_start": "2025-10-10T10:56:09+00:00",
+      "challenge_start_timestamp": 1760093769,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20olympx"
+    },
     {
       "challenge_id": 123,
       "game_name": "Hand of Anubis",
