@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-10T12:53:17.526793+00:00",
-  "last_updated_timestamp": 1760100797,
-  "total_completed_challenges": 41,
-  "total_prizes_paid": 569.0,
+  "last_updated": "2025-10-10T13:03:18.168303+00:00",
+  "last_updated_timestamp": 1760101398,
+  "total_completed_challenges": 42,
+  "total_prizes_paid": 589.0,
   "challenges": [
+    {
+      "challenge_id": 126,
+      "game_name": "Wild Gang",
+      "game_identifier": "pragmatic:vswayswildgang",
+      "required_multiplier": 400.0,
+      "achieved_multiplier": 577.0,
+      "min_bet_requirement": 0.1,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.142702,
+        "payout": 82.339054,
+        "multiplier_achieved": 577.0
+      },
+      "prize_amount": 20.0,
+      "challenge_start": "2025-10-10T12:56:02+00:00",
+      "challenge_start_timestamp": 1760100962,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vswayswildgang"
+    },
     {
       "challenge_id": 127,
       "game_name": "Gates of Olympus 1000",
