@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-11T16:42:55.494392+00:00",
-  "last_updated_timestamp": 1760200975,
-  "total_challenges": 6,
+  "last_updated": "2025-10-11T16:52:53.961873+00:00",
+  "last_updated_timestamp": 1760201573,
+  "total_challenges": 7,
   "challenges": [
     {
       "challenge_id": 110,
@@ -81,6 +81,19 @@
       "emoji": "\ud83e\uddcc",
       "min_bet": 0.4,
       "start_timestamp": 1760200947
+    },
+    {
+      "challenge_id": 130,
+      "game_identifier": "playngo:reactoonztwo",
+      "game_name": "Reactoonz 2",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-11T16:45:51+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc79",
+      "min_bet": 0.1,
+      "start_timestamp": 1760201151
     }
   ]
 }
