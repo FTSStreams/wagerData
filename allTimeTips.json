@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-10-13T17:32:07.905391+00:00",
-  "last_updated_timestamp": 1760376727,
+  "last_updated": "2025-10-13T17:42:07.197404+00:00",
+  "last_updated_timestamp": 1760377327,
   "summary": {
-    "total_tips_sent": 1140,
-    "total_amount_sent": 38603.329999999994,
+    "total_tips_sent": 1141,
+    "total_amount_sent": 38605.329999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 4325.7,
-        "tip_count": 782
+        "total_amount": 4327.7,
+        "tip_count": 783
       },
       "slot_challenge": {
         "total_amount": 640.0,
@@ -84,8 +84,8 @@
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
-      "total_received": 385.5,
-      "total_tips": 50
+      "total_received": 387.5,
+      "total_tips": 51
     },
     {
       "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
@@ -380,13 +380,13 @@
           "latest_tip": "2025-07-03T00:00:00"
         },
         "milestone": {
-          "amount": 160.5,
-          "count": 49,
+          "amount": 162.5,
+          "count": 50,
           "first_tip": "2025-05-10T16:59:38.269547",
-          "latest_tip": "2025-10-10T04:44:47.025074"
+          "latest_tip": "2025-10-13T17:33:37.785501"
         }
       },
-      "total_received": 385.5
+      "total_received": 387.5
     },
     {
       "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
@@ -835,6 +835,16 @@
       "period_key": "2025-10"
     },
     {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2025,
+      "amount": 11.0,
+      "count": 8,
+      "period_key": "2025-10"
+    },
+    {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
       "tip_type": "manual",
@@ -842,16 +852,6 @@
       "year": 2025,
       "amount": 10.0,
       "count": 1,
-      "period_key": "2025-10"
-    },
-    {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2025,
-      "amount": 9.0,
-      "count": 7,
       "period_key": "2025-10"
     },
     {
