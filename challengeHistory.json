@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-10-13T14:02:07.841034+00:00",
-  "last_updated_timestamp": 1760364127,
-  "total_completed_challenges": 43,
-  "total_prizes_paid": 590.0,
+  "last_updated": "2025-10-13T14:12:08.183585+00:00",
+  "last_updated_timestamp": 1760364728,
+  "total_completed_challenges": 44,
+  "total_prizes_paid": 640.0,
   "challenges": [
+    {
+      "challenge_id": 129,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 500.0,
+      "achieved_multiplier": 3889.9,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.4,
+        "payout": 1555.96,
+        "multiplier_achieved": 3889.9
+      },
+      "prize_amount": 50.0,
+      "challenge_start": "2025-10-13T14:04:54+00:00",
+      "challenge_start_timestamp": 1760364294,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
     {
       "challenge_id": 128,
       "game_name": "Reactoonz",
