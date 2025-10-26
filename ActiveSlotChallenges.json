@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-26T20:42:32.429114+00:00",
-  "last_updated_timestamp": 1761511352,
-  "total_challenges": 6,
+  "last_updated": "2025-10-26T20:52:32.052975+00:00",
+  "last_updated_timestamp": 1761511952,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 110,
@@ -81,6 +81,45 @@
       "emoji": "\ud83d\udc79",
       "min_bet": 0.1,
       "start_timestamp": 1760201151
+    },
+    {
+      "challenge_id": 133,
+      "game_identifier": "playngo:reactoonz100",
+      "game_name": "Reactoonz 100",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-10-26T20:49:38+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc7a",
+      "min_bet": 0.4,
+      "start_timestamp": 1761511778
+    },
+    {
+      "challenge_id": 134,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 800.0,
+      "prize": 80.0,
+      "start_time": "2025-10-26T20:50:43+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc80",
+      "min_bet": 0.4,
+      "start_timestamp": 1761511843
+    },
+    {
+      "challenge_id": 135,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 700.0,
+      "prize": 35.0,
+      "start_time": "2025-10-26T20:51:27+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.2,
+      "start_timestamp": 1761511887
     }
   ]
 }
