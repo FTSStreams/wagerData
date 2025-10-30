@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-10-30T15:14:36.275588+00:00",
-  "last_updated_timestamp": 1761837276,
+  "last_updated": "2025-10-30T15:24:36.250464+00:00",
+  "last_updated_timestamp": 1761837876,
   "summary": {
-    "total_tips_sent": 1179,
-    "total_amount_sent": 39023.829999999994,
+    "total_tips_sent": 1180,
+    "total_amount_sent": 39024.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 4623.7,
-        "tip_count": 814
+        "total_amount": 4624.7,
+        "tip_count": 815
       },
       "slot_challenge": {
         "total_amount": 690.0,
@@ -66,8 +66,8 @@
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
-      "total_received": 717.65,
-      "total_tips": 60
+      "total_received": 718.65,
+      "total_tips": 61
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -305,10 +305,10 @@
       "username": "enimatekkkk",
       "tips_by_type": {
         "milestone": {
-          "amount": 371.65,
-          "count": 54,
+          "amount": 372.65,
+          "count": 55,
           "first_tip": "2025-05-07T11:21:58.232307",
-          "latest_tip": "2025-10-17T13:59:34.704276"
+          "latest_tip": "2025-10-30T15:16:06.524959"
         },
         "manual": {
           "amount": 346.0,
@@ -317,7 +317,7 @@
           "latest_tip": "2025-10-13T12:49:12.208938"
         }
       },
-      "total_received": 717.65
+      "total_received": 718.65
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -951,6 +951,16 @@
       "period_key": "2025-10"
     },
     {
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2025,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2025-10"
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tip_type": "manual",
@@ -958,16 +968,6 @@
       "year": 2025,
       "amount": 2.5,
       "count": 1,
-      "period_key": "2025-10"
-    },
-    {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2025,
-      "amount": 2.0,
-      "count": 2,
       "period_key": "2025-10"
     },
     {
