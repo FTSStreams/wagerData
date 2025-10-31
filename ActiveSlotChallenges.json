@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-10-31T16:49:55.682101+00:00",
-  "last_updated_timestamp": 1761929395,
-  "total_challenges": 8,
+  "last_updated": "2025-10-31T16:59:54.966897+00:00",
+  "last_updated_timestamp": 1761929994,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 110,
@@ -107,6 +107,19 @@
       "emoji": "\ud83c\udd9a",
       "min_bet": 0.2,
       "start_timestamp": 1761929199
+    },
+    {
+      "challenge_id": 167,
+      "game_identifier": "hacksaw:1803",
+      "game_name": "The Count",
+      "required_multiplier": 600.0,
+      "prize": 30.0,
+      "start_time": "2025-10-31T16:55:48+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udddb",
+      "min_bet": 0.1,
+      "start_timestamp": 1761929748
     }
   ]
 }
