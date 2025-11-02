@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-11-02T21:04:07.361125+00:00",
-  "last_updated_timestamp": 1762117447,
+  "last_updated": "2025-11-02T21:14:08.010192+00:00",
+  "last_updated_timestamp": 1762118048,
   "summary": {
-    "total_tips_sent": 1203,
-    "total_amount_sent": 39080.829999999994,
+    "total_tips_sent": 1204,
+    "total_amount_sent": 39082.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 4650.7,
-        "tip_count": 836
+        "total_amount": 4652.7,
+        "tip_count": 837
       },
       "slot_challenge": {
         "total_amount": 690.0,
@@ -54,8 +54,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 1056.85,
-      "total_tips": 61
+      "total_received": 1058.85,
+      "total_tips": 62
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -267,10 +267,10 @@
           "latest_tip": "2025-10-27T22:32:44.483653"
         },
         "milestone": {
-          "amount": 242.85,
-          "count": 40,
+          "amount": 244.85,
+          "count": 41,
           "first_tip": "2025-06-25T21:18:20.102667",
-          "latest_tip": "2025-11-02T20:45:36.782966"
+          "latest_tip": "2025-11-02T21:05:36.655663"
         },
         "manual": {
           "amount": 242.0,
@@ -279,7 +279,7 @@
           "latest_tip": "2025-10-27T18:37:08.288929"
         }
       },
-      "total_received": 1056.85
+      "total_received": 1058.85
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -736,8 +736,8 @@
       "tip_type": "milestone",
       "month": 11,
       "year": 2025,
-      "amount": 9.0,
-      "count": 7,
+      "amount": 11.0,
+      "count": 8,
       "period_key": "2025-11"
     },
     {
