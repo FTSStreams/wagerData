@@ -1,62 +1,42 @@
 {
-  "leaderboard_type": "multiplier",
+  "leaderboard_type": "weekly_multiplier",
   "period": {
-    "start_date": "2025-11-01T00:00:00+00:00",
-    "end_date": "2025-11-30T23:59:59+00:00",
-    "start_timestamp": 1761955200,
-    "end_timestamp": 1764547199
+    "start_date": "2025-11-17T00:00:00+00:00",
+    "end_date": "2025-11-23T23:59:59.999999+00:00",
+    "start_timestamp": 1763337600,
+    "end_timestamp": 1763942399
   },
-  "last_updated": "2025-11-17T03:40:33.633316+00:00",
-  "last_updated_timestamp": 1763350833,
+  "last_updated": "2025-11-17T03:44:04.973197+00:00",
+  "last_updated_timestamp": 1763351044,
   "entries": [
     {
       "rank": 1,
-      "username": "MacMacman",
-      "multiplier": 954.5,
-      "game": "Gigantoonz",
-      "game_identifier": null,
-      "wagered": 0.4,
-      "payout": 381.8,
-      "prize": 75
-    },
-    {
-      "rank": 2,
-      "username": "WhiteRabbit420",
-      "multiplier": 506.79999999999995,
-      "game": "Wanted Dead or a Wild",
-      "game_identifier": null,
-      "wagered": 0.4,
-      "payout": 202.72,
-      "prize": 50
-    },
-    {
-      "rank": 3,
-      "username": "ohmyramm",
-      "multiplier": 500,
-      "game": "Keno",
-      "game_identifier": null,
-      "wagered": 0.10922,
-      "payout": 54.61,
-      "prize": 25
-    },
-    {
-      "rank": 4,
-      "username": "MrBrizz",
-      "multiplier": 444.6,
-      "game": "The Dog House Megaways",
-      "game_identifier": null,
-      "wagered": 0.71389,
-      "payout": 317.39549400000004,
-      "prize": 10
-    },
-    {
-      "rank": 5,
       "username": "terrydavis",
       "multiplier": 435.15,
       "game": "Land of The Free",
       "game_identifier": null,
       "wagered": 0.2,
       "payout": 87.03,
+      "prize": 20
+    },
+    {
+      "rank": 2,
+      "username": "Laztheraz",
+      "multiplier": 92.60714285714285,
+      "game": "Mental 2",
+      "game_identifier": null,
+      "wagered": 0.28,
+      "payout": 25.93,
+      "prize": 15
+    },
+    {
+      "rank": 3,
+      "username": "HippoMike",
+      "multiplier": 15,
+      "game": "Monster Superlanche",
+      "game_identifier": null,
+      "wagered": 0.25,
+      "payout": 3.75,
       "prize": 5
     }
   ]
