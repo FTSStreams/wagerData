@@ -1,35 +1,9 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-11-18T23:15:10.240438+00:00",
-  "last_updated_timestamp": 1763507710,
-  "total_challenges": 7,
+  "last_updated": "2025-11-18T23:25:10.158172+00:00",
+  "last_updated_timestamp": 1763508310,
+  "total_challenges": 8,
   "challenges": [
-    {
-      "challenge_id": 110,
-      "game_identifier": "hacksaw:1891",
-      "game_name": "The Wildwood Curse",
-      "required_multiplier": 500.0,
-      "prize": 25.0,
-      "start_time": "2025-10-07T18:12:34+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\udd2a",
-      "min_bet": 0.1,
-      "start_timestamp": 1759860754
-    },
-    {
-      "challenge_id": 113,
-      "game_identifier": "hacksaw:1830",
-      "game_name": "Le Zeus",
-      "required_multiplier": 1000.0,
-      "prize": 50.0,
-      "start_time": "2025-10-07T18:15:08+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83e\udd9d",
-      "min_bet": 0.1,
-      "start_timestamp": 1759860908
-    },
     {
       "challenge_id": 119,
       "game_identifier": "hacksaw:1396",
@@ -94,6 +68,45 @@
       "emoji": "\ud83e\udddb",
       "min_bet": 0.1,
       "start_timestamp": 1761929748
+    },
+    {
+      "challenge_id": 168,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or Wild",
+      "required_multiplier": 700.0,
+      "prize": 100.0,
+      "start_time": "2025-11-18T23:17:30+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.2,
+      "start_timestamp": 1763507850
+    },
+    {
+      "challenge_id": 169,
+      "game_identifier": "hacksaw:1243",
+      "game_name": "Stromforged",
+      "required_multiplier": 700.0,
+      "prize": 100.0,
+      "start_time": "2025-11-18T23:19:00+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd76",
+      "min_bet": 0.2,
+      "start_timestamp": 1763507940
+    },
+    {
+      "challenge_id": 170,
+      "game_identifier": "hacksaw:1955",
+      "game_name": "RIP City Roobet",
+      "required_multiplier": 700.0,
+      "prize": 100.0,
+      "start_time": "2025-11-18T23:20:25+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc31",
+      "min_bet": 0.2,
+      "start_timestamp": 1763508025
     }
   ]
 }
