@@ -1,8 +1,8 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2025-11-18T23:05:12.022997+00:00",
-  "last_updated_timestamp": 1763507112,
-  "total_completed_challenges": 47,
+  "last_updated": "2025-11-18T23:15:11.857207+00:00",
+  "last_updated_timestamp": 1763507711,
+  "total_completed_challenges": 48,
   "total_prizes_paid": 770.0,
   "challenges": [
     {
@@ -23,6 +23,25 @@
       "challenge_start": "2025-11-04T21:12:32+00:00",
       "challenge_start_timestamp": 1762290752,
       "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
+    {
+      "challenge_id": 166,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-10-31T16:46:39+00:00",
+      "challenge_start_timestamp": 1761929199,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
     },
     {
       "challenge_id": 136,
