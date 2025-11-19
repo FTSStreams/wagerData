@@ -1,18 +1,18 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-11-19T01:22:12.024824+00:00",
-  "last_updated_timestamp": 1763515332,
+  "last_updated": "2025-11-19T01:32:11.687475+00:00",
+  "last_updated_timestamp": 1763515931,
   "summary": {
-    "total_tips_sent": 1369,
-    "total_amount_sent": 39654.829999999994,
+    "total_tips_sent": 1370,
+    "total_amount_sent": 39754.829999999994,
     "by_type": {
       "milestone": {
         "total_amount": 5069.7,
         "tip_count": 994
       },
       "slot_challenge": {
-        "total_amount": 770.0,
-        "tip_count": 30
+        "total_amount": 870.0,
+        "tip_count": 31
       },
       "manual": {
         "total_amount": 33815.13,
@@ -48,8 +48,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 1150.85,
-      "total_tips": 67
+      "total_received": 1250.85,
+      "total_tips": 68
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -242,10 +242,10 @@
       "username": "MacMacman",
       "tips_by_type": {
         "slot_challenge": {
-          "amount": 652.0,
-          "count": 18,
+          "amount": 752.0,
+          "count": 19,
           "first_tip": "2025-06-30T00:46:56.683986",
-          "latest_tip": "2025-11-04T21:12:32.319021"
+          "latest_tip": "2025-11-19T01:25:05.071586"
         },
         "milestone": {
           "amount": 256.85,
@@ -260,7 +260,7 @@
           "latest_tip": "2025-10-27T18:37:08.288929"
         }
       },
-      "total_received": 1150.85
+      "total_received": 1250.85
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -782,6 +782,16 @@
   ],
   "monthly_breakdown": [
     {
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "tip_type": "slot_challenge",
+      "month": 11,
+      "year": 2025,
+      "amount": 180.0,
+      "count": 2,
+      "period_key": "2025-11"
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "tip_type": "milestone",
@@ -799,16 +809,6 @@
       "year": 2025,
       "amount": 116.0,
       "count": 17,
-      "period_key": "2025-11"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "tip_type": "slot_challenge",
-      "month": 11,
-      "year": 2025,
-      "amount": 80.0,
-      "count": 1,
       "period_key": "2025-11"
     },
     {
