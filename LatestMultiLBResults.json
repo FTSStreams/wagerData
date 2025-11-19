@@ -6,37 +6,37 @@
     "start_timestamp": 1763337600,
     "end_timestamp": 1763942399
   },
-  "last_updated": "2025-11-19T01:42:11.225745+00:00",
-  "last_updated_timestamp": 1763516531,
+  "last_updated": "2025-11-19T01:52:12.200833+00:00",
+  "last_updated_timestamp": 1763517132,
   "entries": [
     {
       "rank": 1,
+      "username": "hotrunners",
+      "multiplier": 2671.7,
+      "game": "Wanted Dead or a Wild",
+      "game_identifier": null,
+      "wagered": 1,
+      "payout": 2671.7,
+      "prize": 20
+    },
+    {
+      "rank": 2,
       "username": "MacMacman",
       "multiplier": 902.0999999999999,
       "game": "Stormforged",
       "game_identifier": null,
       "wagered": 0.2,
       "payout": 180.42,
-      "prize": 20
+      "prize": 15
     },
     {
-      "rank": 2,
+      "rank": 3,
       "username": "terrydavis",
       "multiplier": 435.15,
       "game": "Land of The Free",
       "game_identifier": null,
       "wagered": 0.2,
       "payout": 87.03,
-      "prize": 15
-    },
-    {
-      "rank": 3,
-      "username": "hotrunners",
-      "multiplier": 429.4,
-      "game": "Wanted Dead or a Wild",
-      "game_identifier": null,
-      "wagered": 1,
-      "payout": 429.4,
       "prize": 5
     }
   ]
