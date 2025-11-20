@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-11-20T22:20:45.293052+00:00",
-  "last_updated_timestamp": 1763677245,
-  "total_challenges": 5,
+  "last_updated": "2025-11-20T22:29:40.151369+00:00",
+  "last_updated_timestamp": 1763677780,
+  "total_challenges": 7,
   "challenges": [
     {
       "challenge_id": 119,
@@ -68,6 +68,32 @@
       "emoji": "\ud83e\udddb",
       "min_bet": 0.1,
       "start_timestamp": 1761929748
+    },
+    {
+      "challenge_id": 171,
+      "game_identifier": "hacksaw:1871",
+      "game_name": "Steamrunners",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-11-20T22:27:43+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude82",
+      "min_bet": 0.2,
+      "start_timestamp": 1763677663
+    },
+    {
+      "challenge_id": 172,
+      "game_identifier": "hacksaw:1871",
+      "game_name": "Steamrunners",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-11-20T22:27:50+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude82",
+      "min_bet": 0.2,
+      "start_timestamp": 1763677670
     }
   ]
 }
