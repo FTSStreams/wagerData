@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2025-11-20T22:37:29.771203+00:00",
-  "last_updated_timestamp": 1763678249,
-  "total_challenges": 7,
+  "last_updated": "2025-11-20T22:47:15.653548+00:00",
+  "last_updated_timestamp": 1763678835,
+  "total_challenges": 8,
   "challenges": [
     {
       "challenge_id": 119,
@@ -70,30 +70,43 @@
       "start_timestamp": 1761929748
     },
     {
-      "challenge_id": 171,
+      "challenge_id": 173,
       "game_identifier": "hacksaw:1871",
       "game_name": "Steamrunners",
       "required_multiplier": 500.0,
       "prize": 50.0,
-      "start_time": "2025-11-20T22:27:43+00:00",
+      "start_time": "2025-11-20T22:40:46+00:00",
       "posted_by": 1058140474621300787,
       "posted_by_username": "FlipTheSwitch",
       "emoji": "\ud83d\ude82",
       "min_bet": 0.2,
-      "start_timestamp": 1763677663
+      "start_timestamp": 1763678446
     },
     {
-      "challenge_id": 172,
-      "game_identifier": "hacksaw:1871",
-      "game_name": "Steamrunners",
+      "challenge_id": 174,
+      "game_identifier": "hacksaw:1977",
+      "game_name": "Army of Ares",
       "required_multiplier": 500.0,
       "prize": 50.0,
-      "start_time": "2025-11-20T22:27:50+00:00",
+      "start_time": "2025-11-20T22:42:48+00:00",
       "posted_by": 1058140474621300787,
       "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\ude82",
+      "emoji": "\ud83d\udee1\ufe0f",
       "min_bet": 0.2,
-      "start_timestamp": 1763677670
+      "start_timestamp": 1763678568
+    },
+    {
+      "challenge_id": 175,
+      "game_identifier": "evo:nlc-seamen",
+      "game_name": "Seamen",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-11-20T22:45:13+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udea2",
+      "min_bet": 0.2,
+      "start_timestamp": 1763678713
     }
   ]
 }
