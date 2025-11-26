@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-11-26T16:47:40.319908+00:00",
-  "last_updated_timestamp": 1764175660,
+  "last_updated": "2025-11-26T16:57:40.734957+00:00",
+  "last_updated_timestamp": 1764176260,
   "summary": {
-    "total_tips_sent": 1398,
-    "total_amount_sent": 39954.829999999994,
+    "total_tips_sent": 1399,
+    "total_amount_sent": 39956.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 5169.7,
-        "tip_count": 1021
+        "total_amount": 5171.7,
+        "tip_count": 1022
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -682,6 +682,19 @@
       "total_received": 15.0
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 11.0,
+          "count": 8,
+          "first_tip": "2025-11-26T06:22:32.367250",
+          "latest_tip": "2025-11-26T16:49:07.898840"
+        }
+      },
+      "total_received": 11.0
+    },
+    {
       "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
       "username": "Rusi46",
       "tips_by_type": {
@@ -719,19 +732,6 @@
         }
       },
       "total_received": 10.0
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 9.0,
-          "count": 7,
-          "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2025-11-26T16:29:41.090632"
-        }
-      },
-      "total_received": 9.0
     },
     {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
@@ -984,8 +984,8 @@
       "period_key": "2025-11"
     },
     {
-      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
-      "username": "Rusi46",
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
       "tip_type": "milestone",
       "month": 11,
       "year": 2025,
@@ -994,13 +994,13 @@
       "period_key": "2025-11"
     },
     {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
+      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
+      "username": "Rusi46",
       "tip_type": "milestone",
       "month": 11,
       "year": 2025,
-      "amount": 9.0,
-      "count": 7,
+      "amount": 11.0,
+      "count": 8,
       "period_key": "2025-11"
     },
     {
