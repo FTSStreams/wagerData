@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-11-26T16:17:40.430849+00:00",
-  "last_updated_timestamp": 1764173860,
+  "last_updated": "2025-11-26T16:27:40.518795+00:00",
+  "last_updated_timestamp": 1764174460,
   "summary": {
-    "total_tips_sent": 1395,
-    "total_amount_sent": 39949.829999999994,
+    "total_tips_sent": 1396,
+    "total_amount_sent": 39950.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 5164.7,
-        "tip_count": 1018
+        "total_amount": 5165.7,
+        "tip_count": 1019
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -734,6 +734,19 @@
       "total_received": 7.0
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 5.0,
+          "count": 5,
+          "first_tip": "2025-11-26T06:22:32.367250",
+          "latest_tip": "2025-11-26T16:19:08.685339"
+        }
+      },
+      "total_received": 5.0
+    },
+    {
       "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
       "username": "nasereps",
       "tips_by_type": {
@@ -745,19 +758,6 @@
         }
       },
       "total_received": 5.0
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 4.0,
-          "count": 4,
-          "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2025-11-26T06:24:11.305824"
-        }
-      },
-      "total_received": 4.0
     },
     {
       "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
@@ -1029,8 +1029,8 @@
       "tip_type": "milestone",
       "month": 11,
       "year": 2025,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2025-11"
     },
     {
