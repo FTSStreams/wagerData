@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-11-26T16:27:40.518795+00:00",
-  "last_updated_timestamp": 1764174460,
+  "last_updated": "2025-11-26T16:37:40.403739+00:00",
+  "last_updated_timestamp": 1764175060,
   "summary": {
-    "total_tips_sent": 1396,
-    "total_amount_sent": 39950.829999999994,
+    "total_tips_sent": 1398,
+    "total_amount_sent": 39954.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 5165.7,
-        "tip_count": 1019
+        "total_amount": 5169.7,
+        "tip_count": 1021
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -721,6 +721,19 @@
       "total_received": 10.0
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 9.0,
+          "count": 7,
+          "first_tip": "2025-11-26T06:22:32.367250",
+          "latest_tip": "2025-11-26T16:29:41.090632"
+        }
+      },
+      "total_received": 9.0
+    },
+    {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
       "username": "MrExcitable",
       "tips_by_type": {
@@ -732,19 +745,6 @@
         }
       },
       "total_received": 7.0
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 5.0,
-          "count": 5,
-          "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2025-11-26T16:19:08.685339"
-        }
-      },
-      "total_received": 5.0
     },
     {
       "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
@@ -994,6 +994,16 @@
       "period_key": "2025-11"
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2025,
+      "amount": 9.0,
+      "count": 7,
+      "period_key": "2025-11"
+    },
+    {
       "user_id": "deff89b2-7873-4b2d-8436-e7f56a6b43b0",
       "username": "maxmalaka",
       "tip_type": "milestone",
@@ -1016,16 +1026,6 @@
     {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 5,
-      "period_key": "2025-11"
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
       "tip_type": "milestone",
       "month": 11,
       "year": 2025,
