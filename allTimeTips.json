@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-05T16:14:36.307961+00:00",
-  "last_updated_timestamp": 1764951276,
+  "last_updated": "2025-12-05T16:24:35.968729+00:00",
+  "last_updated_timestamp": 1764951875,
   "summary": {
-    "total_tips_sent": 1472,
-    "total_amount_sent": 41743.829999999994,
+    "total_tips_sent": 1473,
+    "total_amount_sent": 41745.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 5303.7,
-        "tip_count": 1085
+        "total_amount": 5305.7,
+        "tip_count": 1086
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -661,6 +661,19 @@
       "total_received": 27.69
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 24.0,
+          "count": 16,
+          "first_tip": "2025-11-26T06:22:32.367250",
+          "latest_tip": "2025-12-05T16:16:04.227430"
+        }
+      },
+      "total_received": 24.0
+    },
+    {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "angelz420",
       "tips_by_type": {
@@ -672,19 +685,6 @@
         }
       },
       "total_received": 24.0
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 22.0,
-          "count": 15,
-          "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2025-12-05T16:06:03.606821"
-        }
-      },
-      "total_received": 22.0
     },
     {
       "user_id": "deff89b2-7873-4b2d-8436-e7f56a6b43b0",
@@ -962,6 +962,16 @@
       "period_key": "2025-12"
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tip_type": "milestone",
+      "month": 12,
+      "year": 2025,
+      "amount": 7.0,
+      "count": 6,
+      "period_key": "2025-12"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -969,16 +979,6 @@
       "year": 2025,
       "amount": 5.0,
       "count": 1,
-      "period_key": "2025-12"
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tip_type": "milestone",
-      "month": 12,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 5,
       "period_key": "2025-12"
     },
     {
