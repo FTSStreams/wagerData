@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-12T14:42:13.534538+00:00",
-  "last_updated_timestamp": 1765550533,
+  "last_updated": "2025-12-12T14:52:13.644100+00:00",
+  "last_updated_timestamp": 1765551133,
   "summary": {
-    "total_tips_sent": 1516,
-    "total_amount_sent": 42082.829999999994,
+    "total_tips_sent": 1519,
+    "total_amount_sent": 42087.829999999994,
     "by_type": {
       "milestone": {
-        "total_amount": 5367.7,
-        "tip_count": 1125
+        "total_amount": 5372.7,
+        "tip_count": 1128
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -771,6 +771,19 @@
       "total_received": 10.0
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 9.0,
+          "count": 7,
+          "first_tip": "2025-12-12T14:33:41.289017",
+          "latest_tip": "2025-12-12T14:44:45.039729"
+        }
+      },
+      "total_received": 9.0
+    },
+    {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
       "username": "MrExcitable",
       "tips_by_type": {
@@ -795,19 +808,6 @@
         }
       },
       "total_received": 5.0
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 4.0,
-          "count": 4,
-          "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2025-12-12T14:35:21.746650"
-        }
-      },
-      "total_received": 4.0
     },
     {
       "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
@@ -1047,6 +1047,16 @@
       "period_key": "2025-12"
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "tip_type": "milestone",
+      "month": 12,
+      "year": 2025,
+      "amount": 9.0,
+      "count": 7,
+      "period_key": "2025-12"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -1059,16 +1069,6 @@
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
-      "tip_type": "milestone",
-      "month": 12,
-      "year": 2025,
-      "amount": 4.0,
-      "count": 4,
-      "period_key": "2025-12"
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
