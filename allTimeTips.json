@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-13T05:02:13.995415+00:00",
-  "last_updated_timestamp": 1765602133,
+  "last_updated": "2025-12-13T05:12:14.293383+00:00",
+  "last_updated_timestamp": 1765602734,
   "summary": {
-    "total_tips_sent": 1535,
-    "total_amount_sent": 42493.07,
+    "total_tips_sent": 1536,
+    "total_amount_sent": 42494.07,
     "by_type": {
       "milestone": {
-        "total_amount": 5414.7,
-        "tip_count": 1143
+        "total_amount": 5415.7,
+        "tip_count": 1144
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -810,6 +810,19 @@
       "total_received": 5.0
     },
     {
+      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
+      "username": "rebeltrankil09",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 4.0,
+          "count": 4,
+          "first_tip": "2025-12-12T05:41:28.687437",
+          "latest_tip": "2025-12-13T05:03:44.028549"
+        }
+      },
+      "total_received": 4.0
+    },
+    {
       "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
       "username": "argnt",
       "tips_by_type": {
@@ -831,19 +844,6 @@
           "count": 3,
           "first_tip": "2025-09-11T21:57:25.282972",
           "latest_tip": "2025-09-11T22:07:59.328824"
-        }
-      },
-      "total_received": 3.0
-    },
-    {
-      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-      "username": "rebeltrankil09",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 3.0,
-          "count": 3,
-          "first_tip": "2025-12-12T05:41:28.687437",
-          "latest_tip": "2025-12-13T04:33:42.617979"
         }
       },
       "total_received": 3.0
@@ -1067,8 +1067,8 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
+      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
+      "username": "rebeltrankil09",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
@@ -1077,13 +1077,13 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-      "username": "rebeltrankil09",
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
-      "amount": 3.0,
-      "count": 3,
+      "amount": 4.0,
+      "count": 4,
       "period_key": "2025-12"
     },
     {
