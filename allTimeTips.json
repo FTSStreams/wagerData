@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-15T02:41:15.877776+00:00",
-  "last_updated_timestamp": 1765766475,
+  "last_updated": "2025-12-15T02:51:14.930439+00:00",
+  "last_updated_timestamp": 1765767074,
   "summary": {
-    "total_tips_sent": 1541,
-    "total_amount_sent": 42528.07,
+    "total_tips_sent": 1542,
+    "total_amount_sent": 42531.07,
     "by_type": {
       "milestone": {
-        "total_amount": 5449.7,
-        "tip_count": 1149
+        "total_amount": 5452.7,
+        "tip_count": 1150
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -90,8 +90,8 @@
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
-      "total_received": 438.5,
-      "total_tips": 76
+      "total_received": 441.5,
+      "total_tips": 77
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -399,13 +399,13 @@
           "latest_tip": "2025-12-01T17:29:10.930802"
         },
         "milestone": {
-          "amount": 208.5,
-          "count": 74,
+          "amount": 211.5,
+          "count": 75,
           "first_tip": "2025-05-10T16:59:38.269547",
-          "latest_tip": "2025-12-15T02:02:42.353959"
+          "latest_tip": "2025-12-15T02:42:41.859091"
         }
       },
-      "total_received": 438.5
+      "total_received": 441.5
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -1017,8 +1017,8 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
-      "username": "gdigital87",
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
@@ -1027,13 +1027,13 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
+      "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
+      "username": "gdigital87",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
-      "amount": 20.0,
-      "count": 11,
+      "amount": 23.0,
+      "count": 12,
       "period_key": "2025-12"
     },
     {
@@ -1067,16 +1067,6 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-      "username": "rebeltrankil09",
-      "tip_type": "milestone",
-      "month": 12,
-      "year": 2025,
-      "amount": 4.0,
-      "count": 4,
-      "period_key": "2025-12"
-    },
-    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "milestone",
@@ -1087,18 +1077,18 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
+      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
+      "username": "rebeltrankil09",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
-      "amount": 3.0,
-      "count": 3,
+      "amount": 4.0,
+      "count": 4,
       "period_key": "2025-12"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
@@ -1117,8 +1107,8 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
@@ -1129,6 +1119,16 @@
     {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
+      "tip_type": "milestone",
+      "month": 12,
+      "year": 2025,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2025-12"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
