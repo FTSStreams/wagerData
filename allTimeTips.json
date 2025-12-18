@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-18T23:46:31.450420+00:00",
-  "last_updated_timestamp": 1766101591,
+  "last_updated": "2025-12-18T23:56:31.236611+00:00",
+  "last_updated_timestamp": 1766102191,
   "summary": {
-    "total_tips_sent": 1559,
-    "total_amount_sent": 42628.07,
+    "total_tips_sent": 1560,
+    "total_amount_sent": 42629.07,
     "by_type": {
       "milestone": {
-        "total_amount": 5528.7,
-        "tip_count": 1166
+        "total_amount": 5529.7,
+        "tip_count": 1167
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -138,8 +138,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 87.0,
-      "total_tips": 23
+      "total_received": 88.0,
+      "total_tips": 24
     }
   ],
   "detailed_data": [
@@ -559,6 +559,25 @@
       "total_received": 91.0
     },
     {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tips_by_type": {
+        "manual": {
+          "amount": 60.0,
+          "count": 3,
+          "first_tip": "2025-11-02T22:44:03.643896",
+          "latest_tip": "2025-12-01T17:29:01.305544"
+        },
+        "milestone": {
+          "amount": 28.0,
+          "count": 21,
+          "first_tip": "2025-10-22T23:57:06.297944",
+          "latest_tip": "2025-12-18T23:47:58.807777"
+        }
+      },
+      "total_received": 88.0
+    },
+    {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
       "username": "DegenMaster69",
       "tips_by_type": {
@@ -573,25 +592,6 @@
           "count": 6,
           "first_tip": "2025-10-10T15:34:47.393442",
           "latest_tip": "2025-10-10T16:24:46.736949"
-        }
-      },
-      "total_received": 87.0
-    },
-    {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tips_by_type": {
-        "manual": {
-          "amount": 60.0,
-          "count": 3,
-          "first_tip": "2025-11-02T22:44:03.643896",
-          "latest_tip": "2025-12-01T17:29:01.305544"
-        },
-        "milestone": {
-          "amount": 27.0,
-          "count": 20,
-          "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2025-12-18T22:57:59.220973"
         }
       },
       "total_received": 87.0
@@ -1082,8 +1082,8 @@
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2025-12"
     },
     {
