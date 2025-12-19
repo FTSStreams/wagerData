@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-19T00:56:31.909455+00:00",
-  "last_updated_timestamp": 1766105791,
+  "last_updated": "2025-12-19T01:06:32.377004+00:00",
+  "last_updated_timestamp": 1766106392,
   "summary": {
-    "total_tips_sent": 1560,
-    "total_amount_sent": 42629.07,
+    "total_tips_sent": 1561,
+    "total_amount_sent": 42631.07,
     "by_type": {
       "milestone": {
-        "total_amount": 5529.7,
-        "tip_count": 1167
+        "total_amount": 5531.7,
+        "tip_count": 1168
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -138,8 +138,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 88.0,
-      "total_tips": 24
+      "total_received": 90.0,
+      "total_tips": 25
     }
   ],
   "detailed_data": [
@@ -569,13 +569,13 @@
           "latest_tip": "2025-12-01T17:29:01.305544"
         },
         "milestone": {
-          "amount": 28.0,
-          "count": 21,
+          "amount": 30.0,
+          "count": 22,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2025-12-18T23:47:58.807777"
+          "latest_tip": "2025-12-19T00:57:59.665859"
         }
       },
-      "total_received": 88.0
+      "total_received": 90.0
     },
     {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
@@ -1067,6 +1067,16 @@
       "period_key": "2025-12"
     },
     {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "milestone",
+      "month": 12,
+      "year": 2025,
+      "amount": 7.0,
+      "count": 6,
+      "period_key": "2025-12"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -1074,16 +1084,6 @@
       "year": 2025,
       "amount": 5.0,
       "count": 1,
-      "period_key": "2025-12"
-    },
-    {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tip_type": "milestone",
-      "month": 12,
-      "year": 2025,
-      "amount": 5.0,
-      "count": 5,
       "period_key": "2025-12"
     },
     {
