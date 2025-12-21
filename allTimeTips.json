@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-21T16:27:18.861033+00:00",
-  "last_updated_timestamp": 1766334438,
+  "last_updated": "2025-12-21T16:37:18.702608+00:00",
+  "last_updated_timestamp": 1766335038,
   "summary": {
-    "total_tips_sent": 1573,
-    "total_amount_sent": 43966.07,
+    "total_tips_sent": 1574,
+    "total_amount_sent": 43977.07,
     "by_type": {
       "milestone": {
-        "total_amount": 5603.7,
-        "tip_count": 1174
+        "total_amount": 5614.7,
+        "tip_count": 1175
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -42,8 +42,8 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "total_received": 1941.24,
-      "total_tips": 33
+      "total_received": 1952.24,
+      "total_tips": 34
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -223,13 +223,13 @@
           "latest_tip": "2025-12-21T05:31:25.069456"
         },
         "milestone": {
-          "amount": 40.0,
-          "count": 22,
+          "amount": 51.0,
+          "count": 23,
           "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2025-12-12T16:23:42.504732"
+          "latest_tip": "2025-12-21T16:28:46.716056"
         }
       },
-      "total_received": 1941.24
+      "total_received": 1952.24
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -987,6 +987,16 @@
       "period_key": "2025-12"
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tip_type": "milestone",
+      "month": 12,
+      "year": 2025,
+      "amount": 34.0,
+      "count": 13,
+      "period_key": "2025-12"
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tip_type": "manual",
@@ -1009,16 +1019,6 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "tip_type": "milestone",
-      "month": 12,
-      "year": 2025,
-      "amount": 23.0,
-      "count": 12,
-      "period_key": "2025-12"
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
