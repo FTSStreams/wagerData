@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2025-12-23T01:10:23.761314+00:00",
-  "last_updated_timestamp": 1766452223,
+  "last_updated": "2025-12-23T01:20:23.574371+00:00",
+  "last_updated_timestamp": 1766452823,
   "summary": {
-    "total_tips_sent": 1579,
-    "total_amount_sent": 44015.07,
+    "total_tips_sent": 1580,
+    "total_amount_sent": 44029.07,
     "by_type": {
       "milestone": {
-        "total_amount": 5652.7,
-        "tip_count": 1180
+        "total_amount": 5666.7,
+        "tip_count": 1181
       },
       "slot_challenge": {
         "total_amount": 970.0,
@@ -138,8 +138,8 @@
     {
       "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
       "username": "Rusi46",
-      "total_received": 102.0,
-      "total_tips": 25
+      "total_received": 116.0,
+      "total_tips": 26
     }
   ],
   "detailed_data": [
@@ -557,10 +557,10 @@
       "username": "Rusi46",
       "tips_by_type": {
         "milestone": {
-          "amount": 51.0,
-          "count": 23,
+          "amount": 65.0,
+          "count": 24,
           "first_tip": "2025-11-17T15:09:16.495533",
-          "latest_tip": "2025-12-22T14:34:13.788625"
+          "latest_tip": "2025-12-23T01:11:52.729427"
         },
         "manual": {
           "amount": 51.0,
@@ -569,7 +569,7 @@
           "latest_tip": "2025-12-16T16:26:37.756816"
         }
       },
-      "total_received": 102.0
+      "total_received": 116.0
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -719,19 +719,6 @@
       "total_received": 16.0
     },
     {
-      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
-      "username": "HippoMike",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 15.0,
-          "count": 13,
-          "first_tip": "2025-11-09T22:21:26.283801",
-          "latest_tip": "2025-11-17T03:02:08.061438"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
       "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
       "username": "4TIFLIP",
       "tips_by_type": {
@@ -740,6 +727,19 @@
           "count": 3,
           "first_tip": "2025-06-23T16:12:36.850105",
           "latest_tip": "2025-07-22T16:07:44.059101"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
+      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
+      "username": "HippoMike",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 15.0,
+          "count": 13,
+          "first_tip": "2025-11-09T22:21:26.283801",
+          "latest_tip": "2025-11-17T03:02:08.061438"
         }
       },
       "total_received": 15.0
@@ -987,18 +987,18 @@
       "period_key": "2025-12"
     },
     {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
+      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
+      "username": "Rusi46",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
-      "amount": 34.0,
-      "count": 13,
+      "amount": 48.0,
+      "count": 14,
       "period_key": "2025-12"
     },
     {
-      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
-      "username": "Rusi46",
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
       "tip_type": "milestone",
       "month": 12,
       "year": 2025,
