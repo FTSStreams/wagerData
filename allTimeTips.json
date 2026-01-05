@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-05T19:11:30.105515+00:00",
-  "last_updated_timestamp": 1767640290,
+  "last_updated": "2026-01-05T19:22:17.163423+00:00",
+  "last_updated_timestamp": 1767640937,
   "summary": {
-    "total_tips_sent": 1706,
-    "total_amount_sent": 46554.57,
+    "total_tips_sent": 1707,
+    "total_amount_sent": 46569.57,
     "by_type": {
       "milestone": {
         "total_amount": 6273.7,
@@ -19,8 +19,8 @@
         "tip_count": 32
       },
       "manual": {
-        "total_amount": 39304.87,
-        "tip_count": 393
+        "total_amount": 39319.87,
+        "tip_count": 394
       }
     }
   },
@@ -74,16 +74,16 @@
       "total_tips": 29
     },
     {
+      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
+      "username": "Rusi46",
+      "total_received": 1045.0,
+      "total_tips": 45
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "total_received": 1041.75,
       "total_tips": 125
-    },
-    {
-      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
-      "username": "Rusi46",
-      "total_received": 1030.0,
-      "total_tips": 44
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -353,10 +353,10 @@
       "username": "Rusi46",
       "tips_by_type": {
         "manual": {
-          "amount": 591.0,
-          "count": 6,
+          "amount": 606.0,
+          "count": 7,
           "first_tip": "2025-12-01T17:28:41.186394",
-          "latest_tip": "2026-01-04T17:26:47.956825"
+          "latest_tip": "2026-01-05T19:11:50.223384"
         },
         "milestone": {
           "amount": 439.0,
@@ -365,7 +365,7 @@
           "latest_tip": "2026-01-03T09:55:13.263148"
         }
       },
-      "total_received": 1030.0
+      "total_received": 1045.0
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -949,8 +949,8 @@
       "tip_type": "manual",
       "month": 1,
       "year": 2026,
-      "amount": 515.0,
-      "count": 3,
+      "amount": 530.0,
+      "count": 4,
       "period_key": "2026-01"
     },
     {
