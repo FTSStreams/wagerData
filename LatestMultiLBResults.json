@@ -1,42 +1,42 @@
 {
   "leaderboard_type": "weekly_multiplier",
   "period": {
-    "start_date": "2026-01-05T00:00:00+00:00",
-    "end_date": "2026-01-11T23:59:59.999999+00:00",
-    "start_timestamp": 1767571200,
-    "end_timestamp": 1768175999
+    "start_date": "2026-01-02T00:00:00+00:00",
+    "end_date": "2026-01-08T23:59:59.999999+00:00",
+    "start_timestamp": 1767312000,
+    "end_timestamp": 1767916799
   },
-  "last_updated": "2026-01-05T19:11:30.094817+00:00",
-  "last_updated_timestamp": 1767640290,
+  "last_updated": "2026-01-05T19:22:17.151425+00:00",
+  "last_updated_timestamp": 1767640937,
   "entries": [
     {
       "rank": 1,
+      "username": "F1Fan1997",
+      "multiplier": 511.2000000000001,
+      "game": "Outsourced",
+      "game_identifier": null,
+      "wagered": 0.43678799999999995,
+      "payout": 223.28602560000002,
+      "prize": 20
+    },
+    {
+      "rank": 2,
       "username": "fliptheswitchop",
       "multiplier": 357.50491713085233,
       "game": "Rotten",
       "game_identifier": null,
       "wagered": 0.8724600000000464,
       "payout": 311.90874,
-      "prize": 20
+      "prize": 15
     },
     {
-      "rank": 2,
+      "rank": 3,
       "username": "slicksloth97",
       "multiplier": 243.03333333333384,
       "game": "Pickle Bandits",
       "game_identifier": null,
       "wagered": 3.925637999999992,
       "payout": 954.0608886000001,
-      "prize": 15
-    },
-    {
-      "rank": 3,
-      "username": "F1Fan1997",
-      "multiplier": 169.6,
-      "game": "Gems Bonanza",
-      "game_identifier": null,
-      "wagered": 0.72736,
-      "payout": 123.36025599999999,
       "prize": 5
     }
   ]
