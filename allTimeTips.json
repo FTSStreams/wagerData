@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-07T06:54:59.656336+00:00",
-  "last_updated_timestamp": 1767768899,
+  "last_updated": "2026-01-07T07:04:59.506231+00:00",
+  "last_updated_timestamp": 1767769499,
   "summary": {
-    "total_tips_sent": 1712,
-    "total_amount_sent": 46618.57,
+    "total_tips_sent": 1713,
+    "total_amount_sent": 46619.57,
     "by_type": {
       "milestone": {
-        "total_amount": 6322.7,
-        "tip_count": 1283
+        "total_amount": 6323.7,
+        "tip_count": 1284
       },
       "weekly_multiplier": {
         "total_amount": 6.0,
@@ -838,6 +838,19 @@
       "total_received": 10.0
     },
     {
+      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
+      "username": "1who1",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 7.0,
+          "count": 7,
+          "first_tip": "2025-11-19T17:37:02.950879",
+          "latest_tip": "2026-01-07T06:56:28.547644"
+        }
+      },
+      "total_received": 7.0
+    },
+    {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
       "username": "MrExcitable",
       "tips_by_type": {
@@ -849,19 +862,6 @@
         }
       },
       "total_received": 7.0
-    },
-    {
-      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
-      "username": "1who1",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 6.0,
-          "count": 6,
-          "first_tip": "2025-11-19T17:37:02.950879",
-          "latest_tip": "2026-01-04T05:31:22.020261"
-        }
-      },
-      "total_received": 6.0
     },
     {
       "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
@@ -1084,18 +1084,18 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
+      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
+      "username": "1who1",
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2026-01"
     },
     {
-      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
-      "username": "1who1",
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
