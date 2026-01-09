@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-09T20:31:19.126370+00:00",
-  "last_updated_timestamp": 1767990679,
+  "last_updated": "2026-01-09T20:41:19.073154+00:00",
+  "last_updated_timestamp": 1767991279,
   "summary": {
-    "total_tips_sent": 1733,
-    "total_amount_sent": 47000.57,
+    "total_tips_sent": 1734,
+    "total_amount_sent": 47002.57,
     "by_type": {
       "milestone": {
-        "total_amount": 6699.7,
-        "tip_count": 1303
+        "total_amount": 6701.7,
+        "tip_count": 1304
       },
       "weekly_multiplier": {
         "total_amount": 6.0,
@@ -877,6 +877,19 @@
       "total_received": 7.0
     },
     {
+      "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
+      "username": "nebdubz",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 7.0,
+          "count": 6,
+          "first_tip": "2026-01-08T17:43:19.096265",
+          "latest_tip": "2026-01-09T20:32:47.931156"
+        }
+      },
+      "total_received": 7.0
+    },
+    {
       "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
       "username": "rebeltrankil09",
       "tips_by_type": {
@@ -885,19 +898,6 @@
           "count": 5,
           "first_tip": "2025-12-12T05:41:28.687437",
           "latest_tip": "2025-12-24T03:27:31.086846"
-        }
-      },
-      "total_received": 5.0
-    },
-    {
-      "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
-      "username": "nebdubz",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 5.0,
-          "count": 5,
-          "first_tip": "2026-01-08T17:43:19.096265",
-          "latest_tip": "2026-01-08T19:52:41.140939"
         }
       },
       "total_received": 5.0
@@ -1112,8 +1112,8 @@
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
-      "amount": 5.0,
-      "count": 5,
+      "amount": 7.0,
+      "count": 6,
       "period_key": "2026-01"
     },
     {
