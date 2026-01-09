@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-09T20:41:19.073154+00:00",
-  "last_updated_timestamp": 1767991279,
+  "last_updated": "2026-01-09T20:51:18.971486+00:00",
+  "last_updated_timestamp": 1767991878,
   "summary": {
-    "total_tips_sent": 1734,
-    "total_amount_sent": 47002.57,
+    "total_tips_sent": 1735,
+    "total_amount_sent": 47005.57,
     "by_type": {
       "milestone": {
-        "total_amount": 6701.7,
-        "tip_count": 1304
+        "total_amount": 6704.7,
+        "tip_count": 1305
       },
       "weekly_multiplier": {
         "total_amount": 6.0,
@@ -106,8 +106,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 504.0,
-      "total_tips": 28
+      "total_received": 507.0,
+      "total_tips": 29
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -447,13 +447,13 @@
           "latest_tip": "2026-01-02T13:17:30.268878"
         },
         "milestone": {
-          "amount": 154.0,
-          "count": 26,
+          "amount": 157.0,
+          "count": 27,
           "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2026-01-02T23:27:58.938092"
+          "latest_tip": "2026-01-09T20:42:47.135502"
         }
       },
-      "total_received": 504.0
+      "total_received": 507.0
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -1067,8 +1067,8 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
@@ -1077,13 +1077,13 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
-      "amount": 11.0,
-      "count": 8,
+      "amount": 14.0,
+      "count": 9,
       "period_key": "2026-01"
     },
     {
