@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-14T02:52:50.233936+00:00",
-  "last_updated_timestamp": 1768359170,
+  "last_updated": "2026-01-14T03:02:51.589349+00:00",
+  "last_updated_timestamp": 1768359771,
   "summary": {
-    "total_tips_sent": 1751,
-    "total_amount_sent": 47225.57,
+    "total_tips_sent": 1752,
+    "total_amount_sent": 47236.57,
     "by_type": {
       "milestone": {
-        "total_amount": 6918.7,
-        "tip_count": 1318
+        "total_amount": 6929.7,
+        "tip_count": 1319
       },
       "weekly_multiplier": {
         "total_amount": 12.0,
@@ -106,8 +106,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 516.0,
-      "total_tips": 32
+      "total_received": 527.0,
+      "total_tips": 33
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -459,13 +459,13 @@
           "latest_tip": "2026-01-02T13:17:30.268878"
         },
         "milestone": {
-          "amount": 166.0,
-          "count": 30,
+          "amount": 177.0,
+          "count": 31,
           "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2026-01-13T23:36:19.457987"
+          "latest_tip": "2026-01-14T02:54:18.643183"
         }
       },
-      "total_received": 516.0
+      "total_received": 527.0
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -1049,8 +1049,8 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
-      "username": "nebdubz",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
@@ -1059,13 +1059,13 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
+      "username": "nebdubz",
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
-      "amount": 23.0,
-      "count": 12,
+      "amount": 34.0,
+      "count": 13,
       "period_key": "2026-01"
     },
     {
