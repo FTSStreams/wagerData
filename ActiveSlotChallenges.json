@@ -1,7 +1,112 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-01-16T15:12:12.575195+00:00",
-  "last_updated_timestamp": 1768576332,
-  "total_challenges": 0,
-  "challenges": []
+  "last_updated": "2026-01-16T15:22:11.309095+00:00",
+  "last_updated_timestamp": 1768576931,
+  "total_challenges": 8,
+  "challenges": [
+    {
+      "challenge_id": 119,
+      "game_identifier": "hacksaw:1396",
+      "game_name": "Xmas Drop",
+      "required_multiplier": 800.0,
+      "prize": 40.0,
+      "start_time": "2025-10-07T18:29:37+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf85",
+      "min_bet": 0.1,
+      "start_timestamp": 1759861777
+    },
+    {
+      "challenge_id": 121,
+      "game_identifier": "hacksaw:1914",
+      "game_name": "Sun Princess",
+      "required_multiplier": 600.0,
+      "prize": 33.0,
+      "start_time": "2025-10-08T20:53:19+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf1e",
+      "min_bet": 0.1,
+      "start_timestamp": 1759956799
+    },
+    {
+      "challenge_id": 122,
+      "game_identifier": "hacksaw:1867",
+      "game_name": "Chaos Crew 3",
+      "required_multiplier": 500.0,
+      "prize": 25.0,
+      "start_time": "2025-10-08T20:55:03+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude3c",
+      "min_bet": 0.1,
+      "start_timestamp": 1759956903
+    },
+    {
+      "challenge_id": 133,
+      "game_identifier": "playngo:reactoonz100",
+      "game_name": "Reactoonz 100",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-10-26T20:49:38+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc7a",
+      "min_bet": 0.4,
+      "start_timestamp": 1761511778
+    },
+    {
+      "challenge_id": 167,
+      "game_identifier": "hacksaw:1803",
+      "game_name": "The Count",
+      "required_multiplier": 600.0,
+      "prize": 30.0,
+      "start_time": "2025-10-31T16:55:48+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udddb",
+      "min_bet": 0.1,
+      "start_timestamp": 1761929748
+    },
+    {
+      "challenge_id": 173,
+      "game_identifier": "hacksaw:1871",
+      "game_name": "Steamrunners",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-11-20T22:40:46+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude82",
+      "min_bet": 0.2,
+      "start_timestamp": 1763678446
+    },
+    {
+      "challenge_id": 174,
+      "game_identifier": "hacksaw:1977",
+      "game_name": "Army of Ares",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-11-20T22:42:48+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "min_bet": 0.2,
+      "start_timestamp": 1763678568
+    },
+    {
+      "challenge_id": 175,
+      "game_identifier": "evo:nlc-seamen",
+      "game_name": "Seamen",
+      "required_multiplier": 500.0,
+      "prize": 50.0,
+      "start_time": "2025-11-20T22:45:13+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udea2",
+      "min_bet": 0.2,
+      "start_timestamp": 1763678713
+    }
+  ]
 }
