@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-18T04:50:52.100541+00:00",
-  "last_updated_timestamp": 1768711852,
+  "last_updated": "2026-01-18T05:00:52.097765+00:00",
+  "last_updated_timestamp": 1768712452,
   "summary": {
-    "total_tips_sent": 1779,
-    "total_amount_sent": 50895.57,
+    "total_tips_sent": 1780,
+    "total_amount_sent": 50896.57,
     "by_type": {
       "milestone": {
-        "total_amount": 6980.7,
-        "tip_count": 1328
+        "total_amount": 6981.7,
+        "tip_count": 1329
       },
       "weekly_multiplier": {
         "total_amount": 47.0,
@@ -142,8 +142,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 165.0,
-      "total_tips": 33
+      "total_received": 166.0,
+      "total_tips": 34
     }
   ],
   "detailed_data": [
@@ -585,13 +585,13 @@
           "latest_tip": "2026-01-18T04:37:00.741987"
         },
         "milestone": {
-          "amount": 36.0,
-          "count": 27,
+          "amount": 37.0,
+          "count": 28,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-01-18T02:52:19.565113"
+          "latest_tip": "2026-01-18T04:52:19.049351"
         }
       },
-      "total_received": 165.0
+      "total_received": 166.0
     },
     {
       "user_id": "734805f3-3084-4811-be99-89a95167d52d",
@@ -1232,8 +1232,8 @@
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2026-01"
     },
     {
@@ -1257,9 +1257,9 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "tip_type": "weekly_multiplier",
+      "user_id": "656fe910-1f0d-4bc3-b93f-66e28794facd",
+      "username": "mirrosi",
+      "tip_type": "manual",
       "month": 1,
       "year": 2026,
       "amount": 3.0,
@@ -1267,9 +1267,9 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "656fe910-1f0d-4bc3-b93f-66e28794facd",
-      "username": "mirrosi",
-      "tip_type": "manual",
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "tip_type": "weekly_multiplier",
       "month": 1,
       "year": 2026,
       "amount": 3.0,
