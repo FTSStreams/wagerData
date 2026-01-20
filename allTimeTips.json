@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-20T19:02:13.239040+00:00",
-  "last_updated_timestamp": 1768935733,
+  "last_updated": "2026-01-20T19:12:15.532445+00:00",
+  "last_updated_timestamp": 1768936335,
   "summary": {
-    "total_tips_sent": 1797,
-    "total_amount_sent": 51685.57000000001,
+    "total_tips_sent": 1798,
+    "total_amount_sent": 51686.57000000001,
     "by_type": {
       "milestone": {
         "total_amount": 7326.7,
@@ -19,8 +19,8 @@
         "tip_count": 32
       },
       "manual": {
-        "total_amount": 43341.87,
-        "tip_count": 419
+        "total_amount": 43342.87,
+        "tip_count": 420
       }
     }
   },
@@ -701,6 +701,25 @@
       "total_received": 61.55
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 21.55,
+          "count": 14,
+          "first_tip": "2025-05-06T15:17:33.233674",
+          "latest_tip": "2026-01-15T14:38:47.033702"
+        },
+        "manual": {
+          "amount": 11.5,
+          "count": 3,
+          "first_tip": "2025-05-02T20:28:05.770539",
+          "latest_tip": "2025-05-10T15:15:44.034752"
+        }
+      },
+      "total_received": 54.55
+    },
+    {
       "user_id": "f6a288d0-ec25-4168-86e6-053a5c139efe",
       "username": "wafflesop22",
       "tips_by_type": {
@@ -731,25 +750,6 @@
         }
       },
       "total_received": 54.0
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 21.55,
-          "count": 14,
-          "first_tip": "2025-05-06T15:17:33.233674",
-          "latest_tip": "2026-01-15T14:38:47.033702"
-        },
-        "manual": {
-          "amount": 11.5,
-          "count": 3,
-          "first_tip": "2025-05-02T20:28:05.770539",
-          "latest_tip": "2025-05-10T15:15:44.034752"
-        }
-      },
-      "total_received": 53.55
     },
     {
       "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
@@ -1177,6 +1177,16 @@
       "period_key": "2026-01"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "manual",
+      "month": 1,
+      "year": 2026,
+      "amount": 11.0,
+      "count": 4,
+      "period_key": "2026-01"
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "tip_type": "weekly_multiplier",
@@ -1193,16 +1203,6 @@
       "month": 1,
       "year": 2026,
       "amount": 10.5,
-      "count": 3,
-      "period_key": "2026-01"
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "manual",
-      "month": 1,
-      "year": 2026,
-      "amount": 10.0,
       "count": 3,
       "period_key": "2026-01"
     },
@@ -1257,16 +1257,6 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "tip_type": "weekly_multiplier",
-      "month": 1,
-      "year": 2026,
-      "amount": 3.0,
-      "count": 1,
-      "period_key": "2026-01"
-    },
-    {
       "user_id": "656fe910-1f0d-4bc3-b93f-66e28794facd",
       "username": "mirrosi",
       "tip_type": "manual",
@@ -1279,6 +1269,16 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
+      "tip_type": "weekly_multiplier",
+      "month": 1,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 1,
+      "period_key": "2026-01"
+    },
+    {
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
       "tip_type": "weekly_multiplier",
       "month": 1,
       "year": 2026,
