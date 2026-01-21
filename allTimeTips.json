@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-21T02:13:42.221124+00:00",
-  "last_updated_timestamp": 1768961622,
+  "last_updated": "2026-01-21T02:23:42.619750+00:00",
+  "last_updated_timestamp": 1768962222,
   "summary": {
-    "total_tips_sent": 1802,
-    "total_amount_sent": 51850.57000000001,
+    "total_tips_sent": 1803,
+    "total_amount_sent": 51852.57000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 7330.7,
-        "tip_count": 1340
+        "total_amount": 7332.7,
+        "tip_count": 1341
       },
       "weekly_multiplier": {
         "total_amount": 47.0,
@@ -118,8 +118,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 480.0,
-      "total_tips": 40
+      "total_received": 482.0,
+      "total_tips": 41
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -503,13 +503,13 @@
           "latest_tip": "2026-01-21T01:47:03.589630"
         },
         "milestone": {
-          "amount": 41.0,
-          "count": 30,
+          "amount": 43.0,
+          "count": 31,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-01-21T01:55:10.773364"
+          "latest_tip": "2026-01-21T02:15:10.032435"
         }
       },
-      "total_received": 480.0
+      "total_received": 482.0
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -1177,6 +1177,16 @@
       "period_key": "2026-01"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "manual",
+      "month": 1,
+      "year": 2026,
+      "amount": 11.0,
+      "count": 4,
+      "period_key": "2026-01"
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "tip_type": "weekly_multiplier",
@@ -1187,13 +1197,13 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "manual",
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "milestone",
       "month": 1,
       "year": 2026,
       "amount": 11.0,
-      "count": 4,
+      "count": 8,
       "period_key": "2026-01"
     },
     {
@@ -1214,16 +1224,6 @@
       "year": 2026,
       "amount": 9.0,
       "count": 3,
-      "period_key": "2026-01"
-    },
-    {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tip_type": "milestone",
-      "month": 1,
-      "year": 2026,
-      "amount": 9.0,
-      "count": 7,
       "period_key": "2026-01"
     },
     {
