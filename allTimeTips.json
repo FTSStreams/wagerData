@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-21T11:43:42.610469+00:00",
-  "last_updated_timestamp": 1768995822,
+  "last_updated": "2026-01-21T11:53:42.580171+00:00",
+  "last_updated_timestamp": 1768996422,
   "summary": {
-    "total_tips_sent": 1804,
-    "total_amount_sent": 51879.57000000001,
+    "total_tips_sent": 1805,
+    "total_amount_sent": 51881.57000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 7359.7,
-        "tip_count": 1342
+        "total_amount": 7361.7,
+        "tip_count": 1343
       },
       "weekly_multiplier": {
         "total_amount": 47.0,
@@ -836,6 +836,19 @@
       "total_received": 15.0
     },
     {
+      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
+      "username": "1who1",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 11.0,
+          "count": 9,
+          "first_tip": "2025-11-19T17:37:02.950879",
+          "latest_tip": "2026-01-21T11:45:10.049778"
+        }
+      },
+      "total_received": 11.0
+    },
+    {
       "user_id": "0290f8b1-6082-4947-8194-e9200d36ccea",
       "username": "meow4henny",
       "tips_by_type": {
@@ -886,19 +899,6 @@
         }
       },
       "total_received": 10.0
-    },
-    {
-      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
-      "username": "1who1",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 9.0,
-          "count": 8,
-          "first_tip": "2025-11-19T17:37:02.950879",
-          "latest_tip": "2026-01-12T02:09:58.212661"
-        }
-      },
-      "total_received": 9.0
     },
     {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
@@ -1232,8 +1232,8 @@
       "tip_type": "milestone",
       "month": 1,
       "year": 2026,
-      "amount": 7.0,
-      "count": 6,
+      "amount": 9.0,
+      "count": 7,
       "period_key": "2026-01"
     },
     {
