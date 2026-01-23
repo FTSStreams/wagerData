@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-01-23T04:53:03.620105+00:00",
-  "last_updated_timestamp": 1769143983,
+  "last_updated": "2026-01-23T05:03:03.983936+00:00",
+  "last_updated_timestamp": 1769144583,
   "summary": {
-    "total_tips_sent": 1811,
-    "total_amount_sent": 52040.57000000001,
+    "total_tips_sent": 1812,
+    "total_amount_sent": 52041.57000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 7362.7,
-        "tip_count": 1344
+        "total_amount": 7363.7,
+        "tip_count": 1345
       },
       "weekly_multiplier": {
         "total_amount": 47.0,
@@ -136,8 +136,8 @@
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
-      "total_received": 208.95,
-      "total_tips": 91
+      "total_received": 209.95,
+      "total_tips": 92
     },
     {
       "user_id": "bce53a59-c87c-4a48-b867-3df7b951aca4",
@@ -560,10 +560,10 @@
       "username": "jonnyb12345",
       "tips_by_type": {
         "milestone": {
-          "amount": 133.95,
-          "count": 87,
+          "amount": 134.95,
+          "count": 88,
           "first_tip": "2025-05-05T20:21:45.935208",
-          "latest_tip": "2026-01-23T04:34:32.146058"
+          "latest_tip": "2026-01-23T04:54:30.925746"
         },
         "manual": {
           "amount": 75.0,
@@ -572,7 +572,7 @@
           "latest_tip": "2025-12-28T03:32:20.260804"
         }
       },
-      "total_received": 208.95
+      "total_received": 209.95
     },
     {
       "user_id": "bce53a59-c87c-4a48-b867-3df7b951aca4",
@@ -1340,19 +1340,19 @@
       "period_key": "2026-01"
     },
     {
-      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
-      "tip_type": "weekly_multiplier",
-      "month": 1,
-      "year": 2026,
-      "amount": 1.0,
-      "count": 1,
-      "period_key": "2026-01"
-    },
-    {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
       "tip_type": "milestone",
+      "month": 1,
+      "year": 2026,
+      "amount": 2.0,
+      "count": 2,
+      "period_key": "2026-01"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "tip_type": "weekly_multiplier",
       "month": 1,
       "year": 2026,
       "amount": 1.0,
