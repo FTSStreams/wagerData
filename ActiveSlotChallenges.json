@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-01-27T02:22:58.006185+00:00",
-  "last_updated_timestamp": 1769480578,
-  "total_challenges": 4,
+  "last_updated": "2026-01-27T02:32:57.694979+00:00",
+  "last_updated_timestamp": 1769481177,
+  "total_challenges": 7,
   "challenges": [
     {
       "challenge_id": 133,
@@ -55,6 +55,45 @@
       "emoji": "\ud83d\udea2",
       "min_bet": 0.2,
       "start_timestamp": 1763678713
+    },
+    {
+      "challenge_id": 199,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 600.0,
+      "prize": 60.0,
+      "start_time": "2026-01-27T02:26:46+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.2,
+      "start_timestamp": 1769480806
+    },
+    {
+      "challenge_id": 200,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 600.0,
+      "prize": 60.0,
+      "start_time": "2026-01-27T02:27:11+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc7a",
+      "min_bet": 0.2,
+      "start_timestamp": 1769480831
+    },
+    {
+      "challenge_id": 201,
+      "game_identifier": "hacksaw:1164",
+      "game_name": "Hand of Anubis",
+      "required_multiplier": 600.0,
+      "prize": 60.0,
+      "start_time": "2026-01-27T02:28:15+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude40",
+      "min_bet": 0.2,
+      "start_timestamp": 1769480895
     }
   ]
 }
