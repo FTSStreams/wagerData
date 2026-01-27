@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-01-27T11:53:00.131839+00:00",
-  "last_updated_timestamp": 1769514780,
-  "total_completed_challenges": 58,
-  "total_prizes_paid": 970.0,
+  "last_updated": "2026-01-27T12:02:59.600646+00:00",
+  "last_updated_timestamp": 1769515379,
+  "total_completed_challenges": 59,
+  "total_prizes_paid": 1030.0,
   "challenges": [
+    {
+      "challenge_id": 201,
+      "game_name": "Hand of Anubis",
+      "game_identifier": "hacksaw:1164",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 1374.5999999999806,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.20000000000000284,
+        "payout": 274.92,
+        "multiplier_achieved": 1374.5999999999806
+      },
+      "prize_amount": 60.0,
+      "challenge_start": "2026-01-27T11:55:50+00:00",
+      "challenge_start_timestamp": 1769514950,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1164"
+    },
     {
       "challenge_id": 172,
       "game_name": "Steamrunners",
