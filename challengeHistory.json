@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-01-27T22:52:16.881804+00:00",
-  "last_updated_timestamp": 1769554336,
-  "total_completed_challenges": 59,
-  "total_prizes_paid": 1030.0,
+  "last_updated": "2026-01-27T23:02:16.507680+00:00",
+  "last_updated_timestamp": 1769554936,
+  "total_completed_challenges": 60,
+  "total_prizes_paid": 1090.0,
   "challenges": [
+    {
+      "challenge_id": 199,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 750.0000000000026,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.1999999999999993,
+        "payout": 150.0,
+        "multiplier_achieved": 750.0000000000026
+      },
+      "prize_amount": 60.0,
+      "challenge_start": "2026-01-27T22:54:45+00:00",
+      "challenge_start_timestamp": 1769554485,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 201,
       "game_name": "Hand of Anubis",
