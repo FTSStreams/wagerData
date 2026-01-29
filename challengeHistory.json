@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-01-29T03:16:09.348903+00:00",
-  "last_updated_timestamp": 1769656569,
-  "total_completed_challenges": 60,
-  "total_prizes_paid": 1090.0,
+  "last_updated": "2026-01-29T03:26:08.563252+00:00",
+  "last_updated_timestamp": 1769657168,
+  "total_completed_challenges": 61,
+  "total_prizes_paid": 1150.0,
   "challenges": [
+    {
+      "challenge_id": 200,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 1862.8999999999735,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.20000000000000284,
+        "payout": 372.58,
+        "multiplier_achieved": 1862.8999999999735
+      },
+      "prize_amount": 60.0,
+      "challenge_start": "2026-01-29T03:18:39+00:00",
+      "challenge_start_timestamp": 1769656719,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
     {
       "challenge_id": 199,
       "game_name": "Wanted Dead or a Wild",
