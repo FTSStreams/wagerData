@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-01-30T18:19:56.246805+00:00",
-  "last_updated_timestamp": 1769797196,
-  "total_completed_challenges": 61,
-  "total_prizes_paid": 1150.0,
+  "last_updated": "2026-01-30T18:29:55.990962+00:00",
+  "last_updated_timestamp": 1769797795,
+  "total_completed_challenges": 62,
+  "total_prizes_paid": 1220.0,
   "challenges": [
+    {
+      "challenge_id": 203,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 753.3000000000428,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.19999999999998863,
+        "payout": 150.66,
+        "multiplier_achieved": 753.3000000000428
+      },
+      "prize_amount": 70.0,
+      "challenge_start": "2026-01-30T18:22:34+00:00",
+      "challenge_start_timestamp": 1769797354,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 200,
       "game_name": "Gigantoonz",
