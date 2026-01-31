@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-01-31T03:59:52.304842+00:00",
-  "last_updated_timestamp": 1769831992,
-  "total_challenges": 9,
+  "last_updated": "2026-01-31T04:09:53.244012+00:00",
+  "last_updated_timestamp": 1769832593,
+  "total_challenges": 10,
   "challenges": [
     {
       "challenge_id": 133,
@@ -120,6 +120,19 @@
       "emoji": "\ud83d\udc80",
       "min_bet": 0.2,
       "start_timestamp": 1769739617
+    },
+    {
+      "challenge_id": 208,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 1000.0,
+      "prize": 100.0,
+      "start_time": "2026-01-31T04:05:35+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.2,
+      "start_timestamp": 1769832335
     }
   ]
 }
