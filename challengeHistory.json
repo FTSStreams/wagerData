@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-02-01T01:15:30.337476+00:00",
-  "last_updated_timestamp": 1769908530,
-  "total_completed_challenges": 62,
-  "total_prizes_paid": 1220.0,
+  "last_updated": "2026-02-01T01:25:27.341579+00:00",
+  "last_updated_timestamp": 1769909127,
+  "total_completed_challenges": 63,
+  "total_prizes_paid": 1290.0,
   "challenges": [
+    {
+      "challenge_id": 206,
+      "game_name": "Toshi Ways Club",
+      "game_identifier": "hacksaw:1971",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 3352.200000000191,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.19999999999998863,
+        "payout": 670.44,
+        "multiplier_achieved": 3352.200000000191
+      },
+      "prize_amount": 70.0,
+      "challenge_start": "2026-02-01T01:18:25+00:00",
+      "challenge_start_timestamp": 1769908705,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1971"
+    },
     {
       "challenge_id": 203,
       "game_name": "Wanted Dead or a Wild",
