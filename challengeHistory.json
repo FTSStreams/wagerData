@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-02-01T01:25:27.341579+00:00",
-  "last_updated_timestamp": 1769909127,
-  "total_completed_challenges": 63,
-  "total_prizes_paid": 1290.0,
+  "last_updated": "2026-02-01T01:35:29.485586+00:00",
+  "last_updated_timestamp": 1769909729,
+  "total_completed_challenges": 64,
+  "total_prizes_paid": 1360.0,
   "challenges": [
+    {
+      "challenge_id": 204,
+      "game_name": "Pray for Six",
+      "game_identifier": "hacksaw:2115",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 847.0999999998073,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.20000000000004547,
+        "payout": 169.42,
+        "multiplier_achieved": 847.0999999998073
+      },
+      "prize_amount": 70.0,
+      "challenge_start": "2026-02-01T01:28:03+00:00",
+      "challenge_start_timestamp": 1769909283,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2115"
+    },
     {
       "challenge_id": 206,
       "game_name": "Toshi Ways Club",
