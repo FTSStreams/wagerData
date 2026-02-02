@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-02-02T02:26:47.678587+00:00",
-  "last_updated_timestamp": 1769999207,
+  "last_updated": "2026-02-02T02:36:48.086667+00:00",
+  "last_updated_timestamp": 1769999808,
   "summary": {
-    "total_tips_sent": 1940,
-    "total_amount_sent": 56483.57000000001,
+    "total_tips_sent": 1943,
+    "total_amount_sent": 56534.57000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 7666.7,
-        "tip_count": 1420
+        "total_amount": 7667.7,
+        "tip_count": 1421
       },
       "weekly_multiplier": {
         "total_amount": 107.0,
@@ -19,8 +19,8 @@
         "tip_count": 38
       },
       "manual": {
-        "total_amount": 47349.87,
-        "tip_count": 468
+        "total_amount": 47399.87,
+        "tip_count": 470
       }
     }
   },
@@ -40,8 +40,8 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "total_received": 6244.0,
-      "total_tips": 67
+      "total_received": 6295.0,
+      "total_tips": 70
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -196,16 +196,16 @@
       "username": "fliptheswitchop",
       "tips_by_type": {
         "manual": {
-          "amount": 6161.0,
-          "count": 46,
+          "amount": 6211.0,
+          "count": 48,
           "first_tip": "2026-01-15T05:38:45.927860",
-          "latest_tip": "2026-02-02T02:25:47.829588"
+          "latest_tip": "2026-02-02T02:36:20.056239"
         },
         "milestone": {
-          "amount": 65.0,
-          "count": 18,
+          "amount": 66.0,
+          "count": 19,
           "first_tip": "2026-01-05T16:31:36.184125",
-          "latest_tip": "2026-02-02T01:58:47.265888"
+          "latest_tip": "2026-02-02T02:28:14.828859"
         },
         "weekly_multiplier": {
           "amount": 18.0,
@@ -214,7 +214,7 @@
           "latest_tip": "2026-01-30T22:20:35.819399"
         }
       },
-      "total_received": 6244.0
+      "total_received": 6295.0
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -1092,8 +1092,8 @@
       "tip_type": "manual",
       "month": 2,
       "year": 2026,
-      "amount": 165.0,
-      "count": 6,
+      "amount": 215.0,
+      "count": 8,
       "period_key": "2026-02"
     },
     {
@@ -1232,8 +1232,8 @@
       "tip_type": "milestone",
       "month": 2,
       "year": 2026,
-      "amount": 3.0,
-      "count": 3,
+      "amount": 4.0,
+      "count": 4,
       "period_key": "2026-02"
     },
     {
