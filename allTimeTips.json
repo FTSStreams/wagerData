@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-02-02T01:56:47.928014+00:00",
-  "last_updated_timestamp": 1769997407,
+  "last_updated": "2026-02-02T02:06:48.535811+00:00",
+  "last_updated_timestamp": 1769998008,
   "summary": {
-    "total_tips_sent": 1935,
-    "total_amount_sent": 56411.57000000001,
+    "total_tips_sent": 1937,
+    "total_amount_sent": 56413.57000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 7664.7,
-        "tip_count": 1418
+        "total_amount": 7666.7,
+        "tip_count": 1420
       },
       "weekly_multiplier": {
         "total_amount": 107.0,
@@ -40,8 +40,8 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "total_received": 6172.0,
-      "total_tips": 62
+      "total_received": 6174.0,
+      "total_tips": 64
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -202,10 +202,10 @@
           "latest_tip": "2026-02-01T06:40:32.490304"
         },
         "milestone": {
-          "amount": 63.0,
-          "count": 16,
+          "amount": 65.0,
+          "count": 18,
           "first_tip": "2026-01-05T16:31:36.184125",
-          "latest_tip": "2026-02-01T06:56:54.095861"
+          "latest_tip": "2026-02-02T01:58:47.265888"
         },
         "weekly_multiplier": {
           "amount": 18.0,
@@ -214,7 +214,7 @@
           "latest_tip": "2026-01-30T22:20:35.819399"
         }
       },
-      "total_received": 6172.0
+      "total_received": 6174.0
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -1232,8 +1232,8 @@
       "tip_type": "milestone",
       "month": 2,
       "year": 2026,
-      "amount": 1.0,
-      "count": 1,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-02"
     },
     {
