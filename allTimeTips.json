@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-13T15:48:53.851789+00:00",
-  "last_updated_timestamp": 1773416933,
+  "last_updated": "2026-03-13T15:58:53.078709+00:00",
+  "last_updated_timestamp": 1773417533,
   "summary": {
-    "total_tips_sent": 2496,
-    "total_amount_sent": 74348.57,
+    "total_tips_sent": 2497,
+    "total_amount_sent": 74349.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10040.7,
-        "tip_count": 1720
+        "total_amount": 10041.7,
+        "tip_count": 1721
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -753,10 +753,10 @@
       "username": "liq543",
       "tips_by_type": {
         "milestone": {
-          "amount": 64.7,
-          "count": 49,
+          "amount": 65.7,
+          "count": 50,
           "first_tip": "2025-06-05T04:25:18.923348",
-          "latest_tip": "2026-03-04T04:04:25.715410"
+          "latest_tip": "2026-03-13T15:50:21.016348"
         },
         "manual": {
           "amount": 20.0,
@@ -765,7 +765,7 @@
           "latest_tip": "2025-07-03T00:00:00"
         }
       },
-      "total_received": 84.7
+      "total_received": 85.7
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -1512,6 +1512,16 @@
       "period_key": "2026-03"
     },
     {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "tip_type": "milestone",
+      "month": 3,
+      "year": 2026,
+      "amount": 2.0,
+      "count": 2,
+      "period_key": "2026-03"
+    },
+    {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
       "username": "ohmyramm",
       "tip_type": "milestone",
@@ -1524,16 +1534,6 @@
     {
       "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
       "username": "nebdubz",
-      "tip_type": "milestone",
-      "month": 3,
-      "year": 2026,
-      "amount": 1.0,
-      "count": 1,
-      "period_key": "2026-03"
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
