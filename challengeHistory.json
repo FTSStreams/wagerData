@@ -1,10 +1,124 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-02-04T18:32:48.491753+00:00",
-  "last_updated_timestamp": 1770229968,
-  "total_completed_challenges": 64,
-  "total_prizes_paid": 1360.0,
+  "last_updated": "2026-03-13T00:08:50.753533+00:00",
+  "last_updated_timestamp": 1773360530,
+  "total_completed_challenges": 76,
+  "total_prizes_paid": 1985.0,
   "challenges": [
+    {
+      "challenge_id": 242,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 1000.0,
+      "achieved_multiplier": 1514.1,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.2,
+        "payout": 302.82,
+        "multiplier_achieved": 1514.1
+      },
+      "prize_amount": 125.0,
+      "challenge_start": "2026-03-12T19:03:16+00:00",
+      "challenge_start_timestamp": 1773342196,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
+    {
+      "challenge_id": 235,
+      "game_name": "Stack Em",
+      "game_identifier": "hacksaw:1084",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 885.4,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 177.08,
+        "multiplier_achieved": 885.4
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-03-11T22:57:23+00:00",
+      "challenge_start_timestamp": 1773269843,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1084"
+    },
+    {
+      "challenge_id": 232,
+      "game_name": "Hand of Anubis",
+      "game_identifier": "hacksaw:1164",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 833.9,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 166.78,
+        "multiplier_achieved": 833.9
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-03-11T14:22:13+00:00",
+      "challenge_start_timestamp": 1773238933,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1164"
+    },
+    {
+      "challenge_id": 240,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 1843.3,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 368.66,
+        "multiplier_achieved": 1843.3
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-03-10T23:07:27+00:00",
+      "challenge_start_timestamp": 1773184047,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
+    {
+      "challenge_id": 208,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 1000.0,
+      "achieved_multiplier": 1084.6,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "fliptheswitchop",
+        "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+        "bet_amount": 0.29471200000000003,
+        "payout": 319.6446352,
+        "multiplier_achieved": 1084.6
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-03-06T22:50:32+00:00",
+      "challenge_start_timestamp": 1772837432,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
+    {
+      "challenge_id": 207,
+      "game_name": "Life and Death",
+      "game_identifier": "hacksaw:1460",
+      "required_multiplier": 600.0,
+      "achieved_multiplier": 656.5000000000041,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "tremor11",
+        "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+        "bet_amount": 0.8813399999999945,
+        "payout": 578.59971,
+        "multiplier_achieved": 656.5000000000041
+      },
+      "prize_amount": 70.0,
+      "challenge_start": "2026-02-14T02:01:32+00:00",
+      "challenge_start_timestamp": 1771034492,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1460"
+    },
     {
       "challenge_id": 204,
       "game_name": "Pray for Six",
@@ -63,6 +177,25 @@
       "game_url": "https://roobet.com/casino/game/hacksaw:1067"
     },
     {
+      "challenge_id": 205,
+      "game_name": "Dorks of the Deep",
+      "game_identifier": "hacksaw:1430",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2026-01-30T02:18:39+00:00",
+      "challenge_start_timestamp": 1769739519,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1430"
+    },
+    {
       "challenge_id": 200,
       "game_name": "Gigantoonz",
       "game_identifier": "playngo:gigantoonz",
@@ -101,6 +234,25 @@
       "game_url": "https://roobet.com/casino/game/hacksaw:1067"
     },
     {
+      "challenge_id": 202,
+      "game_name": "SmokeEm",
+      "game_identifier": "pragmatic:vs20smokegold",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2026-01-27T21:36:45+00:00",
+      "challenge_start_timestamp": 1769549805,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20smokegold"
+    },
+    {
       "challenge_id": 201,
       "game_name": "Hand of Anubis",
       "game_identifier": "hacksaw:1164",
@@ -118,6 +270,63 @@
       "challenge_start": "2026-01-27T11:55:50+00:00",
       "challenge_start_timestamp": 1769514950,
       "game_url": "https://roobet.com/casino/game/hacksaw:1164"
+    },
+    {
+      "challenge_id": 175,
+      "game_name": "Seamen",
+      "game_identifier": "evo:nlc-seamen",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-11-20T22:45:13+00:00",
+      "challenge_start_timestamp": 1763678713,
+      "game_url": "https://roobet.com/casino/game/evo:nlc-seamen"
+    },
+    {
+      "challenge_id": 174,
+      "game_name": "Army of Ares",
+      "game_identifier": "hacksaw:1977",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-11-20T22:42:48+00:00",
+      "challenge_start_timestamp": 1763678568,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1977"
+    },
+    {
+      "challenge_id": 173,
+      "game_name": "Steamrunners",
+      "game_identifier": "hacksaw:1871",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-11-20T22:40:46+00:00",
+      "challenge_start_timestamp": 1763678446,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1871"
     },
     {
       "challenge_id": 172,
@@ -270,6 +479,25 @@
       "challenge_start": "2025-10-27T22:32:44+00:00",
       "challenge_start_timestamp": 1761604364,
       "game_url": "https://roobet.com/casino/game/playngo:reactoonztwo"
+    },
+    {
+      "challenge_id": 133,
+      "game_name": "Reactoonz 100",
+      "game_identifier": "playngo:reactoonz100",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2025-10-26T20:49:38+00:00",
+      "challenge_start_timestamp": 1761511778,
+      "game_url": "https://roobet.com/casino/game/playngo:reactoonz100"
     },
     {
       "challenge_id": 129,
