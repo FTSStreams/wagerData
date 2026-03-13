@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-03-13T01:08:56.673399+00:00",
-  "last_updated_timestamp": 1773364136,
-  "total_completed_challenges": 76,
-  "total_prizes_paid": 1985.0,
+  "last_updated": "2026-03-13T01:18:58.204025+00:00",
+  "last_updated_timestamp": 1773364738,
+  "total_completed_challenges": 77,
+  "total_prizes_paid": 2095.0,
   "challenges": [
+    {
+      "challenge_id": 245,
+      "game_name": "Mystery Bats",
+      "game_identifier": "hacksaw:1895",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 803.8,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 160.76,
+        "multiplier_achieved": 803.8
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-03-13T01:12:16+00:00",
+      "challenge_start_timestamp": 1773364336,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1895"
+    },
     {
       "challenge_id": 242,
       "game_name": "Wanted Dead or a Wild",
