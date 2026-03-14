@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-03-14T00:28:52.785536+00:00",
-  "last_updated_timestamp": 1773448132,
-  "total_completed_challenges": 78,
-  "total_prizes_paid": 2205.0,
+  "last_updated": "2026-03-14T00:38:52.965165+00:00",
+  "last_updated_timestamp": 1773448732,
+  "total_completed_challenges": 79,
+  "total_prizes_paid": 2315.0,
   "challenges": [
+    {
+      "challenge_id": 244,
+      "game_name": "Outlaws Inc",
+      "game_identifier": "hacksaw:1083",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 1766.2,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 353.24,
+        "multiplier_achieved": 1766.2
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-03-14T00:32:02+00:00",
+      "challenge_start_timestamp": 1773448322,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1083"
+    },
     {
       "challenge_id": 243,
       "game_name": "Stormforged",
