@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-03-14T23:23:15.424168+00:00",
-  "last_updated_timestamp": 1773530595,
-  "total_challenges": 6,
+  "last_updated": "2026-03-14T23:33:15.998105+00:00",
+  "last_updated_timestamp": 1773531195,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 233,
@@ -81,6 +81,45 @@
       "emoji": "\ud83d\ude3e",
       "min_bet": 0.2,
       "start_timestamp": 1773024308
+    },
+    {
+      "challenge_id": 246,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 750.0,
+      "prize": 90.0,
+      "start_time": "2026-03-14T23:24:14+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.2,
+      "start_timestamp": 1773530654
+    },
+    {
+      "challenge_id": 247,
+      "game_identifier": "hacksaw:1971",
+      "game_name": "Toshi Ways Club",
+      "required_multiplier": 750.0,
+      "prize": 90.0,
+      "start_time": "2026-03-14T23:25:00+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude38",
+      "min_bet": 0.2,
+      "start_timestamp": 1773530700
+    },
+    {
+      "challenge_id": 248,
+      "game_identifier": "hacksaw:1795",
+      "game_name": "The Luxe",
+      "required_multiplier": 750.0,
+      "prize": 90.0,
+      "start_time": "2026-03-14T23:25:44+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc8e",
+      "min_bet": 0.2,
+      "start_timestamp": 1773530744
     }
   ]
 }
