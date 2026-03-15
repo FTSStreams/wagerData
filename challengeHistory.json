@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-03-15T15:04:20.728218+00:00",
-  "last_updated_timestamp": 1773587060,
-  "total_completed_challenges": 80,
-  "total_prizes_paid": 2425.0,
+  "last_updated": "2026-03-15T15:14:22.479487+00:00",
+  "last_updated_timestamp": 1773587662,
+  "total_completed_challenges": 81,
+  "total_prizes_paid": 2515.0,
   "challenges": [
+    {
+      "challenge_id": 246,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1035.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 207.0,
+        "multiplier_achieved": 1035.0
+      },
+      "prize_amount": 90.0,
+      "challenge_start": "2026-03-15T15:07:11+00:00",
+      "challenge_start_timestamp": 1773587231,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 238,
       "game_name": "Eternal Duel",
