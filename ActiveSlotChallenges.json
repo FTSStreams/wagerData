@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-03-15T00:23:15.610500+00:00",
-  "last_updated_timestamp": 1773534195,
-  "total_challenges": 9,
+  "last_updated": "2026-03-15T00:33:16.010268+00:00",
+  "last_updated_timestamp": 1773534796,
+  "total_challenges": 10,
   "challenges": [
     {
       "challenge_id": 233,
@@ -120,6 +120,19 @@
       "emoji": "\ud83d\udc8e",
       "min_bet": 0.2,
       "start_timestamp": 1773530744
+    },
+    {
+      "challenge_id": 249,
+      "game_identifier": "hacksaw:2115",
+      "game_name": "Pray for Six",
+      "required_multiplier": 750.0,
+      "prize": 90.0,
+      "start_time": "2026-03-15T00:26:56+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude4f",
+      "min_bet": 0.2,
+      "start_timestamp": 1773534416
     }
   ]
 }
