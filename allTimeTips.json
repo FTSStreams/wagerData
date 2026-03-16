@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-16T12:22:15.868601+00:00",
-  "last_updated_timestamp": 1773663735,
+  "last_updated": "2026-03-16T12:32:18.465915+00:00",
+  "last_updated_timestamp": 1773664338,
   "summary": {
-    "total_tips_sent": 2542,
-    "total_amount_sent": 77348.57,
+    "total_tips_sent": 2543,
+    "total_amount_sent": 77359.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10154.7,
-        "tip_count": 1738
+        "total_amount": 10165.7,
+        "tip_count": 1739
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -142,8 +142,8 @@
     {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "total_received": 258.0,
-      "total_tips": 14
+      "total_received": 269.0,
+      "total_tips": 15
     }
   ],
   "detailed_data": [
@@ -627,13 +627,13 @@
           "latest_tip": "2026-03-13T09:51:56.042091"
         },
         "milestone": {
-          "amount": 23.0,
-          "count": 12,
+          "amount": 34.0,
+          "count": 13,
           "first_tip": "2026-03-11T08:31:58.886641",
-          "latest_tip": "2026-03-14T10:54:44.893759"
+          "latest_tip": "2026-03-16T12:23:38.488263"
         }
       },
-      "total_received": 258.0
+      "total_received": 269.0
     },
     {
       "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
@@ -1338,6 +1338,16 @@
       "period_key": "2026-03"
     },
     {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tip_type": "milestone",
+      "month": 3,
+      "year": 2026,
+      "amount": 34.0,
+      "count": 13,
+      "period_key": "2026-03"
+    },
+    {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
       "tip_type": "manual",
@@ -1370,16 +1380,6 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "tip_type": "milestone",
-      "month": 3,
-      "year": 2026,
-      "amount": 23.0,
-      "count": 12,
-      "period_key": "2026-03"
-    },
-    {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
