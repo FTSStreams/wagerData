@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-16T23:32:30.366940+00:00",
-  "last_updated_timestamp": 1773703950,
+  "last_updated": "2026-03-16T23:42:09.638187+00:00",
+  "last_updated_timestamp": 1773704529,
   "summary": {
-    "total_tips_sent": 2556,
-    "total_amount_sent": 77377.57,
+    "total_tips_sent": 2557,
+    "total_amount_sent": 77404.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10183.7,
-        "tip_count": 1752
+        "total_amount": 10210.7,
+        "tip_count": 1753
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -52,8 +52,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 3007.85,
-      "total_tips": 136
+      "total_received": 3034.85,
+      "total_tips": 137
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -264,10 +264,10 @@
           "latest_tip": "2026-03-01T15:42:09.568053"
         },
         "milestone": {
-          "amount": 442.85,
-          "count": 92,
+          "amount": 469.85,
+          "count": 93,
           "first_tip": "2025-06-25T21:18:20.102667",
-          "latest_tip": "2026-03-13T01:10:20.479156"
+          "latest_tip": "2026-03-16T23:33:36.959317"
         },
         "weekly_multiplier": {
           "amount": 60.0,
@@ -276,7 +276,7 @@
           "latest_tip": "2026-03-13T00:18:22.012163"
         }
       },
-      "total_received": 3007.85
+      "total_received": 3034.85
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -1314,6 +1314,16 @@
       "period_key": "2026-03"
     },
     {
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "tip_type": "milestone",
+      "month": 3,
+      "year": 2026,
+      "amount": 89.0,
+      "count": 16,
+      "period_key": "2026-03"
+    },
+    {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "tip_type": "milestone",
@@ -1331,16 +1341,6 @@
       "year": 2026,
       "amount": 75.0,
       "count": 1,
-      "period_key": "2026-03"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "tip_type": "milestone",
-      "month": 3,
-      "year": 2026,
-      "amount": 62.0,
-      "count": 15,
       "period_key": "2026-03"
     },
     {
