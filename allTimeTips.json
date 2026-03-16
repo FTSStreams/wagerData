@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-16T21:02:11.201611+00:00",
-  "last_updated_timestamp": 1773694931,
+  "last_updated": "2026-03-16T21:12:09.661224+00:00",
+  "last_updated_timestamp": 1773695529,
   "summary": {
-    "total_tips_sent": 2555,
-    "total_amount_sent": 77376.57,
+    "total_tips_sent": 2556,
+    "total_amount_sent": 77377.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10182.7,
-        "tip_count": 1751
+        "total_amount": 10183.7,
+        "tip_count": 1752
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -806,6 +806,25 @@
       "total_received": 61.55
     },
     {
+      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
+      "tips_by_type": {
+        "manual": {
+          "amount": 50.0,
+          "count": 1,
+          "first_tip": "2026-02-27T18:38:52.976902",
+          "latest_tip": "2026-02-27T18:38:52.976902"
+        },
+        "milestone": {
+          "amount": 5.0,
+          "count": 5,
+          "first_tip": "2026-02-27T18:57:07.600066",
+          "latest_tip": "2026-03-16T21:03:37.129530"
+        }
+      },
+      "total_received": 55.0
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tips_by_type": {
@@ -836,25 +855,6 @@
         }
       },
       "total_received": 54.5
-    },
-    {
-      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
-      "username": "ProxyWoxy",
-      "tips_by_type": {
-        "manual": {
-          "amount": 50.0,
-          "count": 1,
-          "first_tip": "2026-02-27T18:38:52.976902",
-          "latest_tip": "2026-02-27T18:38:52.976902"
-        },
-        "milestone": {
-          "amount": 4.0,
-          "count": 4,
-          "first_tip": "2026-02-27T18:57:07.600066",
-          "latest_tip": "2026-03-11T04:53:04.458047"
-        }
-      },
-      "total_received": 54.0
     },
     {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
@@ -1589,8 +1589,8 @@
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
-      "amount": 3.0,
-      "count": 3,
+      "amount": 4.0,
+      "count": 4,
       "period_key": "2026-03"
     },
     {
