@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-17T06:15:54.387840+00:00",
-  "last_updated_timestamp": 1773728154,
+  "last_updated": "2026-03-17T06:25:54.225944+00:00",
+  "last_updated_timestamp": 1773728754,
   "summary": {
-    "total_tips_sent": 2564,
-    "total_amount_sent": 77468.57,
+    "total_tips_sent": 2565,
+    "total_amount_sent": 77471.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10274.7,
-        "tip_count": 1760
+        "total_amount": 10277.7,
+        "tip_count": 1761
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -797,13 +797,13 @@
           "latest_tip": "2026-02-27T18:38:52.976902"
         },
         "milestone": {
-          "amount": 15.0,
-          "count": 10,
+          "amount": 18.0,
+          "count": 11,
           "first_tip": "2026-02-27T18:57:07.600066",
-          "latest_tip": "2026-03-17T05:37:21.440110"
+          "latest_tip": "2026-03-17T06:17:21.422779"
         }
       },
-      "total_received": 65.0
+      "total_received": 68.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -1043,6 +1043,19 @@
       "total_received": 11.0
     },
     {
+      "user_id": "6bed54e4-2744-4ef1-97a2-3073e0a7e858",
+      "username": "tpgd",
+      "tips_by_type": {
+        "manual": {
+          "amount": 10.0,
+          "count": 1,
+          "first_tip": "2025-12-24T18:49:53.328134",
+          "latest_tip": "2025-12-24T18:49:53.328134"
+        }
+      },
+      "total_received": 10.0
+    },
+    {
       "user_id": "bb8a11c9-b202-46c1-88f5-69769e3790fb",
       "username": "juanchef",
       "tips_by_type": {
@@ -1069,19 +1082,6 @@
       "total_received": 10.0
     },
     {
-      "user_id": "6bed54e4-2744-4ef1-97a2-3073e0a7e858",
-      "username": "tpgd",
-      "tips_by_type": {
-        "manual": {
-          "amount": 10.0,
-          "count": 1,
-          "first_tip": "2025-12-24T18:49:53.328134",
-          "latest_tip": "2025-12-24T18:49:53.328134"
-        }
-      },
-      "total_received": 10.0
-    },
-    {
       "user_id": "38677e5c-6123-4ed8-964e-4e3c2a2f9e9d",
       "username": "LoicSmith",
       "tips_by_type": {
@@ -1095,19 +1095,6 @@
       "total_received": 7.0
     },
     {
-      "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
-      "username": "nasereps",
-      "tips_by_type": {
-        "manual": {
-          "amount": 5.0,
-          "count": 1,
-          "first_tip": "2025-06-25T15:23:29.608734",
-          "latest_tip": "2025-06-25T15:23:29.608734"
-        }
-      },
-      "total_received": 5.0
-    },
-    {
       "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
       "username": "rebeltrankil09",
       "tips_by_type": {
@@ -1116,6 +1103,19 @@
           "count": 5,
           "first_tip": "2025-12-12T05:41:28.687437",
           "latest_tip": "2025-12-24T03:27:31.086846"
+        }
+      },
+      "total_received": 5.0
+    },
+    {
+      "user_id": "519d1063-f059-4f67-bf93-2731347e573a",
+      "username": "nasereps",
+      "tips_by_type": {
+        "manual": {
+          "amount": 5.0,
+          "count": 1,
+          "first_tip": "2025-06-25T15:23:29.608734",
+          "latest_tip": "2025-06-25T15:23:29.608734"
         }
       },
       "total_received": 5.0
@@ -1444,6 +1444,16 @@
       "period_key": "2026-03"
     },
     {
+      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
+      "tip_type": "milestone",
+      "month": 3,
+      "year": 2026,
+      "amount": 17.0,
+      "count": 10,
+      "period_key": "2026-03"
+    },
+    {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "tip_type": "weekly_multiplier",
@@ -1451,16 +1461,6 @@
       "year": 2026,
       "amount": 15.0,
       "count": 2,
-      "period_key": "2026-03"
-    },
-    {
-      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
-      "username": "ProxyWoxy",
-      "tip_type": "milestone",
-      "month": 3,
-      "year": 2026,
-      "amount": 14.0,
-      "count": 9,
       "period_key": "2026-03"
     },
     {
