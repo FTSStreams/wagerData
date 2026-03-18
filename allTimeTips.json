@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-18T09:36:54.526818+00:00",
-  "last_updated_timestamp": 1773826614,
+  "last_updated": "2026-03-18T09:46:51.499073+00:00",
+  "last_updated_timestamp": 1773827211,
   "summary": {
-    "total_tips_sent": 2584,
-    "total_amount_sent": 78403.57,
+    "total_tips_sent": 2585,
+    "total_amount_sent": 78417.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10344.7,
-        "tip_count": 1771
+        "total_amount": 10358.7,
+        "tip_count": 1772
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -752,20 +752,20 @@
       "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
       "username": "ProxyWoxy",
       "tips_by_type": {
+        "milestone": {
+          "amount": 63.0,
+          "count": 16,
+          "first_tip": "2026-02-27T18:57:07.600066",
+          "latest_tip": "2026-03-18T09:38:17.924258"
+        },
         "manual": {
           "amount": 50.0,
           "count": 1,
           "first_tip": "2026-02-27T18:38:52.976902",
           "latest_tip": "2026-02-27T18:38:52.976902"
-        },
-        "milestone": {
-          "amount": 49.0,
-          "count": 15,
-          "first_tip": "2026-02-27T18:57:07.600066",
-          "latest_tip": "2026-03-17T08:37:20.772312"
         }
       },
-      "total_received": 99.0
+      "total_received": 113.0
     },
     {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
@@ -1344,6 +1344,16 @@
       "period_key": "2026-03"
     },
     {
+      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
+      "tip_type": "milestone",
+      "month": 3,
+      "year": 2026,
+      "amount": 62.0,
+      "count": 15,
+      "period_key": "2026-03"
+    },
+    {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
       "tip_type": "manual",
@@ -1351,16 +1361,6 @@
       "year": 2026,
       "amount": 50.0,
       "count": 1,
-      "period_key": "2026-03"
-    },
-    {
-      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
-      "username": "ProxyWoxy",
-      "tip_type": "milestone",
-      "month": 3,
-      "year": 2026,
-      "amount": 48.0,
-      "count": 14,
       "period_key": "2026-03"
     },
     {
