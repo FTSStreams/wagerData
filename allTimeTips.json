@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-18T06:26:51.059300+00:00",
-  "last_updated_timestamp": 1773815211,
+  "last_updated": "2026-03-18T06:36:51.824213+00:00",
+  "last_updated_timestamp": 1773815811,
   "summary": {
-    "total_tips_sent": 2583,
-    "total_amount_sent": 78376.57,
+    "total_tips_sent": 2584,
+    "total_amount_sent": 78403.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10317.7,
-        "tip_count": 1770
+        "total_amount": 10344.7,
+        "tip_count": 1771
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -28,8 +28,8 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "total_received": 23148.0,
-      "total_tips": 348
+      "total_received": 23175.0,
+      "total_tips": 349
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -158,10 +158,10 @@
           "latest_tip": "2026-03-18T06:17:08.240074"
         },
         "milestone": {
-          "amount": 267.0,
-          "count": 48,
+          "amount": 294.0,
+          "count": 49,
           "first_tip": "2026-01-05T16:31:36.184125",
-          "latest_tip": "2026-03-14T05:04:45.110406"
+          "latest_tip": "2026-03-18T06:28:18.744558"
         },
         "slot_challenge": {
           "amount": 100.0,
@@ -176,7 +176,7 @@
           "latest_tip": "2026-03-13T00:19:40.307881"
         }
       },
-      "total_received": 23148.0
+      "total_received": 23175.0
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -1304,6 +1304,16 @@
       "period_key": "2026-03"
     },
     {
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "tip_type": "milestone",
+      "month": 3,
+      "year": 2026,
+      "amount": 116.0,
+      "count": 17,
+      "period_key": "2026-03"
+    },
+    {
       "user_id": "7c1a32bb-a6e7-49c6-a708-27191e5dc005",
       "username": "MrWickk",
       "tip_type": "slot_challenge",
@@ -1321,16 +1331,6 @@
       "year": 2026,
       "amount": 100.0,
       "count": 1,
-      "period_key": "2026-03"
-    },
-    {
-      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "tip_type": "milestone",
-      "month": 3,
-      "year": 2026,
-      "amount": 89.0,
-      "count": 16,
       "period_key": "2026-03"
     },
     {
