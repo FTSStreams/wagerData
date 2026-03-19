@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-19T01:06:51.493515+00:00",
-  "last_updated_timestamp": 1773882411,
+  "last_updated": "2026-03-19T01:16:50.831920+00:00",
+  "last_updated_timestamp": 1773883010,
   "summary": {
-    "total_tips_sent": 2590,
-    "total_amount_sent": 78444.57,
+    "total_tips_sent": 2591,
+    "total_amount_sent": 78498.57,
     "by_type": {
       "milestone": {
-        "total_amount": 10365.7,
-        "tip_count": 1775
+        "total_amount": 10419.7,
+        "tip_count": 1776
       },
       "weekly_multiplier": {
         "total_amount": 307.0,
@@ -52,8 +52,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 3088.85,
-      "total_tips": 139
+      "total_received": 3142.85,
+      "total_tips": 140
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -264,10 +264,10 @@
           "latest_tip": "2026-03-01T15:42:09.568053"
         },
         "milestone": {
-          "amount": 523.85,
-          "count": 95,
+          "amount": 577.85,
+          "count": 96,
           "first_tip": "2025-06-25T21:18:20.102667",
-          "latest_tip": "2026-03-17T01:53:36.968670"
+          "latest_tip": "2026-03-19T01:08:18.922724"
         },
         "weekly_multiplier": {
           "amount": 60.0,
@@ -276,7 +276,7 @@
           "latest_tip": "2026-03-13T00:18:22.012163"
         }
       },
-      "total_received": 3088.85
+      "total_received": 3142.85
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -1285,8 +1285,8 @@
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
-      "amount": 143.0,
-      "count": 18,
+      "amount": 197.0,
+      "count": 19,
       "period_key": "2026-03"
     },
     {
