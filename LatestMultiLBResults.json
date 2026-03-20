@@ -6,8 +6,8 @@
     "start_timestamp": 1773964800,
     "end_timestamp": 1774569599
   },
-  "last_updated": "2026-03-20T00:13:02.843499+00:00",
-  "last_updated_timestamp": 1773965582,
+  "last_updated": "2026-03-20T00:23:03.160272+00:00",
+  "last_updated_timestamp": 1773966183,
   "entries": [
     {
       "rank": 1,
@@ -21,22 +21,22 @@
     },
     {
       "rank": 2,
+      "username": "MacMacman",
+      "multiplier": 1.0625,
+      "game": "Retro Tapes",
+      "game_identifier": null,
+      "wagered": 40,
+      "payout": 42.5,
+      "prize": 15
+    },
+    {
+      "rank": 3,
       "username": "ProxyWoxy",
       "multiplier": 0.8333333333333334,
       "game": "Catfish Hunters",
       "game_identifier": null,
       "wagered": 0.43684177949999997,
       "payout": 0.36403481625,
-      "prize": 15
-    },
-    {
-      "rank": 3,
-      "username": "N/A",
-      "multiplier": 0,
-      "game": "Unknown",
-      "game_identifier": null,
-      "wagered": 0,
-      "payout": 0,
       "prize": 5
     }
   ]
