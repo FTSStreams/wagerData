@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-21T03:56:43.534734+00:00",
-  "last_updated_timestamp": 1774065403,
+  "last_updated": "2026-03-21T04:06:44.121432+00:00",
+  "last_updated_timestamp": 1774066004,
   "summary": {
-    "total_tips_sent": 2614,
-    "total_amount_sent": 79519.56999999999,
+    "total_tips_sent": 2615,
+    "total_amount_sent": 79522.56999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 10568.7,
-        "tip_count": 1784
+        "total_amount": 10571.7,
+        "tip_count": 1785
       },
       "weekly_multiplier": {
         "total_amount": 342.0,
@@ -926,6 +926,19 @@
       "total_received": 44.0
     },
     {
+      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
+      "username": "TheRealMrClean",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 34.0,
+          "count": 24,
+          "first_tip": "2025-12-08T01:14:26.539714",
+          "latest_tip": "2026-03-21T03:58:13.023525"
+        }
+      },
+      "total_received": 34.0
+    },
+    {
       "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
       "username": "Alxxwilson",
       "tips_by_type": {
@@ -943,19 +956,6 @@
         }
       },
       "total_received": 33.0
-    },
-    {
-      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
-      "username": "TheRealMrClean",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 31.0,
-          "count": 23,
-          "first_tip": "2025-12-08T01:14:26.539714",
-          "latest_tip": "2026-03-08T03:10:27.775774"
-        }
-      },
-      "total_received": 31.0
     },
     {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
@@ -1517,8 +1517,8 @@
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
-      "amount": 11.0,
-      "count": 8,
+      "amount": 14.0,
+      "count": 9,
       "period_key": "2026-03"
     },
     {
