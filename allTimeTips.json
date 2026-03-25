@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-25T17:40:33.380213+00:00",
-  "last_updated_timestamp": 1774460433,
+  "last_updated": "2026-03-25T17:50:32.232507+00:00",
+  "last_updated_timestamp": 1774461032,
   "summary": {
-    "total_tips_sent": 2661,
-    "total_amount_sent": 82890.56999999999,
+    "total_tips_sent": 2662,
+    "total_amount_sent": 82925.56999999999,
     "by_type": {
       "milestone": {
         "total_amount": 10851.7,
@@ -19,8 +19,8 @@
         "tip_count": 50
       },
       "manual": {
-        "total_amount": 69091.87,
-        "tip_count": 777
+        "total_amount": 69126.87,
+        "tip_count": 778
       }
     }
   },
@@ -82,8 +82,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 1382.0,
-      "total_tips": 83
+      "total_received": 1417.0,
+      "total_tips": 84
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -377,10 +377,10 @@
       "username": "tremor11",
       "tips_by_type": {
         "manual": {
-          "amount": 675.0,
-          "count": 5,
+          "amount": 710.0,
+          "count": 6,
           "first_tip": "2025-12-24T18:50:33.858601",
-          "latest_tip": "2026-03-16T02:15:07.568071"
+          "latest_tip": "2026-03-25T17:45:28.796502"
         },
         "milestone": {
           "amount": 572.0,
@@ -401,7 +401,7 @@
           "latest_tip": "2026-03-06T22:17:12.012842"
         }
       },
-      "total_received": 1382.0
+      "total_received": 1417.0
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -1394,8 +1394,8 @@
       "period_key": "2026-03"
     },
     {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "manual",
       "month": 3,
       "year": 2026,
@@ -1404,13 +1404,13 @@
       "period_key": "2026-03"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
       "tip_type": "manual",
       "month": 3,
       "year": 2026,
-      "amount": 50.0,
-      "count": 1,
+      "amount": 85.0,
+      "count": 2,
       "period_key": "2026-03"
     },
     {
