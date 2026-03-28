@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-03-28T12:27:27.649468+00:00",
-  "last_updated_timestamp": 1774700847,
-  "total_completed_challenges": 82,
-  "total_prizes_paid": 2605.0,
+  "last_updated": "2026-03-28T12:37:28.909799+00:00",
+  "last_updated_timestamp": 1774701448,
+  "total_completed_challenges": 83,
+  "total_prizes_paid": 2715.0,
   "challenges": [
+    {
+      "challenge_id": 233,
+      "game_name": "Dark Spiral",
+      "game_identifier": "hacksaw:2143",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 859.0999999999999,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.2,
+        "payout": 171.82,
+        "multiplier_achieved": 859.0999999999999
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-03-28T12:29:07+00:00",
+      "challenge_start_timestamp": 1774700947,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2143"
+    },
     {
       "challenge_id": 248,
       "game_name": "The Luxe",
