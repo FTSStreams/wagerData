@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-29T16:26:39.215266+00:00",
-  "last_updated_timestamp": 1774801599,
+  "last_updated": "2026-03-29T16:36:33.182485+00:00",
+  "last_updated_timestamp": 1774802193,
   "summary": {
-    "total_tips_sent": 2733,
-    "total_amount_sent": 87574.56999999999,
+    "total_tips_sent": 2734,
+    "total_amount_sent": 87628.56999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 11351.7,
-        "tip_count": 1822
+        "total_amount": 11405.7,
+        "tip_count": 1823
       },
       "weekly_multiplier": {
         "total_amount": 377.0,
@@ -28,8 +28,8 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "total_received": 31018.0,
-      "total_tips": 435
+      "total_received": 31072.0,
+      "total_tips": 436
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -158,10 +158,10 @@
           "latest_tip": "2026-03-29T16:17:00.836943"
         },
         "milestone": {
-          "amount": 321.0,
-          "count": 50,
+          "amount": 375.0,
+          "count": 51,
           "first_tip": "2026-01-05T16:31:36.184125",
-          "latest_tip": "2026-03-23T05:38:58.787089"
+          "latest_tip": "2026-03-29T16:28:00.128403"
         },
         "slot_challenge": {
           "amount": 100.0,
@@ -176,7 +176,7 @@
           "latest_tip": "2026-03-27T00:16:10.887016"
         }
       },
-      "total_received": 31018.0
+      "total_received": 31072.0
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -1340,18 +1340,18 @@
       "period_key": "2026-03"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
-      "amount": 143.0,
-      "count": 18,
+      "amount": 197.0,
+      "count": 19,
       "period_key": "2026-03"
     },
     {
-      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
