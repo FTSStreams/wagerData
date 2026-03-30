@@ -1,0 +1,267 @@
+{
+  "data_type": "roo_vs_flip",
+  "last_updated": "2026-03-30T19:34:04.231776+00:00",
+  "last_updated_timestamp": 1774899244,
+  "current_period": {
+    "event_start": "2026-03-01T00:00:00+00:00",
+    "event_start_timestamp": 1772323200,
+    "period_end": "2026-04-01T00:00:00+00:00",
+    "period_end_timestamp": 1775001600,
+    "prize_pool": 10.0
+  },
+  "active_queue": [
+    {
+      "position": 1,
+      "game_name": "Dark Spiral",
+      "game_identifier": "hacksaw:2143",
+      "emoji": "\ud83d\udc67",
+      "req_multi": 300.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2143"
+    }
+  ],
+  "draft_queue": [
+    {
+      "position": 1,
+      "game_name": "Le Bunny",
+      "game_identifier": "hacksaw:2195",
+      "emoji": "\ud83d\udc30",
+      "req_multi": 100.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2195"
+    },
+    {
+      "position": 2,
+      "game_name": "Dusk Princess",
+      "game_identifier": "hacksaw:2190",
+      "emoji": "\ud83d\udc78",
+      "req_multi": 200.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2190"
+    },
+    {
+      "position": 3,
+      "game_name": "Eternal Duel",
+      "game_identifier": "hacksaw:2148",
+      "emoji": "\u26a1",
+      "req_multi": 300.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2148"
+    }
+  ],
+  "summary": {
+    "total_participants": 14,
+    "current_winners": 2,
+    "prize_per_winner": 5.0,
+    "total_games_required": 1
+  },
+  "participants": [
+    {
+      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "completions": 1,
+      "total_games": 1,
+      "avg_multi": 859.0999999999999,
+      "max_multi": 859.0999999999999,
+      "is_winner": true,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 859.0999999999999,
+          "met": true
+        }
+      }
+    },
+    {
+      "uid": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "completions": 1,
+      "total_games": 1,
+      "avg_multi": 402.31050805587347,
+      "max_multi": 402.31050805587347,
+      "is_winner": true,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 402.31050805587347,
+          "met": true
+        }
+      }
+    },
+    {
+      "uid": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 248.83333333333331,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 19.46666666666667,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 60.0,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 21.171869949788086,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "7c1a32bb-a6e7-49c6-a708-27191e5dc005",
+      "username": "MrWickk",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 40.4,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 6.8,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 1.0,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 91.89999999999999,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "f1221846-8619-403a-85f1-f867a82967d2",
+      "username": "nebdubz",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 5.633333333333334,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 10.933333333333334,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 3.066750710259713,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "completions": 0,
+      "total_games": 1,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 0.29999999999999993,
+          "met": false
+        }
+      }
+    }
+  ],
+  "payout_history": []
+}
