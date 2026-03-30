@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-03-30T12:29:52.888337+00:00",
-  "last_updated_timestamp": 1774873792,
+  "last_updated": "2026-03-30T12:39:53.896385+00:00",
+  "last_updated_timestamp": 1774874393,
   "summary": {
-    "total_tips_sent": 2739,
-    "total_amount_sent": 87978.56999999999,
+    "total_tips_sent": 2740,
+    "total_amount_sent": 88032.56999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 11405.7,
-        "tip_count": 1823
+        "total_amount": 11459.7,
+        "tip_count": 1824
       },
       "weekly_multiplier": {
         "total_amount": 377.0,
@@ -82,8 +82,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 1417.0,
-      "total_tips": 84
+      "total_received": 1471.0,
+      "total_tips": 85
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -383,10 +383,10 @@
           "latest_tip": "2026-03-25T17:45:28.796502"
         },
         "milestone": {
-          "amount": 572.0,
-          "count": 72,
+          "amount": 626.0,
+          "count": 73,
           "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2026-03-20T13:10:16.957577"
+          "latest_tip": "2026-03-30T12:31:19.823641"
         },
         "slot_challenge": {
           "amount": 70.0,
@@ -401,7 +401,7 @@
           "latest_tip": "2026-03-06T22:17:12.012842"
         }
       },
-      "total_received": 1417.0
+      "total_received": 1471.0
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -1355,8 +1355,8 @@
       "tip_type": "milestone",
       "month": 3,
       "year": 2026,
-      "amount": 143.0,
-      "count": 18,
+      "amount": 197.0,
+      "count": 19,
       "period_key": "2026-03"
     },
     {
