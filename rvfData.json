@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-03-31T20:05:35.176876+00:00",
-  "last_updated_timestamp": 1774987535,
+  "last_updated": "2026-03-31T20:15:33.541442+00:00",
+  "last_updated_timestamp": 1774988133,
   "current_period": {
     "event_start": "2026-03-01T00:00:00+00:00",
     "event_start_timestamp": 1772323200,
@@ -15,7 +15,7 @@
       "game_name": "Dark Spiral",
       "game_identifier": "hacksaw:2143",
       "emoji": "\ud83d\udc67",
-      "req_multi": 300.0,
+      "req_multi": 59.0,
       "game_url": "https://roobet.com/casino/game/hacksaw:2143"
     },
     {
@@ -55,8 +55,8 @@
   ],
   "summary": {
     "total_participants": 15,
-    "current_winners": 1,
-    "prize_per_winner": 10.0,
+    "current_winners": 2,
+    "prize_per_winner": 5.0,
     "total_games_required": 2
   },
   "participants": [
@@ -82,15 +82,15 @@
     {
       "uid": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "completions": 1,
+      "completions": 2,
       "total_games": 2,
-      "avg_multi": 573.3,
+      "avg_multi": 316.65,
       "max_multi": 573.3,
-      "is_winner": false,
+      "is_winner": true,
       "games": {
         "hacksaw:2143": {
           "multi": 60.0,
-          "met": false
+          "met": true
         },
         "hacksaw:1243": {
           "multi": 573.3,
@@ -120,18 +120,37 @@
     {
       "uid": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "completions": 0,
+      "completions": 1,
       "total_games": 2,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
+      "avg_multi": 248.83333333333331,
+      "max_multi": 248.83333333333331,
       "is_winner": false,
       "games": {
         "hacksaw:2143": {
           "multi": 248.83333333333331,
-          "met": false
+          "met": true
         },
         "hacksaw:1243": {
           "multi": 13.5,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "completions": 1,
+      "total_games": 2,
+      "avg_multi": 91.89999999999999,
+      "max_multi": 91.89999999999999,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2143": {
+          "multi": 91.89999999999999,
+          "met": true
+        },
+        "hacksaw:1243": {
+          "multi": 62.699999999999996,
           "met": false
         }
       }
@@ -219,25 +238,6 @@
         },
         "hacksaw:1243": {
           "multi": 10.2,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "completions": 0,
-      "total_games": 2,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2143": {
-          "multi": 91.89999999999999,
-          "met": false
-        },
-        "hacksaw:1243": {
-          "multi": 62.699999999999996,
           "met": false
         }
       }
