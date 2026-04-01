@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-01T17:08:25.425231+00:00",
-  "last_updated_timestamp": 1775063305,
+  "last_updated": "2026-04-01T17:18:25.287712+00:00",
+  "last_updated_timestamp": 1775063905,
   "summary": {
-    "total_tips_sent": 2851,
-    "total_amount_sent": 91301.56999999999,
+    "total_tips_sent": 2852,
+    "total_amount_sent": 91302.56999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 2905.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 11571.7,
-        "tip_count": 1890
+        "total_amount": 11572.7,
+        "tip_count": 1891
       },
       "weekly_multiplier": {
         "total_amount": 377.0,
@@ -1028,13 +1028,13 @@
       "username": "smithloic2",
       "tips_by_type": {
         "milestone": {
-          "amount": 21.0,
-          "count": 14,
+          "amount": 22.0,
+          "count": 15,
           "first_tip": "2026-03-24T14:51:51.038188",
-          "latest_tip": "2026-04-01T16:30:23.399689"
+          "latest_tip": "2026-04-01T17:09:51.925817"
         }
       },
-      "total_received": 21.0
+      "total_received": 22.0
     },
     {
       "user_id": "2927b33c-7e56-42ac-b2a1-d888adc6d899",
@@ -1063,19 +1063,6 @@
       "total_received": 16.0
     },
     {
-      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
-      "username": "HippoMike",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 15.0,
-          "count": 13,
-          "first_tip": "2025-11-09T22:21:26.283801",
-          "latest_tip": "2025-11-17T03:02:08.061438"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
       "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
       "username": "4TIFLIP",
       "tips_by_type": {
@@ -1084,6 +1071,19 @@
           "count": 3,
           "first_tip": "2025-06-23T16:12:36.850105",
           "latest_tip": "2025-07-22T16:07:44.059101"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
+      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
+      "username": "HippoMike",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 15.0,
+          "count": 13,
+          "first_tip": "2025-11-09T22:21:26.283801",
+          "latest_tip": "2025-11-17T03:02:08.061438"
         }
       },
       "total_received": 15.0
@@ -1437,8 +1437,8 @@
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2026-04"
     },
     {
