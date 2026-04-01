@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-01T03:12:45.202670+00:00",
-  "last_updated_timestamp": 1775013165,
+  "last_updated": "2026-04-01T03:22:45.451079+00:00",
+  "last_updated_timestamp": 1775013765,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -78,12 +78,44 @@
     }
   ],
   "summary": {
-    "total_participants": 0,
+    "total_participants": 1,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
   },
-  "participants": [],
+  "participants": [
+    {
+      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2148": {
+          "multi": 6.3999999999999995,
+          "met": false
+        },
+        "hacksaw:2185": {
+          "multi": 11.899999999999999,
+          "met": false
+        },
+        "hacksaw:2190": {
+          "multi": 10.4,
+          "met": false
+        },
+        "pragmatic:vs20payanyvol": {
+          "multi": 10.0,
+          "met": false
+        },
+        "hacksaw:2195": {
+          "multi": 32.5,
+          "met": false
+        }
+      }
+    }
+  ],
   "payout_history": [
     {
       "year": 2026,
