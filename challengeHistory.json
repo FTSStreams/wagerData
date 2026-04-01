@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-01T03:52:26.160155+00:00",
-  "last_updated_timestamp": 1775015546,
-  "total_completed_challenges": 84,
-  "total_prizes_paid": 2805.0,
+  "last_updated": "2026-04-01T03:58:23.772313+00:00",
+  "last_updated_timestamp": 1775015903,
+  "total_completed_challenges": 85,
+  "total_prizes_paid": 2905.0,
   "challenges": [
+    {
+      "challenge_id": 265,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 1000.0,
+      "achieved_multiplier": 1161.5,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.4,
+        "payout": 464.6,
+        "multiplier_achieved": 1161.5
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-04-01T03:55:31+00:00",
+      "challenge_start_timestamp": 1775015731,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 266,
       "game_name": "Stormforged",
