@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-01T15:28:47.776691+00:00",
-  "last_updated_timestamp": 1775057327,
+  "last_updated": "2026-04-01T15:38:47.171245+00:00",
+  "last_updated_timestamp": 1775057927,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -87,9 +87,9 @@
     {
       "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "completions": 3,
+      "completions": 4,
       "total_games": 5,
-      "avg_multi": 315.26666666666665,
+      "avg_multi": 298.95,
       "max_multi": 712.3,
       "is_winner": false,
       "games": {
@@ -106,8 +106,8 @@
           "met": true
         },
         "pragmatic:vs20payanyvol": {
-          "multi": 116.3,
-          "met": false
+          "multi": 250.0,
+          "met": true
         },
         "hacksaw:2195": {
           "multi": 184.4,
