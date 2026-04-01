@@ -1,7 +1,7 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-04-01T20:38:39.045490+00:00",
-  "last_updated_timestamp": 1775075919,
+  "last_updated": "2026-04-01T20:48:38.554583+00:00",
+  "last_updated_timestamp": 1775076518,
   "total_challenges": 10,
   "challenges": [
     {
@@ -42,45 +42,6 @@
       "emoji": "\ud83c\udd9a",
       "min_bet": 0.2,
       "start_timestamp": 1775072921
-    },
-    {
-      "challenge_id": 268,
-      "game_identifier": "hacksaw:1233",
-      "game_name": "Rip City",
-      "required_multiplier": 750.0,
-      "prize": 0.2,
-      "start_time": "2026-04-01T19:50:48+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\ude3e",
-      "min_bet": 0.2,
-      "start_timestamp": 1775073048
-    },
-    {
-      "challenge_id": 269,
-      "game_identifier": "hacksaw:1460",
-      "game_name": "Life and Death",
-      "required_multiplier": 750.0,
-      "prize": 0.2,
-      "start_time": "2026-04-01T19:54:05+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\udc80",
-      "min_bet": 0.2,
-      "start_timestamp": 1775073245
-    },
-    {
-      "challenge_id": 270,
-      "game_identifier": "hacksaw:1117",
-      "game_name": "Joker Bombs",
-      "required_multiplier": 750.0,
-      "prize": 0.2,
-      "start_time": "2026-04-01T19:55:08+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83c\udccf",
-      "min_bet": 0.2,
-      "start_timestamp": 1775073308
     },
     {
       "challenge_id": 271,
@@ -133,6 +94,45 @@
       "emoji": "\ud83e\udd8d",
       "min_bet": 0.2,
       "start_timestamp": 1775073495
+    },
+    {
+      "challenge_id": 275,
+      "game_identifier": "hacksaw:1233",
+      "game_name": "Rip City",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-04-01T20:39:44+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\ude3e",
+      "min_bet": 0.2,
+      "start_timestamp": 1775075984
+    },
+    {
+      "challenge_id": 276,
+      "game_identifier": "hacksaw:1117",
+      "game_name": "Joker Bombs",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-04-01T20:40:30+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udca3",
+      "min_bet": 0.2,
+      "start_timestamp": 1775076030
+    },
+    {
+      "challenge_id": 277,
+      "game_identifier": "hacksaw:1460",
+      "game_name": "Life and Death",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-04-01T20:41:16+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc80",
+      "min_bet": 0.2,
+      "start_timestamp": 1775076076
     }
   ]
 }
