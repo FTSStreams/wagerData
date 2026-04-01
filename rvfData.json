@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-01T01:51:14.110533+00:00",
-  "last_updated_timestamp": 1775008274,
+  "last_updated": "2026-04-01T02:01:17.974913+00:00",
+  "last_updated_timestamp": 1775008877,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -20,36 +20,44 @@
     },
     {
       "position": 2,
-      "game_name": "Dusk Princess",
-      "game_identifier": "hacksaw:2190",
-      "emoji": "\ud83d\udc78",
-      "req_multi": 200.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2190"
+      "game_name": "Epic Bullets & Bounty",
+      "game_identifier": "hacksaw:2185",
+      "emoji": "\ud83e\udd20",
+      "req_multi": 100.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2185"
     },
     {
       "position": 3,
-      "game_name": "Eternal Duel",
-      "game_identifier": "hacksaw:2148",
-      "emoji": "\u26a1",
-      "req_multi": 300.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2148"
+      "game_name": "Dusk Princess",
+      "game_identifier": "hacksaw:2190",
+      "emoji": "\ud83d\udc78",
+      "req_multi": 150.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2190"
+    },
+    {
+      "position": 4,
+      "game_name": "Jelly Express",
+      "game_identifier": "pragmatic:vs20payanyvol",
+      "emoji": "\ud83c\udf6d",
+      "req_multi": 200.0,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20payanyvol"
     }
   ],
   "draft_queue": [
     {
       "position": 1,
-      "game_name": "Le Bunny",
-      "game_identifier": "hacksaw:2195",
-      "emoji": "\ud83d\udc30",
-      "req_multi": 100.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2195"
+      "game_name": "Epic Bullets & Bounty",
+      "game_identifier": "hacksaw:2185",
+      "emoji": "\ud83e\udd20",
+      "req_multi": 50.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2185"
     },
     {
       "position": 2,
       "game_name": "Dusk Princess",
       "game_identifier": "hacksaw:2190",
       "emoji": "\ud83d\udc78",
-      "req_multi": 200.0,
+      "req_multi": 100.0,
       "game_url": "https://roobet.com/casino/game/hacksaw:2190"
     },
     {
@@ -65,7 +73,7 @@
     "total_participants": 0,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 3
+    "total_games_required": 4
   },
   "participants": [],
   "payout_history": [
