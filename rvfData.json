@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-01T01:41:10.234026+00:00",
-  "last_updated_timestamp": 1775007670,
+  "last_updated": "2026-04-01T01:51:14.110533+00:00",
+  "last_updated_timestamp": 1775008274,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -12,19 +12,27 @@
   "active_queue": [
     {
       "position": 1,
-      "game_name": "Dark Spiral",
-      "game_identifier": "hacksaw:2143",
-      "emoji": "\ud83d\udc67",
-      "req_multi": 59.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2143"
+      "game_name": "Le Bunny",
+      "game_identifier": "hacksaw:2195",
+      "emoji": "\ud83d\udc30",
+      "req_multi": 100.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2195"
     },
     {
       "position": 2,
-      "game_name": "Stormforged",
-      "game_identifier": "hacksaw:1243",
-      "emoji": "\u2744\ufe0f",
-      "req_multi": 500.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:1243"
+      "game_name": "Dusk Princess",
+      "game_identifier": "hacksaw:2190",
+      "emoji": "\ud83d\udc78",
+      "req_multi": 200.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2190"
+    },
+    {
+      "position": 3,
+      "game_name": "Eternal Duel",
+      "game_identifier": "hacksaw:2148",
+      "emoji": "\u26a1",
+      "req_multi": 300.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2148"
     }
   ],
   "draft_queue": [
@@ -57,8 +65,30 @@
     "total_participants": 0,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 2
+    "total_games_required": 3
   },
   "participants": [],
-  "payout_history": []
+  "payout_history": [
+    {
+      "year": 2026,
+      "month": 3,
+      "period_key": "2026-03",
+      "winners": [
+        {
+          "username": "Zopipa",
+          "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+          "prize": 5.0,
+          "paid_at": "2026-04-01T01:46:12.318780+00:00"
+        },
+        {
+          "username": "MacMacman",
+          "uid": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+          "prize": 5.0,
+          "paid_at": "2026-04-01T01:46:44.955052+00:00"
+        }
+      ],
+      "total_paid": 10.0,
+      "winner_count": 2
+    }
+  ]
 }
