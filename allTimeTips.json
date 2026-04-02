@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-02T01:48:40.225050+00:00",
-  "last_updated_timestamp": 1775094520,
+  "last_updated": "2026-04-02T01:58:40.123932+00:00",
+  "last_updated_timestamp": 1775095120,
   "summary": {
-    "total_tips_sent": 2886,
-    "total_amount_sent": 91398.56999999999,
+    "total_tips_sent": 2888,
+    "total_amount_sent": 91400.56999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 2905.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 11668.7,
-        "tip_count": 1925
+        "total_amount": 11670.7,
+        "tip_count": 1927
       },
       "weekly_multiplier": {
         "total_amount": 377.0,
@@ -86,8 +86,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 1472.0,
-      "total_tips": 86
+      "total_received": 1474.0,
+      "total_tips": 88
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -393,10 +393,10 @@
           "latest_tip": "2026-03-25T17:45:28.796502"
         },
         "milestone": {
-          "amount": 627.0,
-          "count": 74,
+          "amount": 629.0,
+          "count": 76,
           "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2026-04-02T01:40:07.807101"
+          "latest_tip": "2026-04-02T01:50:40.020869"
         },
         "slot_challenge": {
           "amount": 70.0,
@@ -411,7 +411,7 @@
           "latest_tip": "2026-03-06T22:17:12.012842"
         }
       },
-      "total_received": 1472.0
+      "total_received": 1474.0
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -1472,6 +1472,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
       "username": "ProxyWoxy",
       "tip_type": "milestone",
@@ -1494,16 +1504,6 @@
     {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 1.0,
-      "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
