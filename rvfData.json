@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-02T13:47:31.329807+00:00",
-  "last_updated_timestamp": 1775137651,
+  "last_updated": "2026-04-02T13:57:31.738341+00:00",
+  "last_updated_timestamp": 1775138251,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -118,12 +118,16 @@
     {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "completions": 1,
+      "completions": 2,
       "total_games": 5,
-      "avg_multi": 155.29999999999998,
+      "avg_multi": 110.64999999999998,
       "max_multi": 155.29999999999998,
       "is_winner": false,
       "games": {
+        "hacksaw:2148": {
+          "multi": 65.99999999999999,
+          "met": true
+        },
         "hacksaw:2190": {
           "multi": 155.29999999999998,
           "met": true
