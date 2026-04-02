@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-02T13:07:35.421628+00:00",
-  "last_updated_timestamp": 1775135255,
+  "last_updated": "2026-04-02T13:17:31.092281+00:00",
+  "last_updated_timestamp": 1775135851,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -204,6 +204,10 @@
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
+        "hacksaw:2190": {
+          "multi": 14.899999999999999,
+          "met": false
+        },
         "hacksaw:2195": {
           "multi": 51.199999999999996,
           "met": false
