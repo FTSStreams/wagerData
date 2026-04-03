@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-03T14:44:26.281119+00:00",
-  "last_updated_timestamp": 1775227466,
+  "last_updated": "2026-04-03T14:54:27.259212+00:00",
+  "last_updated_timestamp": 1775228067,
   "summary": {
-    "total_tips_sent": 2928,
-    "total_amount_sent": 92012.57,
+    "total_tips_sent": 2929,
+    "total_amount_sent": 92112.57,
     "by_type": {
       "slot_challenge": {
-        "total_amount": 2905.0,
-        "tip_count": 53
+        "total_amount": 3005.0,
+        "tip_count": 54
       },
       "manual": {
         "total_amount": 54357.87,
@@ -112,6 +112,12 @@
       "total_tips": 67
     },
     {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "total_received": 916.0,
+      "total_tips": 40
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "total_received": 854.0,
@@ -122,12 +128,6 @@
       "username": "Laztheraz",
       "total_received": 853.3,
       "total_tips": 190
-    },
-    {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "total_received": 816.0,
-      "total_tips": 39
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -553,6 +553,43 @@
       "total_received": 1112.0
     },
     {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tips_by_type": {
+        "slot_challenge": {
+          "amount": 725.0,
+          "count": 7,
+          "first_tip": "2026-03-12T19:03:16.256074",
+          "latest_tip": "2026-04-03T14:47:54.207140"
+        },
+        "milestone": {
+          "amount": 96.0,
+          "count": 28,
+          "first_tip": "2026-03-11T08:31:58.886641",
+          "latest_tip": "2026-04-03T13:35:52.471403"
+        },
+        "weekly_multiplier": {
+          "amount": 50.0,
+          "count": 3,
+          "first_tip": "2026-03-20T00:18:37.185917",
+          "latest_tip": "2026-04-03T00:18:52.786420"
+        },
+        "monthly_leaderboard": {
+          "amount": 40.0,
+          "count": 1,
+          "first_tip": "2026-04-01T14:31:54.985268",
+          "latest_tip": "2026-04-01T14:31:54.985268"
+        },
+        "roo_vs_flip": {
+          "amount": 5.0,
+          "count": 1,
+          "first_tip": "2026-04-01T01:46:12.314223",
+          "latest_tip": "2026-04-01T01:46:12.314223"
+        }
+      },
+      "total_received": 916.0
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tips_by_type": {
@@ -619,43 +656,6 @@
         }
       },
       "total_received": 853.3
-    },
-    {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "tips_by_type": {
-        "slot_challenge": {
-          "amount": 625.0,
-          "count": 6,
-          "first_tip": "2026-03-12T19:03:16.256074",
-          "latest_tip": "2026-04-01T03:55:31.727865"
-        },
-        "milestone": {
-          "amount": 96.0,
-          "count": 28,
-          "first_tip": "2026-03-11T08:31:58.886641",
-          "latest_tip": "2026-04-03T13:35:52.471403"
-        },
-        "weekly_multiplier": {
-          "amount": 50.0,
-          "count": 3,
-          "first_tip": "2026-03-20T00:18:37.185917",
-          "latest_tip": "2026-04-03T00:18:52.786420"
-        },
-        "monthly_leaderboard": {
-          "amount": 40.0,
-          "count": 1,
-          "first_tip": "2026-04-01T14:31:54.985268",
-          "latest_tip": "2026-04-01T14:31:54.985268"
-        },
-        "roo_vs_flip": {
-          "amount": 5.0,
-          "count": 1,
-          "first_tip": "2026-04-01T01:46:12.314223",
-          "latest_tip": "2026-04-01T01:46:12.314223"
-        }
-      },
-      "total_received": 816.0
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -1478,6 +1478,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tip_type": "slot_challenge",
+      "month": 4,
+      "year": 2026,
+      "amount": 200.0,
+      "count": 2,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tip_type": "milestone",
@@ -1485,16 +1495,6 @@
       "year": 2026,
       "amount": 116.0,
       "count": 17,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "tip_type": "slot_challenge",
-      "month": 4,
-      "year": 2026,
-      "amount": 100.0,
-      "count": 1,
       "period_key": "2026-04"
     },
     {
