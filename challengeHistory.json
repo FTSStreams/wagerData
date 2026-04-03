@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-03T14:44:26.285895+00:00",
-  "last_updated_timestamp": 1775227466,
-  "total_completed_challenges": 93,
-  "total_prizes_paid": 2905.0,
+  "last_updated": "2026-04-03T14:54:27.263906+00:00",
+  "last_updated_timestamp": 1775228067,
+  "total_completed_challenges": 94,
+  "total_prizes_paid": 3005.0,
   "challenges": [
+    {
+      "challenge_id": 277,
+      "game_name": "Life and Death",
+      "game_identifier": "hacksaw:1460",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 837.6999999999999,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.4,
+        "payout": 335.08,
+        "multiplier_achieved": 837.6999999999999
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-04-03T14:47:54+00:00",
+      "challenge_start_timestamp": 1775227674,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1460"
+    },
     {
       "challenge_id": 270,
       "game_name": "Joker Bombs",
