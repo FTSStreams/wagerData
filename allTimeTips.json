@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-03T05:34:27.816476+00:00",
-  "last_updated_timestamp": 1775194467,
+  "last_updated": "2026-04-03T05:44:27.574759+00:00",
+  "last_updated_timestamp": 1775195067,
   "summary": {
-    "total_tips_sent": 2924,
-    "total_amount_sent": 91973.57,
+    "total_tips_sent": 2925,
+    "total_amount_sent": 91976.57,
     "by_type": {
       "slot_challenge": {
         "total_amount": 2905.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 11773.7,
-        "tip_count": 1953
+        "total_amount": 11776.7,
+        "tip_count": 1954
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -1000,13 +1000,13 @@
       "username": "TheRealMrClean",
       "tips_by_type": {
         "milestone": {
-          "amount": 57.0,
-          "count": 36,
+          "amount": 60.0,
+          "count": 37,
           "first_tip": "2025-12-08T01:14:26.539714",
-          "latest_tip": "2026-04-03T04:25:50.838992"
+          "latest_tip": "2026-04-03T05:35:50.380109"
         }
       },
-      "total_received": 57.0
+      "total_received": 60.0
     },
     {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
@@ -1598,6 +1598,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
+      "username": "TheRealMrClean",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 17.0,
+      "count": 10,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "tip_type": "weekly_multiplier",
@@ -1605,16 +1615,6 @@
       "year": 2026,
       "amount": 15.0,
       "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
-      "username": "TheRealMrClean",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 14.0,
-      "count": 9,
       "period_key": "2026-04"
     },
     {
