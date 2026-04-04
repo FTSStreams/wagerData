@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-04T20:44:40.197039+00:00",
-  "last_updated_timestamp": 1775335480,
+  "last_updated": "2026-04-04T20:54:40.053315+00:00",
+  "last_updated_timestamp": 1775336080,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -85,6 +85,37 @@
   },
   "participants": [
     {
+      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "completions": 4,
+      "total_games": 5,
+      "avg_multi": 352.525,
+      "max_multi": 1041.8,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2148": {
+          "multi": 65.99999999999999,
+          "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 146.99999999999997,
+          "met": true
+        },
+        "hacksaw:2190": {
+          "multi": 155.29999999999998,
+          "met": true
+        },
+        "pragmatic:vs20payanyvol": {
+          "multi": 119.39999999999999,
+          "met": false
+        },
+        "hacksaw:2195": {
+          "multi": 1041.8,
+          "met": true
+        }
+      }
+    },
+    {
       "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "completions": 4,
@@ -111,37 +142,6 @@
         },
         "hacksaw:2195": {
           "multi": 184.4,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "completions": 3,
-      "total_games": 5,
-      "avg_multi": 122.76666666666665,
-      "max_multi": 155.29999999999998,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2148": {
-          "multi": 65.99999999999999,
-          "met": true
-        },
-        "hacksaw:2185": {
-          "multi": 146.99999999999997,
-          "met": true
-        },
-        "hacksaw:2190": {
-          "multi": 155.29999999999998,
-          "met": true
-        },
-        "pragmatic:vs20payanyvol": {
-          "multi": 119.39999999999999,
-          "met": false
-        },
-        "hacksaw:2195": {
-          "multi": 181.0,
           "met": false
         }
       }
