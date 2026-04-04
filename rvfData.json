@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-04T20:54:40.053315+00:00",
-  "last_updated_timestamp": 1775336080,
+  "last_updated": "2026-04-04T21:04:42.574897+00:00",
+  "last_updated_timestamp": 1775336682,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -79,19 +79,19 @@
   ],
   "summary": {
     "total_participants": 8,
-    "current_winners": 0,
-    "prize_per_winner": 0.0,
+    "current_winners": 1,
+    "prize_per_winner": 250.0,
     "total_games_required": 5
   },
   "participants": [
     {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "completions": 4,
+      "completions": 5,
       "total_games": 5,
-      "avg_multi": 352.525,
+      "avg_multi": 479.89,
       "max_multi": 1041.8,
-      "is_winner": false,
+      "is_winner": true,
       "games": {
         "hacksaw:2148": {
           "multi": 65.99999999999999,
@@ -106,8 +106,8 @@
           "met": true
         },
         "pragmatic:vs20payanyvol": {
-          "multi": 119.39999999999999,
-          "met": false
+          "multi": 989.35,
+          "met": true
         },
         "hacksaw:2195": {
           "multi": 1041.8,
