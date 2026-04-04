@@ -1,26 +1,26 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-04T15:31:55.082167+00:00",
-  "last_updated_timestamp": 1775316715,
+  "last_updated": "2026-04-04T15:41:54.944215+00:00",
+  "last_updated_timestamp": 1775317314,
   "summary": {
-    "total_tips_sent": 2955,
-    "total_amount_sent": 94602.57,
+    "total_tips_sent": 2957,
+    "total_amount_sent": 94716.57,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3005.0,
         "tip_count": 54
       },
       "manual": {
-        "total_amount": 56797.87,
-        "tip_count": 764
+        "total_amount": 56897.87,
+        "tip_count": 765
       },
       "roo_vs_flip": {
         "total_amount": 10.0,
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 11862.7,
-        "tip_count": 1968
+        "total_amount": 11876.7,
+        "tip_count": 1969
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -36,8 +36,8 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "total_received": 36313.0,
-      "total_tips": 510
+      "total_received": 36427.0,
+      "total_tips": 512
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -160,10 +160,10 @@
       "username": "fliptheswitchop",
       "tips_by_type": {
         "manual": {
-          "amount": 28806.0,
-          "count": 384,
+          "amount": 28906.0,
+          "count": 385,
           "first_tip": "2026-01-15T05:38:45.927860",
-          "latest_tip": "2026-04-04T14:31:20.668845"
+          "latest_tip": "2026-04-04T15:40:50.582744"
         },
         "monthly_leaderboard": {
           "amount": 6940.0,
@@ -172,10 +172,10 @@
           "latest_tip": "2026-04-01T16:29:53.177492"
         },
         "milestone": {
-          "amount": 409.0,
-          "count": 64,
+          "amount": 423.0,
+          "count": 65,
           "first_tip": "2026-01-05T16:31:36.184125",
-          "latest_tip": "2026-04-03T17:46:19.879080"
+          "latest_tip": "2026-04-04T15:33:21.329334"
         },
         "slot_challenge": {
           "amount": 100.0,
@@ -190,7 +190,7 @@
           "latest_tip": "2026-04-03T00:19:24.869072"
         }
       },
-      "total_received": 36313.0
+      "total_received": 36427.0
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -1433,8 +1433,8 @@
       "tip_type": "manual",
       "month": 4,
       "year": 2026,
-      "amount": 3687.0,
-      "count": 32,
+      "amount": 3787.0,
+      "count": 33,
       "period_key": "2026-04"
     },
     {
@@ -1518,6 +1518,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 48.0,
+      "count": 14,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
       "tip_type": "milestone",
@@ -1535,16 +1545,6 @@
       "year": 2026,
       "amount": 40.0,
       "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 34.0,
-      "count": 13,
       "period_key": "2026-04"
     },
     {
@@ -1568,9 +1568,9 @@
       "period_key": "2026-04"
     },
     {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "tip_type": "weekly_multiplier",
+      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
+      "username": "Jameskobi10",
+      "tip_type": "monthly_leaderboard",
       "month": 4,
       "year": 2026,
       "amount": 25.0,
@@ -1578,9 +1578,9 @@
       "period_key": "2026-04"
     },
     {
-      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
-      "username": "Jameskobi10",
-      "tip_type": "monthly_leaderboard",
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tip_type": "weekly_multiplier",
       "month": 4,
       "year": 2026,
       "amount": 25.0,
