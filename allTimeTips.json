@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-05T03:44:22.028278+00:00",
-  "last_updated_timestamp": 1775360662,
+  "last_updated": "2026-04-05T03:54:22.574212+00:00",
+  "last_updated_timestamp": 1775361262,
   "summary": {
-    "total_tips_sent": 2971,
-    "total_amount_sent": 95713.57,
+    "total_tips_sent": 2972,
+    "total_amount_sent": 95727.57,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3005.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 11908.7,
-        "tip_count": 1974
+        "total_amount": 11922.7,
+        "tip_count": 1975
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -54,8 +54,8 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "total_received": 5613.24,
-      "total_tips": 126
+      "total_received": 5627.24,
+      "total_tips": 127
     },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
@@ -253,10 +253,10 @@
       "username": "slicksloth97",
       "tips_by_type": {
         "milestone": {
-          "amount": 2311.0,
-          "count": 104,
+          "amount": 2325.0,
+          "count": 105,
           "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2026-04-02T21:00:45.689115"
+          "latest_tip": "2026-04-05T03:45:46.869692"
         },
         "monthly_leaderboard": {
           "amount": 2075.0,
@@ -277,7 +277,7 @@
           "latest_tip": "2026-02-27T22:15:08.190777"
         }
       },
-      "total_received": 5613.24
+      "total_received": 5627.24
     },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
@@ -1538,6 +1538,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 48.0,
+      "count": 14,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
       "tip_type": "monthly_leaderboard",
@@ -1545,16 +1555,6 @@
       "year": 2026,
       "amount": 40.0,
       "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 34.0,
-      "count": 13,
       "period_key": "2026-04"
     },
     {
