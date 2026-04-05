@@ -1,18 +1,18 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-05T03:14:23.192466+00:00",
-  "last_updated_timestamp": 1775358863,
+  "last_updated": "2026-04-05T03:24:22.766584+00:00",
+  "last_updated_timestamp": 1775359462,
   "summary": {
-    "total_tips_sent": 2963,
-    "total_amount_sent": 95009.57,
+    "total_tips_sent": 2968,
+    "total_amount_sent": 95519.57,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3005.0,
         "tip_count": 54
       },
       "manual": {
-        "total_amount": 57172.87,
-        "tip_count": 767
+        "total_amount": 57682.87,
+        "tip_count": 772
       },
       "roo_vs_flip": {
         "total_amount": 10.0,
@@ -36,8 +36,8 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "total_received": 36702.0,
-      "total_tips": 514
+      "total_received": 37212.0,
+      "total_tips": 519
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -160,10 +160,10 @@
       "username": "fliptheswitchop",
       "tips_by_type": {
         "manual": {
-          "amount": 29181.0,
-          "count": 387,
+          "amount": 29691.0,
+          "count": 392,
           "first_tip": "2026-01-15T05:38:45.927860",
-          "latest_tip": "2026-04-04T22:10:09.868194"
+          "latest_tip": "2026-04-05T03:24:05.533939"
         },
         "monthly_leaderboard": {
           "amount": 6940.0,
@@ -190,7 +190,7 @@
           "latest_tip": "2026-04-03T00:19:24.869072"
         }
       },
-      "total_received": 36702.0
+      "total_received": 37212.0
     },
     {
       "user_id": "54ba7542-df9e-486e-9491-3c3e124875c1",
@@ -1433,8 +1433,8 @@
       "tip_type": "manual",
       "month": 4,
       "year": 2026,
-      "amount": 4062.0,
-      "count": 35,
+      "amount": 4572.0,
+      "count": 40,
       "period_key": "2026-04"
     },
     {
