@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-06T00:10:13.655007+00:00",
-  "last_updated_timestamp": 1775434213,
+  "last_updated": "2026-04-06T00:20:11.555648+00:00",
+  "last_updated_timestamp": 1775434811,
   "summary": {
-    "total_tips_sent": 2976,
-    "total_amount_sent": 95732.57,
+    "total_tips_sent": 2979,
+    "total_amount_sent": 95736.57,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3005.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 11927.7,
-        "tip_count": 1979
+        "total_amount": 11931.7,
+        "tip_count": 1982
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -78,8 +78,8 @@
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
-      "total_received": 2027.25,
-      "total_tips": 134
+      "total_received": 2029.25,
+      "total_tips": 136
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -90,8 +90,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 1478.0,
-      "total_tips": 91
+      "total_received": 1480.0,
+      "total_tips": 92
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -389,10 +389,10 @@
           "latest_tip": "2026-01-03T16:31:33.667020"
         },
         "milestone": {
-          "amount": 977.25,
-          "count": 122,
+          "amount": 979.25,
+          "count": 124,
           "first_tip": "2025-05-03T16:58:54.015704",
-          "latest_tip": "2026-04-05T23:52:40.115458"
+          "latest_tip": "2026-04-06T00:13:12.873635"
         },
         "manual": {
           "amount": 50.0,
@@ -401,7 +401,7 @@
           "latest_tip": "2026-02-01T16:43:56.289586"
         }
       },
-      "total_received": 2027.25
+      "total_received": 2029.25
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -433,10 +433,10 @@
       "username": "tremor11",
       "tips_by_type": {
         "milestone": {
-          "amount": 633.0,
-          "count": 79,
+          "amount": 635.0,
+          "count": 80,
           "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2026-04-02T03:28:37.136843"
+          "latest_tip": "2026-04-06T00:12:07.599830"
         },
         "monthly_leaderboard": {
           "amount": 525.0,
@@ -463,7 +463,7 @@
           "latest_tip": "2026-03-06T22:17:12.012842"
         }
       },
-      "total_received": 1478.0
+      "total_received": 1480.0
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -1653,8 +1653,8 @@
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
-      "amount": 7.0,
-      "count": 6,
+      "amount": 9.0,
+      "count": 7,
       "period_key": "2026-04"
     },
     {
@@ -1698,6 +1698,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
       "username": "ProxyWoxy",
       "tip_type": "milestone",
@@ -1728,8 +1738,8 @@
       "period_key": "2026-04"
     },
     {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
@@ -1740,16 +1750,6 @@
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 1.0,
-      "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
