@@ -1,8 +1,8 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-07T22:21:12.567547+00:00",
-  "last_updated_timestamp": 1775600472,
-  "total_completed_challenges": 94,
+  "last_updated": "2026-04-07T22:31:11.333817+00:00",
+  "last_updated_timestamp": 1775601071,
+  "total_completed_challenges": 95,
   "total_prizes_paid": 3005.0,
   "challenges": [
     {
@@ -80,6 +80,25 @@
       "challenge_start": "2026-04-01T19:50:48+00:00",
       "challenge_start_timestamp": 1775073048,
       "game_url": "https://roobet.com/casino/game/hacksaw:1233"
+    },
+    {
+      "challenge_id": 267,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2026-04-01T19:48:41+00:00",
+      "challenge_start_timestamp": 1775072921,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
     },
     {
       "challenge_id": 265,
