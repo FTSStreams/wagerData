@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-08T22:46:59.770297+00:00",
-  "last_updated_timestamp": 1775688419,
-  "total_completed_challenges": 96,
-  "total_prizes_paid": 3145.0,
+  "last_updated": "2026-04-08T22:56:59.981464+00:00",
+  "last_updated_timestamp": 1775689019,
+  "total_completed_challenges": 97,
+  "total_prizes_paid": 3285.0,
   "challenges": [
+    {
+      "challenge_id": 279,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 2513.7,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "hotrunners",
+        "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+        "bet_amount": 1.0,
+        "payout": 2513.7,
+        "multiplier_achieved": 2513.7
+      },
+      "prize_amount": 140.0,
+      "challenge_start": "2026-04-08T22:50:12+00:00",
+      "challenge_start_timestamp": 1775688612,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 278,
       "game_name": "Wanted Dead or a Wild",
