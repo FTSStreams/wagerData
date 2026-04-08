@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-08T14:01:13.415734+00:00",
-  "last_updated_timestamp": 1775656873,
-  "total_completed_challenges": 95,
-  "total_prizes_paid": 3005.0,
+  "last_updated": "2026-04-08T14:11:10.712274+00:00",
+  "last_updated_timestamp": 1775657470,
+  "total_completed_challenges": 96,
+  "total_prizes_paid": 3145.0,
   "challenges": [
+    {
+      "challenge_id": 278,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 994.9000000000002,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "flipmiller",
+        "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+        "bet_amount": 0.4327833378,
+        "payout": 430.57614277722007,
+        "multiplier_achieved": 994.9000000000002
+      },
+      "prize_amount": 140.0,
+      "challenge_start": "2026-04-08T14:04:28+00:00",
+      "challenge_start_timestamp": 1775657068,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 277,
       "game_name": "Life and Death",
