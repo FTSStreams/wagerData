@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-08T23:37:19.085819+00:00",
-  "last_updated_timestamp": 1775691439,
+  "last_updated": "2026-04-08T23:47:19.774907+00:00",
+  "last_updated_timestamp": 1775692039,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -149,26 +149,26 @@
     {
       "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
-      "completions": 1,
+      "completions": 4,
       "total_games": 5,
-      "avg_multi": 290.2,
+      "avg_multi": 204.77499999999998,
       "max_multi": 290.2,
       "is_winner": false,
       "games": {
         "hacksaw:2148": {
-          "multi": 27.5,
-          "met": false
+          "multi": 61.6,
+          "met": true
         },
         "hacksaw:2185": {
-          "multi": 45.49999999999999,
-          "met": false
+          "multi": 284.59999999999997,
+          "met": true
         },
         "hacksaw:2190": {
-          "multi": 102.2,
-          "met": false
+          "multi": 182.7,
+          "met": true
         },
         "pragmatic:vs20payanyvol": {
-          "multi": 49.05,
+          "multi": 100.0,
           "met": false
         },
         "hacksaw:2195": {
