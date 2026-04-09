@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-04-09T23:18:22.283216+00:00",
-  "last_updated_timestamp": 1775776702,
-  "total_challenges": 8,
+  "last_updated": "2026-04-09T23:28:21.818466+00:00",
+  "last_updated_timestamp": 1775777301,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 241,
@@ -107,6 +107,19 @@
       "emoji": "\ud83d\udca3",
       "min_bet": 0.2,
       "start_timestamp": 1775076030
+    },
+    {
+      "challenge_id": 280,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-04-09T23:24:49+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\uddcc",
+      "min_bet": 0.4,
+      "start_timestamp": 1775777089
     }
   ]
 }
