@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-09T12:47:00.171966+00:00",
-  "last_updated_timestamp": 1775738820,
+  "last_updated": "2026-04-09T12:57:14.622961+00:00",
+  "last_updated_timestamp": 1775739434,
   "summary": {
-    "total_tips_sent": 3058,
-    "total_amount_sent": 96631.57,
+    "total_tips_sent": 3059,
+    "total_amount_sent": 96632.57,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3285.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 12196.7,
-        "tip_count": 2053
+        "total_amount": 12197.7,
+        "tip_count": 2054
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -1190,10 +1190,10 @@
       "username": "Alxxwilson",
       "tips_by_type": {
         "milestone": {
-          "amount": 25.0,
-          "count": 14,
+          "amount": 26.0,
+          "count": 15,
           "first_tip": "2026-03-16T18:33:37.189084",
-          "latest_tip": "2026-04-09T12:29:03.702887"
+          "latest_tip": "2026-04-09T12:48:28.270624"
         },
         "manual": {
           "amount": 10.0,
@@ -1202,7 +1202,7 @@
           "latest_tip": "2026-03-18T15:18:39.745152"
         }
       },
-      "total_received": 35.0
+      "total_received": 36.0
     },
     {
       "user_id": "2927b33c-7e56-42ac-b2a1-d888adc6d899",
@@ -1836,6 +1836,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
+      "username": "Alxxwilson",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
       "tip_type": "milestone",
@@ -1853,16 +1863,6 @@
       "year": 2026,
       "amount": 3.0,
       "count": 3,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
-      "username": "Alxxwilson",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 2.0,
-      "count": 2,
       "period_key": "2026-04"
     },
     {
