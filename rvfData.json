@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-09T02:27:19.514525+00:00",
-  "last_updated_timestamp": 1775701639,
+  "last_updated": "2026-04-09T02:37:21.312739+00:00",
+  "last_updated_timestamp": 1775702241,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -79,8 +79,8 @@
   ],
   "summary": {
     "total_participants": 11,
-    "current_winners": 1,
-    "prize_per_winner": 250.0,
+    "current_winners": 2,
+    "prize_per_winner": 125.0,
     "total_games_required": 5
   },
   "participants": [
@@ -116,6 +116,37 @@
       }
     },
     {
+      "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
+      "completions": 5,
+      "total_games": 5,
+      "avg_multi": 263.22999999999996,
+      "max_multi": 497.04999999999995,
+      "is_winner": true,
+      "games": {
+        "hacksaw:2148": {
+          "multi": 61.6,
+          "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 284.59999999999997,
+          "met": true
+        },
+        "hacksaw:2190": {
+          "multi": 182.7,
+          "met": true
+        },
+        "pragmatic:vs20payanyvol": {
+          "multi": 497.04999999999995,
+          "met": true
+        },
+        "hacksaw:2195": {
+          "multi": 290.2,
+          "met": true
+        }
+      }
+    },
+    {
       "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "completions": 4,
@@ -143,37 +174,6 @@
         "hacksaw:2195": {
           "multi": 184.4,
           "met": false
-        }
-      }
-    },
-    {
-      "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
-      "completions": 4,
-      "total_games": 5,
-      "avg_multi": 204.77499999999998,
-      "max_multi": 290.2,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2148": {
-          "multi": 61.6,
-          "met": true
-        },
-        "hacksaw:2185": {
-          "multi": 284.59999999999997,
-          "met": true
-        },
-        "hacksaw:2190": {
-          "multi": 182.7,
-          "met": true
-        },
-        "pragmatic:vs20payanyvol": {
-          "multi": 146.2,
-          "met": false
-        },
-        "hacksaw:2195": {
-          "multi": 290.2,
-          "met": true
         }
       }
     },
