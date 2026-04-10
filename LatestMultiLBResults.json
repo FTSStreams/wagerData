@@ -1,42 +1,42 @@
 {
   "leaderboard_type": "weekly_multiplier",
   "period": {
-    "start_date": "2026-04-03T00:00:00+00:00",
-    "end_date": "2026-04-09T23:59:59.999999+00:00",
-    "start_timestamp": 1775174400,
-    "end_timestamp": 1775779199
+    "start_date": "2026-04-10T00:00:00+00:00",
+    "end_date": "2026-04-16T23:59:59.999999+00:00",
+    "start_timestamp": 1775779200,
+    "end_timestamp": 1776383999
   },
-  "last_updated": "2026-04-09T23:58:23.714802+00:00",
-  "last_updated_timestamp": 1775779103,
+  "last_updated": "2026-04-10T00:08:23.440577+00:00",
+  "last_updated_timestamp": 1775779703,
   "entries": [
     {
       "rank": 1,
-      "username": "hotrunners",
-      "multiplier": 2513.7,
-      "game": "Wanted Dead or a Wild",
+      "username": "MacMacman",
+      "multiplier": 9.2,
+      "game": "Gigantoonz",
       "game_identifier": null,
-      "wagered": 1,
-      "payout": 2513.7,
+      "wagered": 5,
+      "payout": 46,
       "prize": 25
     },
     {
       "rank": 2,
-      "username": "MacMacman",
-      "multiplier": 1189.1,
-      "game": "Gigantoonz",
+      "username": "N/A",
+      "multiplier": 0,
+      "game": "Unknown",
       "game_identifier": null,
-      "wagered": 0.2,
-      "payout": 237.82,
+      "wagered": 0,
+      "payout": 0,
       "prize": 15
     },
     {
       "rank": 3,
-      "username": "smithloic2",
-      "multiplier": 1070.6478754610882,
-      "game": "Miami Mayhem",
+      "username": "N/A",
+      "multiplier": 0,
+      "game": "Unknown",
       "game_identifier": null,
-      "wagered": 0.43342892844,
-      "payout": 464.04976139766205,
+      "wagered": 0,
+      "payout": 0,
       "prize": 10
     }
   ]
