@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-13T15:19:39.917285+00:00",
-  "last_updated_timestamp": 1776093579,
+  "last_updated": "2026-04-13T15:28:24.379351+00:00",
+  "last_updated_timestamp": 1776094104,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -78,23 +78,27 @@
     }
   ],
   "summary": {
-    "total_participants": 11,
-    "current_winners": 0,
-    "prize_per_winner": 0.0,
+    "total_participants": 12,
+    "current_winners": 2,
+    "prize_per_winner": 125.0,
     "total_games_required": 5
   },
   "participants": [
     {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "completions": 4,
+      "completions": 5,
       "total_games": 5,
-      "avg_multi": 563.1125,
+      "avg_multi": 479.89,
       "max_multi": 1041.8,
-      "is_winner": false,
+      "is_winner": true,
       "games": {
         "hacksaw:2148": {
           "multi": 65.99999999999999,
+          "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 146.99999999999997,
           "met": true
         },
         "hacksaw:2190": {
@@ -114,14 +118,18 @@
     {
       "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
-      "completions": 4,
+      "completions": 5,
       "total_games": 5,
-      "avg_multi": 257.8875,
+      "avg_multi": 263.22999999999996,
       "max_multi": 497.04999999999995,
-      "is_winner": false,
+      "is_winner": true,
       "games": {
         "hacksaw:2148": {
           "multi": 61.6,
+          "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 284.59999999999997,
           "met": true
         },
         "hacksaw:2190": {
@@ -141,14 +149,18 @@
     {
       "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "completions": 3,
+      "completions": 4,
       "total_games": 5,
-      "avg_multi": 171.91111111111113,
-      "max_multi": 250.0,
+      "avg_multi": 307.0083333333333,
+      "max_multi": 712.3,
       "is_winner": false,
       "games": {
         "hacksaw:2148": {
           "multi": 84.23333333333333,
+          "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 712.3,
           "met": true
         },
         "hacksaw:2190": {
@@ -192,6 +204,10 @@
         "hacksaw:2148": {
           "multi": 153.33333333333331,
           "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 0.3799958995353719,
+          "met": false
         },
         "pragmatic:vs20payanyvol": {
           "multi": 38.5,
@@ -254,6 +270,10 @@
           "multi": 54.73333333333334,
           "met": true
         },
+        "hacksaw:2185": {
+          "multi": 97.22,
+          "met": false
+        },
         "pragmatic:vs20payanyvol": {
           "multi": 48.65,
           "met": false
@@ -273,27 +293,16 @@
           "multi": 32.56666666666667,
           "met": false
         },
+        "hacksaw:2185": {
+          "multi": 1.44,
+          "met": false
+        },
         "pragmatic:vs20payanyvol": {
           "multi": 31.479999999999997,
           "met": false
         },
         "hacksaw:2195": {
           "multi": 49.51942287543241,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2190": {
-          "multi": 60.3,
           "met": false
         }
       }
@@ -307,8 +316,46 @@
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
+        "hacksaw:2185": {
+          "multi": 0.7,
+          "met": false
+        },
         "hacksaw:2195": {
           "multi": 30.599999999999998,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2185": {
+          "multi": 5.935,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2185": {
+          "multi": 0.2,
+          "met": false
+        },
+        "hacksaw:2190": {
+          "multi": 60.3,
           "met": false
         }
       }
