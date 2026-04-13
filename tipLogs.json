@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-04-13T19:49:50.279338+00:00",
-  "last_updated_timestamp": 1776109790,
-  "total_tips": 3155,
+  "last_updated": "2026-04-13T19:59:51.013252+00:00",
+  "last_updated_timestamp": 1776110391,
+  "total_tips": 3156,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "amount": 27.0,
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "period_key": "2026-04",
+      "tipped_at": "2026-04-13T19:51:12.249300"
+    },
     {
       "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
       "username": "Alxxwilson",
@@ -28917,10 +28927,40 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
       "username": "enimatekkkk",
       "amount": 300.0,
       "tip_type": "monthly_leaderboard",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "amount": 40.0,
+      "tip_type": "manual",
       "month": 7,
       "year": 2025,
       "period_key": "2025-07",
@@ -28957,39 +28997,9 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "amount": 40.0,
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
       "amount": 30.0,
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
-      "amount": 25.0,
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "amount": 5.0,
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
