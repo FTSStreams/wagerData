@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-04-15T00:55:58.612972+00:00",
-  "last_updated_timestamp": 1776214558,
-  "total_tips": 3168,
+  "last_updated": "2026-04-15T01:05:59.085689+00:00",
+  "last_updated_timestamp": 1776215159,
+  "total_tips": 3169,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 2.0,
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "period_key": "2026-04",
+      "tipped_at": "2026-04-15T00:57:27.038483"
+    },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
@@ -29027,9 +29037,9 @@
       "tipped_at": "2025-07-03T02:55:34.943377"
     },
     {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
-      "amount": 300.0,
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 125.0,
       "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2025,
@@ -29117,9 +29127,9 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
-      "amount": 125.0,
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "amount": 300.0,
       "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2025,
