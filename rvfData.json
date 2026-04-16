@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-16T02:14:15.446874+00:00",
-  "last_updated_timestamp": 1776305655,
+  "last_updated": "2026-04-16T02:24:30.205849+00:00",
+  "last_updated_timestamp": 1776306270,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -178,6 +178,29 @@
       }
     },
     {
+      "uid": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
+      "completions": 2,
+      "total_games": 5,
+      "avg_multi": 196.28791513821702,
+      "max_multi": 315.71,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2148": {
+          "multi": 76.86583027643405,
+          "met": true
+        },
+        "hacksaw:2185": {
+          "multi": 97.22,
+          "met": false
+        },
+        "pragmatic:vs20payanyvol": {
+          "multi": 315.71,
+          "met": true
+        }
+      }
+    },
+    {
       "uid": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "completions": 1,
@@ -253,29 +276,6 @@
         },
         "pragmatic:vs20payanyvol": {
           "multi": 7.449999999999999,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
-      "username": "smithloic2",
-      "completions": 1,
-      "total_games": 5,
-      "avg_multi": 76.86583027643405,
-      "max_multi": 76.86583027643405,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2148": {
-          "multi": 76.86583027643405,
-          "met": true
-        },
-        "hacksaw:2185": {
-          "multi": 97.22,
-          "met": false
-        },
-        "pragmatic:vs20payanyvol": {
-          "multi": 48.65,
           "met": false
         }
       }
