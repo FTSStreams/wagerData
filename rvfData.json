@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-17T02:21:12.130536+00:00",
-  "last_updated_timestamp": 1776392472,
+  "last_updated": "2026-04-17T02:31:14.930638+00:00",
+  "last_updated_timestamp": 1776393074,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -78,7 +78,7 @@
     }
   ],
   "summary": {
-    "total_participants": 12,
+    "total_participants": 13,
     "current_winners": 3,
     "prize_per_winner": 83.34,
     "total_games_required": 5
@@ -356,6 +356,21 @@
         },
         "hacksaw:2190": {
           "multi": 60.3,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2195": {
+          "multi": 2.0,
           "met": false
         }
       }
