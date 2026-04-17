@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-17T18:42:50.765899+00:00",
-  "last_updated_timestamp": 1776451370,
+  "last_updated": "2026-04-17T18:52:50.783220+00:00",
+  "last_updated_timestamp": 1776451970,
   "summary": {
-    "total_tips_sent": 3193,
-    "total_amount_sent": 104265.71999999999,
+    "total_tips_sent": 3194,
+    "total_amount_sent": 104266.71999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3585.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 13470.7,
-        "tip_count": 2116
+        "total_amount": 13471.7,
+        "tip_count": 2117
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -1476,6 +1476,19 @@
       "total_received": 3.0
     },
     {
+      "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
+      "username": "pastoor69",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2026-04-17T18:24:19.700711",
+          "latest_tip": "2026-04-17T18:44:19.494280"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
       "user_id": "656fe910-1f0d-4bc3-b93f-66e28794facd",
       "username": "mirrosi",
       "tips_by_type": {
@@ -1500,19 +1513,6 @@
         }
       },
       "total_received": 2.5
-    },
-    {
-      "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
-      "username": "pastoor69",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-04-17T18:24:19.700711",
-          "latest_tip": "2026-04-17T18:34:19.464028"
-        }
-      },
-      "total_received": 2.0
     }
   ],
   "monthly_breakdown": [
@@ -1992,8 +1992,8 @@
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-04"
     },
     {
