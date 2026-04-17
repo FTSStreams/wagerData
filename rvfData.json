@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-17T02:51:11.758699+00:00",
-  "last_updated_timestamp": 1776394271,
+  "last_updated": "2026-04-17T03:01:21.504690+00:00",
+  "last_updated_timestamp": 1776394881,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -308,6 +308,29 @@
       }
     },
     {
+      "uid": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2148": {
+          "multi": 1.4666666666666668,
+          "met": false
+        },
+        "hacksaw:2185": {
+          "multi": 0.12,
+          "met": false
+        },
+        "hacksaw:2195": {
+          "multi": 2.0,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "completions": 0,
@@ -322,25 +345,6 @@
         },
         "hacksaw:2195": {
           "multi": 30.599999999999998,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2185": {
-          "multi": 0.12,
-          "met": false
-        },
-        "hacksaw:2195": {
-          "multi": 2.0,
           "met": false
         }
       }
