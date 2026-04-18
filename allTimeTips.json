@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-18T01:42:51.004121+00:00",
-  "last_updated_timestamp": 1776476571,
+  "last_updated": "2026-04-18T01:52:50.942022+00:00",
+  "last_updated_timestamp": 1776477170,
   "summary": {
-    "total_tips_sent": 3199,
-    "total_amount_sent": 104271.71999999999,
+    "total_tips_sent": 3201,
+    "total_amount_sent": 104273.71999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3585.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 13476.7,
-        "tip_count": 2122
+        "total_amount": 13478.7,
+        "tip_count": 2124
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -126,8 +126,8 @@
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
-      "total_received": 862.3,
-      "total_tips": 197
+      "total_received": 863.3,
+      "total_tips": 198
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -625,10 +625,10 @@
       "username": "Laztheraz",
       "tips_by_type": {
         "milestone": {
-          "amount": 507.3,
-          "count": 187,
+          "amount": 508.3,
+          "count": 188,
           "first_tip": "2025-05-04T22:21:44.901915",
-          "latest_tip": "2026-04-14T21:17:27.122335"
+          "latest_tip": "2026-04-18T01:44:50.713892"
         },
         "monthly_leaderboard": {
           "amount": 245.0,
@@ -655,7 +655,7 @@
           "latest_tip": "2026-03-27T00:16:43.038589"
         }
       },
-      "total_received": 862.3
+      "total_received": 863.3
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -1385,6 +1385,19 @@
       "total_received": 10.0
     },
     {
+      "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
+      "username": "pastoor69",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 8.0,
+          "count": 8,
+          "first_tip": "2026-04-17T18:24:19.700711",
+          "latest_tip": "2026-04-18T01:44:18.312830"
+        }
+      },
+      "total_received": 8.0
+    },
+    {
       "user_id": "e8ef4046-c279-4867-9056-979df9908c63",
       "username": "FlipTheNutty69",
       "tips_by_type": {
@@ -1406,19 +1419,6 @@
           "count": 6,
           "first_tip": "2026-03-09T19:29:15.148775",
           "latest_tip": "2026-03-10T04:15:39.325739"
-        }
-      },
-      "total_received": 7.0
-    },
-    {
-      "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
-      "username": "pastoor69",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 7.0,
-          "count": 7,
-          "first_tip": "2026-04-17T18:24:19.700711",
-          "latest_tip": "2026-04-18T01:34:53.352859"
         }
       },
       "total_received": 7.0
@@ -1877,8 +1877,8 @@
       "period_key": "2026-04"
     },
     {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
@@ -1917,6 +1917,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 10.0,
+      "count": 8,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
       "username": "smithloic2",
       "tip_type": "weekly_multiplier",
@@ -1927,23 +1937,13 @@
       "period_key": "2026-04"
     },
     {
-      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-      "username": "Laztheraz",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 9.0,
-      "count": 7,
-      "period_key": "2026-04"
-    },
-    {
       "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
       "username": "pastoor69",
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
-      "amount": 7.0,
-      "count": 7,
+      "amount": 8.0,
+      "count": 8,
       "period_key": "2026-04"
     },
     {
