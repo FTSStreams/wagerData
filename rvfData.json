@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-18T09:03:54.524826+00:00",
-  "last_updated_timestamp": 1776503034,
+  "last_updated": "2026-04-18T09:13:52.012717+00:00",
+  "last_updated_timestamp": 1776503632,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -234,6 +234,10 @@
         },
         "hacksaw:2185": {
           "multi": 15.0,
+          "met": false
+        },
+        "hacksaw:2190": {
+          "multi": 2.8000000000000003,
           "met": false
         },
         "pragmatic:vs20payanyvol": {
