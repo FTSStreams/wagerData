@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-18T06:13:30.418069+00:00",
-  "last_updated_timestamp": 1776492810,
-  "total_completed_challenges": 100,
-  "total_prizes_paid": 3585.0,
+  "last_updated": "2026-04-18T06:23:30.540305+00:00",
+  "last_updated_timestamp": 1776493410,
+  "total_completed_challenges": 101,
+  "total_prizes_paid": 3695.0,
   "challenges": [
+    {
+      "challenge_id": 241,
+      "game_name": "Hot Ross",
+      "game_identifier": "hacksaw:2062",
+      "required_multiplier": 700.0,
+      "achieved_multiplier": 856.0999999999999,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.2,
+        "payout": 171.22,
+        "multiplier_achieved": 856.0999999999999
+      },
+      "prize_amount": 110.0,
+      "challenge_start": "2026-04-18T06:15:11+00:00",
+      "challenge_start_timestamp": 1776492911,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2062"
+    },
     {
       "challenge_id": 272,
       "game_name": "Stormforged",
