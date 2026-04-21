@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-21T18:57:31.144227+00:00",
-  "last_updated_timestamp": 1776797851,
+  "last_updated": "2026-04-21T19:07:33.112427+00:00",
+  "last_updated_timestamp": 1776798453,
   "summary": {
-    "total_tips_sent": 3246,
-    "total_amount_sent": 107651.72,
+    "total_tips_sent": 3247,
+    "total_amount_sent": 107671.72,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3695.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 13606.7,
-        "tip_count": 2143
+        "total_amount": 13626.7,
+        "tip_count": 2144
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -926,6 +926,25 @@
       "total_received": 165.0
     },
     {
+      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 146.0,
+          "count": 28,
+          "first_tip": "2026-03-24T14:51:51.038188",
+          "latest_tip": "2026-04-21T18:58:59.634381"
+        },
+        "weekly_multiplier": {
+          "amount": 10.0,
+          "count": 1,
+          "first_tip": "2026-04-10T00:19:01.814651",
+          "latest_tip": "2026-04-10T00:19:01.814651"
+        }
+      },
+      "total_received": 156.0
+    },
+    {
       "user_id": "7c1a32bb-a6e7-49c6-a708-27191e5dc005",
       "username": "MrWickk",
       "tips_by_type": {
@@ -949,25 +968,6 @@
         }
       },
       "total_received": 143.0
-    },
-    {
-      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
-      "username": "smithloic2",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 126.0,
-          "count": 27,
-          "first_tip": "2026-03-24T14:51:51.038188",
-          "latest_tip": "2026-04-20T12:49:12.280742"
-        },
-        "weekly_multiplier": {
-          "amount": 10.0,
-          "count": 1,
-          "first_tip": "2026-04-10T00:19:01.814651",
-          "latest_tip": "2026-04-10T00:19:01.814651"
-        }
-      },
-      "total_received": 136.0
     },
     {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
@@ -1670,8 +1670,8 @@
       "tip_type": "milestone",
       "month": 4,
       "year": 2026,
-      "amount": 109.0,
-      "count": 17,
+      "amount": 129.0,
+      "count": 18,
       "period_key": "2026-04"
     },
     {
