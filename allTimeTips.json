@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-22T03:27:30.857528+00:00",
-  "last_updated_timestamp": 1776828450,
+  "last_updated": "2026-04-22T03:37:41.149999+00:00",
+  "last_updated_timestamp": 1776829061,
   "summary": {
-    "total_tips_sent": 3250,
-    "total_amount_sent": 107821.72,
+    "total_tips_sent": 3251,
+    "total_amount_sent": 107823.72,
     "by_type": {
       "slot_challenge": {
         "total_amount": 3695.0,
@@ -19,8 +19,8 @@
         "tip_count": 2
       },
       "milestone": {
-        "total_amount": 13666.7,
-        "tip_count": 2145
+        "total_amount": 13668.7,
+        "tip_count": 2146
       },
       "monthly_leaderboard": {
         "total_amount": 22500.0,
@@ -1033,6 +1033,19 @@
       "total_received": 87.0
     },
     {
+      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
+      "username": "TheRealMrClean",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 65.0,
+          "count": 39,
+          "first_tip": "2025-12-08T01:14:26.539714",
+          "latest_tip": "2026-04-22T03:28:59.430924"
+        }
+      },
+      "total_received": 65.0
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tips_by_type": {
@@ -1075,19 +1088,6 @@
         }
       },
       "total_received": 64.0
-    },
-    {
-      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
-      "username": "TheRealMrClean",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 63.0,
-          "count": 38,
-          "first_tip": "2025-12-08T01:14:26.539714",
-          "latest_tip": "2026-04-13T02:48:43.401274"
-        }
-      },
-      "total_received": 63.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -1825,6 +1825,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
+      "username": "TheRealMrClean",
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "amount": 22.0,
+      "count": 12,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "c349e2e3-ce5c-4587-9d64-9901a2ae9eb5",
       "username": "Lunglolly",
       "tip_type": "manual",
@@ -1842,16 +1852,6 @@
       "year": 2026,
       "amount": 20.0,
       "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
-      "username": "TheRealMrClean",
-      "tip_type": "milestone",
-      "month": 4,
-      "year": 2026,
-      "amount": 20.0,
-      "count": 11,
       "period_key": "2026-04"
     },
     {
