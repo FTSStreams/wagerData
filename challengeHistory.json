@@ -1,10 +1,48 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-22T11:59:48.494333+00:00",
-  "last_updated_timestamp": 1776859188,
-  "total_completed_challenges": 101,
-  "total_prizes_paid": 3695.0,
+  "last_updated": "2026-04-22T12:09:46.943551+00:00",
+  "last_updated_timestamp": 1776859786,
+  "total_completed_challenges": 103,
+  "total_prizes_paid": 3895.0,
   "challenges": [
+    {
+      "challenge_id": 280,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 983.3,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.4,
+        "payout": 393.32,
+        "multiplier_achieved": 983.3
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-04-22T12:02:38+00:00",
+      "challenge_start_timestamp": 1776859358,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
+    {
+      "challenge_id": 273,
+      "game_name": "Mystery Bats",
+      "game_identifier": "hacksaw:1895",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1157.0,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.4,
+        "payout": 462.8,
+        "multiplier_achieved": 1157.0
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-04-22T12:01:51+00:00",
+      "challenge_start_timestamp": 1776859311,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1895"
+    },
     {
       "challenge_id": 241,
       "game_name": "Hot Ross",
