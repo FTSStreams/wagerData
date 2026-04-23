@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-04-23T02:39:44.262078+00:00",
-  "last_updated_timestamp": 1776911984,
-  "total_tips": 3267,
+  "last_updated": "2026-04-23T02:49:43.991198+00:00",
+  "last_updated_timestamp": 1776912583,
+  "total_tips": 3268,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "amount": 125.0,
+      "tip_type": "slot_challenge",
+      "month": 4,
+      "year": 2026,
+      "period_key": "2026-04",
+      "tipped_at": "2026-04-23T02:42:22.450008"
+    },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
