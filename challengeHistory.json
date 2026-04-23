@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-23T02:39:44.272010+00:00",
-  "last_updated_timestamp": 1776911984,
-  "total_completed_challenges": 103,
-  "total_prizes_paid": 3895.0,
+  "last_updated": "2026-04-23T02:49:44.001064+00:00",
+  "last_updated_timestamp": 1776912584,
+  "total_completed_challenges": 104,
+  "total_prizes_paid": 4020.0,
   "challenges": [
+    {
+      "challenge_id": 283,
+      "game_name": "The Count",
+      "game_identifier": "hacksaw:1803",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1759.7999999999997,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.4,
+        "payout": 703.92,
+        "multiplier_achieved": 1759.7999999999997
+      },
+      "prize_amount": 125.0,
+      "challenge_start": "2026-04-23T02:42:22+00:00",
+      "challenge_start_timestamp": 1776912142,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1803"
+    },
     {
       "challenge_id": 280,
       "game_name": "Gigantoonz",
