@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-04-23T23:58:57.890670+00:00",
-  "last_updated_timestamp": 1776988737,
+  "last_updated": "2026-04-24T00:08:56.034324+00:00",
+  "last_updated_timestamp": 1776989336,
   "current_period": {
     "event_start": "2026-04-01T00:00:00+00:00",
     "event_start_timestamp": 1775001600,
@@ -196,6 +196,21 @@
         },
         "pragmatic:vs20payanyvol": {
           "multi": 315.71,
+          "met": true
+        }
+      }
+    },
+    {
+      "uid": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 285.25,
+      "max_multi": 285.25,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20payanyvol": {
+          "multi": 285.25,
           "met": true
         }
       }
@@ -422,21 +437,6 @@
         },
         "hacksaw:2190": {
           "multi": 60.3,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20payanyvol": {
-          "multi": 67.0,
           "met": false
         }
       }
