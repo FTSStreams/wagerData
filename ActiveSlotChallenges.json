@@ -1,7 +1,7 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-04-25T20:06:59.461733+00:00",
-  "last_updated_timestamp": 1777147619,
+  "last_updated": "2026-04-25T20:16:59.116448+00:00",
+  "last_updated_timestamp": 1777148219,
   "total_challenges": 9,
   "challenges": [
     {
@@ -70,19 +70,6 @@
       "start_timestamp": 1775076030
     },
     {
-      "challenge_id": 298,
-      "game_identifier": "playngo:gigantoonz",
-      "game_name": "Gigantoonz",
-      "required_multiplier": 750.0,
-      "prize": 100.0,
-      "start_time": "2026-04-23T14:30:26+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83d\udc79",
-      "min_bet": 0.4,
-      "start_timestamp": 1776954626
-    },
-    {
       "challenge_id": 299,
       "game_identifier": "hacksaw:1067",
       "game_name": "Wanted Dead or a Wild",
@@ -120,6 +107,19 @@
       "emoji": "\ud83d\udc30",
       "min_bet": 0.2,
       "start_timestamp": 1776954764
+    },
+    {
+      "challenge_id": 305,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-04-25T20:12:22+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc79",
+      "min_bet": 0.4,
+      "start_timestamp": 1777147942
     }
   ]
 }
