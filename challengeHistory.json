@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-25T09:17:01.012655+00:00",
-  "last_updated_timestamp": 1777108621,
-  "total_completed_challenges": 105,
-  "total_prizes_paid": 4020.0,
+  "last_updated": "2026-04-25T09:27:01.165781+00:00",
+  "last_updated_timestamp": 1777109221,
+  "total_completed_challenges": 106,
+  "total_prizes_paid": 4120.0,
   "challenges": [
+    {
+      "challenge_id": 302,
+      "game_name": "Stormforged",
+      "game_identifier": "hacksaw:1243",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 973.3,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 0.2,
+        "payout": 194.66,
+        "multiplier_achieved": 973.3
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-04-25T09:20:27+00:00",
+      "challenge_start_timestamp": 1777108827,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1243"
+    },
     {
       "challenge_id": 301,
       "game_name": "Stormforged",
