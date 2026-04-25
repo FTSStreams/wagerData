@@ -1,10 +1,48 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-04-25T20:07:01.713487+00:00",
-  "last_updated_timestamp": 1777147621,
-  "total_completed_challenges": 106,
-  "total_prizes_paid": 4120.0,
+  "last_updated": "2026-04-25T20:17:00.854092+00:00",
+  "last_updated_timestamp": 1777148220,
+  "total_completed_challenges": 108,
+  "total_prizes_paid": 4220.0,
   "challenges": [
+    {
+      "challenge_id": 304,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo_gigantoonz",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2026-04-25T20:10:58+00:00",
+      "challenge_start_timestamp": 1777147858,
+      "game_url": "https://roobet.com/casino/game/playngo_gigantoonz"
+    },
+    {
+      "challenge_id": 298,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1966.1,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "fliptheswitchop",
+        "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+        "bet_amount": 0.7310743137,
+        "payout": 1437.3652081655698,
+        "multiplier_achieved": 1966.1
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-04-25T20:09:39+00:00",
+      "challenge_start_timestamp": 1777147779,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
     {
       "challenge_id": 302,
       "game_name": "Stormforged",
