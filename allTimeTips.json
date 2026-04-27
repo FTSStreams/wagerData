@@ -1,18 +1,18 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-27T21:32:33.031692+00:00",
-  "last_updated_timestamp": 1777325553,
+  "last_updated": "2026-04-27T21:42:33.199722+00:00",
+  "last_updated_timestamp": 1777326153,
   "summary": {
-    "total_tips_sent": 3335,
-    "total_amount_sent": 117424.72,
+    "total_tips_sent": 3336,
+    "total_amount_sent": 117499.72,
     "by_type": {
       "slot_challenge": {
         "total_amount": 4320.0,
         "tip_count": 66
       },
       "manual": {
-        "total_amount": 75961.02,
-        "tip_count": 932
+        "total_amount": 76036.02,
+        "tip_count": 933
       },
       "roo_vs_flip": {
         "total_amount": 10.0,
@@ -60,8 +60,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 5394.85,
-      "total_tips": 176
+      "total_received": 5469.85,
+      "total_tips": 177
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -296,10 +296,10 @@
           "latest_tip": "2026-04-26T21:14:31.259841"
         },
         "manual": {
-          "amount": 773.0,
-          "count": 10,
+          "amount": 848.0,
+          "count": 11,
           "first_tip": "2025-06-24T22:32:45.061617",
-          "latest_tip": "2026-04-01T14:28:53.717542"
+          "latest_tip": "2026-04-27T21:34:20.395769"
         },
         "monthly_leaderboard": {
           "amount": 525.0,
@@ -320,7 +320,7 @@
           "latest_tip": "2026-04-01T01:46:44.950482"
         }
       },
-      "total_received": 5394.85
+      "total_received": 5469.85
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -1565,6 +1565,16 @@
       "period_key": "2026-04"
     },
     {
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "tip_type": "manual",
+      "month": 4,
+      "year": 2026,
+      "amount": 350.0,
+      "count": 2,
+      "period_key": "2026-04"
+    },
+    {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "tip_type": "monthly_leaderboard",
@@ -1591,16 +1601,6 @@
       "month": 4,
       "year": 2026,
       "amount": 300.0,
-      "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "tip_type": "manual",
-      "month": 4,
-      "year": 2026,
-      "amount": 275.0,
       "count": 1,
       "period_key": "2026-04"
     },
