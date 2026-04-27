@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-04-27T20:32:34.502503+00:00",
-  "last_updated_timestamp": 1777321954,
+  "last_updated": "2026-04-27T20:42:33.550692+00:00",
+  "last_updated_timestamp": 1777322553,
   "summary": {
-    "total_tips_sent": 3334,
-    "total_amount_sent": 117324.72,
+    "total_tips_sent": 3335,
+    "total_amount_sent": 117424.72,
     "by_type": {
       "slot_challenge": {
-        "total_amount": 4220.0,
-        "tip_count": 65
+        "total_amount": 4320.0,
+        "tip_count": 66
       },
       "manual": {
         "total_amount": 75961.02,
@@ -60,8 +60,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 5294.85,
-      "total_tips": 175
+      "total_received": 5394.85,
+      "total_tips": 176
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -284,10 +284,10 @@
       "username": "MacMacman",
       "tips_by_type": {
         "slot_challenge": {
-          "amount": 1982.0,
-          "count": 33,
+          "amount": 2082.0,
+          "count": 34,
           "first_tip": "2025-06-30T00:46:56.683986",
-          "latest_tip": "2026-04-25T09:20:27.535467"
+          "latest_tip": "2026-04-27T20:35:54.319144"
         },
         "milestone": {
           "amount": 1904.85,
@@ -320,7 +320,7 @@
           "latest_tip": "2026-04-01T01:46:44.950482"
         }
       },
-      "total_received": 5294.85
+      "total_received": 5394.85
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -1577,6 +1577,16 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
+      "tip_type": "slot_challenge",
+      "month": 4,
+      "year": 2026,
+      "amount": 300.0,
+      "count": 3,
+      "period_key": "2026-04"
+    },
+    {
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
       "tip_type": "monthly_leaderboard",
       "month": 4,
       "year": 2026,
@@ -1632,16 +1642,6 @@
       "year": 2026,
       "amount": 225.0,
       "count": 1,
-      "period_key": "2026-04"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "tip_type": "slot_challenge",
-      "month": 4,
-      "year": 2026,
-      "amount": 200.0,
-      "count": 2,
       "period_key": "2026-04"
     },
     {
