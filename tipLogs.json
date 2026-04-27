@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-04-27T01:23:03.492194+00:00",
-  "last_updated_timestamp": 1777252983,
-  "total_tips": 3312,
+  "last_updated": "2026-04-27T01:33:03.633115+00:00",
+  "last_updated_timestamp": 1777253583,
+  "total_tips": 3313,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
+      "username": "Jameskobi10",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "period_key": "2026-04",
+      "tipped_at": "2026-04-27T01:24:31.050585"
+    },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
