@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-04-28T14:19:55.671191+00:00",
-  "last_updated_timestamp": 1777385995,
-  "total_tips": 3344,
+  "last_updated": "2026-04-28T14:29:57.742532+00:00",
+  "last_updated_timestamp": 1777386597,
+  "total_tips": 3345,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "amount": 731.6,
+      "tip_type": "manual",
+      "month": 4,
+      "year": 2026,
+      "period_key": "2026-04",
+      "tipped_at": "2026-04-28T14:20:01.201437"
+    },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
