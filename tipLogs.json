@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-04-30T03:55:43.209731+00:00",
-  "last_updated_timestamp": 1777521343,
-  "total_tips": 3355,
+  "last_updated": "2026-04-30T04:05:49.277777+00:00",
+  "last_updated_timestamp": 1777521949,
+  "total_tips": 3356,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 4,
+      "year": 2026,
+      "period_key": "2026-04",
+      "tipped_at": "2026-04-30T03:57:10.969307"
+    },
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
@@ -30927,16 +30937,6 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
-      "amount": 300.0,
-      "tip_type": "monthly_leaderboard",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
       "amount": 5.0,
@@ -30991,6 +30991,16 @@
       "username": "GemEventual123",
       "amount": 500.0,
       "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "amount": 300.0,
+      "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2025,
       "period_key": "2025-07",
@@ -31839,26 +31849,6 @@
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
       "username": "kaswasright123",
-      "amount": 15.0,
-      "tip_type": "slot_challenge",
-      "month": 6,
-      "year": 2025,
-      "period_key": "2025-06",
-      "tipped_at": "2025-06-30T00:46:56.683986"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "amount": 50.0,
-      "tip_type": "slot_challenge",
-      "month": 6,
-      "year": 2025,
-      "period_key": "2025-06",
-      "tipped_at": "2025-06-30T00:46:56.683986"
-    },
-    {
-      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-      "username": "kaswasright123",
       "amount": 10.0,
       "tip_type": "slot_challenge",
       "month": 6,
@@ -31877,9 +31867,9 @@
       "tipped_at": "2025-06-30T00:46:56.683986"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "amount": 5.0,
+      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
+      "username": "kaswasright123",
+      "amount": 15.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
@@ -31887,19 +31877,9 @@
       "tipped_at": "2025-06-30T00:46:56.683986"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "amount": 5.0,
-      "tip_type": "slot_challenge",
-      "month": 6,
-      "year": 2025,
-      "period_key": "2025-06",
-      "tipped_at": "2025-06-30T00:46:56.683986"
-    },
-    {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "amount": 5.0,
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "amount": 50.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
@@ -31910,6 +31890,36 @@
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "amount": 10.0,
+      "tip_type": "slot_challenge",
+      "month": 6,
+      "year": 2025,
+      "period_key": "2025-06",
+      "tipped_at": "2025-06-30T00:46:56.683986"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 5.0,
+      "tip_type": "slot_challenge",
+      "month": 6,
+      "year": 2025,
+      "period_key": "2025-06",
+      "tipped_at": "2025-06-30T00:46:56.683986"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 5.0,
+      "tip_type": "slot_challenge",
+      "month": 6,
+      "year": 2025,
+      "period_key": "2025-06",
+      "tipped_at": "2025-06-30T00:46:56.683986"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 5.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
