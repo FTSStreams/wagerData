@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-05-01T19:02:50.024611+00:00",
-  "last_updated_timestamp": 1777662170,
-  "total_tips": 3469,
+  "last_updated": "2026-05-01T19:12:57.183966+00:00",
+  "last_updated_timestamp": 1777662777,
+  "total_tips": 3470,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "period_key": "2026-05",
+      "tipped_at": "2026-05-01T19:04:14.833599"
+    },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
@@ -32037,19 +32047,9 @@
       "tipped_at": "2025-07-03T02:55:34.943377"
     },
     {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
-      "amount": 225.0,
-      "tip_type": "monthly_leaderboard",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
-      "amount": 125.0,
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "amount": 300.0,
       "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2025,
@@ -32067,9 +32067,9 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
-      "amount": 300.0,
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 125.0,
       "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2025,
@@ -32131,6 +32131,16 @@
       "username": "GemEventual123",
       "amount": 500.0,
       "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 225.0,
+      "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2025,
       "period_key": "2025-07",
@@ -32977,8 +32987,8 @@
       "tipped_at": "2025-06-30T16:26:06.936482"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
       "amount": 5.0,
       "tip_type": "slot_challenge",
       "month": 6,
@@ -33037,8 +33047,8 @@
       "tipped_at": "2025-06-30T00:46:56.683986"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
       "amount": 5.0,
       "tip_type": "slot_challenge",
       "month": 6,
