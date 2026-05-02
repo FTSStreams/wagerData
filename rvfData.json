@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-02T21:25:03.817296+00:00",
-  "last_updated_timestamp": 1777757103,
+  "last_updated": "2026-05-02T21:35:03.179569+00:00",
+  "last_updated_timestamp": 1777757703,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -12,6 +12,14 @@
   "active_queue": [
     {
       "position": 1,
+      "game_name": "Toshi Video Club",
+      "game_identifier": "hacksaw:1087",
+      "emoji": "\ud83d\udcfc",
+      "req_multi": 50.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1087"
+    },
+    {
+      "position": 2,
       "game_name": "Dragon Pots Megaways",
       "game_identifier": "pragmatic:vswaysdragden",
       "emoji": "\ud83d\udc09",
@@ -19,7 +27,7 @@
       "game_url": "https://roobet.com/casino/game/pragmatic:vswaysdragden"
     },
     {
-      "position": 2,
+      "position": 3,
       "game_name": "Sweet Bonanza 2500",
       "game_identifier": "pragmatic:vs20swbon2500",
       "emoji": "\ud83c\udf6d",
@@ -27,7 +35,7 @@
       "game_url": "https://roobet.com/casino/game/pragmatic:vs20swbon2500"
     },
     {
-      "position": 3,
+      "position": 4,
       "game_name": "Sand and Ashes",
       "game_identifier": "hacksaw:2243",
       "emoji": "\ud83e\udeb2",
@@ -35,20 +43,12 @@
       "game_url": "https://roobet.com/casino/game/hacksaw:2243"
     },
     {
-      "position": 4,
+      "position": 5,
       "game_name": "Dynasty of Death",
       "game_identifier": "hacksaw:2082",
       "emoji": "\u2694\ufe0f",
       "req_multi": 300.0,
       "game_url": "https://roobet.com/casino/game/hacksaw:2082"
-    },
-    {
-      "position": 5,
-      "game_name": "Toshi Video Club",
-      "game_identifier": "hacksaw:1087",
-      "emoji": "\ud83d\udcfc",
-      "req_multi": 50.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:1087"
     }
   ],
   "draft_queue": [
