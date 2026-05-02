@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-02T01:22:47.717959+00:00",
-  "last_updated_timestamp": 1777684967,
+  "last_updated": "2026-05-02T01:32:47.721582+00:00",
+  "last_updated_timestamp": 1777685567,
   "summary": {
-    "total_tips_sent": 3493,
-    "total_amount_sent": 127705.31999999999,
+    "total_tips_sent": 3495,
+    "total_amount_sent": 127707.31999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 4520.0,
@@ -19,8 +19,8 @@
         "tip_count": 5
       },
       "milestone": {
-        "total_amount": 14310.7,
-        "tip_count": 2268
+        "total_amount": 14312.7,
+        "tip_count": 2270
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -120,8 +120,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 1030.0,
-      "total_tips": 97
+      "total_received": 1032.0,
+      "total_tips": 99
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -612,10 +612,10 @@
           "latest_tip": "2026-05-01T15:07:54.842712"
         },
         "milestone": {
-          "amount": 291.0,
-          "count": 77,
+          "amount": 293.0,
+          "count": 79,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-05-01T16:24:47.951859"
+          "latest_tip": "2026-05-02T01:24:48.102966"
         },
         "monthly_leaderboard": {
           "amount": 185.0,
@@ -630,7 +630,7 @@
           "latest_tip": "2026-04-03T00:19:57.518248"
         }
       },
-      "total_received": 1030.0
+      "total_received": 1032.0
     },
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
@@ -1828,8 +1828,8 @@
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
-      "amount": 1.0,
-      "count": 1,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-05"
     },
     {
