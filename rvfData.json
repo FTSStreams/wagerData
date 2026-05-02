@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-02T21:04:45.525131+00:00",
-  "last_updated_timestamp": 1777755885,
+  "last_updated": "2026-05-02T21:14:48.297078+00:00",
+  "last_updated_timestamp": 1777756488,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -20,19 +20,27 @@
     },
     {
       "position": 2,
-      "game_name": "Dusk Princess",
-      "game_identifier": "hacksaw:2190",
-      "emoji": "\ud83d\udc78",
-      "req_multi": 100.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2190"
+      "game_name": "Sweet Bonanza 2500",
+      "game_identifier": "pragmatic:vs20swbon2500",
+      "emoji": "\ud83c\udf6d",
+      "req_multi": 150.0,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20swbon2500"
     },
     {
       "position": 3,
-      "game_name": "Eternal Duel",
-      "game_identifier": "hacksaw:2148",
-      "emoji": "\u26a1",
+      "game_name": "Sand and Ashes",
+      "game_identifier": "hacksaw:2243",
+      "emoji": "\ud83e\udeb2",
+      "req_multi": 225.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2243"
+    },
+    {
+      "position": 4,
+      "game_name": "Dynasty of Death",
+      "game_identifier": "hacksaw:2082",
+      "emoji": "\u2694\ufe0f",
       "req_multi": 300.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2148"
+      "game_url": "https://roobet.com/casino/game/hacksaw:2082"
     }
   ],
   "draft_queue": [
@@ -62,31 +70,107 @@
     }
   ],
   "summary": {
-    "total_participants": 1,
+    "total_participants": 5,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 3
+    "total_games_required": 4
   },
   "participants": [
     {
+      "uid": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "completions": 1,
+      "total_games": 4,
+      "avg_multi": 3333.541992487753,
+      "max_multi": 3333.541992487753,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20swbon2500": {
+          "multi": 41.25273655630416,
+          "met": false
+        },
+        "hacksaw:2243": {
+          "multi": 3333.541992487753,
+          "met": true
+        },
+        "hacksaw:2082": {
+          "multi": 109.17947550154923,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "completions": 1,
-      "total_games": 3,
-      "avg_multi": 115.1,
-      "max_multi": 115.1,
+      "completions": 0,
+      "total_games": 4,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
       "is_winner": false,
       "games": {
         "hacksaw:2185": {
           "multi": 5.0,
           "met": false
         },
-        "hacksaw:2190": {
-          "multi": 115.1,
-          "met": true
+        "hacksaw:2243": {
+          "multi": 96.89999999999999,
+          "met": false
         },
-        "hacksaw:2148": {
-          "multi": 100.8,
+        "hacksaw:2082": {
+          "multi": 151.1,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
+      "completions": 0,
+      "total_games": 4,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20swbon2500": {
+          "multi": 126.98,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 151.2,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "completions": 0,
+      "total_games": 4,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2243": {
+          "multi": 1.9215,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 28.780000000000005,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "completions": 0,
+      "total_games": 4,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2082": {
+          "multi": 191.24,
           "met": false
         }
       }
