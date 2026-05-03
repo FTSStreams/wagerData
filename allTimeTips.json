@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-03T06:40:27.475601+00:00",
-  "last_updated_timestamp": 1777790427,
+  "last_updated": "2026-05-03T06:50:30.046801+00:00",
+  "last_updated_timestamp": 1777791030,
   "summary": {
-    "total_tips_sent": 3527,
-    "total_amount_sent": 127875.31999999999,
+    "total_tips_sent": 3528,
+    "total_amount_sent": 127877.31999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 4620.0,
@@ -19,8 +19,8 @@
         "tip_count": 5
       },
       "milestone": {
-        "total_amount": 14380.7,
-        "tip_count": 2301
+        "total_amount": 14382.7,
+        "tip_count": 2302
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -150,8 +150,8 @@
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
-      "total_received": 366.0,
-      "total_tips": 46
+      "total_received": 368.0,
+      "total_tips": 47
     }
   ],
   "detailed_data": [
@@ -761,10 +761,10 @@
       "username": "Jameskobi10",
       "tips_by_type": {
         "milestone": {
-          "amount": 206.0,
-          "count": 43,
+          "amount": 208.0,
+          "count": 44,
           "first_tip": "2026-03-05T19:59:47.189759",
-          "latest_tip": "2026-05-02T16:35:56.313433"
+          "latest_tip": "2026-05-03T06:41:54.698919"
         },
         "monthly_leaderboard": {
           "amount": 150.0,
@@ -779,7 +779,7 @@
           "latest_tip": "2026-03-05T20:14:51.029003"
         }
       },
-      "total_received": 366.0
+      "total_received": 368.0
     },
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
@@ -1743,6 +1743,16 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
+      "username": "Jameskobi10",
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "amount": 16.0,
+      "count": 12,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "tip_type": "weekly_multiplier",
@@ -1750,16 +1760,6 @@
       "year": 2026,
       "amount": 15.0,
       "count": 1,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
-      "username": "Jameskobi10",
-      "tip_type": "milestone",
-      "month": 5,
-      "year": 2026,
-      "amount": 14.0,
-      "count": 11,
       "period_key": "2026-05"
     },
     {
