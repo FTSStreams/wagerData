@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-05-03T02:20:28.575716+00:00",
-  "last_updated_timestamp": 1777774828,
-  "total_completed_challenges": 111,
-  "total_prizes_paid": 4520.0,
+  "last_updated": "2026-05-03T02:30:29.027590+00:00",
+  "last_updated_timestamp": 1777775429,
+  "total_completed_challenges": 112,
+  "total_prizes_paid": 4620.0,
   "challenges": [
+    {
+      "challenge_id": 306,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1482.4,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "hotrunners",
+        "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+        "bet_amount": 1.0,
+        "payout": 1482.4,
+        "multiplier_achieved": 1482.4
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-05-03T02:23:17+00:00",
+      "challenge_start_timestamp": 1777774997,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 274,
       "game_name": "Outlaws Inc",
