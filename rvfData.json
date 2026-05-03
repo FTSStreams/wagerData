@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-03T07:10:58.938736+00:00",
-  "last_updated_timestamp": 1777792258,
+  "last_updated": "2026-05-03T07:20:55.466636+00:00",
+  "last_updated_timestamp": 1777792855,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -180,25 +180,6 @@
       }
     },
     {
-      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2243": {
-          "multi": 1.9215,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 28.780000000000005,
-          "met": false
-        }
-      }
-    },
-    {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
       "completions": 0,
@@ -213,6 +194,25 @@
         },
         "hacksaw:2082": {
           "multi": 151.1,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2243": {
+          "multi": 1.9215,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 28.780000000000005,
           "met": false
         }
       }
