@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-05-03T02:20:28.565548+00:00",
-  "last_updated_timestamp": 1777774828,
-  "total_tips": 3526,
+  "last_updated": "2026-05-03T02:30:29.017651+00:00",
+  "last_updated_timestamp": 1777775429,
+  "total_tips": 3527,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
+      "amount": 100.0,
+      "tip_type": "slot_challenge",
+      "month": 5,
+      "year": 2026,
+      "period_key": "2026-05",
+      "tipped_at": "2026-05-03T02:23:17.334784"
+    },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
