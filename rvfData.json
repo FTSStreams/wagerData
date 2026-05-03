@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-03T22:00:52.709458+00:00",
-  "last_updated_timestamp": 1777845652,
+  "last_updated": "2026-05-03T22:10:50.515122+00:00",
+  "last_updated_timestamp": 1777846250,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -85,6 +85,37 @@
   },
   "participants": [
     {
+      "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
+      "completions": 4,
+      "total_games": 5,
+      "avg_multi": 409.28749999999997,
+      "max_multi": 772.9,
+      "is_winner": false,
+      "games": {
+        "hacksaw:1087": {
+          "multi": 55.599999999999994,
+          "met": true
+        },
+        "pragmatic:vswaysdragden": {
+          "multi": 319.05,
+          "met": true
+        },
+        "pragmatic:vs20swbon2500": {
+          "multi": 772.9,
+          "met": true
+        },
+        "hacksaw:2243": {
+          "multi": 180.1,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 489.59999999999997,
+          "met": true
+        }
+      }
+    },
+    {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
       "completions": 3,
@@ -112,37 +143,6 @@
         "hacksaw:2082": {
           "multi": 180.0,
           "met": false
-        }
-      }
-    },
-    {
-      "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
-      "completions": 3,
-      "total_games": 5,
-      "avg_multi": 288.0833333333333,
-      "max_multi": 489.59999999999997,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 55.599999999999994,
-          "met": true
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 319.05,
-          "met": true
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 21.7,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 180.1,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 489.59999999999997,
-          "met": true
         }
       }
     },
