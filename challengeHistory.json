@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-05-03T19:20:29.651624+00:00",
-  "last_updated_timestamp": 1777836029,
-  "total_completed_challenges": 113,
-  "total_prizes_paid": 4720.0,
+  "last_updated": "2026-05-03T19:30:29.075432+00:00",
+  "last_updated_timestamp": 1777836629,
+  "total_completed_challenges": 114,
+  "total_prizes_paid": 4820.0,
   "challenges": [
+    {
+      "challenge_id": 271,
+      "game_name": "Fist of Destruction",
+      "game_identifier": "hacksaw:1408",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 972.8,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.2,
+        "payout": 194.56,
+        "multiplier_achieved": 972.8
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-05-03T19:22:19+00:00",
+      "challenge_start_timestamp": 1777836139,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1408"
+    },
     {
       "challenge_id": 275,
       "game_name": "Rip City",
