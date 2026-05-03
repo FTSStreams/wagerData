@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-03T13:30:32.455978+00:00",
-  "last_updated_timestamp": 1777815032,
+  "last_updated": "2026-05-03T13:40:29.473809+00:00",
+  "last_updated_timestamp": 1777815629,
   "summary": {
-    "total_tips_sent": 3532,
-    "total_amount_sent": 128005.31999999999,
+    "total_tips_sent": 3533,
+    "total_amount_sent": 128015.31999999999,
     "by_type": {
       "slot_challenge": {
         "total_amount": 4720.0,
@@ -19,8 +19,8 @@
         "tip_count": 5
       },
       "milestone": {
-        "total_amount": 14410.7,
-        "tip_count": 2305
+        "total_amount": 14420.7,
+        "tip_count": 2306
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -54,8 +54,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 6118.85,
-      "total_tips": 193
+      "total_received": 6128.85,
+      "total_tips": 194
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -265,10 +265,10 @@
           "latest_tip": "2026-04-29T09:32:49.546975"
         },
         "milestone": {
-          "amount": 1928.85,
-          "count": 136,
+          "amount": 1938.85,
+          "count": 137,
           "first_tip": "2025-06-25T21:18:20.102667",
-          "latest_tip": "2026-05-03T00:41:55.043185"
+          "latest_tip": "2026-05-03T13:31:55.325752"
         },
         "monthly_leaderboard": {
           "amount": 1025.0,
@@ -295,7 +295,7 @@
           "latest_tip": "2026-04-01T01:46:44.950482"
         }
       },
-      "total_received": 6118.85
+      "total_received": 6128.85
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -1633,16 +1633,6 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tip_type": "manual",
-      "month": 5,
-      "year": 2026,
-      "amount": 40.0,
-      "count": 1,
-      "period_key": "2026-05"
-    },
-    {
       "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
       "username": "smithloic2",
       "tip_type": "monthly_leaderboard",
@@ -1653,8 +1643,28 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "manual",
+      "month": 5,
+      "year": 2026,
+      "amount": 40.0,
+      "count": 1,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "amount": 34.0,
+      "count": 14,
+      "period_key": "2026-05"
+    },
+    {
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
@@ -1683,9 +1693,9 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
-      "tip_type": "monthly_leaderboard",
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "tip_type": "weekly_multiplier",
       "month": 5,
       "year": 2026,
       "amount": 25.0,
@@ -1693,9 +1703,9 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "tip_type": "weekly_multiplier",
+      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
+      "tip_type": "monthly_leaderboard",
       "month": 5,
       "year": 2026,
       "amount": 25.0,
@@ -1715,16 +1725,6 @@
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
-      "tip_type": "milestone",
-      "month": 5,
-      "year": 2026,
-      "amount": 24.0,
-      "count": 13,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
