@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-05-03T12:10:31.915436+00:00",
-  "last_updated_timestamp": 1777810231,
-  "total_completed_challenges": 112,
-  "total_prizes_paid": 4620.0,
+  "last_updated": "2026-05-03T12:20:31.229975+00:00",
+  "last_updated_timestamp": 1777810831,
+  "total_completed_challenges": 113,
+  "total_prizes_paid": 4720.0,
   "challenges": [
+    {
+      "challenge_id": 275,
+      "game_name": "Rip City",
+      "game_identifier": "hacksaw:1233",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1287.1999999999998,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Zopipa",
+        "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+        "bet_amount": 0.2,
+        "payout": 257.44,
+        "multiplier_achieved": 1287.1999999999998
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-05-03T12:12:33+00:00",
+      "challenge_start_timestamp": 1777810353,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1233"
+    },
     {
       "challenge_id": 306,
       "game_name": "Wanted Dead or a Wild",
