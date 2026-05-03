@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-03T00:30:55.880326+00:00",
-  "last_updated_timestamp": 1777768255,
+  "last_updated": "2026-05-03T00:40:56.301445+00:00",
+  "last_updated_timestamp": 1777768856,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -78,7 +78,7 @@
     }
   ],
   "summary": {
-    "total_participants": 6,
+    "total_participants": 7,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
@@ -103,6 +103,21 @@
         },
         "hacksaw:2082": {
           "multi": 109.17947550154923,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
+      "username": "Jameskobi10",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20swbon2500": {
+          "multi": 88.22,
           "met": false
         }
       }
