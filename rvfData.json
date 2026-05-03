@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-03T08:20:51.629121+00:00",
-  "last_updated_timestamp": 1777796451,
+  "last_updated": "2026-05-03T08:30:55.733293+00:00",
+  "last_updated_timestamp": 1777797055,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -85,6 +85,33 @@
   },
   "participants": [
     {
+      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "completions": 2,
+      "total_games": 5,
+      "avg_multi": 314.75,
+      "max_multi": 485.3,
+      "is_winner": false,
+      "games": {
+        "hacksaw:1087": {
+          "multi": 485.3,
+          "met": true
+        },
+        "pragmatic:vswaysdragden": {
+          "multi": 144.2,
+          "met": true
+        },
+        "hacksaw:2243": {
+          "multi": 161.49999999999997,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 151.1,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "completions": 1,
@@ -126,29 +153,6 @@
         },
         "pragmatic:vs20swbon2500": {
           "multi": 17.299999999999997,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 6.199999999999999,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 161.49999999999997,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 151.1,
           "met": false
         }
       }
