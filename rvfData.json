@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-03T22:44:17.204033+00:00",
-  "last_updated_timestamp": 1777848257,
+  "last_updated": "2026-05-03T22:56:40.150788+00:00",
+  "last_updated_timestamp": 1777849000,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -79,24 +79,20 @@
   ],
   "summary": {
     "total_participants": 9,
-    "current_winners": 1,
-    "prize_per_winner": 250.0,
+    "current_winners": 0,
+    "prize_per_winner": 0.0,
     "total_games_required": 5
   },
   "participants": [
     {
       "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
-      "completions": 5,
+      "completions": 4,
       "total_games": 5,
-      "avg_multi": 384.28999999999996,
+      "avg_multi": 466.4625,
       "max_multi": 772.9,
-      "is_winner": true,
+      "is_winner": false,
       "games": {
-        "hacksaw:1087": {
-          "multi": 55.599999999999994,
-          "met": true
-        },
         "pragmatic:vswaysdragden": {
           "multi": 319.05,
           "met": true
@@ -118,16 +114,12 @@
     {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "completions": 3,
+      "completions": 2,
       "total_games": 5,
-      "avg_multi": 305.75,
-      "max_multi": 485.3,
+      "avg_multi": 215.97499999999997,
+      "max_multi": 287.74999999999994,
       "is_winner": false,
       "games": {
-        "hacksaw:1087": {
-          "multi": 485.3,
-          "met": true
-        },
         "pragmatic:vswaysdragden": {
           "multi": 144.2,
           "met": true
