@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-05-04T17:53:55.668591+00:00",
-  "last_updated_timestamp": 1777917235,
-  "total_challenges": 5,
+  "last_updated": "2026-05-04T18:03:56.799827+00:00",
+  "last_updated_timestamp": 1777917836,
+  "total_challenges": 7,
   "challenges": [
     {
       "challenge_id": 247,
@@ -68,6 +68,32 @@
       "emoji": "\ud83d\udc7a",
       "min_bet": 0.4,
       "start_timestamp": 1777756104
+    },
+    {
+      "challenge_id": 308,
+      "game_identifier": "hacksaw:1803",
+      "game_name": "The Count",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-05-04T17:57:38+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd87",
+      "min_bet": 0.4,
+      "start_timestamp": 1777917458
+    },
+    {
+      "challenge_id": 309,
+      "game_identifier": "hacksaw:1243",
+      "game_name": "Stormforged",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-05-04T17:58:02+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2692\ufe0f",
+      "min_bet": 0.4,
+      "start_timestamp": 1777917482
     }
   ]
 }
