@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-04T13:44:33.712950+00:00",
-  "last_updated_timestamp": 1777902273,
+  "last_updated": "2026-05-04T13:54:36.132256+00:00",
+  "last_updated_timestamp": 1777902876,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -79,11 +79,42 @@
   ],
   "summary": {
     "total_participants": 11,
-    "current_winners": 1,
-    "prize_per_winner": 250.0,
+    "current_winners": 2,
+    "prize_per_winner": 125.0,
     "total_games_required": 5
   },
   "participants": [
+    {
+      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "completions": 5,
+      "total_games": 5,
+      "avg_multi": 638.39,
+      "max_multi": 1403.7,
+      "is_winner": true,
+      "games": {
+        "hacksaw:1087": {
+          "multi": 485.3,
+          "met": true
+        },
+        "pragmatic:vswaysdragden": {
+          "multi": 144.2,
+          "met": true
+        },
+        "pragmatic:vs20swbon2500": {
+          "multi": 287.74999999999994,
+          "met": true
+        },
+        "hacksaw:2243": {
+          "multi": 1403.7,
+          "met": true
+        },
+        "hacksaw:2082": {
+          "multi": 870.9999999999999,
+          "met": true
+        }
+      }
+    },
     {
       "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
@@ -111,37 +142,6 @@
         },
         "hacksaw:2082": {
           "multi": 489.59999999999997,
-          "met": true
-        }
-      }
-    },
-    {
-      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "completions": 4,
-      "total_games": 5,
-      "avg_multi": 447.06249999999994,
-      "max_multi": 870.9999999999999,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 485.3,
-          "met": true
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 144.2,
-          "met": true
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 287.74999999999994,
-          "met": true
-        },
-        "hacksaw:2243": {
-          "multi": 169.7,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 870.9999999999999,
           "met": true
         }
       }
