@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-05T17:03:57.267479+00:00",
-  "last_updated_timestamp": 1778000637,
+  "last_updated": "2026-05-05T17:13:57.984747+00:00",
+  "last_updated_timestamp": 1778001237,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -155,6 +155,10 @@
       "max_multi": 3333.541992487753,
       "is_winner": false,
       "games": {
+        "pragmatic:vswaysdragden": {
+          "multi": 4.2,
+          "met": false
+        },
         "pragmatic:vs20swbon2500": {
           "multi": 99.01666666666665,
           "met": false
