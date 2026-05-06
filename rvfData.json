@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-06T22:20:52.926724+00:00",
-  "last_updated_timestamp": 1778106052,
+  "last_updated": "2026-05-06T22:30:53.596609+00:00",
+  "last_updated_timestamp": 1778106653,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -120,12 +120,12 @@
       "username": "hotrunners",
       "completions": 5,
       "total_games": 5,
-      "avg_multi": 384.28999999999996,
+      "avg_multi": 414.57,
       "max_multi": 772.9,
       "is_winner": true,
       "games": {
         "hacksaw:1087": {
-          "multi": 55.599999999999994,
+          "multi": 207.0,
           "met": true
         },
         "pragmatic:vswaysdragden": {
