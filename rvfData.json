@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-06T04:58:35.420735+00:00",
-  "last_updated_timestamp": 1778043515,
+  "last_updated": "2026-05-06T05:08:27.693170+00:00",
+  "last_updated_timestamp": 1778044107,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -197,6 +197,29 @@
       }
     },
     {
+      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:1087": {
+          "multi": 21.0,
+          "met": false
+        },
+        "hacksaw:2243": {
+          "multi": 1.9215,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 28.780000000000005,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
       "completions": 0,
@@ -271,25 +294,6 @@
       "games": {
         "hacksaw:2243": {
           "multi": 100.2,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2243": {
-          "multi": 1.9215,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 28.780000000000005,
           "met": false
         }
       }
