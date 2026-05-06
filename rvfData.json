@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-06T07:25:33.826516+00:00",
-  "last_updated_timestamp": 1778052333,
+  "last_updated": "2026-05-06T07:35:33.567038+00:00",
+  "last_updated_timestamp": 1778052933,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -147,6 +147,33 @@
       }
     },
     {
+      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
+      "completions": 2,
+      "total_games": 5,
+      "avg_multi": 80.3,
+      "max_multi": 108.6,
+      "is_winner": false,
+      "games": {
+        "hacksaw:1087": {
+          "multi": 52.0,
+          "met": true
+        },
+        "pragmatic:vswaysdragden": {
+          "multi": 108.6,
+          "met": true
+        },
+        "hacksaw:2243": {
+          "multi": 1.9215,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 28.780000000000005,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "completions": 1,
@@ -192,33 +219,6 @@
         },
         "hacksaw:2082": {
           "multi": 151.2,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "completions": 1,
-      "total_games": 5,
-      "avg_multi": 108.6,
-      "max_multi": 108.6,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 41.6,
-          "met": false
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 108.6,
-          "met": true
-        },
-        "hacksaw:2243": {
-          "multi": 1.9215,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 28.780000000000005,
           "met": false
         }
       }
