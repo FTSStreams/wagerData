@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-07T23:19:01.499821+00:00",
-  "last_updated_timestamp": 1778195941,
+  "last_updated": "2026-05-07T23:29:01.269636+00:00",
+  "last_updated_timestamp": 1778196541,
   "summary": {
-    "total_tips_sent": 3613,
-    "total_amount_sent": 132268.77000000002,
+    "total_tips_sent": 3614,
+    "total_amount_sent": 132288.77000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 14719.7,
-        "tip_count": 2365
+        "total_amount": 14739.7,
+        "tip_count": 2366
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -58,8 +58,8 @@
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
-      "total_received": 6158.85,
-      "total_tips": 196
+      "total_received": 6178.85,
+      "total_tips": 197
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -275,10 +275,10 @@
           "latest_tip": "2026-04-29T09:32:49.546975"
         },
         "milestone": {
-          "amount": 1968.85,
-          "count": 139,
+          "amount": 1988.85,
+          "count": 140,
           "first_tip": "2025-06-25T21:18:20.102667",
-          "latest_tip": "2026-05-06T23:52:00.564030"
+          "latest_tip": "2026-05-07T23:20:29.188394"
         },
         "monthly_leaderboard": {
           "amount": 1025.0,
@@ -305,7 +305,7 @@
           "latest_tip": "2026-04-01T01:46:44.950482"
         }
       },
-      "total_received": 6158.85
+      "total_received": 6178.85
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -1659,6 +1659,16 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "amount": 84.0,
+      "count": 17,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tip_type": "monthly_leaderboard",
@@ -1666,16 +1676,6 @@
       "year": 2026,
       "amount": 75.0,
       "count": 1,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "tip_type": "milestone",
-      "month": 5,
-      "year": 2026,
-      "amount": 64.0,
-      "count": 16,
       "period_key": "2026-05"
     },
     {
