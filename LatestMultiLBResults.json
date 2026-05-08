@@ -1,42 +1,42 @@
 {
   "leaderboard_type": "weekly_multiplier",
   "period": {
-    "start_date": "2026-05-01T00:00:00+00:00",
-    "end_date": "2026-05-07T23:59:59.999999+00:00",
-    "start_timestamp": 1777593600,
-    "end_timestamp": 1778198399
+    "start_date": "2026-05-08T00:00:00+00:00",
+    "end_date": "2026-05-14T23:59:59.999999+00:00",
+    "start_timestamp": 1778198400,
+    "end_timestamp": 1778803199
   },
-  "last_updated": "2026-05-07T23:59:01.039738+00:00",
-  "last_updated_timestamp": 1778198341,
+  "last_updated": "2026-05-08T00:09:04.236127+00:00",
+  "last_updated_timestamp": 1778198944,
   "entries": [
     {
       "rank": 1,
-      "username": "hotrunners",
-      "multiplier": 5700,
-      "game": "Wanted Dead or a Wild",
+      "username": "MacMacman",
+      "multiplier": 20,
+      "game": "Wild North",
       "game_identifier": null,
-      "wagered": 2,
-      "payout": 11400,
+      "wagered": 30,
+      "payout": 600,
       "prize": 25
     },
     {
       "rank": 2,
-      "username": "flipmiller",
-      "multiplier": 3333.541992487753,
-      "game": "Sand and Ashes",
+      "username": "N/A",
+      "multiplier": 0,
+      "game": "Unknown",
       "game_identifier": null,
-      "wagered": 0.22091961471000002,
-      "payout": 736.4448126000001,
+      "wagered": 0,
+      "payout": 0,
       "prize": 15
     },
     {
       "rank": 3,
-      "username": "Zopipa",
-      "multiplier": 1403.7,
-      "game": "Sand and Ashes",
+      "username": "N/A",
+      "multiplier": 0,
+      "game": "Unknown",
       "game_identifier": null,
-      "wagered": 0.4,
-      "payout": 561.48,
+      "wagered": 0,
+      "payout": 0,
       "prize": 10
     }
   ]
