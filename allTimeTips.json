@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-10T18:30:29.295024+00:00",
-  "last_updated_timestamp": 1778437829,
+  "last_updated": "2026-05-10T18:40:29.212038+00:00",
+  "last_updated_timestamp": 1778438429,
   "summary": {
-    "total_tips_sent": 3641,
-    "total_amount_sent": 132799.77000000002,
+    "total_tips_sent": 3642,
+    "total_amount_sent": 132801.27000000002,
     "by_type": {
       "milestone": {
         "total_amount": 14909.7,
@@ -27,8 +27,8 @@
         "tip_count": 5
       },
       "check_in": {
-        "total_amount": 5.45,
-        "tip_count": 5
+        "total_amount": 6.95,
+        "tip_count": 6
       },
       "weekly_multiplier": {
         "total_amount": 677.0,
@@ -1095,13 +1095,13 @@
           "latest_tip": "2026-01-04T17:26:40.700516"
         },
         "check_in": {
-          "amount": 2.43,
-          "count": 2,
+          "amount": 3.93,
+          "count": 3,
           "first_tip": "2026-05-07T13:22:22.666561",
-          "latest_tip": "2026-05-09T17:44:40.195049"
+          "latest_tip": "2026-05-10T18:32:19.614379"
         }
       },
-      "total_received": 66.98
+      "total_received": 68.48
     },
     {
       "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
@@ -1527,19 +1527,6 @@
       "total_received": 3.25
     },
     {
-      "user_id": "943097ba-d9be-456e-9059-3ceb0ec6ad81",
-      "username": "vipa1",
-      "tips_by_type": {
-        "manual": {
-          "amount": 3.0,
-          "count": 1,
-          "first_tip": "2026-01-22T21:35:33.908218",
-          "latest_tip": "2026-01-22T21:35:33.908218"
-        }
-      },
-      "total_received": 3.0
-    },
-    {
       "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
       "username": "Joeyforreal",
       "tips_by_type": {
@@ -1561,6 +1548,19 @@
           "count": 1,
           "first_tip": "2026-01-16T17:12:25.796245",
           "latest_tip": "2026-01-16T17:12:25.796245"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
+      "user_id": "943097ba-d9be-456e-9059-3ceb0ec6ad81",
+      "username": "vipa1",
+      "tips_by_type": {
+        "manual": {
+          "amount": 3.0,
+          "count": 1,
+          "first_tip": "2026-01-22T21:35:33.908218",
+          "latest_tip": "2026-01-22T21:35:33.908218"
         }
       },
       "total_received": 3.0
@@ -2024,6 +2024,16 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "check_in",
+      "month": 5,
+      "year": 2026,
+      "amount": 3.93,
+      "count": 3,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
       "username": "fliptheswitchop",
       "tip_type": "check_in",
@@ -2031,16 +2041,6 @@
       "year": 2026,
       "amount": 3.02,
       "count": 3,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "check_in",
-      "month": 5,
-      "year": 2026,
-      "amount": 2.43,
-      "count": 2,
       "period_key": "2026-05"
     },
     {
