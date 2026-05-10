@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-05-10T22:00:30.845126+00:00",
-  "last_updated_timestamp": 1778450430,
-  "total_completed_challenges": 114,
-  "total_prizes_paid": 4820.0,
+  "last_updated": "2026-05-10T22:10:30.844095+00:00",
+  "last_updated_timestamp": 1778451030,
+  "total_completed_challenges": 115,
+  "total_prizes_paid": 4920.0,
   "challenges": [
+    {
+      "challenge_id": 307,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1473.1999999999998,
+      "min_bet_requirement": 0.4,
+      "winner": {
+        "username": "MacMacman",
+        "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+        "bet_amount": 1.6,
+        "payout": 2357.12,
+        "multiplier_achieved": 1473.1999999999998
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-05-10T22:02:54+00:00",
+      "challenge_start_timestamp": 1778450574,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
     {
       "challenge_id": 271,
       "game_name": "Fist of Destruction",
