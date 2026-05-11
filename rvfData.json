@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-11T16:48:46.606060+00:00",
-  "last_updated_timestamp": 1778518126,
+  "last_updated": "2026-05-11T16:58:46.874077+00:00",
+  "last_updated_timestamp": 1778518726,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -255,6 +255,10 @@
           "multi": 20.0,
           "met": false
         },
+        "pragmatic:vswaysdragden": {
+          "multi": 36.199999999999996,
+          "met": false
+        },
         "hacksaw:2243": {
           "multi": 17.233333333333334,
           "met": false
@@ -324,7 +328,7 @@
           "met": false
         },
         "hacksaw:2082": {
-          "multi": 0.4,
+          "multi": 3.08,
           "met": false
         }
       }
