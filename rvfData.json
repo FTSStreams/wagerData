@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-12T16:07:39.954811+00:00",
-  "last_updated_timestamp": 1778602059,
+  "last_updated": "2026-05-12T16:17:31.175724+00:00",
+  "last_updated_timestamp": 1778602651,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -300,6 +300,25 @@
       }
     },
     {
+      "uid": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20swbon2500": {
+          "multi": 14.287500000000001,
+          "met": false
+        },
+        "hacksaw:2082": {
+          "multi": 279.18,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "completions": 0,
@@ -442,21 +461,6 @@
       "games": {
         "hacksaw:2082": {
           "multi": 1.7173333333333334,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "9639491d-3e54-47fa-a116-0294790dbe9a",
-      "username": "Foxxy123",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2082": {
-          "multi": 279.18,
           "met": false
         }
       }
