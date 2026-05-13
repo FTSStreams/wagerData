@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-13T00:27:07.060623+00:00",
-  "last_updated_timestamp": 1778632027,
+  "last_updated": "2026-05-13T00:37:07.480379+00:00",
+  "last_updated_timestamp": 1778632627,
   "summary": {
-    "total_tips_sent": 3664,
-    "total_amount_sent": 133142.27000000002,
+    "total_tips_sent": 3665,
+    "total_amount_sent": 133144.27000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 14950.7,
-        "tip_count": 2404
+        "total_amount": 14952.7,
+        "tip_count": 2405
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -64,8 +64,8 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "total_received": 6073.24,
-      "total_tips": 144
+      "total_received": 6075.24,
+      "total_tips": 145
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -312,10 +312,10 @@
       "username": "slicksloth97",
       "tips_by_type": {
         "milestone": {
-          "amount": 2546.0,
-          "count": 121,
+          "amount": 2548.0,
+          "count": 122,
           "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2026-05-10T14:23:45.624818"
+          "latest_tip": "2026-05-13T00:29:05.001527"
         },
         "monthly_leaderboard": {
           "amount": 2300.0,
@@ -336,7 +336,7 @@
           "latest_tip": "2026-02-27T22:15:08.190777"
         }
       },
-      "total_received": 6073.24
+      "total_received": 6075.24
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -1629,11 +1629,11 @@
     {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "tip_type": "slot_challenge",
+      "tip_type": "monthly_leaderboard",
       "month": 5,
       "year": 2026,
       "amount": 300.0,
-      "count": 3,
+      "count": 1,
       "period_key": "2026-05"
     },
     {
@@ -1649,11 +1649,11 @@
     {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
-      "tip_type": "monthly_leaderboard",
+      "tip_type": "slot_challenge",
       "month": 5,
       "year": 2026,
       "amount": 300.0,
-      "count": 1,
+      "count": 3,
       "period_key": "2026-05"
     },
     {
@@ -1707,8 +1707,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
+      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
       "tip_type": "slot_challenge",
       "month": 5,
       "year": 2026,
@@ -1717,8 +1717,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
       "tip_type": "slot_challenge",
       "month": 5,
       "year": 2026,
@@ -1747,8 +1747,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
       "tip_type": "manual",
       "month": 5,
       "year": 2026,
@@ -1767,8 +1767,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "manual",
       "month": 5,
       "year": 2026,
@@ -1777,8 +1777,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
+      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
@@ -1787,8 +1787,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
-      "username": "smithloic2",
+      "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
+      "username": "fliptheswitchop",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
@@ -1807,9 +1807,9 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tip_type": "manual",
+      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
+      "tip_type": "monthly_leaderboard",
       "month": 5,
       "year": 2026,
       "amount": 40.0,
@@ -1817,9 +1817,9 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
-      "username": "smithloic2",
-      "tip_type": "monthly_leaderboard",
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "manual",
       "month": 5,
       "year": 2026,
       "amount": 40.0,
@@ -1839,16 +1839,6 @@
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
-      "tip_type": "monthly_leaderboard",
-      "month": 5,
-      "year": 2026,
-      "amount": 25.0,
-      "count": 1,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
       "tip_type": "weekly_multiplier",
       "month": 5,
       "year": 2026,
@@ -1860,6 +1850,16 @@
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
       "username": "MacMacman",
       "tip_type": "weekly_multiplier",
+      "month": 5,
+      "year": 2026,
+      "amount": 25.0,
+      "count": 1,
+      "period_key": "2026-05"
+    },
+    {
+      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
+      "tip_type": "monthly_leaderboard",
       "month": 5,
       "year": 2026,
       "amount": 25.0,
@@ -1952,8 +1952,8 @@
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
-      "amount": 12.0,
-      "count": 10,
+      "amount": 14.0,
+      "count": 11,
       "period_key": "2026-05"
     },
     {
@@ -1977,16 +1977,6 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "tip_type": "weekly_multiplier",
-      "month": 5,
-      "year": 2026,
-      "amount": 10.0,
-      "count": 1,
-      "period_key": "2026-05"
-    },
-    {
       "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
       "username": "smithloic2",
       "tip_type": "weekly_multiplier",
@@ -1997,8 +1987,18 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tip_type": "weekly_multiplier",
+      "month": 5,
+      "year": 2026,
+      "amount": 10.0,
+      "count": 1,
+      "period_key": "2026-05"
+    },
+    {
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
@@ -2007,8 +2007,8 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
