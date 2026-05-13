@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-13T12:29:41.766062+00:00",
-  "last_updated_timestamp": 1778675381,
+  "last_updated": "2026-05-13T12:39:41.375021+00:00",
+  "last_updated_timestamp": 1778675981,
   "summary": {
-    "total_tips_sent": 3667,
-    "total_amount_sent": 133162.27000000002,
+    "total_tips_sent": 3668,
+    "total_amount_sent": 133163.27000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 14970.7,
-        "tip_count": 2407
+        "total_amount": 14971.7,
+        "tip_count": 2408
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -88,8 +88,8 @@
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
-      "total_received": 2049.25,
-      "total_tips": 148
+      "total_received": 2050.25,
+      "total_tips": 149
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -441,17 +441,17 @@
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tips_by_type": {
+        "milestone": {
+          "amount": 1000.25,
+          "count": 137,
+          "first_tip": "2025-05-03T16:58:54.015704",
+          "latest_tip": "2026-05-13T12:31:39.623242"
+        },
         "monthly_leaderboard": {
           "amount": 1000.0,
           "count": 4,
           "first_tip": "2025-07-03T00:00:00",
           "latest_tip": "2026-01-03T16:31:33.667020"
-        },
-        "milestone": {
-          "amount": 999.25,
-          "count": 136,
-          "first_tip": "2025-05-03T16:58:54.015704",
-          "latest_tip": "2026-05-01T19:54:15.127361"
         },
         "manual": {
           "amount": 50.0,
@@ -460,7 +460,7 @@
           "latest_tip": "2026-02-01T16:43:56.289586"
         }
       },
-      "total_received": 2049.25
+      "total_received": 2050.25
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -2037,18 +2037,18 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
-      "username": "ProxyWoxy",
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2026-05"
     },
     {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
+      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
