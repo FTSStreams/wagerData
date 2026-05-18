@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-18T04:44:45.441900+00:00",
-  "last_updated_timestamp": 1779079485,
+  "last_updated": "2026-05-18T04:54:41.602958+00:00",
+  "last_updated_timestamp": 1779080081,
   "current_period": {
     "event_start": "2026-05-01T00:00:00+00:00",
     "event_start_timestamp": 1777593600,
@@ -78,7 +78,7 @@
     }
   ],
   "summary": {
-    "total_participants": 19,
+    "total_participants": 20,
     "current_winners": 2,
     "prize_per_winner": 125.0,
     "total_games_required": 5
@@ -303,6 +303,21 @@
       "games": {
         "pragmatic:vs20swbon2500": {
           "multi": 12.25,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "07ae10b6-80ee-469e-9741-bd7189312685",
+      "username": "TheRealMrClean",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20swbon2500": {
+          "multi": 12.090000000000002,
           "met": false
         }
       }
