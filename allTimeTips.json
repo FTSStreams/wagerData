@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-19T00:44:22.776137+00:00",
-  "last_updated_timestamp": 1779151462,
+  "last_updated": "2026-05-19T00:54:22.880192+00:00",
+  "last_updated_timestamp": 1779152062,
   "summary": {
-    "total_tips_sent": 3711,
-    "total_amount_sent": 134833.27000000002,
+    "total_tips_sent": 3712,
+    "total_amount_sent": 134834.32,
     "by_type": {
       "milestone": {
         "total_amount": 15391.7,
@@ -27,8 +27,8 @@
         "tip_count": 5
       },
       "check_in": {
-        "total_amount": 6.95,
-        "tip_count": 6
+        "total_amount": 8.0,
+        "tip_count": 7
       },
       "weekly_multiplier": {
         "total_amount": 727.0,
@@ -1127,13 +1127,13 @@
           "latest_tip": "2026-01-04T17:26:40.700516"
         },
         "check_in": {
-          "amount": 3.93,
-          "count": 3,
+          "amount": 4.98,
+          "count": 4,
           "first_tip": "2026-05-07T13:22:22.666561",
-          "latest_tip": "2026-05-10T18:32:19.614379"
+          "latest_tip": "2026-05-19T00:47:14.576164"
         }
       },
-      "total_received": 68.48
+      "total_received": 69.53
     },
     {
       "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
@@ -2089,6 +2089,16 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "check_in",
+      "month": 5,
+      "year": 2026,
+      "amount": 4.98,
+      "count": 4,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
       "username": "ProxyWoxy",
       "tip_type": "milestone",
@@ -2096,16 +2106,6 @@
       "year": 2026,
       "amount": 4.0,
       "count": 4,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "check_in",
-      "month": 5,
-      "year": 2026,
-      "amount": 3.93,
-      "count": 3,
       "period_key": "2026-05"
     },
     {
