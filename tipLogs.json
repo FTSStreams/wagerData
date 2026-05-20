@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-05-20T01:26:35.928788+00:00",
-  "last_updated_timestamp": 1779240395,
-  "total_tips": 3716,
+  "last_updated": "2026-05-20T01:36:34.588683+00:00",
+  "last_updated_timestamp": 1779240994,
+  "total_tips": 3718,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "period_key": "2026-05",
+      "tipped_at": "2026-05-20T01:29:38.883585"
+    },
+    {
+      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "period_key": "2026-05",
+      "tipped_at": "2026-05-20T01:29:04.458377"
+    },
     {
       "user_id": "07ae10b6-80ee-469e-9741-bd7189312685",
       "username": "TheRealMrClean",
