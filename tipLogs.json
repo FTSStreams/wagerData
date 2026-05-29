@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-05-29T14:43:33.804899+00:00",
-  "last_updated_timestamp": 1780065813,
-  "total_tips": 3763,
+  "last_updated": "2026-05-29T14:53:34.093701+00:00",
+  "last_updated_timestamp": 1780066414,
+  "total_tips": 3765,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 5,
+      "year": 2026,
+      "period_key": "2026-05",
+      "tipped_at": "2026-05-29T14:53:28.167961"
+    },
+    {
+      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 5,
+      "year": 2026,
+      "period_key": "2026-05",
+      "tipped_at": "2026-05-29T14:48:11.748212"
+    },
     {
       "user_id": "f98f25f9-e70f-4912-90d1-65175a33ab14",
       "username": "TwistTorrey",
