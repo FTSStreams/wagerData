@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-30T13:05:48.784248+00:00",
-  "last_updated_timestamp": 1780146348,
+  "last_updated": "2026-05-30T13:15:48.747402+00:00",
+  "last_updated_timestamp": 1780146948,
   "summary": {
-    "total_tips_sent": 3767,
-    "total_amount_sent": 137825.86000000002,
+    "total_tips_sent": 3768,
+    "total_amount_sent": 137826.86000000002,
     "by_type": {
       "milestone": {
         "total_amount": 15989.7,
@@ -27,8 +27,8 @@
         "tip_count": 5
       },
       "check_in": {
-        "total_amount": 16.54,
-        "tip_count": 14
+        "total_amount": 17.54,
+        "tip_count": 15
       },
       "weekly_multiplier": {
         "total_amount": 817.0,
@@ -1111,6 +1111,37 @@
       "total_received": 81.0
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tips_by_type": {
+        "manual": {
+          "amount": 11.5,
+          "count": 3,
+          "first_tip": "2025-05-02T20:28:05.770539",
+          "latest_tip": "2025-05-10T15:15:44.034752"
+        },
+        "milestone": {
+          "amount": 21.55,
+          "count": 14,
+          "first_tip": "2025-05-06T15:17:33.233674",
+          "latest_tip": "2026-01-15T14:38:47.033702"
+        },
+        "check_in": {
+          "amount": 11.74,
+          "count": 10,
+          "first_tip": "2026-05-07T13:22:22.666561",
+          "latest_tip": "2026-05-30T13:10:25.564059"
+        },
+        "monthly_leaderboard": {
+          "amount": 5.0,
+          "count": 1,
+          "first_tip": "2026-01-04T17:26:40.700516",
+          "latest_tip": "2026-01-04T17:26:40.700516"
+        }
+      },
+      "total_received": 76.28999999999999
+    },
+    {
       "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
       "username": "Alxxwilson",
       "tips_by_type": {
@@ -1128,37 +1159,6 @@
         }
       },
       "total_received": 76.0
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tips_by_type": {
-        "manual": {
-          "amount": 11.5,
-          "count": 3,
-          "first_tip": "2025-05-02T20:28:05.770539",
-          "latest_tip": "2025-05-10T15:15:44.034752"
-        },
-        "milestone": {
-          "amount": 21.55,
-          "count": 14,
-          "first_tip": "2025-05-06T15:17:33.233674",
-          "latest_tip": "2026-01-15T14:38:47.033702"
-        },
-        "check_in": {
-          "amount": 10.74,
-          "count": 9,
-          "first_tip": "2026-05-07T13:22:22.666561",
-          "latest_tip": "2026-05-28T16:20:34.302405"
-        },
-        "monthly_leaderboard": {
-          "amount": 5.0,
-          "count": 1,
-          "first_tip": "2026-01-04T17:26:40.700516",
-          "latest_tip": "2026-01-04T17:26:40.700516"
-        }
-      },
-      "total_received": 75.28999999999999
     },
     {
       "user_id": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
@@ -2085,8 +2085,8 @@
       "tip_type": "check_in",
       "month": 5,
       "year": 2026,
-      "amount": 10.74,
-      "count": 9,
+      "amount": 11.74,
+      "count": 10,
       "period_key": "2026-05"
     },
     {
