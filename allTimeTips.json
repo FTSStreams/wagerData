@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-31T07:27:27.155341+00:00",
-  "last_updated_timestamp": 1780212447,
+  "last_updated": "2026-05-31T07:37:26.859364+00:00",
+  "last_updated_timestamp": 1780213046,
   "summary": {
-    "total_tips_sent": 3770,
-    "total_amount_sent": 137847.86000000002,
+    "total_tips_sent": 3771,
+    "total_amount_sent": 137848.86000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 16010.7,
-        "tip_count": 2467
+        "total_amount": 16011.7,
+        "tip_count": 2468
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -1171,13 +1171,13 @@
           "latest_tip": "2026-04-07T23:29:54.300482"
         },
         "milestone": {
-          "amount": 15.0,
-          "count": 10,
+          "amount": 16.0,
+          "count": 11,
           "first_tip": "2026-04-07T23:13:10.213128",
-          "latest_tip": "2026-05-31T07:19:26.042857"
+          "latest_tip": "2026-05-31T07:29:25.661901"
         }
       },
-      "total_received": 65.0
+      "total_received": 66.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -2190,6 +2190,16 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
+      "username": "OfficerLawless",
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "amount": 2.0,
+      "count": 2,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "05844c63-5c12-4f79-b134-4bd21c569fa9",
       "username": "flipmedaddy",
       "tip_type": "check_in",
@@ -2212,16 +2222,6 @@
     {
       "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
       "username": "argnt",
-      "tip_type": "milestone",
-      "month": 5,
-      "year": 2026,
-      "amount": 1.0,
-      "count": 1,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
-      "username": "OfficerLawless",
       "tip_type": "milestone",
       "month": 5,
       "year": 2026,
