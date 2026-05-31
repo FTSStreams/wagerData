@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-05-31T23:37:26.512618+00:00",
-  "last_updated_timestamp": 1780270646,
+  "last_updated": "2026-05-31T23:47:26.681821+00:00",
+  "last_updated_timestamp": 1780271246,
   "summary": {
-    "total_tips_sent": 3775,
-    "total_amount_sent": 137910.86000000002,
+    "total_tips_sent": 3776,
+    "total_amount_sent": 137911.86000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 16073.7,
-        "tip_count": 2472
+        "total_amount": 16074.7,
+        "tip_count": 2473
       },
       "monthly_leaderboard": {
         "total_amount": 23825.0,
@@ -1171,13 +1171,13 @@
           "latest_tip": "2026-04-07T23:29:54.300482"
         },
         "milestone": {
-          "amount": 18.0,
-          "count": 13,
+          "amount": 19.0,
+          "count": 14,
           "first_tip": "2026-04-07T23:13:10.213128",
-          "latest_tip": "2026-05-31T23:28:55.565406"
+          "latest_tip": "2026-05-31T23:38:55.475715"
         }
       },
-      "total_received": 68.0
+      "total_received": 69.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -2140,6 +2140,16 @@
       "period_key": "2026-05"
     },
     {
+      "user_id": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
+      "username": "OfficerLawless",
+      "tip_type": "milestone",
+      "month": 5,
+      "year": 2026,
+      "amount": 5.0,
+      "count": 5,
+      "period_key": "2026-05"
+    },
+    {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
       "tip_type": "monthly_leaderboard",
@@ -2157,16 +2167,6 @@
       "year": 2026,
       "amount": 5.0,
       "count": 1,
-      "period_key": "2026-05"
-    },
-    {
-      "user_id": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
-      "username": "OfficerLawless",
-      "tip_type": "milestone",
-      "month": 5,
-      "year": 2026,
-      "amount": 4.0,
-      "count": 4,
       "period_key": "2026-05"
     },
     {
