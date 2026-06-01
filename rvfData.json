@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-01T07:23:32.331265+00:00",
-  "last_updated_timestamp": 1780298612,
+  "last_updated": "2026-06-01T07:33:18.923988+00:00",
+  "last_updated_timestamp": 1780299198,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "total_participants": 2,
+    "total_participants": 3,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
@@ -115,6 +115,29 @@
         },
         "hacksaw:2213": {
           "multi": 1.3,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20candyia": {
+          "multi": 16.9875,
+          "met": false
+        },
+        "hacksaw:2213": {
+          "multi": 113.19180108612474,
+          "met": false
+        },
+        "hacksaw:2258": {
+          "multi": 24.5,
           "met": false
         }
       }
