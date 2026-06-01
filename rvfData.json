@@ -1,54 +1,54 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-05-31T23:57:58.768503+00:00",
-  "last_updated_timestamp": 1780271878,
+  "last_updated": "2026-06-01T00:07:45.860185+00:00",
+  "last_updated_timestamp": 1780272465,
   "current_period": {
-    "event_start": "2026-05-01T00:00:00+00:00",
-    "event_start_timestamp": 1777593600,
-    "period_end": "2026-06-01T00:00:00+00:00",
-    "period_end_timestamp": 1780272000,
+    "event_start": "2026-06-01T00:00:00+00:00",
+    "event_start_timestamp": 1780272000,
+    "period_end": "2026-07-01T00:00:00+00:00",
+    "period_end_timestamp": 1782864000,
     "prize_pool": 250.0
   },
   "active_queue": [
     {
       "position": 1,
-      "game_name": "Toshi Video Club",
-      "game_identifier": "hacksaw:1087",
-      "emoji": "\ud83d\udcfc",
+      "game_name": "Candy Rush",
+      "game_identifier": "pragmatic:vs20candyia",
+      "emoji": "\ud83c\udf6c",
       "req_multi": 50.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:1087"
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20candyia"
     },
     {
       "position": 2,
-      "game_name": "Dragon Pots Megaways",
-      "game_identifier": "pragmatic:vswaysdragden",
-      "emoji": "\ud83d\udc09",
-      "req_multi": 75.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vswaysdragden"
+      "game_name": "Red Rascal",
+      "game_identifier": "hacksaw:2274",
+      "emoji": "\ud83d\udc79",
+      "req_multi": 100.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2274"
     },
     {
       "position": 3,
-      "game_name": "Sweet Bonanza 2500",
-      "game_identifier": "pragmatic:vs20swbon2500",
-      "emoji": "\ud83c\udf6d",
+      "game_name": "The Big Dog House",
+      "game_identifier": "pragmatic:vs20bgdoghouse",
+      "emoji": "\ud83d\udc36",
       "req_multi": 150.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20swbon2500"
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20bgdoghouse"
     },
     {
       "position": 4,
-      "game_name": "Sand and Ashes",
-      "game_identifier": "hacksaw:2243",
-      "emoji": "\ud83e\udeb2",
-      "req_multi": 225.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2243"
+      "game_name": "Rise of Fortuna",
+      "game_identifier": "hacksaw:2213",
+      "emoji": "\ud83d\udc78",
+      "req_multi": 200.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2213"
     },
     {
       "position": 5,
-      "game_name": "Dynasty of Death",
-      "game_identifier": "hacksaw:2082",
-      "emoji": "\u2694\ufe0f",
-      "req_multi": 300.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2082"
+      "game_name": "Magic Piggy OG",
+      "game_identifier": "hacksaw:2258",
+      "emoji": "\ud83d\udc37",
+      "req_multi": 250.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2258"
     }
   ],
   "draft_queue": [
@@ -75,459 +75,53 @@
       "emoji": "\ud83d\udc36",
       "req_multi": 150.0,
       "game_url": "https://roobet.com/casino/game/pragmatic:vs20bgdoghouse"
+    },
+    {
+      "position": 4,
+      "game_name": "Rise of Fortuna",
+      "game_identifier": "hacksaw:2213",
+      "emoji": "\ud83d\udc78",
+      "req_multi": 200.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2213"
+    },
+    {
+      "position": 5,
+      "game_name": "Magic Piggy OG",
+      "game_identifier": "hacksaw:2258",
+      "emoji": "\ud83d\udc37",
+      "req_multi": 250.0,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2258"
     }
   ],
   "summary": {
-    "total_participants": 22,
-    "current_winners": 2,
-    "prize_per_winner": 125.0,
+    "total_participants": 0,
+    "current_winners": 0,
+    "prize_per_winner": 0.0,
     "total_games_required": 5
   },
-  "participants": [
-    {
-      "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "completions": 5,
-      "total_games": 5,
-      "avg_multi": 638.39,
-      "max_multi": 1403.7,
-      "is_winner": true,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 485.3,
-          "met": true
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 144.2,
-          "met": true
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 287.74999999999994,
-          "met": true
-        },
-        "hacksaw:2243": {
-          "multi": 1403.7,
-          "met": true
-        },
-        "hacksaw:2082": {
-          "multi": 870.9999999999999,
-          "met": true
-        }
-      }
-    },
-    {
-      "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
-      "completions": 5,
-      "total_games": 5,
-      "avg_multi": 414.57,
-      "max_multi": 772.9,
-      "is_winner": true,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 207.0,
-          "met": true
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 319.05,
-          "met": true
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 772.9,
-          "met": true
-        },
-        "hacksaw:2243": {
-          "multi": 284.29999999999995,
-          "met": true
-        },
-        "hacksaw:2082": {
-          "multi": 489.59999999999997,
-          "met": true
-        }
-      }
-    },
-    {
-      "uid": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
-      "username": "smithloic2",
-      "completions": 2,
-      "total_games": 5,
-      "avg_multi": 204.47,
-      "max_multi": 323.94,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 85.0,
-          "met": true
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 44.800000000000004,
-          "met": false
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 323.94,
-          "met": true
-        },
-        "hacksaw:2243": {
-          "multi": 199.43333333333334,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 151.2,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
-      "username": "fliptheswitchop",
-      "completions": 2,
-      "total_games": 5,
-      "avg_multi": 80.3,
-      "max_multi": 108.6,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 52.0,
-          "met": true
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 108.6,
-          "met": true
-        },
-        "hacksaw:2243": {
-          "multi": 1.9215,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 28.780000000000005,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
-      "username": "flipmiller",
-      "completions": 1,
-      "total_games": 5,
-      "avg_multi": 3333.541992487753,
-      "max_multi": 3333.541992487753,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vswaysdragden": {
-          "multi": 12.0,
-          "met": false
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 99.01666666666665,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 3333.541992487753,
-          "met": true
-        },
-        "hacksaw:2082": {
-          "multi": 109.17947550154923,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
-      "username": "OfficerLawless",
-      "completions": 1,
-      "total_games": 5,
-      "avg_multi": 284.8,
-      "max_multi": 284.8,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 284.8,
-          "met": true
-        }
-      }
-    },
-    {
-      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "completions": 1,
-      "total_games": 5,
-      "avg_multi": 93.72578964609372,
-      "max_multi": 93.72578964609372,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 34.78663296230324,
-          "met": false
-        },
-        "pragmatic:vswaysdragden": {
-          "multi": 93.72578964609372,
-          "met": true
-        },
-        "pragmatic:vs20swbon2500": {
-          "multi": 104.27499999999999,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 156.3557962791969,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 2.56,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 36.4,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:1087": {
-          "multi": 5.999999999999999,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 21.233333333333334,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 3.7400000000000007,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
-      "username": "Jameskobi10",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 88.22,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
-      "username": "ProxyWoxy",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 12.25,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "9639491d-3e54-47fa-a116-0294790dbe9a",
-      "username": "Foxxy123",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 14.287500000000001,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 279.18,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "07ae10b6-80ee-469e-9741-bd7189312685",
-      "username": "TheRealMrClean",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 12.090000000000002,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 0.39999999999999997,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 24.76,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 27.9,
-          "met": false
-        },
-        "hacksaw:2082": {
-          "multi": 3.08,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "05844c63-5c12-4f79-b134-4bd21c569fa9",
-      "username": "flipmedaddy",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 7.5,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "54ba7542-df9e-486e-9491-3c3e124875c1",
-      "username": "gdigital87",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20swbon2500": {
-          "multi": 10.0,
-          "met": false
-        },
-        "hacksaw:2243": {
-          "multi": 100.2,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2243": {
-          "multi": 14.133333333333336,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2243": {
-          "multi": 5.0,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "f98f25f9-e70f-4912-90d1-65175a33ab14",
-      "username": "TwistTorrey",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2243": {
-          "multi": 0.3,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2082": {
-          "multi": 191.24,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2082": {
-          "multi": 1.7173333333333334,
-          "met": false
-        }
-      }
-    }
-  ],
+  "participants": [],
   "payout_history": [
+    {
+      "year": 2026,
+      "month": 5,
+      "period_key": "2026-05",
+      "winners": [
+        {
+          "username": "Zopipa",
+          "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+          "prize": 125.0,
+          "paid_at": "2026-06-01T00:02:14.812974+00:00"
+        },
+        {
+          "username": "hotrunners",
+          "uid": "0dbf266b-1680-4057-86be-22ac6470842e",
+          "prize": 125.0,
+          "paid_at": "2026-06-01T00:02:48.794611+00:00"
+        }
+      ],
+      "total_paid": 250.0,
+      "winner_count": 2
+    },
     {
       "year": 2026,
       "month": 4,
