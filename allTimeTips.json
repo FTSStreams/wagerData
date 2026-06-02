@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-02T10:45:39.614199+00:00",
-  "last_updated_timestamp": 1780397139,
+  "last_updated": "2026-06-02T10:55:39.705497+00:00",
+  "last_updated_timestamp": 1780397739,
   "summary": {
-    "total_tips_sent": 3853,
-    "total_amount_sent": 139530.86000000002,
+    "total_tips_sent": 3854,
+    "total_amount_sent": 139531.86000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 16143.7,
-        "tip_count": 2536
+        "total_amount": 16144.7,
+        "tip_count": 2537
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -118,8 +118,8 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "total_received": 1461.75,
-      "total_tips": 194
+      "total_received": 1462.75,
+      "total_tips": 195
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -603,10 +603,10 @@
       "username": "MrBrizz",
       "tips_by_type": {
         "milestone": {
-          "amount": 605.75,
-          "count": 167,
+          "amount": 606.75,
+          "count": 168,
           "first_tip": "2025-05-04T16:37:49.184577",
-          "latest_tip": "2026-06-01T08:44:22.461982"
+          "latest_tip": "2026-06-02T10:47:06.982486"
         },
         "monthly_leaderboard": {
           "amount": 520.0,
@@ -633,7 +633,7 @@
           "latest_tip": "2025-06-30T00:46:56.683986"
         }
       },
-      "total_received": 1470.75
+      "total_received": 1471.75
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -1827,8 +1827,8 @@
       "tip_type": "milestone",
       "month": 6,
       "year": 2026,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2026-06"
     },
     {
@@ -1892,13 +1892,13 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "tip_type": "monthly_leaderboard",
+      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
+      "tip_type": "manual",
       "month": 5,
       "year": 2026,
       "amount": 300.0,
-      "count": 1,
+      "count": 3,
       "period_key": "2026-05"
     },
     {
@@ -1912,13 +1912,13 @@
       "period_key": "2026-05"
     },
     {
-      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
-      "tip_type": "manual",
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tip_type": "monthly_leaderboard",
       "month": 5,
       "year": 2026,
       "amount": 300.0,
-      "count": 3,
+      "count": 1,
       "period_key": "2026-05"
     },
     {
