@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-02T19:55:59.032684+00:00",
-  "last_updated_timestamp": 1780430159,
+  "last_updated": "2026-06-02T20:06:00.785886+00:00",
+  "last_updated_timestamp": 1780430760,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "total_participants": 5,
+    "total_participants": 6,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
@@ -176,6 +176,21 @@
       "games": {
         "pragmatic:vs20candyia": {
           "multi": 0.0,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20bgdoghouse": {
+          "multi": 2.283333333333333,
           "met": false
         }
       }
