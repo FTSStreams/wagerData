@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-02T21:15:58.701008+00:00",
-  "last_updated_timestamp": 1780434958,
+  "last_updated": "2026-06-02T21:25:57.704343+00:00",
+  "last_updated_timestamp": 1780435557,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "total_participants": 6,
+    "total_participants": 7,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
@@ -206,6 +206,21 @@
       "games": {
         "pragmatic:vs20bgdoghouse": {
           "multi": 3.44,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "f98f25f9-e70f-4912-90d1-65175a33ab14",
+      "username": "TwistTorrey",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2213": {
+          "multi": 0.5,
           "met": false
         }
       }
