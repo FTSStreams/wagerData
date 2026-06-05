@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-05T01:11:24.290500+00:00",
-  "last_updated_timestamp": 1780621884,
+  "last_updated": "2026-06-05T01:21:23.809581+00:00",
+  "last_updated_timestamp": 1780622483,
   "summary": {
-    "total_tips_sent": 3863,
-    "total_amount_sent": 136628.11000000002,
+    "total_tips_sent": 3865,
+    "total_amount_sent": 136630.11000000002,
     "by_type": {
       "milestone": {
-        "total_amount": 16219.7,
-        "tip_count": 2569
+        "total_amount": 16221.7,
+        "tip_count": 2571
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1117,6 +1117,25 @@
       "total_received": 81.0
     },
     {
+      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
+      "username": "Alxxwilson",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 69.0,
+          "count": 39,
+          "first_tip": "2026-03-16T18:33:37.189084",
+          "latest_tip": "2026-06-05T01:13:27.051035"
+        },
+        "manual": {
+          "amount": 10.0,
+          "count": 1,
+          "first_tip": "2026-03-18T15:18:39.745152",
+          "latest_tip": "2026-03-18T15:18:39.745152"
+        }
+      },
+      "total_received": 79.0
+    },
+    {
       "user_id": "e7ee94e4-7a18-4a1f-9f38-2db1515b5ebb",
       "username": "OfficerLawless",
       "tips_by_type": {
@@ -1165,25 +1184,6 @@
         }
       },
       "total_received": 77.53999999999999
-    },
-    {
-      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
-      "username": "Alxxwilson",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 67.0,
-          "count": 37,
-          "first_tip": "2026-03-16T18:33:37.189084",
-          "latest_tip": "2026-06-05T01:02:53.031313"
-        },
-        "manual": {
-          "amount": 10.0,
-          "count": 1,
-          "first_tip": "2026-03-18T15:18:39.745152",
-          "latest_tip": "2026-03-18T15:18:39.745152"
-        }
-      },
-      "total_received": 77.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -1796,16 +1796,6 @@
       "period_key": "2026-06"
     },
     {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tip_type": "weekly_multiplier",
-      "month": 6,
-      "year": 2026,
-      "amount": 10.0,
-      "count": 1,
-      "period_key": "2026-06"
-    },
-    {
       "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "tip_type": "milestone",
@@ -1813,6 +1803,16 @@
       "year": 2026,
       "amount": 10.0,
       "count": 9,
+      "period_key": "2026-06"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "weekly_multiplier",
+      "month": 6,
+      "year": 2026,
+      "amount": 10.0,
+      "count": 1,
       "period_key": "2026-06"
     },
     {
@@ -1866,22 +1866,22 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
+      "username": "Alxxwilson",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tip_type": "check_in",
       "month": 6,
       "year": 2026,
       "amount": 1.25,
-      "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
-      "username": "Alxxwilson",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 1.0,
       "count": 1,
       "period_key": "2026-06"
     },
