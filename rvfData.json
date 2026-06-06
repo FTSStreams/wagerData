@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-06T05:27:30.878416+00:00",
-  "last_updated_timestamp": 1780723650,
+  "last_updated": "2026-06-06T05:37:25.131561+00:00",
+  "last_updated_timestamp": 1780724245,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -101,6 +101,21 @@
   },
   "participants": [
     {
+      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 152.60000000000002,
+      "max_multi": 152.60000000000002,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20candyia": {
+          "multi": 152.60000000000002,
+          "met": true
+        }
+      }
+    },
+    {
       "uid": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
       "username": "Zopipa",
       "completions": 1,
@@ -195,21 +210,6 @@
         },
         "hacksaw:2213": {
           "multi": 21.533333333333335,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20candyia": {
-          "multi": 4.45,
           "met": false
         }
       }
