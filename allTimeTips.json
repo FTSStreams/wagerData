@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-10T23:10:27.615425+00:00",
-  "last_updated_timestamp": 1781133027,
+  "last_updated": "2026-06-10T23:20:27.876936+00:00",
+  "last_updated_timestamp": 1781133627,
   "summary": {
-    "total_tips_sent": 3951,
-    "total_amount_sent": 139042.22,
+    "total_tips_sent": 3953,
+    "total_amount_sent": 139044.22,
     "by_type": {
       "milestone": {
-        "total_amount": 16595.7,
-        "tip_count": 2642
+        "total_amount": 16597.7,
+        "tip_count": 2644
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -826,13 +826,13 @@
           "latest_tip": "2025-10-12T16:18:29.336188"
         },
         "milestone": {
-          "amount": 157.5,
-          "count": 67,
+          "amount": 159.5,
+          "count": 69,
           "first_tip": "2025-05-04T16:38:22.416213",
-          "latest_tip": "2026-06-10T23:01:56.842982"
+          "latest_tip": "2026-06-10T23:12:30.981771"
         }
       },
-      "total_received": 623.5
+      "total_received": 625.5
     },
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
@@ -2007,22 +2007,22 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "59e78d58-585d-4781-8132-6bb24e327040",
       "username": "farsant5",
       "tip_type": "check_in",
       "month": 6,
       "year": 2026,
       "amount": 1.06,
-      "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 1.0,
       "count": 1,
       "period_key": "2026-06"
     },
