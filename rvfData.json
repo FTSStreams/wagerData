@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-10T00:52:49.967493+00:00",
-  "last_updated_timestamp": 1781052769,
+  "last_updated": "2026-06-10T01:02:50.646342+00:00",
+  "last_updated_timestamp": 1781053370,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -103,10 +103,10 @@
     {
       "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
-      "completions": 1,
+      "completions": 2,
       "total_games": 5,
-      "avg_multi": 152.60000000000002,
-      "max_multi": 152.60000000000002,
+      "avg_multi": 163.525,
+      "max_multi": 174.45,
       "is_winner": false,
       "games": {
         "pragmatic:vs20candyia": {
@@ -114,8 +114,8 @@
           "met": true
         },
         "pragmatic:vs20bgdoghouse": {
-          "multi": 2.55,
-          "met": false
+          "multi": 174.45,
+          "met": true
         },
         "hacksaw:2213": {
           "multi": 5.0,
