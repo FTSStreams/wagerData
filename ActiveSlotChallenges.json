@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-06-12T21:20:08.823909+00:00",
-  "last_updated_timestamp": 1781299208,
-  "total_challenges": 5,
+  "last_updated": "2026-06-12T21:30:08.683410+00:00",
+  "last_updated_timestamp": 1781299808,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 247,
@@ -31,19 +31,6 @@
       "start_timestamp": 1775076030
     },
     {
-      "challenge_id": 300,
-      "game_identifier": "pragmatic:vs20payanyvol",
-      "game_name": "Jelly Express",
-      "required_multiplier": 750.0,
-      "prize": 100.0,
-      "start_time": "2026-04-23T14:31:07+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83c\udf6c",
-      "min_bet": 0.4,
-      "start_timestamp": 1776954667
-    },
-    {
       "challenge_id": 308,
       "game_identifier": "hacksaw:1803",
       "game_name": "The Count",
@@ -68,6 +55,71 @@
       "emoji": "\u2692\ufe0f",
       "min_bet": 0.4,
       "start_timestamp": 1777917482
+    },
+    {
+      "challenge_id": 331,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 1000.0,
+      "prize": 100.0,
+      "start_time": "2026-06-12T21:26:11+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc79",
+      "min_bet": 1.0,
+      "start_timestamp": 1781299571
+    },
+    {
+      "challenge_id": 332,
+      "game_identifier": "playngo:reactoonztwo",
+      "game_name": "Reactoonz 2",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-06-12T21:27:07+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\uddcc",
+      "min_bet": 1.0,
+      "start_timestamp": 1781299627
+    },
+    {
+      "challenge_id": 333,
+      "game_identifier": "hacksaw:1164",
+      "game_name": "Hand of Anubis",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-06-12T21:27:59+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc51",
+      "min_bet": 0.4,
+      "start_timestamp": 1781299679
+    },
+    {
+      "challenge_id": 334,
+      "game_identifier": "hacksaw:1895",
+      "game_name": "Mystery Bats",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-06-12T21:28:32+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd87",
+      "min_bet": 0.4,
+      "start_timestamp": 1781299712
+    },
+    {
+      "challenge_id": 335,
+      "game_identifier": "hacksaw:1408",
+      "game_name": "Fist of Destruction",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-06-12T21:29:08+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u270a",
+      "min_bet": 0.4,
+      "start_timestamp": 1781299748
     }
   ]
 }
