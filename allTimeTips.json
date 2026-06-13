@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-13T03:50:10.829437+00:00",
-  "last_updated_timestamp": 1781322610,
+  "last_updated": "2026-06-13T04:00:10.801050+00:00",
+  "last_updated_timestamp": 1781323210,
   "summary": {
-    "total_tips_sent": 3981,
-    "total_amount_sent": 139861.32,
+    "total_tips_sent": 3982,
+    "total_amount_sent": 139863.32,
     "by_type": {
       "milestone": {
-        "total_amount": 16621.7,
-        "tip_count": 2661
+        "total_amount": 16623.7,
+        "tip_count": 2662
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1107,10 +1107,10 @@
       "username": "Alxxwilson",
       "tips_by_type": {
         "milestone": {
-          "amount": 80.0,
-          "count": 47,
+          "amount": 82.0,
+          "count": 48,
           "first_tip": "2026-03-16T18:33:37.189084",
-          "latest_tip": "2026-06-12T23:01:37.938828"
+          "latest_tip": "2026-06-13T03:51:38.535522"
         },
         "manual": {
           "amount": 10.0,
@@ -1119,7 +1119,7 @@
           "latest_tip": "2026-03-18T15:18:39.745152"
         }
       },
-      "total_received": 90.0
+      "total_received": 92.0
     },
     {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
@@ -1879,6 +1879,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
+      "username": "Alxxwilson",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 16.0,
+      "count": 12,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "milestone",
@@ -1926,16 +1936,6 @@
       "year": 2026,
       "amount": 15.0,
       "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
-      "username": "Alxxwilson",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 14.0,
-      "count": 11,
       "period_key": "2026-06"
     },
     {
