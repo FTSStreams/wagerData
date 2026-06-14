@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-06-14T13:13:42.304732+00:00",
-  "last_updated_timestamp": 1781442822,
-  "total_tips": 3990,
+  "last_updated": "2026-06-14T13:23:42.441579+00:00",
+  "last_updated_timestamp": 1781443422,
+  "total_tips": 3991,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 6.45,
+      "tip_type": "check_in",
+      "month": 6,
+      "year": 2026,
+      "period_key": "2026-06",
+      "tipped_at": "2026-06-14T13:15:13.725581"
+    },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
