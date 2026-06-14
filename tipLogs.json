@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-06-14T17:33:57.032352+00:00",
-  "last_updated_timestamp": 1781458437,
-  "total_tips": 3991,
+  "last_updated": "2026-06-14T17:43:57.781742+00:00",
+  "last_updated_timestamp": 1781459037,
+  "total_tips": 3992,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 6,
+      "year": 2026,
+      "period_key": "2026-06",
+      "tipped_at": "2026-06-14T17:38:49.480064"
+    },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
@@ -37257,9 +37267,9 @@
       "tipped_at": "2025-07-03T02:55:34.943377"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "amount": 40.0,
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 30.0,
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
@@ -37327,9 +37337,9 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
-      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-      "username": "Laztheraz",
-      "amount": 30.0,
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "amount": 40.0,
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
