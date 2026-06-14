@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-14T21:53:57.378955+00:00",
-  "last_updated_timestamp": 1781474037,
+  "last_updated": "2026-06-14T22:03:57.759487+00:00",
+  "last_updated_timestamp": 1781474637,
   "summary": {
-    "total_tips_sent": 3998,
-    "total_amount_sent": 140165.77000000002,
+    "total_tips_sent": 3999,
+    "total_amount_sent": 141165.77000000002,
     "by_type": {
       "milestone": {
         "total_amount": 16704.7,
@@ -19,8 +19,8 @@
         "tip_count": 73
       },
       "manual": {
-        "total_amount": 92172.62,
-        "tip_count": 1010
+        "total_amount": 93172.62,
+        "tip_count": 1011
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -70,8 +70,8 @@
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
-      "total_received": 3386.5,
-      "total_tips": 203
+      "total_received": 4386.5,
+      "total_tips": 204
     },
     {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
@@ -342,6 +342,12 @@
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tips_by_type": {
+        "manual": {
+          "amount": 1915.0,
+          "count": 11,
+          "first_tip": "2026-04-19T21:00:30.616044",
+          "latest_tip": "2026-06-14T21:55:55.416102"
+        },
         "milestone": {
           "amount": 1287.5,
           "count": 180,
@@ -353,12 +359,6 @@
           "count": 6,
           "first_tip": "2025-07-03T00:00:00",
           "latest_tip": "2026-05-01T15:09:08.574652"
-        },
-        "manual": {
-          "amount": 915.0,
-          "count": 10,
-          "first_tip": "2026-04-19T21:00:30.616044",
-          "latest_tip": "2026-06-13T21:41:47.186779"
         },
         "slot_challenge": {
           "amount": 125.0,
@@ -373,7 +373,7 @@
           "latest_tip": "2026-06-12T00:16:09.977338"
         }
       },
-      "total_received": 3386.5
+      "total_received": 4386.5
     },
     {
       "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
@@ -1739,8 +1739,8 @@
       "tip_type": "manual",
       "month": 6,
       "year": 2026,
-      "amount": 765.0,
-      "count": 7,
+      "amount": 1765.0,
+      "count": 8,
       "period_key": "2026-06"
     },
     {
