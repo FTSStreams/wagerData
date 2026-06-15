@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-15T01:14:15.718611+00:00",
-  "last_updated_timestamp": 1781486055,
+  "last_updated": "2026-06-15T01:24:16.170748+00:00",
+  "last_updated_timestamp": 1781486656,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -196,6 +196,21 @@
       }
     },
     {
+      "uid": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20candyia": {
+          "multi": 38.25,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "308ef436-7542-4b42-a13a-799e218e1f26",
       "username": "gl13",
       "completions": 0,
@@ -206,21 +221,6 @@
       "games": {
         "pragmatic:vs20candyia": {
           "multi": 23.5,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20candyia": {
-          "multi": 30.499999999999996,
           "met": false
         }
       }
