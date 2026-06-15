@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-15T17:57:12.183672+00:00",
-  "last_updated_timestamp": 1781546232,
+  "last_updated": "2026-06-15T18:07:12.624925+00:00",
+  "last_updated_timestamp": 1781546832,
   "summary": {
-    "total_tips_sent": 4008,
-    "total_amount_sent": 141186.03,
+    "total_tips_sent": 4009,
+    "total_amount_sent": 141187.03,
     "by_type": {
       "milestone": {
-        "total_amount": 16723.7,
-        "tip_count": 2681
+        "total_amount": 16724.7,
+        "tip_count": 2682
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1252,13 +1252,13 @@
           "latest_tip": "2026-02-01T16:43:40.138192"
         },
         "milestone": {
-          "amount": 23.0,
-          "count": 18,
+          "amount": 24.0,
+          "count": 19,
           "first_tip": "2025-11-19T17:37:02.950879",
-          "latest_tip": "2026-06-13T08:01:38.255830"
+          "latest_tip": "2026-06-15T17:58:41.490193"
         }
       },
-      "total_received": 48.0
+      "total_received": 49.0
     },
     {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
@@ -2094,22 +2094,22 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
+      "username": "1who1",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 5.0,
+      "count": 5,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tip_type": "check_in",
       "month": 6,
       "year": 2026,
       "amount": 4.8,
-      "count": 4,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
-      "username": "1who1",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 4.0,
       "count": 4,
       "period_key": "2026-06"
     },
