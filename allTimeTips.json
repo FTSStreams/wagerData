@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-16T04:47:12.568895+00:00",
-  "last_updated_timestamp": 1781585232,
+  "last_updated": "2026-06-16T04:57:13.136307+00:00",
+  "last_updated_timestamp": 1781585833,
   "summary": {
-    "total_tips_sent": 4019,
-    "total_amount_sent": 141207.03,
+    "total_tips_sent": 4020,
+    "total_amount_sent": 141209.03,
     "by_type": {
       "milestone": {
-        "total_amount": 16744.7,
-        "tip_count": 2692
+        "total_amount": 16746.7,
+        "tip_count": 2693
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1330,25 +1330,6 @@
       "total_received": 38.69
     },
     {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tips_by_type": {
-        "manual": {
-          "amount": 15.0,
-          "count": 2,
-          "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-06-14T18:58:48.018572"
-        },
-        "milestone": {
-          "amount": 14.0,
-          "count": 11,
-          "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-06-15T09:35:26.180432"
-        }
-      },
-      "total_received": 29.0
-    },
-    {
       "user_id": "60aeb302-9f87-4c9e-8f22-c9945e2928ae",
       "username": "akoswilld0it",
       "tips_by_type": {
@@ -1363,6 +1344,25 @@
           "count": 11,
           "first_tip": "2026-06-05T15:03:32.547449",
           "latest_tip": "2026-06-05T15:33:32.301471"
+        }
+      },
+      "total_received": 29.0
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tips_by_type": {
+        "manual": {
+          "amount": 15.0,
+          "count": 2,
+          "first_tip": "2026-06-14T17:38:49.480064",
+          "latest_tip": "2026-06-14T18:58:48.018572"
+        },
+        "milestone": {
+          "amount": 14.0,
+          "count": 11,
+          "first_tip": "2026-06-14T18:25:26.361490",
+          "latest_tip": "2026-06-15T09:35:26.180432"
         }
       },
       "total_received": 29.0
@@ -1419,19 +1419,6 @@
       "total_received": 16.0
     },
     {
-      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-      "username": "4TIFLIP",
-      "tips_by_type": {
-        "manual": {
-          "amount": 15.0,
-          "count": 3,
-          "first_tip": "2025-06-23T16:12:36.850105",
-          "latest_tip": "2025-07-22T16:07:44.059101"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
       "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
       "username": "HippoMike",
       "tips_by_type": {
@@ -1440,6 +1427,19 @@
           "count": 13,
           "first_tip": "2025-11-09T22:21:26.283801",
           "latest_tip": "2025-11-17T03:02:08.061438"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
+      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
+      "username": "4TIFLIP",
+      "tips_by_type": {
+        "manual": {
+          "amount": 15.0,
+          "count": 3,
+          "first_tip": "2025-06-23T16:12:36.850105",
+          "latest_tip": "2025-07-22T16:07:44.059101"
         }
       },
       "total_received": 15.0
@@ -1456,6 +1456,19 @@
         }
       },
       "total_received": 14.0
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 12.0,
+          "count": 10,
+          "first_tip": "2026-06-15T21:18:41.401982",
+          "latest_tip": "2026-06-16T04:48:41.349835"
+        }
+      },
+      "total_received": 12.0
     },
     {
       "user_id": "f98f25f9-e70f-4912-90d1-65175a33ab14",
@@ -1505,19 +1518,6 @@
           "count": 2,
           "first_tip": "2026-01-27T22:18:25.916013",
           "latest_tip": "2026-03-12T23:58:34.838259"
-        }
-      },
-      "total_received": 10.0
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 10.0,
-          "count": 9,
-          "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-06-16T02:28:41.064708"
         }
       },
       "total_received": 10.0
@@ -2042,8 +2042,8 @@
       "tip_type": "milestone",
       "month": 6,
       "year": 2026,
-      "amount": 10.0,
-      "count": 9,
+      "amount": 12.0,
+      "count": 10,
       "period_key": "2026-06"
     },
     {
