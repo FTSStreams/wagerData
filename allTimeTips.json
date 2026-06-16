@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-16T02:27:11.687633+00:00",
-  "last_updated_timestamp": 1781576831,
+  "last_updated": "2026-06-16T02:37:11.774660+00:00",
+  "last_updated_timestamp": 1781577431,
   "summary": {
-    "total_tips_sent": 4018,
-    "total_amount_sent": 141205.03,
+    "total_tips_sent": 4019,
+    "total_amount_sent": 141207.03,
     "by_type": {
       "milestone": {
-        "total_amount": 16742.7,
-        "tip_count": 2691
+        "total_amount": 16744.7,
+        "tip_count": 2692
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1484,19 +1484,6 @@
       "total_received": 11.0
     },
     {
-      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-      "username": "rebeltrankil09",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 10.0,
-          "count": 10,
-          "first_tip": "2025-12-12T05:41:28.687437",
-          "latest_tip": "2026-03-28T06:00:00.623669"
-        }
-      },
-      "total_received": 10.0
-    },
-    {
       "user_id": "6bed54e4-2744-4ef1-97a2-3073e0a7e858",
       "username": "tpgd",
       "tips_by_type": {
@@ -1505,6 +1492,32 @@
           "count": 1,
           "first_tip": "2025-12-24T18:49:53.328134",
           "latest_tip": "2025-12-24T18:49:53.328134"
+        }
+      },
+      "total_received": 10.0
+    },
+    {
+      "user_id": "bb8a11c9-b202-46c1-88f5-69769e3790fb",
+      "username": "juanchef",
+      "tips_by_type": {
+        "monthly_leaderboard": {
+          "amount": 10.0,
+          "count": 2,
+          "first_tip": "2026-01-27T22:18:25.916013",
+          "latest_tip": "2026-03-12T23:58:34.838259"
+        }
+      },
+      "total_received": 10.0
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 10.0,
+          "count": 9,
+          "first_tip": "2026-06-15T21:18:41.401982",
+          "latest_tip": "2026-06-16T02:28:41.064708"
         }
       },
       "total_received": 10.0
@@ -1523,14 +1536,14 @@
       "total_received": 10.0
     },
     {
-      "user_id": "bb8a11c9-b202-46c1-88f5-69769e3790fb",
-      "username": "juanchef",
+      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
+      "username": "rebeltrankil09",
       "tips_by_type": {
-        "monthly_leaderboard": {
+        "milestone": {
           "amount": 10.0,
-          "count": 2,
-          "first_tip": "2026-01-27T22:18:25.916013",
-          "latest_tip": "2026-03-12T23:58:34.838259"
+          "count": 10,
+          "first_tip": "2025-12-12T05:41:28.687437",
+          "latest_tip": "2026-03-28T06:00:00.623669"
         }
       },
       "total_received": 10.0
@@ -1553,19 +1566,6 @@
         }
       },
       "total_received": 10.0
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 8.0,
-          "count": 8,
-          "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-06-15T21:48:41.078423"
-        }
-      },
-      "total_received": 8.0
     },
     {
       "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
@@ -2037,6 +2037,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 10.0,
+      "count": 9,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tip_type": "weekly_multiplier",
@@ -2044,16 +2054,6 @@
       "year": 2026,
       "amount": 10.0,
       "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 8.0,
-      "count": 8,
       "period_key": "2026-06"
     },
     {
