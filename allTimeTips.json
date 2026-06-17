@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-17T15:31:13.761299+00:00",
-  "last_updated_timestamp": 1781710273,
+  "last_updated": "2026-06-17T15:41:13.136392+00:00",
+  "last_updated_timestamp": 1781710873,
   "summary": {
-    "total_tips_sent": 4028,
-    "total_amount_sent": 141245.66,
+    "total_tips_sent": 4029,
+    "total_amount_sent": 141265.66,
     "by_type": {
       "milestone": {
-        "total_amount": 16778.7,
-        "tip_count": 2699
+        "total_amount": 16798.7,
+        "tip_count": 2700
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -124,8 +124,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 1332.0,
-      "total_tips": 132
+      "total_received": 1352.0,
+      "total_tips": 133
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -664,10 +664,10 @@
           "latest_tip": "2026-05-01T15:07:54.842712"
         },
         "milestone": {
-          "amount": 458.0,
-          "count": 110,
+          "amount": 478.0,
+          "count": 111,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-06-10T02:13:57.697879"
+          "latest_tip": "2026-06-17T15:33:11.869251"
         },
         "monthly_leaderboard": {
           "amount": 310.0,
@@ -682,7 +682,7 @@
           "latest_tip": "2026-06-05T00:17:02.628360"
         }
       },
-      "total_received": 1332.0
+      "total_received": 1352.0
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -1843,6 +1843,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 84.0,
+      "count": 17,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
       "username": "Foxxy123",
       "tip_type": "monthly_leaderboard",
@@ -1850,16 +1860,6 @@
       "year": 2026,
       "amount": 75.0,
       "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 64.0,
-      "count": 16,
       "period_key": "2026-06"
     },
     {
