@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-17T22:12:26.161873+00:00",
-  "last_updated_timestamp": 1781734346,
+  "last_updated": "2026-06-17T22:22:26.061584+00:00",
+  "last_updated_timestamp": 1781734946,
   "summary": {
-    "total_tips_sent": 4032,
-    "total_amount_sent": 141367.66,
+    "total_tips_sent": 4033,
+    "total_amount_sent": 141368.66,
     "by_type": {
       "milestone": {
-        "total_amount": 16900.7,
-        "tip_count": 2703
+        "total_amount": 16901.7,
+        "tip_count": 2704
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1715,6 +1715,19 @@
       "total_received": 3.0
     },
     {
+      "user_id": "f905931f-0edb-4e65-9afd-e4613cbca1f5",
+      "username": "Raphaelsefriou",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2026-06-17T21:43:55.505828",
+          "latest_tip": "2026-06-17T22:13:55.490544"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
       "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
       "username": "Joeyforreal",
       "tips_by_type": {
@@ -1739,19 +1752,6 @@
         }
       },
       "total_received": 2.5
-    },
-    {
-      "user_id": "f905931f-0edb-4e65-9afd-e4613cbca1f5",
-      "username": "Raphaelsefriou",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-06-17T21:43:55.505828",
-          "latest_tip": "2026-06-17T21:53:55.536410"
-        }
-      },
-      "total_received": 2.0
     }
   ],
   "monthly_breakdown": [
@@ -2176,22 +2176,22 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "f905931f-0edb-4e65-9afd-e4613cbca1f5",
+      "username": "Raphaelsefriou",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
       "username": "argnt",
       "tip_type": "check_in",
       "month": 6,
       "year": 2026,
       "amount": 2.86,
-      "count": 2,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "f905931f-0edb-4e65-9afd-e4613cbca1f5",
-      "username": "Raphaelsefriou",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 2.0,
       "count": 2,
       "period_key": "2026-06"
     },
