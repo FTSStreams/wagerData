@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-18T17:25:10.523740+00:00",
-  "last_updated_timestamp": 1781803510,
+  "last_updated": "2026-06-18T17:35:08.152921+00:00",
+  "last_updated_timestamp": 1781804108,
   "summary": {
-    "total_tips_sent": 4038,
-    "total_amount_sent": 141399.66,
+    "total_tips_sent": 4039,
+    "total_amount_sent": 141400.66,
     "by_type": {
       "milestone": {
-        "total_amount": 16932.7,
-        "tip_count": 2709
+        "total_amount": 16933.7,
+        "tip_count": 2710
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -838,13 +838,13 @@
           "latest_tip": "2025-10-12T16:18:29.336188"
         },
         "milestone": {
-          "amount": 160.5,
-          "count": 70,
+          "amount": 161.5,
+          "count": 71,
           "first_tip": "2025-05-04T16:38:22.416213",
-          "latest_tip": "2026-06-13T03:11:37.738613"
+          "latest_tip": "2026-06-18T17:27:06.569019"
         }
       },
-      "total_received": 626.5
+      "total_received": 627.5
     },
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
@@ -2126,13 +2126,13 @@
       "period_key": "2026-06"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "tip_type": "monthly_leaderboard",
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "tip_type": "milestone",
       "month": 6,
       "year": 2026,
       "amount": 5.0,
-      "count": 1,
+      "count": 5,
       "period_key": "2026-06"
     },
     {
@@ -2156,22 +2156,22 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "monthly_leaderboard",
+      "month": 6,
+      "year": 2026,
+      "amount": 5.0,
+      "count": 1,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tip_type": "check_in",
       "month": 6,
       "year": 2026,
       "amount": 4.8,
-      "count": 4,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 4.0,
       "count": 4,
       "period_key": "2026-06"
     },
