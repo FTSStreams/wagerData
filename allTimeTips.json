@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-18T20:05:08.448028+00:00",
-  "last_updated_timestamp": 1781813108,
+  "last_updated": "2026-06-18T20:15:07.218971+00:00",
+  "last_updated_timestamp": 1781813707,
   "summary": {
-    "total_tips_sent": 4040,
-    "total_amount_sent": 141401.66,
+    "total_tips_sent": 4041,
+    "total_amount_sent": 141411.66,
     "by_type": {
       "milestone": {
-        "total_amount": 16934.7,
-        "tip_count": 2711
+        "total_amount": 16944.7,
+        "tip_count": 2712
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1248,6 +1248,25 @@
       "total_received": 54.5
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 34.0,
+          "count": 14,
+          "first_tip": "2026-06-14T18:25:26.361490",
+          "latest_tip": "2026-06-18T20:07:06.652355"
+        },
+        "manual": {
+          "amount": 15.0,
+          "count": 2,
+          "first_tip": "2026-06-14T17:38:49.480064",
+          "latest_tip": "2026-06-14T18:58:48.018572"
+        }
+      },
+      "total_received": 49.0
+    },
+    {
       "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
       "username": "1who1",
       "tips_by_type": {
@@ -1315,25 +1334,6 @@
         }
       },
       "total_received": 43.0
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 24.0,
-          "count": 13,
-          "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-06-18T16:57:06.582499"
-        },
-        "manual": {
-          "amount": 15.0,
-          "count": 2,
-          "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-06-14T18:58:48.018572"
-        }
-      },
-      "total_received": 39.0
     },
     {
       "user_id": "cf701c7e-34ba-4ec3-bee8-b59c5bd302ac",
@@ -1906,6 +1906,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 34.0,
+      "count": 14,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "milestone",
@@ -1946,26 +1956,6 @@
       "period_key": "2026-06"
     },
     {
-      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
-      "username": "flipmiller",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 24.0,
-      "count": 13,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 24.0,
-      "count": 13,
-      "period_key": "2026-06"
-    },
-    {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "tip_type": "milestone",
@@ -1976,8 +1966,18 @@
       "period_key": "2026-06"
     },
     {
-      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
-      "username": "smithloic2",
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 24.0,
+      "count": 13,
+      "period_key": "2026-06"
+    },
+    {
+      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
+      "username": "Alxxwilson",
       "tip_type": "milestone",
       "month": 6,
       "year": 2026,
@@ -1986,8 +1986,8 @@
       "period_key": "2026-06"
     },
     {
-      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
-      "username": "Alxxwilson",
+      "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
+      "username": "smithloic2",
       "tip_type": "milestone",
       "month": 6,
       "year": 2026,
