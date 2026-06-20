@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-19T23:52:50.123912+00:00",
-  "last_updated_timestamp": 1781913170,
+  "last_updated": "2026-06-20T00:02:49.875255+00:00",
+  "last_updated_timestamp": 1781913769,
   "summary": {
-    "total_tips_sent": 4062,
-    "total_amount_sent": 141635.66,
+    "total_tips_sent": 4063,
+    "total_amount_sent": 141636.66,
     "by_type": {
       "milestone": {
-        "total_amount": 17118.7,
-        "tip_count": 2730
+        "total_amount": 17119.7,
+        "tip_count": 2731
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -142,8 +142,8 @@
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
-      "total_received": 892.3,
-      "total_tips": 215
+      "total_received": 893.3,
+      "total_tips": 216
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -739,10 +739,10 @@
       "username": "Laztheraz",
       "tips_by_type": {
         "milestone": {
-          "amount": 537.3,
-          "count": 205,
+          "amount": 538.3,
+          "count": 206,
           "first_tip": "2025-05-04T22:21:44.901915",
-          "latest_tip": "2026-06-19T23:25:31.184425"
+          "latest_tip": "2026-06-19T23:54:20.338440"
         },
         "monthly_leaderboard": {
           "amount": 245.0,
@@ -769,7 +769,7 @@
           "latest_tip": "2026-03-27T00:16:43.038589"
         }
       },
-      "total_received": 892.3
+      "total_received": 893.3
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -2196,6 +2196,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 4.0,
+      "count": 4,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "tip_type": "check_in",
@@ -2203,16 +2213,6 @@
       "year": 2026,
       "amount": 3.5,
       "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-      "username": "Laztheraz",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 3.0,
-      "count": 3,
       "period_key": "2026-06"
     },
     {
