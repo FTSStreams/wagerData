@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-06-21T22:33:41.958345+00:00",
-  "last_updated_timestamp": 1782081221,
-  "total_challenges": 9,
+  "last_updated": "2026-06-21T22:43:42.024485+00:00",
+  "last_updated_timestamp": 1782081822,
+  "total_challenges": 10,
   "challenges": [
     {
       "challenge_id": 247,
@@ -120,6 +120,19 @@
       "emoji": "\ud83d\udc7d",
       "min_bet": 0.4,
       "start_timestamp": 1781729905
+    },
+    {
+      "challenge_id": 364,
+      "game_identifier": "hacksaw:1243",
+      "game_name": "Stormforged",
+      "required_multiplier": 750.0,
+      "prize": 100.0,
+      "start_time": "2026-06-21T22:42:54+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2744\ufe0f",
+      "min_bet": 0.4,
+      "start_timestamp": 1782081774
     }
   ]
 }
