@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-22T04:23:44.085693+00:00",
-  "last_updated_timestamp": 1782102224,
+  "last_updated": "2026-06-22T04:33:43.734081+00:00",
+  "last_updated_timestamp": 1782102823,
   "summary": {
-    "total_tips_sent": 4073,
-    "total_amount_sent": 141896.66,
+    "total_tips_sent": 4074,
+    "total_amount_sent": 141906.66,
     "by_type": {
       "milestone": {
-        "total_amount": 17278.7,
-        "tip_count": 2739
+        "total_amount": 17288.7,
+        "tip_count": 2740
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1292,6 +1292,19 @@
       "total_received": 49.0
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 44.0,
+          "count": 15,
+          "first_tip": "2026-06-15T21:18:41.401982",
+          "latest_tip": "2026-06-22T04:25:12.581737"
+        }
+      },
+      "total_received": 44.0
+    },
+    {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
       "username": "MrExcitable",
       "tips_by_type": {
@@ -1359,19 +1372,6 @@
         }
       },
       "total_received": 38.69
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 34.0,
-          "count": 14,
-          "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-06-20T22:41:49.349785"
-        }
-      },
-      "total_received": 34.0
     },
     {
       "user_id": "60aeb302-9f87-4c9e-8f22-c9945e2928ae",
@@ -1932,6 +1932,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "milestone",
+      "month": 6,
+      "year": 2026,
+      "amount": 44.0,
+      "count": 15,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "tip_type": "milestone",
@@ -1944,16 +1954,6 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 34.0,
-      "count": 14,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
       "tip_type": "milestone",
       "month": 6,
       "year": 2026,
