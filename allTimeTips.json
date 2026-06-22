@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-22T09:53:43.863848+00:00",
-  "last_updated_timestamp": 1782122023,
+  "last_updated": "2026-06-22T10:03:45.118567+00:00",
+  "last_updated_timestamp": 1782122625,
   "summary": {
-    "total_tips_sent": 4074,
-    "total_amount_sent": 141906.66,
+    "total_tips_sent": 4075,
+    "total_amount_sent": 141908.54,
     "by_type": {
       "milestone": {
         "total_amount": 17288.7,
@@ -27,8 +27,8 @@
         "tip_count": 7
       },
       "check_in": {
-        "total_amount": 38.34,
-        "tip_count": 26
+        "total_amount": 40.22,
+        "tip_count": 27
       },
       "weekly_multiplier": {
         "total_amount": 942.0,
@@ -1580,6 +1580,25 @@
       "total_received": 10.0
     },
     {
+      "user_id": "59e78d58-585d-4781-8132-6bb24e327040",
+      "username": "farsant5",
+      "tips_by_type": {
+        "check_in": {
+          "amount": 4.21,
+          "count": 3,
+          "first_tip": "2026-05-29T17:03:07.649580",
+          "latest_tip": "2026-06-22T10:03:39.116007"
+        },
+        "manual": {
+          "amount": 4.0,
+          "count": 1,
+          "first_tip": "2026-01-16T17:11:41.165913",
+          "latest_tip": "2026-01-16T17:11:41.165913"
+        }
+      },
+      "total_received": 8.21
+    },
+    {
       "user_id": "41da2bda-8c19-4658-be6c-ef23d6418e8f",
       "username": "pastoor69",
       "tips_by_type": {
@@ -1663,25 +1682,6 @@
       "total_received": 7.0
     },
     {
-      "user_id": "59e78d58-585d-4781-8132-6bb24e327040",
-      "username": "farsant5",
-      "tips_by_type": {
-        "manual": {
-          "amount": 4.0,
-          "count": 1,
-          "first_tip": "2026-01-16T17:11:41.165913",
-          "latest_tip": "2026-01-16T17:11:41.165913"
-        },
-        "check_in": {
-          "amount": 2.33,
-          "count": 2,
-          "first_tip": "2026-05-29T17:03:07.649580",
-          "latest_tip": "2026-06-10T00:05:14.039641"
-        }
-      },
-      "total_received": 6.33
-    },
-    {
       "user_id": "f905931f-0edb-4e65-9afd-e4613cbca1f5",
       "username": "Raphaelsefriou",
       "tips_by_type": {
@@ -1708,6 +1708,19 @@
       "total_received": 5.0
     },
     {
+      "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
+      "username": "Joeyforreal",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2025-09-11T21:57:25.282972",
+          "latest_tip": "2025-09-11T22:07:59.328824"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
       "user_id": "656fe910-1f0d-4bc3-b93f-66e28794facd",
       "username": "mirrosi",
       "tips_by_type": {
@@ -1729,19 +1742,6 @@
           "count": 1,
           "first_tip": "2026-01-22T21:35:33.908218",
           "latest_tip": "2026-01-22T21:35:33.908218"
-        }
-      },
-      "total_received": 3.0
-    },
-    {
-      "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
-      "username": "Joeyforreal",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 3.0,
-          "count": 3,
-          "first_tip": "2025-09-11T21:57:25.282972",
-          "latest_tip": "2025-09-11T22:07:59.328824"
         }
       },
       "total_received": 3.0
@@ -2242,6 +2242,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "59e78d58-585d-4781-8132-6bb24e327040",
+      "username": "farsant5",
+      "tip_type": "check_in",
+      "month": 6,
+      "year": 2026,
+      "amount": 2.94,
+      "count": 2,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
       "username": "argnt",
       "tip_type": "check_in",
@@ -2258,16 +2268,6 @@
       "month": 6,
       "year": 2026,
       "amount": 1.13,
-      "count": 1,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "59e78d58-585d-4781-8132-6bb24e327040",
-      "username": "farsant5",
-      "tip_type": "check_in",
-      "month": 6,
-      "year": 2026,
-      "amount": 1.06,
       "count": 1,
       "period_key": "2026-06"
     },
