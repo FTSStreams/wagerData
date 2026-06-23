@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-23T18:36:38.636676+00:00",
-  "last_updated_timestamp": 1782239798,
+  "last_updated": "2026-06-23T18:46:38.380831+00:00",
+  "last_updated_timestamp": 1782240398,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -126,15 +126,15 @@
     {
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
-      "completions": 1,
+      "completions": 2,
       "total_games": 5,
-      "avg_multi": 264.8,
+      "avg_multi": 160.56875,
       "max_multi": 264.8,
       "is_winner": false,
       "games": {
         "pragmatic:vs20candyia": {
-          "multi": 31.45,
-          "met": false
+          "multi": 56.3375,
+          "met": true
         },
         "hacksaw:2274": {
           "multi": 85.5,
