@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-06-23T15:16:19.410085+00:00",
-  "last_updated_timestamp": 1782227779,
+  "last_updated": "2026-06-23T15:26:18.455226+00:00",
+  "last_updated_timestamp": 1782228378,
   "summary": {
-    "total_tips_sent": 4078,
-    "total_amount_sent": 141930.13999999998,
+    "total_tips_sent": 4079,
+    "total_amount_sent": 141950.13999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 17308.7,
-        "tip_count": 2741
+        "total_amount": 17328.7,
+        "tip_count": 2742
       },
       "monthly_leaderboard": {
         "total_amount": 24785.0,
@@ -1159,6 +1159,19 @@
       "total_received": 87.0
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 84.0,
+          "count": 17,
+          "first_tip": "2026-06-15T21:18:41.401982",
+          "latest_tip": "2026-06-23T15:17:46.900740"
+        }
+      },
+      "total_received": 84.0
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tips_by_type": {
@@ -1220,19 +1233,6 @@
         }
       },
       "total_received": 78.0
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 64.0,
-          "count": 16,
-          "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-06-22T18:55:12.794755"
-        }
-      },
-      "total_received": 64.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -1872,6 +1872,16 @@
       "period_key": "2026-06"
     },
     {
+      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
+      "username": "Zopipa",
+      "tip_type": "manual",
+      "month": 6,
+      "year": 2026,
+      "amount": 100.0,
+      "count": 1,
+      "period_key": "2026-06"
+    },
+    {
       "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
       "username": "Foxxy123",
       "tip_type": "slot_challenge",
@@ -1882,13 +1892,13 @@
       "period_key": "2026-06"
     },
     {
-      "user_id": "d0d74e0f-6c75-4d74-a7cd-4d0a60dac400",
-      "username": "Zopipa",
-      "tip_type": "manual",
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "milestone",
       "month": 6,
       "year": 2026,
-      "amount": 100.0,
-      "count": 1,
+      "amount": 84.0,
+      "count": 17,
       "period_key": "2026-06"
     },
     {
@@ -1904,16 +1914,6 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "tip_type": "milestone",
-      "month": 6,
-      "year": 2026,
-      "amount": 64.0,
-      "count": 16,
-      "period_key": "2026-06"
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
       "tip_type": "milestone",
       "month": 6,
       "year": 2026,
