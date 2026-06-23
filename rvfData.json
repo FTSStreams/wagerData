@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-06-23T18:16:38.812196+00:00",
-  "last_updated_timestamp": 1782238598,
+  "last_updated": "2026-06-23T18:26:38.186768+00:00",
+  "last_updated_timestamp": 1782239198,
   "current_period": {
     "event_start": "2026-06-01T00:00:00+00:00",
     "event_start_timestamp": 1780272000,
@@ -288,6 +288,37 @@
       }
     },
     {
+      "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20candyia": {
+          "multi": 0.7000000000000001,
+          "met": false
+        },
+        "hacksaw:2274": {
+          "multi": 0.0,
+          "met": false
+        },
+        "pragmatic:vs20bgdoghouse": {
+          "multi": 116.325,
+          "met": false
+        },
+        "hacksaw:2213": {
+          "multi": 1.4999999999999998,
+          "met": false
+        },
+        "hacksaw:2258": {
+          "multi": 2.1999999999999997,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "completions": 0,
@@ -336,21 +367,6 @@
         },
         "hacksaw:2258": {
           "multi": 3.0,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20bgdoghouse": {
-          "multi": 116.325,
           "met": false
         }
       }
