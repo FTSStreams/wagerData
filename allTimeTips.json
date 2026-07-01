@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-01T21:51:11.427373+00:00",
-  "last_updated_timestamp": 1782942671,
+  "last_updated": "2026-07-01T22:01:11.772307+00:00",
+  "last_updated_timestamp": 1782943271,
   "summary": {
-    "total_tips_sent": 3536,
-    "total_amount_sent": 80339.44,
+    "total_tips_sent": 3537,
+    "total_amount_sent": 80340.44,
     "by_type": {
       "milestone": {
-        "total_amount": 17822.7,
-        "tip_count": 2793
+        "total_amount": 17823.7,
+        "tip_count": 2794
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -100,8 +100,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 1884.0,
-      "total_tips": 141
+      "total_received": 1885.0,
+      "total_tips": 142
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -516,10 +516,10 @@
       "username": "Gabtoupin",
       "tips_by_type": {
         "milestone": {
-          "amount": 700.0,
-          "count": 117,
+          "amount": 701.0,
+          "count": 118,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-07-01T21:43:16.154168"
+          "latest_tip": "2026-07-01T21:52:40.650216"
         },
         "monthly_leaderboard": {
           "amount": 610.0,
@@ -540,7 +540,7 @@
           "latest_tip": "2026-06-26T00:21:13.583703"
         }
       },
-      "total_received": 1884.0
+      "total_received": 1885.0
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -1849,7 +1849,7 @@
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
-      "tip_type": "manual",
+      "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2026,
       "amount": 40.0,
@@ -1859,7 +1859,7 @@
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
-      "tip_type": "monthly_leaderboard",
+      "tip_type": "manual",
       "month": 7,
       "year": 2026,
       "amount": 40.0,
@@ -1972,8 +1972,8 @@
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-07"
     },
     {
