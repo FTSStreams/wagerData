@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-02T15:28:41.383828+00:00",
-  "last_updated_timestamp": 1783006121,
+  "last_updated": "2026-07-02T15:38:41.768685+00:00",
+  "last_updated_timestamp": 1783006721,
   "summary": {
-    "total_tips_sent": 3563,
-    "total_amount_sent": 80386.94,
+    "total_tips_sent": 3564,
+    "total_amount_sent": 80387.94,
     "by_type": {
       "milestone": {
-        "total_amount": 17858.7,
-        "tip_count": 2818
+        "total_amount": 17859.7,
+        "tip_count": 2819
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -1424,19 +1424,6 @@
       "total_received": 20.5
     },
     {
-      "user_id": "deff89b2-7873-4b2d-8436-e7f56a6b43b0",
-      "username": "maxmalaka",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 16.0,
-          "count": 13,
-          "first_tip": "2025-10-27T18:25:26.327536",
-          "latest_tip": "2025-11-12T02:50:56.142008"
-        }
-      },
-      "total_received": 16.0
-    },
-    {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
       "username": "Jakaflip",
       "tips_by_type": {
@@ -1447,10 +1434,23 @@
           "latest_tip": "2026-07-02T13:09:55.672155"
         },
         "milestone": {
-          "amount": 6.0,
-          "count": 6,
+          "amount": 7.0,
+          "count": 7,
           "first_tip": "2026-07-02T12:10:10.605000",
-          "latest_tip": "2026-07-02T14:40:10.604708"
+          "latest_tip": "2026-07-02T15:30:10.876176"
+        }
+      },
+      "total_received": 17.0
+    },
+    {
+      "user_id": "deff89b2-7873-4b2d-8436-e7f56a6b43b0",
+      "username": "maxmalaka",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 16.0,
+          "count": 13,
+          "first_tip": "2025-10-27T18:25:26.327536",
+          "latest_tip": "2025-11-12T02:50:56.142008"
         }
       },
       "total_received": 16.0
@@ -1941,8 +1941,8 @@
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
-      "amount": 6.0,
-      "count": 6,
+      "amount": 7.0,
+      "count": 7,
       "period_key": "2026-07"
     },
     {
