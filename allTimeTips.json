@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-02T13:28:41.305125+00:00",
-  "last_updated_timestamp": 1782998921,
+  "last_updated": "2026-07-02T13:38:42.652353+00:00",
+  "last_updated_timestamp": 1782999522,
   "summary": {
-    "total_tips_sent": 3559,
-    "total_amount_sent": 80375.94,
+    "total_tips_sent": 3560,
+    "total_amount_sent": 80376.94,
     "by_type": {
       "milestone": {
-        "total_amount": 17847.7,
-        "tip_count": 2814
+        "total_amount": 17848.7,
+        "tip_count": 2815
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -1486,13 +1486,13 @@
           "latest_tip": "2026-07-02T13:09:55.672155"
         },
         "milestone": {
-          "amount": 3.0,
-          "count": 3,
+          "amount": 4.0,
+          "count": 4,
           "first_tip": "2026-07-02T12:10:10.605000",
-          "latest_tip": "2026-07-02T13:10:10.526025"
+          "latest_tip": "2026-07-02T13:30:10.632234"
         }
       },
-      "total_received": 13.0
+      "total_received": 14.0
     },
     {
       "user_id": "c349e2e3-ce5c-4587-9d64-9901a2ae9eb5",
@@ -1976,6 +1976,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
+      "username": "Jakaflip",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 4.0,
+      "count": 4,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
       "tip_type": "milestone",
@@ -1986,28 +1996,8 @@
       "period_key": "2026-07"
     },
     {
-      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
-      "username": "flipmiller",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2026,
-      "amount": 3.0,
-      "count": 3,
-      "period_key": "2026-07"
-    },
-    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2026,
-      "amount": 3.0,
-      "count": 3,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
-      "username": "Jakaflip",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
@@ -2028,6 +2018,16 @@
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-07"
+    },
+    {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
