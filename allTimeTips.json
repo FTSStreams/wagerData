@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-03T11:50:24.851640+00:00",
-  "last_updated_timestamp": 1783079424,
+  "last_updated": "2026-07-03T12:00:26.960606+00:00",
+  "last_updated_timestamp": 1783080026,
   "summary": {
-    "total_tips_sent": 3583,
-    "total_amount_sent": 80457.94,
+    "total_tips_sent": 3584,
+    "total_amount_sent": 80458.94,
     "by_type": {
       "milestone": {
-        "total_amount": 17879.7,
-        "tip_count": 2835
+        "total_amount": 17880.7,
+        "tip_count": 2836
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -1165,6 +1165,31 @@
       "total_received": 105.0
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 37.0,
+          "count": 17,
+          "first_tip": "2026-06-14T18:25:26.361490",
+          "latest_tip": "2026-07-03T11:51:53.622737"
+        },
+        "manual": {
+          "amount": 25.1,
+          "count": 4,
+          "first_tip": "2026-06-14T17:38:49.480064",
+          "latest_tip": "2026-06-22T14:53:25.155408"
+        },
+        "monthly_leaderboard": {
+          "amount": 25.0,
+          "count": 1,
+          "first_tip": "2026-07-01T14:35:22.034622",
+          "latest_tip": "2026-07-01T14:35:22.034622"
+        }
+      },
+      "total_received": 87.1
+    },
+    {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
       "username": "DegenMaster69",
       "tips_by_type": {
@@ -1182,31 +1207,6 @@
         }
       },
       "total_received": 87.0
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 36.0,
-          "count": 16,
-          "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-07-03T11:42:27.636230"
-        },
-        "manual": {
-          "amount": 25.1,
-          "count": 4,
-          "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-06-22T14:53:25.155408"
-        },
-        "monthly_leaderboard": {
-          "amount": 25.0,
-          "count": 1,
-          "first_tip": "2026-07-01T14:35:22.034622",
-          "latest_tip": "2026-07-01T14:35:22.034622"
-        }
-      },
-      "total_received": 86.1
     },
     {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
@@ -2052,8 +2052,8 @@
       "period_key": "2026-07"
     },
     {
-      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
-      "username": "Jameskobi10",
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
@@ -2072,13 +2072,13 @@
       "period_key": "2026-07"
     },
     {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
+      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
+      "username": "Jameskobi10",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-07"
     },
     {
