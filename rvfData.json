@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-07-08T22:09:23.865763+00:00",
-  "last_updated_timestamp": 1783548563,
+  "last_updated": "2026-07-08T22:19:25.480817+00:00",
+  "last_updated_timestamp": 1783549165,
   "current_period": {
     "event_start": "2026-07-01T00:00:00+00:00",
     "event_start_timestamp": 1782864000,
@@ -101,6 +101,25 @@
   },
   "participants": [
     {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20candyia": {
+          "multi": 32.8,
+          "met": false
+        },
+        "pragmatic:vs20bgdoghouse": {
+          "multi": 21.43333333333333,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "completions": 0,
@@ -126,25 +145,6 @@
       "games": {
         "pragmatic:vs20candyia": {
           "multi": 2.5909999999999997,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20candyia": {
-          "multi": 12.85,
-          "met": false
-        },
-        "pragmatic:vs20bgdoghouse": {
-          "multi": 21.43333333333333,
           "met": false
         }
       }
