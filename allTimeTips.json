@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-08T23:29:03.827536+00:00",
-  "last_updated_timestamp": 1783553343,
+  "last_updated": "2026-07-08T23:39:04.047518+00:00",
+  "last_updated_timestamp": 1783553944,
   "summary": {
-    "total_tips_sent": 3655,
-    "total_amount_sent": 80634.73,
+    "total_tips_sent": 3656,
+    "total_amount_sent": 80636.73,
     "by_type": {
       "milestone": {
-        "total_amount": 18016.7,
-        "tip_count": 2903
+        "total_amount": 18018.7,
+        "tip_count": 2904
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -112,8 +112,8 @@
     {
       "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
       "username": "Foxxy123",
-      "total_received": 1623.0,
-      "total_tips": 61
+      "total_received": 1625.0,
+      "total_tips": 62
     },
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
@@ -572,10 +572,10 @@
       "username": "Foxxy123",
       "tips_by_type": {
         "milestone": {
-          "amount": 718.0,
-          "count": 50,
+          "amount": 720.0,
+          "count": 51,
           "first_tip": "2026-05-12T15:28:34.578232",
-          "latest_tip": "2026-07-06T16:51:40.846370"
+          "latest_tip": "2026-07-08T23:30:33.122964"
         },
         "monthly_leaderboard": {
           "amount": 575.0,
@@ -596,7 +596,7 @@
           "latest_tip": "2026-07-03T00:19:19.834734"
         }
       },
-      "total_received": 1623.0
+      "total_received": 1625.0
     },
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
@@ -2015,6 +2015,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 12.0,
+      "count": 10,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "milestone",
@@ -2062,16 +2072,6 @@
       "year": 2026,
       "amount": 10.0,
       "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
-      "username": "Foxxy123",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2026,
-      "amount": 10.0,
-      "count": 9,
       "period_key": "2026-07"
     },
     {
