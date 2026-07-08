@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-08T01:50:31.114591+00:00",
-  "last_updated_timestamp": 1783475431,
+  "last_updated": "2026-07-08T02:00:31.375543+00:00",
+  "last_updated_timestamp": 1783476031,
   "summary": {
-    "total_tips_sent": 3647,
-    "total_amount_sent": 80588.01,
+    "total_tips_sent": 3648,
+    "total_amount_sent": 80598.01,
     "by_type": {
       "milestone": {
-        "total_amount": 17999.7,
-        "tip_count": 2898
+        "total_amount": 18009.7,
+        "tip_count": 2899
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -154,8 +154,8 @@
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
-      "total_received": 854.0,
-      "total_tips": 83
+      "total_received": 864.0,
+      "total_tips": 84
     }
   ],
   "detailed_data": [
@@ -801,10 +801,10 @@
       "username": "Jameskobi10",
       "tips_by_type": {
         "milestone": {
-          "amount": 444.0,
-          "count": 78,
+          "amount": 454.0,
+          "count": 79,
           "first_tip": "2026-03-05T19:59:47.189759",
-          "latest_tip": "2026-07-06T23:41:07.044534"
+          "latest_tip": "2026-07-08T01:52:00.402764"
         },
         "monthly_leaderboard": {
           "amount": 375.0,
@@ -825,7 +825,7 @@
           "latest_tip": "2026-03-05T20:14:51.029003"
         }
       },
-      "total_received": 854.0
+      "total_received": 864.0
     },
     {
       "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
@@ -1902,22 +1902,22 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
+      "username": "Jameskobi10",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 34.0,
+      "count": 14,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2026,
       "amount": 30.0,
-      "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "monthly_leaderboard",
-      "month": 7,
-      "year": 2026,
-      "amount": 25.0,
       "count": 1,
       "period_key": "2026-07"
     },
@@ -1932,13 +1932,13 @@
       "period_key": "2026-07"
     },
     {
-      "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
-      "username": "Jameskobi10",
-      "tip_type": "milestone",
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "monthly_leaderboard",
       "month": 7,
       "year": 2026,
-      "amount": 24.0,
-      "count": 13,
+      "amount": 25.0,
+      "count": 1,
       "period_key": "2026-07"
     },
     {
