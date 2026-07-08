@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-07-08T22:29:23.049088+00:00",
-  "last_updated_timestamp": 1783549763,
+  "last_updated": "2026-07-08T22:39:22.692468+00:00",
+  "last_updated_timestamp": 1783550362,
   "current_period": {
     "event_start": "2026-07-01T00:00:00+00:00",
     "event_start_timestamp": 1782864000,
@@ -120,6 +120,10 @@
         "pragmatic:vs20bgdoghouse": {
           "multi": 360.65,
           "met": true
+        },
+        "hacksaw:2213": {
+          "multi": 18.8,
+          "met": false
         }
       }
     },
