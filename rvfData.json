@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-07-08T22:49:22.706869+00:00",
-  "last_updated_timestamp": 1783550962,
+  "last_updated": "2026-07-08T22:59:22.973572+00:00",
+  "last_updated_timestamp": 1783551562,
   "current_period": {
     "event_start": "2026-07-01T00:00:00+00:00",
     "event_start_timestamp": 1782864000,
@@ -103,10 +103,10 @@
     {
       "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "completions": 2,
+      "completions": 3,
       "total_games": 5,
-      "avg_multi": 232.5375,
-      "max_multi": 360.65,
+      "avg_multi": 697.7353550917311,
+      "max_multi": 1628.1310652751934,
       "is_winner": false,
       "games": {
         "pragmatic:vs20candyia": {
@@ -122,8 +122,8 @@
           "met": true
         },
         "hacksaw:2213": {
-          "multi": 47.10382214658998,
-          "met": false
+          "multi": 1628.1310652751934,
+          "met": true
         }
       }
     },
