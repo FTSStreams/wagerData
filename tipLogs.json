@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-07-08T04:49:03.718884+00:00",
-  "last_updated_timestamp": 1783486143,
-  "total_tips": 3648,
+  "last_updated": "2026-07-08T04:59:03.567477+00:00",
+  "last_updated_timestamp": 1783486743,
+  "total_tips": 3650,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "0097beeb-d32b-4788-b48a-7d87400bcf59",
+      "username": "TMandame",
+      "amount": 18.72,
+      "tip_type": "check_in",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-08T04:51:26.125746"
+    },
+    {
+      "user_id": "0097beeb-d32b-4788-b48a-7d87400bcf59",
+      "username": "TMandame",
+      "amount": 1.0,
+      "tip_type": "check_in",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-08T04:50:41.171231"
+    },
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
