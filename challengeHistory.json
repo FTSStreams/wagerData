@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-07-09T00:29:04.040664+00:00",
-  "last_updated_timestamp": 1783556944,
-  "total_completed_challenges": 119,
-  "total_prizes_paid": 5145.0,
+  "last_updated": "2026-07-09T00:39:04.206543+00:00",
+  "last_updated_timestamp": 1783557544,
+  "total_completed_challenges": 120,
+  "total_prizes_paid": 5245.0,
   "challenges": [
+    {
+      "challenge_id": 332,
+      "game_name": "Reactoonz 2",
+      "game_identifier": "playngo:reactoonztwo",
+      "required_multiplier": 750.0,
+      "achieved_multiplier": 1077.3,
+      "min_bet_requirement": 1.0,
+      "winner": {
+        "username": "Foxxy123",
+        "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+        "bet_amount": 3.0,
+        "payout": 3231.9,
+        "multiplier_achieved": 1077.3
+      },
+      "prize_amount": 100.0,
+      "challenge_start": "2026-07-09T00:31:17+00:00",
+      "challenge_start_timestamp": 1783557077,
+      "game_url": "https://roobet.com/casino/game/playngo:reactoonztwo"
+    },
     {
       "challenge_id": 331,
       "game_name": "Gigantoonz",
