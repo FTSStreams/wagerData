@@ -6,37 +6,37 @@
     "start_timestamp": 1783641600,
     "end_timestamp": 1784246399
   },
-  "last_updated": "2026-07-10T07:00:31.089912+00:00",
-  "last_updated_timestamp": 1783666831,
+  "last_updated": "2026-07-10T07:10:30.487189+00:00",
+  "last_updated_timestamp": 1783667430,
   "entries": [
     {
       "rank": 1,
+      "username": "Meepflips",
+      "multiplier": 10,
+      "game": "Keno",
+      "game_identifier": null,
+      "wagered": 0.06,
+      "payout": 0.6,
+      "prize": 25
+    },
+    {
+      "rank": 2,
       "username": "Jameskobi10",
       "multiplier": 3.9600000000000004,
       "game": "Sweet Bonanza 1000",
       "game_identifier": null,
       "wagered": 1.76527492375,
       "payout": 6.990488698050001,
-      "prize": 25
-    },
-    {
-      "rank": 2,
-      "username": "F1Fan1997",
-      "multiplier": 2.5,
-      "game": "Blackjack",
-      "game_identifier": null,
-      "wagered": 0.359877218346,
-      "payout": 0.899693045865,
       "prize": 15
     },
     {
       "rank": 3,
-      "username": "Alxxwilson",
-      "multiplier": 2.0666666666666664,
-      "game": "Merge Up 2",
+      "username": "F1Fan1997",
+      "multiplier": 2.5,
+      "game": "Blackjack",
       "game_identifier": null,
-      "wagered": 0.21173057988000002,
-      "payout": 0.437576531752,
+      "wagered": 0.3528208023,
+      "payout": 0.88205200575,
       "prize": 10
     }
   ]
