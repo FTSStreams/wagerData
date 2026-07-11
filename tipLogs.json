@@ -1,11 +1,41 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-07-11T15:13:54.345690+00:00",
-  "last_updated_timestamp": 1783782834,
-  "total_tips": 3690,
+  "last_updated": "2026-07-11T15:23:53.840348+00:00",
+  "last_updated_timestamp": 1783783433,
+  "total_tips": 3693,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-11T15:22:00.305603"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-11T15:16:52.037709"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-11T15:15:19.221596"
+    },
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
