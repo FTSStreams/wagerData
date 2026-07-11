@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-07-11T04:20:29.319703+00:00",
-  "last_updated_timestamp": 1783743629,
-  "total_tips": 3683,
+  "last_updated": "2026-07-11T04:30:29.501197+00:00",
+  "last_updated_timestamp": 1783744229,
+  "total_tips": 3684,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "6b4954e6-e9f6-4096-b3ba-8e924a2631e8",
+      "username": "argnt",
+      "amount": 1.13,
+      "tip_type": "check_in",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-11T04:27:36.329889"
+    },
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
