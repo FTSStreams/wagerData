@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-07-12T23:34:55.522634+00:00",
-  "last_updated_timestamp": 1783899295,
-  "total_completed_challenges": 128,
-  "total_prizes_paid": 5245.0,
+  "last_updated": "2026-07-12T23:44:55.658945+00:00",
+  "last_updated_timestamp": 1783899895,
+  "total_completed_challenges": 129,
+  "total_prizes_paid": 5445.0,
   "challenges": [
+    {
+      "challenge_id": 366,
+      "game_name": "Wanted Dead or a Wild",
+      "game_identifier": "hacksaw:1067",
+      "required_multiplier": 1000.0,
+      "achieved_multiplier": 6300.0,
+      "min_bet_requirement": 0.8,
+      "winner": {
+        "username": "Foxxy123",
+        "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+        "bet_amount": 0.8,
+        "payout": 5040.0,
+        "multiplier_achieved": 6300.0
+      },
+      "prize_amount": 200.0,
+      "challenge_start": "2026-07-12T23:36:47+00:00",
+      "challenge_start_timestamp": 1783899407,
+      "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
     {
       "challenge_id": 332,
       "game_name": "Reactoonz 2",
