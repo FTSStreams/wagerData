@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-07-12T15:34:53.802260+00:00",
-  "last_updated_timestamp": 1783870493,
-  "total_challenges": 1,
+  "last_updated": "2026-07-12T15:44:54.555985+00:00",
+  "last_updated_timestamp": 1783871094,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 247,
@@ -16,6 +16,110 @@
       "emoji": "\ud83d\ude38",
       "min_bet": 0.2,
       "start_timestamp": 1773530700
+    },
+    {
+      "challenge_id": 366,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 1000.0,
+      "prize": 200.0,
+      "start_time": "2026-07-12T15:35:20+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.8,
+      "start_timestamp": 1783870520
+    },
+    {
+      "challenge_id": 367,
+      "game_identifier": "hacksaw:1164",
+      "game_name": "Hand of Anubis",
+      "required_multiplier": 750.0,
+      "prize": 200.0,
+      "start_time": "2026-07-12T15:36:08+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc08\u200d\u2b1b",
+      "min_bet": 0.8,
+      "start_timestamp": 1783870568
+    },
+    {
+      "challenge_id": 368,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 1000.0,
+      "prize": 200.0,
+      "start_time": "2026-07-12T15:36:55+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc7a",
+      "min_bet": 1.0,
+      "start_timestamp": 1783870615
+    },
+    {
+      "challenge_id": 369,
+      "game_identifier": "pragmatic:vs20fruitparty",
+      "game_name": "Fruit Party",
+      "required_multiplier": 750.0,
+      "prize": 200.0,
+      "start_time": "2026-07-12T15:37:37+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udf4e",
+      "min_bet": 0.8,
+      "start_timestamp": 1783870657
+    },
+    {
+      "challenge_id": 370,
+      "game_identifier": "hacksaw:1482",
+      "game_name": "Slayers Inc",
+      "required_multiplier": 750.0,
+      "prize": 200.0,
+      "start_time": "2026-07-12T15:38:15+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2694\ufe0f",
+      "min_bet": 0.8,
+      "start_timestamp": 1783870695
+    },
+    {
+      "challenge_id": 371,
+      "game_identifier": "hacksaw:1309",
+      "game_name": "Le Bandit",
+      "required_multiplier": 400.0,
+      "prize": 25.0,
+      "start_time": "2026-07-12T15:41:17+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udd9d",
+      "min_bet": 0.2,
+      "start_timestamp": 1783870877
+    },
+    {
+      "challenge_id": 372,
+      "game_identifier": "hacksaw:1809",
+      "game_name": "Hoot Shot the Sheriff",
+      "required_multiplier": 500.0,
+      "prize": 30.0,
+      "start_time": "2026-07-12T15:42:16+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc34",
+      "min_bet": 0.2,
+      "start_timestamp": 1783870936
+    },
+    {
+      "challenge_id": 373,
+      "game_identifier": "hacksaw:2319",
+      "game_name": "Death Becomes You",
+      "required_multiplier": 500.0,
+      "prize": 30.0,
+      "start_time": "2026-07-12T15:43:40+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2764\ufe0f",
+      "min_bet": 0.2,
+      "start_timestamp": 1783871020
     }
   ]
 }
