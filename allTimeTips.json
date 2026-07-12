@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-12T20:04:56.151454+00:00",
-  "last_updated_timestamp": 1783886696,
+  "last_updated": "2026-07-12T20:14:55.799987+00:00",
+  "last_updated_timestamp": 1783887295,
   "summary": {
-    "total_tips_sent": 3700,
-    "total_amount_sent": 81695.86,
+    "total_tips_sent": 3701,
+    "total_amount_sent": 81705.86,
     "by_type": {
       "milestone": {
-        "total_amount": 18180.7,
-        "tip_count": 2933
+        "total_amount": 18190.7,
+        "tip_count": 2934
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -907,10 +907,10 @@
       "username": "flipmiller",
       "tips_by_type": {
         "milestone": {
-          "amount": 186.0,
-          "count": 59,
+          "amount": 196.0,
+          "count": 60,
           "first_tip": "2026-04-06T07:21:37.988191",
-          "latest_tip": "2026-07-11T15:55:22.784784"
+          "latest_tip": "2026-07-12T20:06:24.889689"
         },
         "slot_challenge": {
           "amount": 140.0,
@@ -943,7 +943,7 @@
           "latest_tip": "2026-06-16T12:27:37.041356"
         }
       },
-      "total_received": 474.5
+      "total_received": 484.5
     },
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
@@ -1935,6 +1935,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 44.0,
+      "count": 15,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "tip_type": "milestone",
@@ -1962,16 +1972,6 @@
       "year": 2026,
       "amount": 40.0,
       "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
-      "username": "flipmiller",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2026,
-      "amount": 34.0,
-      "count": 14,
       "period_key": "2026-07"
     },
     {
