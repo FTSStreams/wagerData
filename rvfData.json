@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-07-18T17:18:38.997818+00:00",
-  "last_updated_timestamp": 1784395118,
+  "last_updated": "2026-07-18T17:28:39.979924+00:00",
+  "last_updated_timestamp": 1784395719,
   "current_period": {
     "event_start": "2026-07-01T00:00:00+00:00",
     "event_start_timestamp": 1782864000,
@@ -132,6 +132,29 @@
       }
     },
     {
+      "uid": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
+      "username": "Jakaflip",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 88.85,
+      "max_multi": 88.85,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20candyia": {
+          "multi": 88.85,
+          "met": true
+        },
+        "hacksaw:2274": {
+          "multi": 1.24,
+          "met": false
+        },
+        "pragmatic:vs20bgdoghouse": {
+          "multi": 96.44999999999999,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "7f921117-01a7-4d12-9605-3e33f03c14de",
       "username": "Alxxwilson",
       "completions": 0,
@@ -176,21 +199,6 @@
         },
         "hacksaw:2213": {
           "multi": 93.73333333333333,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
-      "username": "Jakaflip",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20bgdoghouse": {
-          "multi": 96.44999999999999,
           "met": false
         }
       }
