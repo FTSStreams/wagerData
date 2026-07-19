@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-19T00:38:19.950924+00:00",
-  "last_updated_timestamp": 1784421499,
+  "last_updated": "2026-07-19T00:48:19.645858+00:00",
+  "last_updated_timestamp": 1784422099,
   "summary": {
-    "total_tips_sent": 3768,
-    "total_amount_sent": 83069.18,
+    "total_tips_sent": 3769,
+    "total_amount_sent": 83129.18,
     "by_type": {
       "milestone": {
-        "total_amount": 18592.7,
-        "tip_count": 2989
+        "total_amount": 18652.7,
+        "tip_count": 2990
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -92,16 +92,16 @@
       "total_tips": 55
     },
     {
+      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "total_received": 2152.0,
+      "total_tips": 76
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "total_received": 2098.25,
       "total_tips": 178
-    },
-    {
-      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
-      "username": "Foxxy123",
-      "total_received": 2092.0,
-      "total_tips": 75
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -481,6 +481,37 @@
       "total_received": 2296.0
     },
     {
+      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 912.0,
+          "count": 61,
+          "first_tip": "2026-05-12T15:28:34.578232",
+          "latest_tip": "2026-07-19T00:39:49.175820"
+        },
+        "monthly_leaderboard": {
+          "amount": 575.0,
+          "count": 2,
+          "first_tip": "2026-06-01T15:33:05.953407",
+          "latest_tip": "2026-07-01T14:31:24.401978"
+        },
+        "slot_challenge": {
+          "amount": 500.0,
+          "count": 4,
+          "first_tip": "2026-06-13T18:55:07.538236",
+          "latest_tip": "2026-07-12T23:36:47.651019"
+        },
+        "weekly_multiplier": {
+          "amount": 165.0,
+          "count": 9,
+          "first_tip": "2026-05-22T00:15:45.126277",
+          "latest_tip": "2026-07-17T00:15:27.301051"
+        }
+      },
+      "total_received": 2152.0
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tips_by_type": {
@@ -504,37 +535,6 @@
         }
       },
       "total_received": 2098.25
-    },
-    {
-      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
-      "username": "Foxxy123",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 852.0,
-          "count": 60,
-          "first_tip": "2026-05-12T15:28:34.578232",
-          "latest_tip": "2026-07-16T22:27:27.026719"
-        },
-        "monthly_leaderboard": {
-          "amount": 575.0,
-          "count": 2,
-          "first_tip": "2026-06-01T15:33:05.953407",
-          "latest_tip": "2026-07-01T14:31:24.401978"
-        },
-        "slot_challenge": {
-          "amount": 500.0,
-          "count": 4,
-          "first_tip": "2026-06-13T18:55:07.538236",
-          "latest_tip": "2026-07-12T23:36:47.651019"
-        },
-        "weekly_multiplier": {
-          "amount": 165.0,
-          "count": 9,
-          "first_tip": "2026-05-22T00:15:45.126277",
-          "latest_tip": "2026-07-17T00:15:27.301051"
-        }
-      },
-      "total_received": 2092.0
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -1893,6 +1893,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 204.0,
+      "count": 20,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
       "tip_type": "monthly_leaderboard",
@@ -1900,16 +1910,6 @@
       "year": 2026,
       "amount": 175.0,
       "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
-      "username": "Foxxy123",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2026,
-      "amount": 144.0,
-      "count": 19,
       "period_key": "2026-07"
     },
     {
