@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-07-21T01:15:05.703462+00:00",
-  "last_updated_timestamp": 1784596505,
-  "total_completed_challenges": 130,
-  "total_prizes_paid": 5645.0,
+  "last_updated": "2026-07-21T01:25:05.147325+00:00",
+  "last_updated_timestamp": 1784597105,
+  "total_completed_challenges": 131,
+  "total_prizes_paid": 5845.0,
   "challenges": [
+    {
+      "challenge_id": 368,
+      "game_name": "Gigantoonz",
+      "game_identifier": "playngo:gigantoonz",
+      "required_multiplier": 1000.0,
+      "achieved_multiplier": 1869.6,
+      "min_bet_requirement": 1.0,
+      "winner": {
+        "username": "Foxxy123",
+        "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
+        "bet_amount": 8.0,
+        "payout": 14956.8,
+        "multiplier_achieved": 1869.6
+      },
+      "prize_amount": 200.0,
+      "challenge_start": "2026-07-21T01:16:57+00:00",
+      "challenge_start_timestamp": 1784596617,
+      "game_url": "https://roobet.com/casino/game/playngo:gigantoonz"
+    },
     {
       "challenge_id": 367,
       "game_name": "Hand of Anubis",
