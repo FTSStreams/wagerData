@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-23T19:50:29.518856+00:00",
-  "last_updated_timestamp": 1784836229,
+  "last_updated": "2026-07-23T20:00:30.009419+00:00",
+  "last_updated_timestamp": 1784836830,
   "summary": {
-    "total_tips_sent": 3815,
-    "total_amount_sent": 86783.43,
+    "total_tips_sent": 3816,
+    "total_amount_sent": 86784.43,
     "by_type": {
       "milestone": {
-        "total_amount": 19209.7,
-        "tip_count": 3012
+        "total_amount": 19210.7,
+        "tip_count": 3013
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -1724,6 +1724,25 @@
       "total_received": 8.0
     },
     {
+      "user_id": "97dc0179-f275-456b-8626-ecfdeef2d373",
+      "username": "FishFinger",
+      "tips_by_type": {
+        "manual": {
+          "amount": 5.0,
+          "count": 1,
+          "first_tip": "2026-07-23T19:43:04.644909",
+          "latest_tip": "2026-07-23T19:43:04.644909"
+        },
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2026-07-23T19:41:58.000992",
+          "latest_tip": "2026-07-23T19:51:58.026057"
+        }
+      },
+      "total_received": 8.0
+    },
+    {
       "user_id": "38677e5c-6123-4ed8-964e-4e3c2a2f9e9d",
       "username": "LoicSmith",
       "tips_by_type": {
@@ -1745,25 +1764,6 @@
           "count": 6,
           "first_tip": "2026-04-12T22:08:42.544473",
           "latest_tip": "2026-04-12T22:58:43.528269"
-        }
-      },
-      "total_received": 7.0
-    },
-    {
-      "user_id": "97dc0179-f275-456b-8626-ecfdeef2d373",
-      "username": "FishFinger",
-      "tips_by_type": {
-        "manual": {
-          "amount": 5.0,
-          "count": 1,
-          "first_tip": "2026-07-23T19:43:04.644909",
-          "latest_tip": "2026-07-23T19:43:04.644909"
-        },
-        "milestone": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-07-23T19:41:58.000992",
-          "latest_tip": "2026-07-23T19:42:32.993836"
         }
       },
       "total_received": 7.0
@@ -1795,19 +1795,6 @@
       "total_received": 5.0
     },
     {
-      "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
-      "username": "Joeyforreal",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 3.0,
-          "count": 3,
-          "first_tip": "2025-09-11T21:57:25.282972",
-          "latest_tip": "2025-09-11T22:07:59.328824"
-        }
-      },
-      "total_received": 3.0
-    },
-    {
       "user_id": "656fe910-1f0d-4bc3-b93f-66e28794facd",
       "username": "mirrosi",
       "tips_by_type": {
@@ -1829,6 +1816,19 @@
           "count": 1,
           "first_tip": "2026-01-22T21:35:33.908218",
           "latest_tip": "2026-01-22T21:35:33.908218"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
+      "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
+      "username": "Joeyforreal",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2025-09-11T21:57:25.282972",
+          "latest_tip": "2025-09-11T22:07:59.328824"
         }
       },
       "total_received": 3.0
@@ -2292,8 +2292,8 @@
       "period_key": "2026-07"
     },
     {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
+      "user_id": "97dc0179-f275-456b-8626-ecfdeef2d373",
+      "username": "FishFinger",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
@@ -2302,13 +2302,13 @@
       "period_key": "2026-07"
     },
     {
-      "user_id": "97dc0179-f275-456b-8626-ecfdeef2d373",
-      "username": "FishFinger",
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-07"
     },
     {
