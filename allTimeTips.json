@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-25T20:49:08.486103+00:00",
-  "last_updated_timestamp": 1785012548,
+  "last_updated": "2026-07-25T20:59:08.934128+00:00",
+  "last_updated_timestamp": 1785013148,
   "summary": {
-    "total_tips_sent": 3841,
-    "total_amount_sent": 88431.52,
+    "total_tips_sent": 3842,
+    "total_amount_sent": 88461.52,
     "by_type": {
       "milestone": {
         "total_amount": 19305.7,
@@ -19,8 +19,8 @@
         "tip_count": 79
       },
       "manual": {
-        "total_amount": 35101.97,
-        "tip_count": 449
+        "total_amount": 35131.97,
+        "tip_count": 450
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -999,10 +999,10 @@
           "latest_tip": "2026-07-24T18:03:47.958579"
         },
         "manual": {
-          "amount": 70.1,
-          "count": 8,
+          "amount": 100.1,
+          "count": 9,
           "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-07-25T18:03:27.653596"
+          "latest_tip": "2026-07-25T20:57:24.483047"
         },
         "monthly_leaderboard": {
           "amount": 25.0,
@@ -1011,7 +1011,7 @@
           "latest_tip": "2026-07-01T14:35:22.034622"
         }
       },
-      "total_received": 273.1
+      "total_received": 303.1
     },
     {
       "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
@@ -2035,6 +2035,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "amount": 75.0,
+      "count": 5,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "tip_type": "milestone",
@@ -2061,16 +2071,6 @@
       "month": 7,
       "year": 2026,
       "amount": 60.0,
-      "count": 4,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2026,
-      "amount": 45.0,
       "count": 4,
       "period_key": "2026-07"
     },
