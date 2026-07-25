@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-25T13:09:09.356875+00:00",
-  "last_updated_timestamp": 1784984949,
+  "last_updated": "2026-07-25T13:19:09.035670+00:00",
+  "last_updated_timestamp": 1784985549,
   "summary": {
-    "total_tips_sent": 3838,
-    "total_amount_sent": 88410.52,
+    "total_tips_sent": 3839,
+    "total_amount_sent": 88411.52,
     "by_type": {
       "milestone": {
         "total_amount": 19305.7,
@@ -27,8 +27,8 @@
         "tip_count": 7
       },
       "check_in": {
-        "total_amount": 90.85,
-        "tip_count": 44
+        "total_amount": 91.85,
+        "tip_count": 45
       },
       "weekly_multiplier": {
         "total_amount": 1192.0,
@@ -1237,10 +1237,10 @@
           "latest_tip": "2025-05-10T15:15:44.034752"
         },
         "check_in": {
-          "amount": 22.74,
-          "count": 20,
+          "amount": 23.74,
+          "count": 21,
           "first_tip": "2026-05-07T13:22:22.666561",
-          "latest_tip": "2026-07-23T18:26:06.012058"
+          "latest_tip": "2026-07-25T13:14:28.016881"
         },
         "milestone": {
           "amount": 21.55,
@@ -1255,7 +1255,7 @@
           "latest_tip": "2026-01-04T17:26:40.700516"
         }
       },
-      "total_received": 87.28999999999999
+      "total_received": 88.28999999999999
     },
     {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
@@ -2275,6 +2275,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "check_in",
+      "month": 7,
+      "year": 2026,
+      "amount": 5.15,
+      "count": 5,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "monthly_leaderboard",
@@ -2292,16 +2302,6 @@
       "year": 2026,
       "amount": 5.0,
       "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "check_in",
-      "month": 7,
-      "year": 2026,
-      "amount": 4.15,
-      "count": 4,
       "period_key": "2026-07"
     },
     {
