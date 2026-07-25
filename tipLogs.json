@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-07-25T02:42:18.577253+00:00",
-  "last_updated_timestamp": 1784947338,
-  "total_tips": 3833,
+  "last_updated": "2026-07-25T02:52:18.657440+00:00",
+  "last_updated_timestamp": 1784947938,
+  "total_tips": 3835,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 60.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-25T02:47:35.479183"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 60.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "period_key": "2026-07",
+      "tipped_at": "2026-07-25T02:46:20.207241"
+    },
     {
       "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
       "username": "Keno8",
