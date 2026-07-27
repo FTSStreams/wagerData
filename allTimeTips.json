@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-27T00:13:33.824701+00:00",
-  "last_updated_timestamp": 1785111213,
+  "last_updated": "2026-07-27T00:23:33.785196+00:00",
+  "last_updated_timestamp": 1785111813,
   "summary": {
-    "total_tips_sent": 3851,
-    "total_amount_sent": 88929.14,
+    "total_tips_sent": 3853,
+    "total_amount_sent": 89303.14,
     "by_type": {
       "milestone": {
-        "total_amount": 19387.7,
-        "tip_count": 3028
+        "total_amount": 19407.7,
+        "tip_count": 3029
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -19,8 +19,8 @@
         "tip_count": 79
       },
       "manual": {
-        "total_amount": 35515.97,
-        "tip_count": 452
+        "total_amount": 35869.97,
+        "tip_count": 453
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -92,6 +92,12 @@
       "total_tips": 214
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "total_received": 2416.01,
+      "total_tips": 134
+    },
+    {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
       "username": "kaswasright123",
       "total_received": 2296.0,
@@ -102,12 +108,6 @@
       "username": "WhiteRabbit420",
       "total_received": 2106.25,
       "total_tips": 179
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
-      "total_received": 2042.01,
-      "total_tips": 132
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -481,6 +481,49 @@
       "total_received": 2805.5
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "tips_by_type": {
+        "manual": {
+          "amount": 943.0,
+          "count": 7,
+          "first_tip": "2025-12-24T18:50:33.858601",
+          "latest_tip": "2026-07-27T00:17:39.627895"
+        },
+        "milestone": {
+          "amount": 802.0,
+          "count": 117,
+          "first_tip": "2025-12-12T14:33:41.289017",
+          "latest_tip": "2026-07-27T00:15:02.897200"
+        },
+        "monthly_leaderboard": {
+          "amount": 530.0,
+          "count": 3,
+          "first_tip": "2026-01-02T13:17:30.268878",
+          "latest_tip": "2026-05-01T15:09:29.978652"
+        },
+        "slot_challenge": {
+          "amount": 70.0,
+          "count": 1,
+          "first_tip": "2026-02-14T02:01:32.990249",
+          "latest_tip": "2026-02-14T02:01:32.990249"
+        },
+        "weekly_multiplier": {
+          "amount": 65.0,
+          "count": 5,
+          "first_tip": "2026-01-23T22:18:01.145623",
+          "latest_tip": "2026-03-06T22:17:12.012842"
+        },
+        "check_in": {
+          "amount": 6.01,
+          "count": 1,
+          "first_tip": "2026-07-16T19:37:04.911302",
+          "latest_tip": "2026-07-16T19:37:04.911302"
+        }
+      },
+      "total_received": 2416.01
+    },
+    {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
       "username": "kaswasright123",
       "tips_by_type": {
@@ -535,49 +578,6 @@
         }
       },
       "total_received": 2106.25
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 782.0,
-          "count": 116,
-          "first_tip": "2025-12-12T14:33:41.289017",
-          "latest_tip": "2026-07-24T18:13:47.785627"
-        },
-        "manual": {
-          "amount": 589.0,
-          "count": 6,
-          "first_tip": "2025-12-24T18:50:33.858601",
-          "latest_tip": "2026-07-26T23:11:44.775521"
-        },
-        "monthly_leaderboard": {
-          "amount": 530.0,
-          "count": 3,
-          "first_tip": "2026-01-02T13:17:30.268878",
-          "latest_tip": "2026-05-01T15:09:29.978652"
-        },
-        "slot_challenge": {
-          "amount": 70.0,
-          "count": 1,
-          "first_tip": "2026-02-14T02:01:32.990249",
-          "latest_tip": "2026-02-14T02:01:32.990249"
-        },
-        "weekly_multiplier": {
-          "amount": 65.0,
-          "count": 5,
-          "first_tip": "2026-01-23T22:18:01.145623",
-          "latest_tip": "2026-03-06T22:17:12.012842"
-        },
-        "check_in": {
-          "amount": 6.01,
-          "count": 1,
-          "first_tip": "2026-07-16T19:37:04.911302",
-          "latest_tip": "2026-07-16T19:37:04.911302"
-        }
-      },
-      "total_received": 2042.01
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -1891,6 +1891,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "amount": 708.0,
+      "count": 2,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
       "username": "Foxxy123",
       "tip_type": "slot_challenge",
@@ -1917,16 +1927,6 @@
       "month": 7,
       "year": 2026,
       "amount": 500.0,
-      "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2026,
-      "amount": 354.0,
       "count": 1,
       "period_key": "2026-07"
     },
@@ -2001,6 +2001,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "tip_type": "milestone",
+      "month": 7,
+      "year": 2026,
+      "amount": 104.0,
+      "count": 18,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -2023,16 +2033,6 @@
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
-      "tip_type": "milestone",
-      "month": 7,
-      "year": 2026,
-      "amount": 84.0,
-      "count": 17,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
