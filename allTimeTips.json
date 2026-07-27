@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-27T15:15:50.371833+00:00",
-  "last_updated_timestamp": 1785165350,
+  "last_updated": "2026-07-27T15:25:51.124380+00:00",
+  "last_updated_timestamp": 1785165951,
   "summary": {
-    "total_tips_sent": 3858,
-    "total_amount_sent": 90968.14,
+    "total_tips_sent": 3859,
+    "total_amount_sent": 90969.14,
     "by_type": {
       "milestone": {
-        "total_amount": 19447.7,
-        "tip_count": 3030
+        "total_amount": 19448.7,
+        "tip_count": 3031
       },
       "monthly_leaderboard": {
         "total_amount": 26285.0,
@@ -1376,10 +1376,10 @@
           "latest_tip": "2025-05-25T16:43:40.964777"
         },
         "milestone": {
-          "amount": 10.0,
-          "count": 10,
+          "amount": 11.0,
+          "count": 11,
           "first_tip": "2026-03-07T01:59:43.872010",
-          "latest_tip": "2026-07-14T13:36:18.058746"
+          "latest_tip": "2026-07-27T15:17:49.198303"
         },
         "monthly_leaderboard": {
           "amount": 5.0,
@@ -1394,7 +1394,7 @@
           "latest_tip": "2026-01-05T18:57:04.967191"
         }
       },
-      "total_received": 45.0
+      "total_received": 46.0
     },
     {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
@@ -1602,19 +1602,6 @@
       "total_received": 11.0
     },
     {
-      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
-      "username": "rebeltrankil09",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 10.0,
-          "count": 10,
-          "first_tip": "2025-12-12T05:41:28.687437",
-          "latest_tip": "2026-03-28T06:00:00.623669"
-        }
-      },
-      "total_received": 10.0
-    },
-    {
       "user_id": "bb8a11c9-b202-46c1-88f5-69769e3790fb",
       "username": "juanchef",
       "tips_by_type": {
@@ -1649,6 +1636,19 @@
           "count": 1,
           "first_tip": "2025-12-24T18:49:53.328134",
           "latest_tip": "2025-12-24T18:49:53.328134"
+        }
+      },
+      "total_received": 10.0
+    },
+    {
+      "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
+      "username": "rebeltrankil09",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 10.0,
+          "count": 10,
+          "first_tip": "2025-12-12T05:41:28.687437",
+          "latest_tip": "2026-03-28T06:00:00.623669"
         }
       },
       "total_received": 10.0
@@ -2356,8 +2356,8 @@
       "tip_type": "milestone",
       "month": 7,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-07"
     },
     {
