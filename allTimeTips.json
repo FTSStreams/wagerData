@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-27T01:13:34.041466+00:00",
-  "last_updated_timestamp": 1785114814,
+  "last_updated": "2026-07-27T01:23:34.276647+00:00",
+  "last_updated_timestamp": 1785115414,
   "summary": {
-    "total_tips_sent": 3856,
-    "total_amount_sent": 90743.14,
+    "total_tips_sent": 3857,
+    "total_amount_sent": 90928.14,
     "by_type": {
       "milestone": {
         "total_amount": 19407.7,
@@ -19,8 +19,8 @@
         "tip_count": 79
       },
       "manual": {
-        "total_amount": 37309.97,
-        "tip_count": 456
+        "total_amount": 37494.97,
+        "tip_count": 457
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -76,8 +76,8 @@
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
-      "total_received": 3856.01,
-      "total_tips": 137
+      "total_received": 4041.01,
+      "total_tips": 138
     },
     {
       "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
@@ -374,10 +374,10 @@
       "username": "tremor11",
       "tips_by_type": {
         "manual": {
-          "amount": 2383.0,
-          "count": 10,
+          "amount": 2568.0,
+          "count": 11,
           "first_tip": "2025-12-24T18:50:33.858601",
-          "latest_tip": "2026-07-27T01:09:44.468651"
+          "latest_tip": "2026-07-27T01:15:10.015167"
         },
         "milestone": {
           "amount": 802.0,
@@ -410,7 +410,7 @@
           "latest_tip": "2026-07-16T19:37:04.911302"
         }
       },
-      "total_received": 3856.01
+      "total_received": 4041.01
     },
     {
       "user_id": "9639491d-3e54-47fa-a116-0294790dbe9a",
@@ -1896,8 +1896,8 @@
       "tip_type": "manual",
       "month": 7,
       "year": 2026,
-      "amount": 2148.0,
-      "count": 5,
+      "amount": 2333.0,
+      "count": 6,
       "period_key": "2026-07"
     },
     {
