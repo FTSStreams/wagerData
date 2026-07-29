@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-29T00:00:32.054568+00:00",
-  "last_updated_timestamp": 1785283232,
+  "last_updated": "2026-07-29T00:10:31.911998+00:00",
+  "last_updated_timestamp": 1785283831,
   "summary": {
-    "total_tips_sent": 3891,
-    "total_amount_sent": 92007.56,
+    "total_tips_sent": 3892,
+    "total_amount_sent": 92008.61,
     "by_type": {
       "milestone": {
         "total_amount": 19789.7,
@@ -27,8 +27,8 @@
         "tip_count": 7
       },
       "check_in": {
-        "total_amount": 100.62,
-        "tip_count": 49
+        "total_amount": 101.67,
+        "tip_count": 50
       },
       "weekly_multiplier": {
         "total_amount": 1192.0,
@@ -930,17 +930,17 @@
           "first_tip": "2026-04-08T14:04:28.637873",
           "latest_tip": "2026-04-08T14:04:28.637873"
         },
-        "monthly_leaderboard": {
-          "amount": 55.0,
-          "count": 2,
-          "first_tip": "2026-06-01T02:11:23.176648",
-          "latest_tip": "2026-07-01T12:13:37.703990"
-        },
         "weekly_multiplier": {
           "amount": 55.0,
           "count": 3,
           "first_tip": "2026-05-08T00:19:03.383622",
           "latest_tip": "2026-07-10T00:18:52.377419"
+        },
+        "monthly_leaderboard": {
+          "amount": 55.0,
+          "count": 2,
+          "first_tip": "2026-06-01T02:11:23.176648",
+          "latest_tip": "2026-07-01T12:13:37.703990"
         },
         "manual": {
           "amount": 35.0,
@@ -1464,13 +1464,13 @@
       "username": "TMandame",
       "tips_by_type": {
         "check_in": {
-          "amount": 22.94,
-          "count": 5,
+          "amount": 23.99,
+          "count": 6,
           "first_tip": "2026-07-08T04:50:41.171231",
-          "latest_tip": "2026-07-28T07:54:12.398726"
+          "latest_tip": "2026-07-29T00:03:32.807206"
         }
       },
-      "total_received": 22.94
+      "total_received": 23.99
     },
     {
       "user_id": "2927b33c-7e56-42ac-b2a1-d888adc6d899",
@@ -2257,8 +2257,8 @@
       "tip_type": "check_in",
       "month": 7,
       "year": 2026,
-      "amount": 22.94,
-      "count": 5,
+      "amount": 23.99,
+      "count": 6,
       "period_key": "2026-07"
     },
     {
