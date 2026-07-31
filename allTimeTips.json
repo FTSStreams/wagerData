@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-07-31T13:25:17.508074+00:00",
-  "last_updated_timestamp": 1785504317,
+  "last_updated": "2026-07-31T13:35:15.907485+00:00",
+  "last_updated_timestamp": 1785504915,
   "summary": {
-    "total_tips_sent": 3908,
-    "total_amount_sent": 93513.85,
+    "total_tips_sent": 3909,
+    "total_amount_sent": 93528.85,
     "by_type": {
       "milestone": {
         "total_amount": 19851.7,
@@ -19,8 +19,8 @@
         "tip_count": 79
       },
       "manual": {
-        "total_amount": 39575.24,
-        "tip_count": 471
+        "total_amount": 39590.24,
+        "tip_count": 472
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -968,10 +968,10 @@
           "latest_tip": "2026-07-28T15:12:00.122455"
         },
         "manual": {
-          "amount": 100.1,
-          "count": 9,
+          "amount": 115.1,
+          "count": 10,
           "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-07-25T20:57:24.483047"
+          "latest_tip": "2026-07-31T13:32:50.671384"
         },
         "monthly_leaderboard": {
           "amount": 25.0,
@@ -986,7 +986,7 @@
           "latest_tip": "2026-07-26T04:29:24.550283"
         }
       },
-      "total_received": 364.72
+      "total_received": 379.72
     },
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
@@ -2072,6 +2072,16 @@
       "period_key": "2026-07"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2026,
+      "amount": 90.0,
+      "count": 6,
+      "period_key": "2026-07"
+    },
+    {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
       "tip_type": "milestone",
@@ -2089,16 +2099,6 @@
       "year": 2026,
       "amount": 75.0,
       "count": 1,
-      "period_key": "2026-07"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2026,
-      "amount": 75.0,
-      "count": 5,
       "period_key": "2026-07"
     },
     {
