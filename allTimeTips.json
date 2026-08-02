@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-02T07:56:03.407842+00:00",
-  "last_updated_timestamp": 1785657363,
+  "last_updated": "2026-08-02T08:06:03.813167+00:00",
+  "last_updated_timestamp": 1785657963,
   "summary": {
-    "total_tips_sent": 3973,
-    "total_amount_sent": 94990.40000000001,
+    "total_tips_sent": 3974,
+    "total_amount_sent": 94991.40000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 19906.7,
-        "tip_count": 3109
+        "total_amount": 19907.7,
+        "tip_count": 3110
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -124,8 +124,8 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "total_received": 1679.27,
-      "total_tips": 233
+      "total_received": 1680.27,
+      "total_tips": 234
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -658,10 +658,10 @@
       "username": "MrBrizz",
       "tips_by_type": {
         "milestone": {
-          "amount": 736.75,
-          "count": 201,
+          "amount": 737.75,
+          "count": 202,
           "first_tip": "2025-05-04T16:37:49.184577",
-          "latest_tip": "2026-08-02T07:47:32.896223"
+          "latest_tip": "2026-08-02T07:57:32.963370"
         },
         "monthly_leaderboard": {
           "amount": 560.0,
@@ -694,7 +694,7 @@
           "latest_tip": "2025-06-30T00:46:56.683986"
         }
       },
-      "total_received": 1688.27
+      "total_received": 1689.27
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -2004,6 +2004,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 8.0,
+      "count": 8,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tip_type": "milestone",
@@ -2016,16 +2026,6 @@
     {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
       "username": "Jakaflip",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 7.0,
-      "count": 7,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
@@ -2074,16 +2074,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
-      "username": "flipmiller",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 2.0,
-      "count": 2,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "milestone",
@@ -2096,6 +2086,16 @@
     {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 2.0,
+      "count": 2,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
