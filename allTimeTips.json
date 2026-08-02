@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-02T14:16:03.806207+00:00",
-  "last_updated_timestamp": 1785680163,
+  "last_updated": "2026-08-02T14:26:03.886080+00:00",
+  "last_updated_timestamp": 1785680763,
   "summary": {
-    "total_tips_sent": 3978,
-    "total_amount_sent": 94997.40000000001,
+    "total_tips_sent": 3980,
+    "total_amount_sent": 95000.40000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 19913.7,
-        "tip_count": 3114
+        "total_amount": 19916.7,
+        "tip_count": 3116
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -106,8 +106,8 @@
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
-      "total_received": 2108.25,
-      "total_tips": 181
+      "total_received": 2109.25,
+      "total_tips": 182
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -559,10 +559,10 @@
       "username": "WhiteRabbit420",
       "tips_by_type": {
         "milestone": {
-          "amount": 1053.25,
-          "count": 168,
+          "amount": 1054.25,
+          "count": 169,
           "first_tip": "2025-05-03T16:58:54.015704",
-          "latest_tip": "2026-08-02T00:21:33.039726"
+          "latest_tip": "2026-08-02T14:18:06.805973"
         },
         "monthly_leaderboard": {
           "amount": 1005.0,
@@ -577,7 +577,7 @@
           "latest_tip": "2026-02-01T16:43:56.289586"
         }
       },
-      "total_received": 2108.25
+      "total_received": 2109.25
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -918,17 +918,17 @@
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tips_by_type": {
+        "milestone": {
+          "amount": 252.0,
+          "count": 45,
+          "first_tip": "2026-06-14T18:25:26.361490",
+          "latest_tip": "2026-08-02T14:17:32.731951"
+        },
         "monthly_leaderboard": {
           "amount": 250.0,
           "count": 2,
           "first_tip": "2026-07-01T14:35:22.034622",
           "latest_tip": "2026-08-01T15:19:41.389481"
-        },
-        "milestone": {
-          "amount": 250.0,
-          "count": 44,
-          "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-08-02T14:07:32.723149"
         },
         "manual": {
           "amount": 115.1,
@@ -943,7 +943,7 @@
           "latest_tip": "2026-07-26T04:29:24.550283"
         }
       },
-      "total_received": 616.72
+      "total_received": 618.72
     },
     {
       "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
@@ -1989,8 +1989,8 @@
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 12.0,
-      "count": 10,
+      "amount": 14.0,
+      "count": 11,
       "period_key": "2026-08"
     },
     {
@@ -2054,16 +2054,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 4.0,
-      "count": 4,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
       "username": "flipmiller",
       "tip_type": "milestone",
@@ -2074,13 +2064,13 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
-      "username": "gl13",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 3.0,
-      "count": 3,
+      "amount": 4.0,
+      "count": 4,
       "period_key": "2026-08"
     },
     {
@@ -2089,8 +2079,18 @@
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-08"
     },
     {
