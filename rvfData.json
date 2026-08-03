@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-03T03:38:51.694412+00:00",
-  "last_updated_timestamp": 1785728331,
+  "last_updated": "2026-08-03T03:48:50.524918+00:00",
+  "last_updated_timestamp": 1785728930,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -94,12 +94,28 @@
     }
   ],
   "summary": {
-    "total_participants": 0,
+    "total_participants": 1,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
   },
-  "participants": [],
+  "participants": [
+    {
+      "uid": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2258": {
+          "multi": 15.398244350405395,
+          "met": false
+        }
+      }
+    }
+  ],
   "payout_history": [
     {
       "year": 2026,
