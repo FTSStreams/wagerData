@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-03T00:28:34.668292+00:00",
-  "last_updated_timestamp": 1785716914,
+  "last_updated": "2026-08-03T00:38:34.903063+00:00",
+  "last_updated_timestamp": 1785717514,
   "summary": {
-    "total_tips_sent": 3985,
-    "total_amount_sent": 95130.40000000001,
+    "total_tips_sent": 3986,
+    "total_amount_sent": 95131.40000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 19921.7,
-        "tip_count": 3119
+        "total_amount": 19922.7,
+        "tip_count": 3120
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -1327,33 +1327,14 @@
       "total_received": 78.0
     },
     {
-      "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
-      "username": "hexta",
-      "tips_by_type": {
-        "manual": {
-          "amount": 4.0,
-          "count": 1,
-          "first_tip": "2025-05-05T17:28:04.096968",
-          "latest_tip": "2025-05-05T17:28:04.096968"
-        },
-        "milestone": {
-          "amount": 19.55,
-          "count": 9,
-          "first_tip": "2025-05-05T17:36:44.943237",
-          "latest_tip": "2025-07-02T01:34:57.208075"
-        }
-      },
-      "total_received": 61.55
-    },
-    {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "tips_by_type": {
         "milestone": {
-          "amount": 26.0,
-          "count": 22,
+          "amount": 27.0,
+          "count": 23,
           "first_tip": "2026-03-07T01:59:43.872010",
-          "latest_tip": "2026-08-02T01:27:33.006549"
+          "latest_tip": "2026-08-03T00:30:04.338574"
         },
         "manual": {
           "amount": 13.0,
@@ -1374,7 +1355,26 @@
           "latest_tip": "2026-01-05T18:57:04.967191"
         }
       },
-      "total_received": 61.0
+      "total_received": 62.0
+    },
+    {
+      "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
+      "username": "hexta",
+      "tips_by_type": {
+        "manual": {
+          "amount": 4.0,
+          "count": 1,
+          "first_tip": "2025-05-05T17:28:04.096968",
+          "latest_tip": "2025-05-05T17:28:04.096968"
+        },
+        "milestone": {
+          "amount": 19.55,
+          "count": 9,
+          "first_tip": "2025-05-05T17:36:44.943237",
+          "latest_tip": "2025-07-02T01:34:57.208075"
+        }
+      },
+      "total_received": 61.55
     },
     {
       "user_id": "f6a288d0-ec25-4168-86e6-053a5c139efe",
@@ -1393,17 +1393,17 @@
       "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
       "username": "1who1",
       "tips_by_type": {
-        "manual": {
-          "amount": 25.0,
-          "count": 1,
-          "first_tip": "2026-02-01T16:43:40.138192",
-          "latest_tip": "2026-02-01T16:43:40.138192"
-        },
         "milestone": {
           "amount": 25.0,
           "count": 20,
           "first_tip": "2025-11-19T17:37:02.950879",
           "latest_tip": "2026-06-26T22:22:03.863541"
+        },
+        "manual": {
+          "amount": 25.0,
+          "count": 1,
+          "first_tip": "2026-02-01T16:43:40.138192",
+          "latest_tip": "2026-02-01T16:43:40.138192"
         }
       },
       "total_received": 50.0
@@ -2104,6 +2104,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 3.0,
+      "count": 3,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "milestone",
@@ -2116,16 +2126,6 @@
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
       "username": "Jameskobi10",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 2.0,
-      "count": 2,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
