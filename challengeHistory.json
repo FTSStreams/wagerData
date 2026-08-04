@@ -1,8 +1,8 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-08-04T02:49:50.144938+00:00",
-  "last_updated_timestamp": 1785811790,
-  "total_completed_challenges": 131,
+  "last_updated": "2026-08-04T02:59:50.620478+00:00",
+  "last_updated_timestamp": 1785812390,
+  "total_completed_challenges": 132,
   "total_prizes_paid": 5845.0,
   "challenges": [
     {
@@ -61,6 +61,25 @@
       "challenge_start": "2026-07-12T23:36:47+00:00",
       "challenge_start_timestamp": 1783899407,
       "game_url": "https://roobet.com/casino/game/hacksaw:1067"
+    },
+    {
+      "challenge_id": 369,
+      "game_name": "Fruit Party",
+      "game_identifier": "pragmatic:vs20fruitparty",
+      "required_multiplier": 0.0,
+      "achieved_multiplier": 0.0,
+      "min_bet_requirement": 0.8,
+      "winner": {
+        "username": "FlipTheSwitch",
+        "user_id": "1058140474621300787",
+        "bet_amount": 0.0,
+        "payout": 0.0,
+        "multiplier_achieved": 0.0
+      },
+      "prize_amount": 0.0,
+      "challenge_start": "2026-07-12T15:37:37+00:00",
+      "challenge_start_timestamp": 1783870657,
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20fruitparty"
     },
     {
       "challenge_id": 332,
