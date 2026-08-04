@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-04T17:46:19.545421+00:00",
-  "last_updated_timestamp": 1785865579,
+  "last_updated": "2026-08-04T17:56:18.184921+00:00",
+  "last_updated_timestamp": 1785866178,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -207,6 +207,25 @@
       }
     },
     {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hub88:hp_krakendeals": {
+          "multi": 57.985767393944904,
+          "met": false
+        },
+        "pragmatic:vs20ddominion": {
+          "multi": 4.1499999999999995,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "completions": 0,
@@ -217,21 +236,6 @@
       "games": {
         "pragmatic:vs20ddominion": {
           "multi": 6.087000000000001,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20ddominion": {
-          "multi": 4.1499999999999995,
           "met": false
         }
       }
