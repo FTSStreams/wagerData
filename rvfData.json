@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-04T03:00:09.101005+00:00",
-  "last_updated_timestamp": 1785812409,
+  "last_updated": "2026-08-04T03:10:08.852281+00:00",
+  "last_updated_timestamp": 1785813008,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -12,43 +12,43 @@
   "active_queue": [
     {
       "position": 1,
-      "game_name": "Candy Rush",
-      "game_identifier": "pragmatic:vs20candyia",
-      "emoji": "\ud83c\udf6c",
+      "game_name": "Fruit Warp",
+      "game_identifier": "thunderkick:FruitWarp_tk",
+      "emoji": "\ud83c\udf47",
       "req_multi": 50.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20candyia"
+      "game_url": "https://roobet.com/casino/game/thunderkick:FruitWarp_tk"
     },
     {
       "position": 2,
-      "game_name": "Red Rascal",
-      "game_identifier": "hacksaw:2274",
-      "emoji": "\ud83d\udc79",
+      "game_name": "Marlin Masters OG",
+      "game_identifier": "hacksaw:2378",
+      "emoji": "\ud83d\udc20",
       "req_multi": 100.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2274"
+      "game_url": "https://roobet.com/casino/game/hacksaw:2378"
     },
     {
       "position": 3,
-      "game_name": "The Big Dog House",
-      "game_identifier": "pragmatic:vs20bgdoghouse",
-      "emoji": "\ud83d\udc36",
+      "game_name": "Kraken Deals",
+      "game_identifier": "hub88:hp_krakendeals",
+      "emoji": "\ud83d\udc19",
       "req_multi": 150.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20bgdoghouse"
+      "game_url": "https://roobet.com/casino/game/hub88:hp_krakendeals"
     },
     {
       "position": 4,
-      "game_name": "Rise of Fortuna",
-      "game_identifier": "hacksaw:2213",
-      "emoji": "\ud83d\udc78",
+      "game_name": "Death Dominion",
+      "game_identifier": "pragmatic:vs20ddominion",
+      "emoji": "\ud83d\udc80",
       "req_multi": 200.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2213"
+      "game_url": "https://roobet.com/casino/game/pragmatic:vs20ddominion"
     },
     {
       "position": 5,
-      "game_name": "Magic Piggy OG",
-      "game_identifier": "hacksaw:2258",
-      "emoji": "\ud83d\udc37",
+      "game_name": "Supreme Zeus",
+      "game_identifier": "hacksaw:2458",
+      "emoji": "\u26a1",
       "req_multi": 250.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2258"
+      "game_url": "https://roobet.com/casino/game/hacksaw:2458"
     }
   ],
   "draft_queue": [
@@ -94,12 +94,50 @@
     }
   ],
   "summary": {
-    "total_participants": 1,
+    "total_participants": 9,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
   },
   "participants": [
+    {
+      "uid": "9639491d-3e54-47fa-a116-0294790dbe9a",
+      "username": "Foxxy123",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "thunderkick:FruitWarp_tk": {
+          "multi": 0.9,
+          "met": false
+        },
+        "hacksaw:2458": {
+          "multi": 0.16,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "thunderkick:FruitWarp_tk": {
+          "multi": 40.0,
+          "met": false
+        },
+        "hacksaw:2458": {
+          "multi": 163.52505756705523,
+          "met": false
+        }
+      }
+    },
     {
       "uid": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
@@ -109,8 +147,106 @@
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
-        "hacksaw:2258": {
-          "multi": 15.398244350405395,
+        "hacksaw:2378": {
+          "multi": 0.5,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2378": {
+          "multi": 39.5,
+          "met": false
+        },
+        "pragmatic:vs20ddominion": {
+          "multi": 12.65,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2378": {
+          "multi": 0.7333333333333333,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "308ef436-7542-4b42-a13a-799e218e1f26",
+      "username": "gl13",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2378": {
+          "multi": 17.3,
+          "met": false
+        },
+        "hacksaw:2458": {
+          "multi": 1.0999999999999999,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20ddominion": {
+          "multi": 6.087000000000001,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20ddominion": {
+          "multi": 4.1499999999999995,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2458": {
+          "multi": 30.580000000000005,
           "met": false
         }
       }
