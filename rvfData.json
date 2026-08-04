@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-04T17:56:18.184921+00:00",
-  "last_updated_timestamp": 1785866178,
+  "last_updated": "2026-08-04T18:06:22.970338+00:00",
+  "last_updated_timestamp": 1785866782,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -100,6 +100,29 @@
     "total_games_required": 5
   },
   "participants": [
+    {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 166.4,
+      "max_multi": 166.4,
+      "is_winner": false,
+      "games": {
+        "hacksaw:2378": {
+          "multi": 27.9,
+          "met": false
+        },
+        "hub88:hp_krakendeals": {
+          "multi": 166.4,
+          "met": true
+        },
+        "pragmatic:vs20ddominion": {
+          "multi": 4.1499999999999995,
+          "met": false
+        }
+      }
+    },
     {
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
@@ -202,25 +225,6 @@
         },
         "hacksaw:2458": {
           "multi": 1.0999999999999999,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hub88:hp_krakendeals": {
-          "multi": 57.985767393944904,
-          "met": false
-        },
-        "pragmatic:vs20ddominion": {
-          "multi": 4.1499999999999995,
           "met": false
         }
       }
