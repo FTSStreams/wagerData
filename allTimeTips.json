@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-04T13:54:25.058945+00:00",
-  "last_updated_timestamp": 1785851665,
+  "last_updated": "2026-08-04T14:04:25.362231+00:00",
+  "last_updated_timestamp": 1785852265,
   "summary": {
-    "total_tips_sent": 4026,
-    "total_amount_sent": 96365.40000000001,
+    "total_tips_sent": 4027,
+    "total_amount_sent": 96366.40000000001,
     "by_type": {
       "milestone": {
-        "total_amount": 19960.7,
-        "tip_count": 3146
+        "total_amount": 19961.7,
+        "tip_count": 3147
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -1549,6 +1549,25 @@
       "total_received": 16.0
     },
     {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 13.0,
+          "count": 12,
+          "first_tip": "2026-07-28T00:07:53.557007",
+          "latest_tip": "2026-08-04T13:55:53.952408"
+        },
+        "manual": {
+          "amount": 3.0,
+          "count": 1,
+          "first_tip": "2026-07-28T12:41:26.096771",
+          "latest_tip": "2026-07-28T12:41:26.096771"
+        }
+      },
+      "total_received": 16.0
+    },
+    {
       "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
       "username": "4TIFLIP",
       "tips_by_type": {
@@ -1570,25 +1589,6 @@
           "count": 13,
           "first_tip": "2025-11-09T22:21:26.283801",
           "latest_tip": "2025-11-17T03:02:08.061438"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 12.0,
-          "count": 11,
-          "first_tip": "2026-07-28T00:07:53.557007",
-          "latest_tip": "2026-08-04T13:32:28.503230"
-        },
-        "manual": {
-          "amount": 3.0,
-          "count": 1,
-          "first_tip": "2026-07-28T12:41:26.096771",
-          "latest_tip": "2026-07-28T12:41:26.096771"
         }
       },
       "total_received": 15.0
@@ -2149,8 +2149,8 @@
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-08"
     },
     {
