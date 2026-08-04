@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-04T22:26:22.165612+00:00",
-  "last_updated_timestamp": 1785882382,
+  "last_updated": "2026-08-04T22:36:22.313753+00:00",
+  "last_updated_timestamp": 1785882982,
   "summary": {
-    "total_tips_sent": 4035,
-    "total_amount_sent": 96376.40000000001,
+    "total_tips_sent": 4036,
+    "total_amount_sent": 96377.40000000001,
     "by_type": {
       "milestone": {
         "total_amount": 19971.7,
@@ -27,8 +27,8 @@
         "tip_count": 7
       },
       "check_in": {
-        "total_amount": 107.46,
-        "tip_count": 55
+        "total_amount": 108.46,
+        "tip_count": 56
       },
       "weekly_multiplier": {
         "total_amount": 1242.0,
@@ -1248,17 +1248,17 @@
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tips_by_type": {
+        "check_in": {
+          "amount": 27.29,
+          "count": 24,
+          "first_tip": "2026-05-07T13:22:22.666561",
+          "latest_tip": "2026-08-04T22:34:06.355252"
+        },
         "manual": {
           "amount": 11.5,
           "count": 3,
           "first_tip": "2025-05-02T20:28:05.770539",
           "latest_tip": "2025-05-10T15:15:44.034752"
-        },
-        "check_in": {
-          "amount": 26.29,
-          "count": 23,
-          "first_tip": "2026-05-07T13:22:22.666561",
-          "latest_tip": "2026-08-01T17:56:55.885205"
         },
         "milestone": {
           "amount": 21.55,
@@ -1273,7 +1273,7 @@
           "latest_tip": "2026-01-04T17:26:40.700516"
         }
       },
-      "total_received": 90.84
+      "total_received": 91.84
     },
     {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
@@ -2154,6 +2154,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
+      "username": "Deg4Flip",
+      "tip_type": "check_in",
+      "month": 8,
+      "year": 2026,
+      "amount": 2.55,
+      "count": 2,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
       "tip_type": "milestone",
@@ -2171,16 +2181,6 @@
       "year": 2026,
       "amount": 2.0,
       "count": 2,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
-      "username": "Deg4Flip",
-      "tip_type": "check_in",
-      "month": 8,
-      "year": 2026,
-      "amount": 1.55,
-      "count": 1,
       "period_key": "2026-08"
     },
     {
