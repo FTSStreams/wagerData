@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-08-04T02:49:48.841048+00:00",
-  "last_updated_timestamp": 1785811788,
-  "total_challenges": 5,
+  "last_updated": "2026-08-04T02:59:48.763047+00:00",
+  "last_updated_timestamp": 1785812388,
+  "total_challenges": 9,
   "challenges": [
     {
       "challenge_id": 247,
@@ -16,19 +16,6 @@
       "emoji": "\ud83d\ude38",
       "min_bet": 0.2,
       "start_timestamp": 1773530700
-    },
-    {
-      "challenge_id": 369,
-      "game_identifier": "pragmatic:vs20fruitparty",
-      "game_name": "Fruit Party",
-      "required_multiplier": 750.0,
-      "prize": 200.0,
-      "start_time": "2026-07-12T15:37:37+00:00",
-      "posted_by": 1058140474621300787,
-      "posted_by_username": "FlipTheSwitch",
-      "emoji": "\ud83c\udf4e",
-      "min_bet": 0.8,
-      "start_timestamp": 1783870657
     },
     {
       "challenge_id": 371,
@@ -68,6 +55,71 @@
       "emoji": "\u2764\ufe0f",
       "min_bet": 0.2,
       "start_timestamp": 1783871020
+    },
+    {
+      "challenge_id": 397,
+      "game_identifier": "hacksaw:1067",
+      "game_name": "Wanted Dead or a Wild",
+      "required_multiplier": 1000.0,
+      "prize": 200.0,
+      "start_time": "2026-08-04T02:56:52+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83c\udd9a",
+      "min_bet": 0.6,
+      "start_timestamp": 1785812212
+    },
+    {
+      "challenge_id": 398,
+      "game_identifier": "playngo:gigantoonz",
+      "game_name": "Gigantoonz",
+      "required_multiplier": 1000.0,
+      "prize": 200.0,
+      "start_time": "2026-08-04T02:57:36+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\uddcc",
+      "min_bet": 2.0,
+      "start_timestamp": 1785812256
+    },
+    {
+      "challenge_id": 399,
+      "game_identifier": "playngo:reactoonztwo",
+      "game_name": "Reactoonz 2",
+      "required_multiplier": 750.0,
+      "prize": 200.0,
+      "start_time": "2026-08-04T02:58:09+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc79",
+      "min_bet": 1.0,
+      "start_timestamp": 1785812289
+    },
+    {
+      "challenge_id": 400,
+      "game_identifier": "hacksaw:1243",
+      "game_name": "Stormforged",
+      "required_multiplier": 750.0,
+      "prize": 200.0,
+      "start_time": "2026-08-04T02:58:46+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u2692\ufe0f",
+      "min_bet": 0.6,
+      "start_timestamp": 1785812326
+    },
+    {
+      "challenge_id": 401,
+      "game_identifier": "hacksaw:1408",
+      "game_name": "Fist of Destruction",
+      "required_multiplier": 750.0,
+      "prize": 200.0,
+      "start_time": "2026-08-04T02:59:12+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u270a",
+      "min_bet": 0.6,
+      "start_timestamp": 1785812352
     }
   ]
 }
