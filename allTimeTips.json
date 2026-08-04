@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-04T02:39:50.976152+00:00",
-  "last_updated_timestamp": 1785811190,
+  "last_updated": "2026-08-04T02:49:50.123588+00:00",
+  "last_updated_timestamp": 1785811790,
   "summary": {
-    "total_tips_sent": 4013,
-    "total_amount_sent": 95623.40000000001,
+    "total_tips_sent": 4015,
+    "total_amount_sent": 95923.40000000001,
     "by_type": {
       "milestone": {
         "total_amount": 19943.7,
@@ -19,8 +19,8 @@
         "tip_count": 79
       },
       "manual": {
-        "total_amount": 40590.24,
-        "tip_count": 484
+        "total_amount": 40890.24,
+        "tip_count": 486
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -52,8 +52,8 @@
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
-      "total_received": 9561.27,
-      "total_tips": 110
+      "total_received": 9861.27,
+      "total_tips": 112
     },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
@@ -220,10 +220,10 @@
       "username": "WCDegen",
       "tips_by_type": {
         "manual": {
-          "amount": 9112.27,
-          "count": 58,
+          "amount": 9412.27,
+          "count": 60,
           "first_tip": "2026-06-24T14:39:53.639205",
-          "latest_tip": "2026-08-04T02:37:58.998425"
+          "latest_tip": "2026-08-04T02:46:46.534182"
         },
         "milestone": {
           "amount": 258.0,
@@ -250,7 +250,7 @@
           "latest_tip": "2026-07-16T18:02:40.468660"
         }
       },
-      "total_received": 9561.27
+      "total_received": 9861.27
     },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
@@ -1929,8 +1929,8 @@
       "tip_type": "manual",
       "month": 8,
       "year": 2026,
-      "amount": 560.0,
-      "count": 7,
+      "amount": 860.0,
+      "count": 9,
       "period_key": "2026-08"
     },
     {
