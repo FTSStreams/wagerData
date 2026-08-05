@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-05T04:46:43.340385+00:00",
-  "last_updated_timestamp": 1785905203,
+  "last_updated": "2026-08-05T04:56:42.090868+00:00",
+  "last_updated_timestamp": 1785905802,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "total_participants": 9,
+    "total_participants": 10,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
@@ -248,6 +248,21 @@
       "games": {
         "pragmatic:vs20ddominion": {
           "multi": 6.087000000000001,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "f3f76c8a-7d8a-4b23-a5a8-31fafb032226",
+      "username": "Modernehustle",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20ddominion": {
+          "multi": 7.35,
           "met": false
         }
       }
