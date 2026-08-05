@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-05T03:26:23.292922+00:00",
-  "last_updated_timestamp": 1785900383,
+  "last_updated": "2026-08-05T03:36:23.162640+00:00",
+  "last_updated_timestamp": 1785900983,
   "summary": {
-    "total_tips_sent": 4052,
-    "total_amount_sent": 96420.99,
+    "total_tips_sent": 4053,
+    "total_amount_sent": 96421.99,
     "by_type": {
       "milestone": {
-        "total_amount": 19977.7,
-        "tip_count": 3159
+        "total_amount": 19978.7,
+        "tip_count": 3160
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -1186,10 +1186,10 @@
       "username": "liq543",
       "tips_by_type": {
         "milestone": {
-          "amount": 115.7,
-          "count": 93,
+          "amount": 116.7,
+          "count": 94,
           "first_tip": "2025-06-05T04:25:18.923348",
-          "latest_tip": "2026-08-04T03:31:19.961141"
+          "latest_tip": "2026-08-05T03:27:51.919388"
         },
         "manual": {
           "amount": 20.0,
@@ -1198,7 +1198,7 @@
           "latest_tip": "2025-07-03T00:00:00"
         }
       },
-      "total_received": 135.7
+      "total_received": 136.7
     },
     {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
@@ -2104,28 +2104,28 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 5.0,
-      "count": 5,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 5.0,
-      "count": 5,
+      "amount": 6.0,
+      "count": 6,
       "period_key": "2026-08"
     },
     {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 5.0,
+      "count": 5,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
