@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-05T00:06:42.889319+00:00",
-  "last_updated_timestamp": 1785888402,
+  "last_updated": "2026-08-05T00:16:45.177267+00:00",
+  "last_updated_timestamp": 1785889005,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -128,6 +128,29 @@
       }
     },
     {
+      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 60.0,
+      "max_multi": 60.0,
+      "is_winner": false,
+      "games": {
+        "thunderkick:FruitWarp_tk": {
+          "multi": 60.0,
+          "met": true
+        },
+        "hacksaw:2378": {
+          "multi": 39.5,
+          "met": false
+        },
+        "pragmatic:vs20ddominion": {
+          "multi": 12.65,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "completions": 0,
@@ -176,25 +199,6 @@
       "games": {
         "hacksaw:2378": {
           "multi": 0.5,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2378": {
-          "multi": 39.5,
-          "met": false
-        },
-        "pragmatic:vs20ddominion": {
-          "multi": 12.65,
           "met": false
         }
       }
