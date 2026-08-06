@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-06T01:02:58.379355+00:00",
-  "last_updated_timestamp": 1785978178,
+  "last_updated": "2026-08-06T01:12:56.493663+00:00",
+  "last_updated_timestamp": 1785978776,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -100,6 +100,21 @@
     "total_games_required": 5
   },
   "participants": [
+    {
+      "uid": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 355.92499999999995,
+      "max_multi": 355.92499999999995,
+      "is_winner": false,
+      "games": {
+        "pragmatic:vs20ddominion": {
+          "multi": 355.92499999999995,
+          "met": true
+        }
+      }
+    },
     {
       "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
@@ -263,21 +278,6 @@
       "games": {
         "pragmatic:vs20ddominion": {
           "multi": 7.35,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "pragmatic:vs20ddominion": {
-          "multi": 10.6,
           "met": false
         }
       }
