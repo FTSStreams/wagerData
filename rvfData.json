@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-06T04:47:59.544728+00:00",
-  "last_updated_timestamp": 1785991679,
+  "last_updated": "2026-08-06T04:51:50.455001+00:00",
+  "last_updated_timestamp": 1785991910,
   "current_period": {
     "event_start": "2026-08-01T00:00:00+00:00",
     "event_start_timestamp": 1785542400,
@@ -41,14 +41,6 @@
       "emoji": "\ud83d\udc80",
       "req_multi": 200.0,
       "game_url": "https://roobet.com/casino/game/pragmatic:vs20ddominion"
-    },
-    {
-      "position": 5,
-      "game_name": "Supreme Zeus",
-      "game_identifier": "hacksaw:2458",
-      "emoji": "\u26a1",
-      "req_multi": 250.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2458"
     }
   ],
   "draft_queue": [
@@ -94,17 +86,17 @@
     }
   ],
   "summary": {
-    "total_participants": 11,
+    "total_participants": 10,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 5
+    "total_games_required": 4
   },
   "participants": [
     {
       "uid": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
       "username": "Ezeesq96",
       "completions": 1,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 355.92499999999995,
       "max_multi": 355.92499999999995,
       "is_winner": false,
@@ -119,7 +111,7 @@
       "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "completions": 1,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 166.4,
       "max_multi": 166.4,
       "is_winner": false,
@@ -135,10 +127,6 @@
         "pragmatic:vs20ddominion": {
           "multi": 19.045,
           "met": false
-        },
-        "hacksaw:2458": {
-          "multi": 5.02,
-          "met": false
         }
       }
     },
@@ -146,7 +134,7 @@
       "uid": "0df0959d-7648-41f4-bccc-349021c9d165",
       "username": "liq543",
       "completions": 1,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 60.0,
       "max_multi": 60.0,
       "is_winner": false,
@@ -169,17 +157,13 @@
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
         "thunderkick:FruitWarp_tk": {
           "multi": 40.0,
-          "met": false
-        },
-        "hacksaw:2458": {
-          "multi": 163.52505756705523,
           "met": false
         }
       }
@@ -188,17 +172,13 @@
       "uid": "9639491d-3e54-47fa-a116-0294790dbe9a",
       "username": "Foxxy123",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
         "thunderkick:FruitWarp_tk": {
           "multi": 1.4000000000000001,
-          "met": false
-        },
-        "hacksaw:2458": {
-          "multi": 0.16,
           "met": false
         }
       }
@@ -207,7 +187,7 @@
       "uid": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
@@ -222,7 +202,7 @@
       "uid": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
@@ -237,17 +217,13 @@
       "uid": "308ef436-7542-4b42-a13a-799e218e1f26",
       "username": "gl13",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
         "hacksaw:2378": {
           "multi": 17.3,
-          "met": false
-        },
-        "hacksaw:2458": {
-          "multi": 1.0999999999999999,
           "met": false
         }
       }
@@ -256,7 +232,7 @@
       "uid": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
@@ -271,28 +247,13 @@
       "uid": "f3f76c8a-7d8a-4b23-a5a8-31fafb032226",
       "username": "Modernehustle",
       "completions": 0,
-      "total_games": 5,
+      "total_games": 4,
       "avg_multi": 0.0,
       "max_multi": 0.0,
       "is_winner": false,
       "games": {
         "pragmatic:vs20ddominion": {
           "multi": 7.35,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
-      "username": "ProxyWoxy",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hacksaw:2458": {
-          "multi": 30.580000000000005,
           "met": false
         }
       }
