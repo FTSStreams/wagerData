@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-08-08T20:58:25.521206+00:00",
-  "last_updated_timestamp": 1786222705,
-  "total_tips": 4030,
+  "last_updated": "2026-08-08T21:08:26.154984+00:00",
+  "last_updated_timestamp": 1786223306,
+  "total_tips": 4032,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-08T21:00:37.878430"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-08T20:58:39.710250"
+    },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
