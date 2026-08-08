@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-08T22:28:43.238403+00:00",
-  "last_updated_timestamp": 1786228123,
+  "last_updated": "2026-08-08T22:38:44.373580+00:00",
+  "last_updated_timestamp": 1786228724,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -101,6 +101,33 @@
   },
   "participants": [
     {
+      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "completions": 2,
+      "total_games": 5,
+      "avg_multi": 314.7966666666666,
+      "max_multi": 419.3333333333333,
+      "is_winner": false,
+      "games": {
+        "hub88:hp_leprechaunvsgoblins": {
+          "multi": 11.4,
+          "met": false
+        },
+        "hub88:hp_spellgonewild": {
+          "multi": 419.3333333333333,
+          "met": true
+        },
+        "hub88:hp_ooeygooey": {
+          "multi": 210.26,
+          "met": true
+        },
+        "hub88:hp_sourcandy": {
+          "multi": 71.46,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "completions": 2,
@@ -123,29 +150,6 @@
         },
         "hub88:hp_sourcandy": {
           "multi": 22.400000000000002,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "completions": 1,
-      "total_games": 5,
-      "avg_multi": 419.3333333333333,
-      "max_multi": 419.3333333333333,
-      "is_winner": false,
-      "games": {
-        "hub88:hp_leprechaunvsgoblins": {
-          "multi": 11.4,
-          "met": false
-        },
-        "hub88:hp_spellgonewild": {
-          "multi": 419.3333333333333,
-          "met": true
-        },
-        "hub88:hp_ooeygooey": {
-          "multi": 1.2,
           "met": false
         }
       }
