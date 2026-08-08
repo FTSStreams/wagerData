@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-08T20:58:43.254995+00:00",
-  "last_updated_timestamp": 1786222723,
+  "last_updated": "2026-08-08T21:08:45.419389+00:00",
+  "last_updated_timestamp": 1786223325,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -94,12 +94,40 @@
     }
   ],
   "summary": {
-    "total_participants": 0,
+    "total_participants": 1,
     "current_winners": 0,
     "prize_per_winner": 0.0,
     "total_games_required": 5
   },
-  "participants": [],
+  "participants": [
+    {
+      "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "completions": 2,
+      "total_games": 5,
+      "avg_multi": 71.85,
+      "max_multi": 115.19999999999999,
+      "is_winner": false,
+      "games": {
+        "hub88:hp_leprechaunvsgoblins": {
+          "multi": 28.5,
+          "met": true
+        },
+        "hub88:hp_spellgonewild": {
+          "multi": 115.19999999999999,
+          "met": true
+        },
+        "hub88:hp_ooeygooey": {
+          "multi": 5.0,
+          "met": false
+        },
+        "hub88:hp_sourcandy": {
+          "multi": 10.5,
+          "met": false
+        }
+      }
+    }
+  ],
   "payout_history": [
     {
       "year": 2026,
