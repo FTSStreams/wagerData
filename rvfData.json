@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-08T20:38:39.475618+00:00",
-  "last_updated_timestamp": 1786221519,
+  "last_updated": "2026-08-08T20:48:43.445389+00:00",
+  "last_updated_timestamp": 1786222123,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -15,7 +15,7 @@
       "game_name": "Leprechaun VS Goblins",
       "game_identifier": "hub88:hp_leprechaunvsgoblins",
       "emoji": "\ud83c\udf40",
-      "req_multi": 50.0,
+      "req_multi": 25.0,
       "game_url": "https://roobet.com/casino/game/hub88:hp_leprechaunvsgoblins"
     },
     {
@@ -23,16 +23,32 @@
       "game_name": "Spell Gone Wild",
       "game_identifier": "hub88:hp_spellgonewild",
       "emoji": "\ud83e\uddd9",
-      "req_multi": 100.0,
+      "req_multi": 50.0,
       "game_url": "https://roobet.com/casino/game/hub88:hp_spellgonewild"
     },
     {
       "position": 3,
+      "game_name": "Ooey Gooey",
+      "game_identifier": "hub88:hp_ooeygooey",
+      "emoji": "\ud83d\udca6",
+      "req_multi": 75.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_ooeygooey"
+    },
+    {
+      "position": 4,
       "game_name": "Sour Candy",
       "game_identifier": "hub88:hp_sourcandy",
       "emoji": "\ud83c\udf6c",
-      "req_multi": 150.0,
+      "req_multi": 100.0,
       "game_url": "https://roobet.com/casino/game/hub88:hp_sourcandy"
+    },
+    {
+      "position": 5,
+      "game_name": "Big Catch Cluck",
+      "game_identifier": "hub88:hp_bigcatchcluck",
+      "emoji": "\ud83d\udc14",
+      "req_multi": 125.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_bigcatchcluck"
     }
   ],
   "draft_queue": [
@@ -81,7 +97,7 @@
     "total_participants": 0,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 3
+    "total_games_required": 5
   },
   "participants": [],
   "payout_history": [
