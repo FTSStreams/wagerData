@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-08T20:18:37.622201+00:00",
-  "last_updated_timestamp": 1786220317,
+  "last_updated": "2026-08-08T20:28:39.635895+00:00",
+  "last_updated_timestamp": 1786220919,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -12,45 +12,53 @@
   "active_queue": [
     {
       "position": 1,
-      "game_name": "Red Rascal",
-      "game_identifier": "hacksaw:2274",
-      "emoji": "\ud83d\udc79",
-      "req_multi": 100.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2274"
+      "game_name": "Leprechaun VS Goblins",
+      "game_identifier": "hub88:hp_leprechaunvsgoblins",
+      "emoji": "\ud83c\udf40",
+      "req_multi": 50.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_leprechaunvsgoblins"
     },
     {
       "position": 2,
-      "game_name": "Rise of Fortuna",
-      "game_identifier": "hacksaw:2213",
-      "emoji": "\ud83d\udc78",
-      "req_multi": 200.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2213"
+      "game_name": "Spell Gone Wild",
+      "game_identifier": "hub88:hp_spellgonewild",
+      "emoji": "\ud83e\uddd9",
+      "req_multi": 100.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_spellgonewild"
+    },
+    {
+      "position": 3,
+      "game_name": "Sour Candy",
+      "game_identifier": "hub88:hp_sourcandy",
+      "emoji": "\ud83c\udf6c",
+      "req_multi": 150.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_sourcandy"
     }
   ],
   "draft_queue": [
     {
       "position": 1,
-      "game_name": "Candy Rush",
-      "game_identifier": "pragmatic:vs20candyia",
-      "emoji": "\ud83c\udf6c",
-      "req_multi": 50.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20candyia"
+      "game_name": "Banana Heist",
+      "game_identifier": "hub88:hp_bananaheist",
+      "emoji": "\ud83c\udf4c",
+      "req_multi": 25.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_bananaheist"
     },
     {
       "position": 2,
-      "game_name": "Red Rascal",
-      "game_identifier": "hacksaw:2274",
-      "emoji": "\ud83d\udc79",
-      "req_multi": 100.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2274"
+      "game_name": "Samurai Sloth",
+      "game_identifier": "hub88:hp_samuraisloth",
+      "emoji": "\ud83e\udda5",
+      "req_multi": 50.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_samuraisloth"
     },
     {
       "position": 3,
-      "game_name": "The Big Dog House",
-      "game_identifier": "pragmatic:vs20bgdoghouse",
-      "emoji": "\ud83d\udc36",
-      "req_multi": 150.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20bgdoghouse"
+      "game_name": "Kraken Deals",
+      "game_identifier": "hub88:hp_krakendeals",
+      "emoji": "\ud83d\udc19",
+      "req_multi": 75.0,
+      "game_url": "https://roobet.com/casino/game/hub88:hp_krakendeals"
     },
     {
       "position": 4,
@@ -73,7 +81,7 @@
     "total_participants": 0,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 2
+    "total_games_required": 3
   },
   "participants": [],
   "payout_history": [
