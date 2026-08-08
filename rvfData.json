@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-08T18:28:44.277493+00:00",
-  "last_updated_timestamp": 1786213724,
+  "last_updated": "2026-08-08T18:38:37.037178+00:00",
+  "last_updated_timestamp": 1786214317,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -12,14 +12,6 @@
   "active_queue": [
     {
       "position": 1,
-      "game_name": "Candy Rush",
-      "game_identifier": "pragmatic:vs20candyia",
-      "emoji": "\ud83c\udf6c",
-      "req_multi": 50.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20candyia"
-    },
-    {
-      "position": 2,
       "game_name": "Red Rascal",
       "game_identifier": "hacksaw:2274",
       "emoji": "\ud83d\udc79",
@@ -27,28 +19,12 @@
       "game_url": "https://roobet.com/casino/game/hacksaw:2274"
     },
     {
-      "position": 3,
-      "game_name": "The Big Dog House",
-      "game_identifier": "pragmatic:vs20bgdoghouse",
-      "emoji": "\ud83d\udc36",
-      "req_multi": 150.0,
-      "game_url": "https://roobet.com/casino/game/pragmatic:vs20bgdoghouse"
-    },
-    {
-      "position": 4,
+      "position": 2,
       "game_name": "Rise of Fortuna",
       "game_identifier": "hacksaw:2213",
       "emoji": "\ud83d\udc78",
       "req_multi": 200.0,
       "game_url": "https://roobet.com/casino/game/hacksaw:2213"
-    },
-    {
-      "position": 5,
-      "game_name": "Magic Piggy OG",
-      "game_identifier": "hacksaw:2258",
-      "emoji": "\ud83d\udc37",
-      "req_multi": 250.0,
-      "game_url": "https://roobet.com/casino/game/hacksaw:2258"
     }
   ],
   "draft_queue": [
@@ -97,7 +73,7 @@
     "total_participants": 0,
     "current_winners": 0,
     "prize_per_winner": 0.0,
-    "total_games_required": 5
+    "total_games_required": 2
   },
   "participants": [],
   "payout_history": [
