@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-08T00:23:20.662706+00:00",
-  "last_updated_timestamp": 1786148600,
+  "last_updated": "2026-08-08T00:33:21.259715+00:00",
+  "last_updated_timestamp": 1786149201,
   "summary": {
-    "total_tips_sent": 4020,
-    "total_amount_sent": 84466.81999999999,
+    "total_tips_sent": 4021,
+    "total_amount_sent": 84468.81999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20024.7,
-        "tip_count": 3187
+        "total_amount": 20026.7,
+        "tip_count": 3188
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -1457,10 +1457,10 @@
       "username": "Ezeesq96",
       "tips_by_type": {
         "milestone": {
-          "amount": 18.0,
-          "count": 17,
+          "amount": 20.0,
+          "count": 18,
           "first_tip": "2026-07-28T00:07:53.557007",
-          "latest_tip": "2026-08-07T21:34:50.175639"
+          "latest_tip": "2026-08-08T00:24:50.494990"
         },
         "weekly_multiplier": {
           "amount": 15.0,
@@ -1475,7 +1475,7 @@
           "latest_tip": "2026-07-28T12:41:26.096771"
         }
       },
-      "total_received": 36.0
+      "total_received": 38.0
     },
     {
       "user_id": "60aeb302-9f87-4c9e-8f22-c9945e2928ae",
@@ -2121,13 +2121,13 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tip_type": "weekly_multiplier",
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tip_type": "milestone",
       "month": 8,
       "year": 2026,
       "amount": 10.0,
-      "count": 1,
+      "count": 9,
       "period_key": "2026-08"
     },
     {
@@ -2161,22 +2161,12 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tip_type": "milestone",
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "weekly_multiplier",
       "month": 8,
       "year": 2026,
-      "amount": 8.0,
-      "count": 8,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "f3f76c8a-7d8a-4b23-a5a8-31fafb032226",
-      "username": "Modernehustle",
-      "tip_type": "manual",
-      "month": 8,
-      "year": 2026,
-      "amount": 7.0,
+      "amount": 10.0,
       "count": 1,
       "period_key": "2026-08"
     },
@@ -2188,6 +2178,16 @@
       "year": 2026,
       "amount": 7.0,
       "count": 7,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "f3f76c8a-7d8a-4b23-a5a8-31fafb032226",
+      "username": "Modernehustle",
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "amount": 7.0,
+      "count": 1,
       "period_key": "2026-08"
     },
     {
