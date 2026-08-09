@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-09T23:06:57.957970+00:00",
-  "last_updated_timestamp": 1786316817,
+  "last_updated": "2026-08-09T23:16:57.530723+00:00",
+  "last_updated_timestamp": 1786317417,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -154,6 +154,10 @@
         },
         "hub88:hp_sourcandy": {
           "multi": 22.400000000000002,
+          "met": false
+        },
+        "hub88:hp_bigcatchcluck": {
+          "multi": 17.549999999999997,
           "met": false
         }
       }
