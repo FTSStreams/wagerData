@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-09T15:48:26.452070+00:00",
-  "last_updated_timestamp": 1786290506,
+  "last_updated": "2026-08-09T15:58:26.006641+00:00",
+  "last_updated_timestamp": 1786291106,
   "summary": {
-    "total_tips_sent": 4035,
-    "total_amount_sent": 84557.81999999999,
+    "total_tips_sent": 4036,
+    "total_amount_sent": 84558.81999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20055.7,
-        "tip_count": 3199
+        "total_amount": 20056.7,
+        "tip_count": 3200
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -999,10 +999,10 @@
       "username": "jonnyb12345",
       "tips_by_type": {
         "milestone": {
-          "amount": 202.95,
-          "count": 137,
+          "amount": 203.95,
+          "count": 138,
           "first_tip": "2025-05-05T20:21:45.935208",
-          "latest_tip": "2026-08-06T03:29:07.866539"
+          "latest_tip": "2026-08-09T15:51:56.047577"
         },
         "manual": {
           "amount": 70.0,
@@ -1023,7 +1023,7 @@
           "latest_tip": "2026-04-24T00:18:06.139208"
         }
       },
-      "total_received": 347.95
+      "total_received": 348.95
     },
     {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
@@ -2331,6 +2331,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 2.0,
+      "count": 2,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
       "username": "hotrunners",
       "tip_type": "milestone",
@@ -2347,16 +2357,6 @@
       "month": 8,
       "year": 2026,
       "amount": 2.0,
-      "count": 1,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 1.0,
       "count": 1,
       "period_key": "2026-08"
     },
