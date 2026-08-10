@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-09T23:56:56.171330+00:00",
-  "last_updated_timestamp": 1786319816,
+  "last_updated": "2026-08-10T00:06:59.318663+00:00",
+  "last_updated_timestamp": 1786320419,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -134,9 +134,9 @@
     {
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
-      "completions": 3,
+      "completions": 4,
       "total_games": 5,
-      "avg_multi": 145.03333333333333,
+      "avg_multi": 139.42499999999998,
       "max_multi": 291.4,
       "is_winner": false,
       "games": {
@@ -153,11 +153,11 @@
           "met": true
         },
         "hub88:hp_sourcandy": {
-          "multi": 59.599999999999994,
-          "met": false
+          "multi": 122.60000000000001,
+          "met": true
         },
         "hub88:hp_bigcatchcluck": {
-          "multi": 43.6,
+          "multi": 101.05000000000001,
           "met": false
         }
       }
