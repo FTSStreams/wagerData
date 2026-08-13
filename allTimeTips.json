@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-13T03:37:26.423456+00:00",
-  "last_updated_timestamp": 1786592246,
+  "last_updated": "2026-08-13T03:47:27.278083+00:00",
+  "last_updated_timestamp": 1786592847,
   "summary": {
-    "total_tips_sent": 4078,
-    "total_amount_sent": 84716.95,
+    "total_tips_sent": 4079,
+    "total_amount_sent": 84726.95,
     "by_type": {
       "milestone": {
-        "total_amount": 20144.7,
-        "tip_count": 3232
+        "total_amount": 20154.7,
+        "tip_count": 3233
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -1333,6 +1333,31 @@
       "total_received": 78.0
     },
     {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 54.0,
+          "count": 24,
+          "first_tip": "2026-07-28T00:07:53.557007",
+          "latest_tip": "2026-08-13T03:38:56.241229"
+        },
+        "weekly_multiplier": {
+          "amount": 15.0,
+          "count": 1,
+          "first_tip": "2026-08-07T00:20:12.996639",
+          "latest_tip": "2026-08-07T00:20:12.996639"
+        },
+        "manual": {
+          "amount": 3.0,
+          "count": 1,
+          "first_tip": "2026-07-28T12:41:26.096771",
+          "latest_tip": "2026-07-28T12:41:26.096771"
+        }
+      },
+      "total_received": 72.0
+    },
+    {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "tips_by_type": {
@@ -1362,31 +1387,6 @@
         }
       },
       "total_received": 63.0
-    },
-    {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 44.0,
-          "count": 23,
-          "first_tip": "2026-07-28T00:07:53.557007",
-          "latest_tip": "2026-08-12T17:41:42.736736"
-        },
-        "weekly_multiplier": {
-          "amount": 15.0,
-          "count": 1,
-          "first_tip": "2026-08-07T00:20:12.996639",
-          "latest_tip": "2026-08-07T00:20:12.996639"
-        },
-        "manual": {
-          "amount": 3.0,
-          "count": 1,
-          "first_tip": "2026-07-28T12:41:26.096771",
-          "latest_tip": "2026-07-28T12:41:26.096771"
-        }
-      },
-      "total_received": 62.0
     },
     {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
@@ -2043,6 +2043,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 44.0,
+      "count": 15,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "tip_type": "milestone",
@@ -2080,16 +2090,6 @@
       "year": 2026,
       "amount": 37.59,
       "count": 12,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 34.0,
-      "count": 14,
       "period_key": "2026-08"
     },
     {
@@ -2163,16 +2163,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "manual",
-      "month": 8,
-      "year": 2026,
-      "amount": 20.0,
-      "count": 2,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
       "username": "Keno8",
       "tip_type": "manual",
@@ -2180,6 +2170,16 @@
       "year": 2026,
       "amount": 20.0,
       "count": 3,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "amount": 20.0,
+      "count": 2,
       "period_key": "2026-08"
     },
     {
