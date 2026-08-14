@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-14T20:29:24.959033+00:00",
-  "last_updated_timestamp": 1786739364,
+  "last_updated": "2026-08-14T20:39:25.893220+00:00",
+  "last_updated_timestamp": 1786739965,
   "current_period": {
     "event_start": "2026-08-08T00:00:00+00:00",
     "event_start_timestamp": 1786147200,
@@ -94,7 +94,7 @@
     }
   ],
   "summary": {
-    "total_participants": 4,
+    "total_participants": 5,
     "current_winners": 1,
     "prize_per_winner": 50.0,
     "total_games_required": 5
@@ -173,6 +173,21 @@
       "games": {
         "hub88:hp_leprechaunvsgoblins": {
           "multi": 2.3333333333333335,
+          "met": false
+        }
+      }
+    },
+    {
+      "uid": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "completions": 0,
+      "total_games": 5,
+      "avg_multi": 0.0,
+      "max_multi": 0.0,
+      "is_winner": false,
+      "games": {
+        "hub88:hp_leprechaunvsgoblins": {
+          "multi": 2.0000000000000004,
           "met": false
         }
       }
