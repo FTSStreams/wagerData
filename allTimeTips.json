@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-14T16:19:04.902337+00:00",
-  "last_updated_timestamp": 1786724344,
+  "last_updated": "2026-08-14T16:29:04.465448+00:00",
+  "last_updated_timestamp": 1786724944,
   "summary": {
-    "total_tips_sent": 4103,
-    "total_amount_sent": 85704.05,
+    "total_tips_sent": 4104,
+    "total_amount_sent": 85904.05,
     "by_type": {
       "milestone": {
         "total_amount": 20180.7,
@@ -19,8 +19,8 @@
         "tip_count": 79
       },
       "manual": {
-        "total_amount": 30324.69,
-        "tip_count": 454
+        "total_amount": 30524.69,
+        "tip_count": 455
       },
       "roo_vs_flip": {
         "total_amount": 510.0,
@@ -116,6 +116,12 @@
       "total_tips": 88
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "total_received": 1769.0,
+      "total_tips": 73
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "total_received": 1726.27,
@@ -126,12 +132,6 @@
       "username": "GemEventual123",
       "total_received": 1666.8,
       "total_tips": 87
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "total_received": 1569.0,
-      "total_tips": 72
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -617,6 +617,43 @@
       "total_received": 2003.33
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tips_by_type": {
+        "manual": {
+          "amount": 1250.0,
+          "count": 12,
+          "first_tip": "2026-08-07T14:21:20.283544",
+          "latest_tip": "2026-08-14T16:23:04.201146"
+        },
+        "milestone": {
+          "amount": 292.0,
+          "count": 52,
+          "first_tip": "2026-06-15T21:18:41.401982",
+          "latest_tip": "2026-08-10T03:08:07.481511"
+        },
+        "monthly_leaderboard": {
+          "amount": 125.0,
+          "count": 1,
+          "first_tip": "2026-07-01T14:34:18.685918",
+          "latest_tip": "2026-07-01T14:34:18.685918"
+        },
+        "weekly_multiplier": {
+          "amount": 100.0,
+          "count": 6,
+          "first_tip": "2026-06-26T00:20:39.506256",
+          "latest_tip": "2026-08-14T00:18:32.127115"
+        },
+        "check_in": {
+          "amount": 2.0,
+          "count": 2,
+          "first_tip": "2026-07-16T18:02:40.468660",
+          "latest_tip": "2026-08-05T22:31:00.977860"
+        }
+      },
+      "total_received": 1769.0
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "tips_by_type": {
@@ -683,43 +720,6 @@
         }
       },
       "total_received": 1670.8
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tips_by_type": {
-        "manual": {
-          "amount": 1050.0,
-          "count": 11,
-          "first_tip": "2026-08-07T14:21:20.283544",
-          "latest_tip": "2026-08-14T16:10:41.758103"
-        },
-        "milestone": {
-          "amount": 292.0,
-          "count": 52,
-          "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-08-10T03:08:07.481511"
-        },
-        "monthly_leaderboard": {
-          "amount": 125.0,
-          "count": 1,
-          "first_tip": "2026-07-01T14:34:18.685918",
-          "latest_tip": "2026-07-01T14:34:18.685918"
-        },
-        "weekly_multiplier": {
-          "amount": 100.0,
-          "count": 6,
-          "first_tip": "2026-06-26T00:20:39.506256",
-          "latest_tip": "2026-08-14T00:18:32.127115"
-        },
-        "check_in": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-07-16T18:02:40.468660",
-          "latest_tip": "2026-08-05T22:31:00.977860"
-        }
-      },
-      "total_received": 1569.0
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -2011,8 +2011,8 @@
       "tip_type": "manual",
       "month": 8,
       "year": 2026,
-      "amount": 1050.0,
-      "count": 11,
+      "amount": 1250.0,
+      "count": 12,
       "period_key": "2026-08"
     },
     {
