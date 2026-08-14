@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-14T01:19:04.666314+00:00",
-  "last_updated_timestamp": 1786670344,
+  "last_updated": "2026-08-14T01:29:03.996665+00:00",
+  "last_updated_timestamp": 1786670943,
   "summary": {
-    "total_tips_sent": 4094,
-    "total_amount_sent": 85089.05,
+    "total_tips_sent": 4095,
+    "total_amount_sent": 85090.05,
     "by_type": {
       "milestone": {
-        "total_amount": 20165.7,
-        "tip_count": 3242
+        "total_amount": 20166.7,
+        "tip_count": 3243
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -999,10 +999,10 @@
       "username": "jonnyb12345",
       "tips_by_type": {
         "milestone": {
-          "amount": 206.95,
-          "count": 141,
+          "amount": 207.95,
+          "count": 142,
           "first_tip": "2025-05-05T20:21:45.935208",
-          "latest_tip": "2026-08-12T01:41:40.280996"
+          "latest_tip": "2026-08-14T01:20:30.500735"
         },
         "manual": {
           "amount": 70.0,
@@ -1023,7 +1023,7 @@
           "latest_tip": "2026-04-24T00:18:06.139208"
         }
       },
-      "total_received": 351.95
+      "total_received": 352.95
     },
     {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
@@ -2323,6 +2323,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 6.0,
+      "count": 6,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "manual",
@@ -2345,16 +2355,6 @@
     {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 5.0,
-      "count": 5,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
