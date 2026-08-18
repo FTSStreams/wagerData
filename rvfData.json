@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-18T21:51:05.275250+00:00",
-  "last_updated_timestamp": 1787089865,
+  "last_updated": "2026-08-18T22:01:05.807642+00:00",
+  "last_updated_timestamp": 1787090465,
   "current_period": {
     "event_start": "2026-08-15T00:00:00+00:00",
     "event_start_timestamp": 1786752000,
@@ -101,6 +101,37 @@
   },
   "participants": [
     {
+      "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "completions": 1,
+      "total_games": 5,
+      "avg_multi": 87.89999999999999,
+      "max_multi": 87.89999999999999,
+      "is_winner": false,
+      "games": {
+        "hub88:hp_bananaheist": {
+          "multi": 5.25,
+          "met": false
+        },
+        "hub88:hp_samuraisloth": {
+          "multi": 87.89999999999999,
+          "met": true
+        },
+        "hub88:hp_krakendeals": {
+          "multi": 50.4,
+          "met": false
+        },
+        "hacksaw:2458": {
+          "multi": 78.49999999999999,
+          "met": false
+        },
+        "pragmatic:vswayswildgang": {
+          "multi": 57.599999999999994,
+          "met": false
+        }
+      }
+    },
+    {
       "uid": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "completions": 0,
@@ -123,37 +154,6 @@
         },
         "pragmatic:vswayswildgang": {
           "multi": 32.0,
-          "met": false
-        }
-      }
-    },
-    {
-      "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "completions": 0,
-      "total_games": 5,
-      "avg_multi": 0.0,
-      "max_multi": 0.0,
-      "is_winner": false,
-      "games": {
-        "hub88:hp_bananaheist": {
-          "multi": 5.25,
-          "met": false
-        },
-        "hub88:hp_samuraisloth": {
-          "multi": 40.99999999999999,
-          "met": false
-        },
-        "hub88:hp_krakendeals": {
-          "multi": 40.0,
-          "met": false
-        },
-        "hacksaw:2458": {
-          "multi": 78.49999999999999,
-          "met": false
-        },
-        "pragmatic:vswayswildgang": {
-          "multi": 57.599999999999994,
           "met": false
         }
       }
