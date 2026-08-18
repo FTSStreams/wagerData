@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-18T21:31:05.670030+00:00",
-  "last_updated_timestamp": 1787088665,
+  "last_updated": "2026-08-18T21:41:05.101581+00:00",
+  "last_updated_timestamp": 1787089265,
   "current_period": {
     "event_start": "2026-08-15T00:00:00+00:00",
     "event_start_timestamp": 1786752000,
@@ -137,11 +137,23 @@
       "is_winner": false,
       "games": {
         "hub88:hp_bananaheist": {
-          "multi": 0.0,
+          "multi": 5.25,
+          "met": false
+        },
+        "hub88:hp_samuraisloth": {
+          "multi": 29.5,
           "met": false
         },
         "hub88:hp_krakendeals": {
-          "multi": 0.0,
+          "multi": 40.0,
+          "met": false
+        },
+        "hacksaw:2458": {
+          "multi": 3.1999999999999997,
+          "met": false
+        },
+        "pragmatic:vswayswildgang": {
+          "multi": 57.599999999999994,
           "met": false
         }
       }
