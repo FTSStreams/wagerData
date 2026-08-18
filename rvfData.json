@@ -1,7 +1,7 @@
 {
   "data_type": "roo_vs_flip",
-  "last_updated": "2026-08-18T22:01:05.807642+00:00",
-  "last_updated_timestamp": 1787090465,
+  "last_updated": "2026-08-18T22:11:06.996916+00:00",
+  "last_updated_timestamp": 1787091066,
   "current_period": {
     "event_start": "2026-08-15T00:00:00+00:00",
     "event_start_timestamp": 1786752000,
@@ -103,15 +103,15 @@
     {
       "uid": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
-      "completions": 1,
+      "completions": 2,
       "total_games": 5,
-      "avg_multi": 87.89999999999999,
-      "max_multi": 87.89999999999999,
+      "avg_multi": 170.45,
+      "max_multi": 253.0,
       "is_winner": false,
       "games": {
         "hub88:hp_bananaheist": {
-          "multi": 5.25,
-          "met": false
+          "multi": 253.0,
+          "met": true
         },
         "hub88:hp_samuraisloth": {
           "multi": 87.89999999999999,
@@ -126,7 +126,7 @@
           "met": false
         },
         "pragmatic:vswayswildgang": {
-          "multi": 57.599999999999994,
+          "multi": 89.19999999999999,
           "met": false
         }
       }
