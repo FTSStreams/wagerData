@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-18T16:54:40.579138+00:00",
-  "last_updated_timestamp": 1787072080,
+  "last_updated": "2026-08-18T17:04:41.106506+00:00",
+  "last_updated_timestamp": 1787072681,
   "summary": {
-    "total_tips_sent": 4119,
-    "total_amount_sent": 85263.31999999999,
+    "total_tips_sent": 4120,
+    "total_amount_sent": 85264.31999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20307.7,
-        "tip_count": 3268
+        "total_amount": 20308.7,
+        "tip_count": 3269
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -1945,6 +1945,19 @@
       "total_received": 3.0
     },
     {
+      "user_id": "f6b590d8-3683-4922-90cd-71dc0c51a08d",
+      "username": "Flipmeover",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2026-08-17T17:25:53.175559",
+          "latest_tip": "2026-08-18T16:56:09.013591"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
       "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
       "username": "Joeyforreal",
       "tips_by_type": {
@@ -1982,19 +1995,6 @@
         }
       },
       "total_received": 2.5
-    },
-    {
-      "user_id": "f6b590d8-3683-4922-90cd-71dc0c51a08d",
-      "username": "Flipmeover",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-08-17T17:25:53.175559",
-          "latest_tip": "2026-08-18T16:16:09.135066"
-        }
-      },
-      "total_received": 2.0
     },
     {
       "user_id": "d16a6f65-5915-4a75-99bb-196ba8c5adb0",
@@ -2475,8 +2475,8 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
-      "username": "hotrunners",
+      "user_id": "f6b590d8-3683-4922-90cd-71dc0c51a08d",
+      "username": "Flipmeover",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
@@ -2505,13 +2505,13 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "f6b590d8-3683-4922-90cd-71dc0c51a08d",
-      "username": "Flipmeover",
+      "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
+      "username": "hotrunners",
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-08"
     },
     {
