@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-20T12:21:25.744383+00:00",
-  "last_updated_timestamp": 1787228485,
+  "last_updated": "2026-08-20T12:31:25.770956+00:00",
+  "last_updated_timestamp": 1787229085,
   "summary": {
-    "total_tips_sent": 4129,
-    "total_amount_sent": 85334.31999999999,
+    "total_tips_sent": 4130,
+    "total_amount_sent": 85354.31999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20338.7,
-        "tip_count": 3277
+        "total_amount": 20358.7,
+        "tip_count": 3278
       },
       "monthly_leaderboard": {
         "total_amount": 27285.0,
@@ -846,39 +846,14 @@
       "total_received": 940.0
     },
     {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 379.65,
-          "count": 61,
-          "first_tip": "2025-05-07T11:21:58.232307",
-          "latest_tip": "2025-12-29T09:39:53.966677"
-        },
-        "monthly_leaderboard": {
-          "amount": 305.0,
-          "count": 2,
-          "first_tip": "2025-07-03T00:00:00",
-          "latest_tip": "2025-12-28T03:31:34.454405"
-        },
-        "manual": {
-          "amount": 56.0,
-          "count": 6,
-          "first_tip": "2025-06-18T16:39:26.011976",
-          "latest_tip": "2025-12-26T17:54:16.602635"
-        }
-      },
-      "total_received": 740.65
-    },
-    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tips_by_type": {
         "milestone": {
-          "amount": 322.0,
-          "count": 51,
+          "amount": 342.0,
+          "count": 52,
           "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-08-19T07:22:12.769025"
+          "latest_tip": "2026-08-20T12:22:52.728501"
         },
         "monthly_leaderboard": {
           "amount": 250.0,
@@ -905,7 +880,32 @@
           "latest_tip": "2026-08-13T04:59:27.485496"
         }
       },
-      "total_received": 734.82
+      "total_received": 754.82
+    },
+    {
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 379.65,
+          "count": 61,
+          "first_tip": "2025-05-07T11:21:58.232307",
+          "latest_tip": "2025-12-29T09:39:53.966677"
+        },
+        "monthly_leaderboard": {
+          "amount": 305.0,
+          "count": 2,
+          "first_tip": "2025-07-03T00:00:00",
+          "latest_tip": "2025-12-28T03:31:34.454405"
+        },
+        "manual": {
+          "amount": 56.0,
+          "count": 6,
+          "first_tip": "2025-06-18T16:39:26.011976",
+          "latest_tip": "2025-12-26T17:54:16.602635"
+        }
+      },
+      "total_received": 740.65
     },
     {
       "user_id": "b90bde1d-5c60-45af-930b-d2d1f15cc1a6",
@@ -2070,8 +2070,8 @@
       "tip_type": "milestone",
       "month": 8,
       "year": 2026,
-      "amount": 84.0,
-      "count": 17,
+      "amount": 104.0,
+      "count": 18,
       "period_key": "2026-08"
     },
     {
