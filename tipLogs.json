@@ -1,11 +1,51 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-08-20T17:31:24.088873+00:00",
-  "last_updated_timestamp": 1787247084,
-  "total_tips": 4131,
+  "last_updated": "2026-08-20T17:41:24.312077+00:00",
+  "last_updated_timestamp": 1787247684,
+  "total_tips": 4135,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-20T17:35:01.114103"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-20T17:34:28.287649"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-20T17:33:54.903085"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 20.0,
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-20T17:32:51.380668"
+    },
     {
       "user_id": "f6b590d8-3683-4922-90cd-71dc0c51a08d",
       "username": "Flipmeover",
@@ -38657,9 +38697,9 @@
       "tipped_at": "2025-07-03T02:55:34.943377"
     },
     {
-      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-      "username": "GemEventual123",
-      "amount": 500.0,
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 75.0,
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
@@ -38747,9 +38787,9 @@
       "tipped_at": "2025-07-03T00:00:00"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "amount": 75.0,
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "GemEventual123",
+      "amount": 500.0,
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
