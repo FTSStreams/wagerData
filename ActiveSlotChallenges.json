@@ -1,7 +1,60 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-08-21T18:57:27.412399+00:00",
-  "last_updated_timestamp": 1787338647,
-  "total_challenges": 0,
-  "challenges": []
+  "last_updated": "2026-08-21T19:07:27.373102+00:00",
+  "last_updated_timestamp": 1787339247,
+  "total_challenges": 4,
+  "challenges": [
+    {
+      "challenge_id": 430,
+      "game_identifier": "hacksaw:2408",
+      "game_name": "Epic Ze Zeus",
+      "required_multiplier": 300.0,
+      "prize": 25.0,
+      "start_time": "2026-08-21T18:58:02+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u26a1",
+      "min_bet": 0.4,
+      "start_timestamp": 1787338682
+    },
+    {
+      "challenge_id": 431,
+      "game_identifier": "hacksaw:2536",
+      "game_name": "Fist of Destruction Megamultiplier",
+      "required_multiplier": 200.0,
+      "prize": 20.0,
+      "start_time": "2026-08-21T18:59:21+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\u270a",
+      "min_bet": 0.2,
+      "start_timestamp": 1787338761
+    },
+    {
+      "challenge_id": 432,
+      "game_identifier": "housegames:mines",
+      "game_name": "Mines",
+      "required_multiplier": 500.0,
+      "prize": 20.0,
+      "start_time": "2026-08-21T19:01:43+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udca3",
+      "min_bet": 0.1,
+      "start_timestamp": 1787338903
+    },
+    {
+      "challenge_id": 433,
+      "game_identifier": "pragmatic:vswaysdh1000",
+      "game_name": "Dog House Megaways 1000",
+      "required_multiplier": 300.0,
+      "prize": 25.0,
+      "start_time": "2026-08-21T19:03:06+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83d\udc36",
+      "min_bet": 0.4,
+      "start_timestamp": 1787338986
+    }
+  ]
 }
