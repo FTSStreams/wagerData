@@ -1,10 +1,29 @@
 {
   "data_type": "challenge_history",
-  "last_updated": "2026-08-22T12:17:29.045458+00:00",
-  "last_updated_timestamp": 1787401049,
-  "total_completed_challenges": 140,
-  "total_prizes_paid": 5845.0,
+  "last_updated": "2026-08-22T12:27:29.593721+00:00",
+  "last_updated_timestamp": 1787401649,
+  "total_completed_challenges": 141,
+  "total_prizes_paid": 5865.0,
   "challenges": [
+    {
+      "challenge_id": 431,
+      "game_name": "Fist of Destruction Megamultiplier",
+      "game_identifier": "hacksaw:2536",
+      "required_multiplier": 200.0,
+      "achieved_multiplier": 307.5,
+      "min_bet_requirement": 0.2,
+      "winner": {
+        "username": "Meepflips",
+        "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+        "bet_amount": 1.0,
+        "payout": 307.5,
+        "multiplier_achieved": 307.5
+      },
+      "prize_amount": 20.0,
+      "challenge_start": "2026-08-22T12:19:19+00:00",
+      "challenge_start_timestamp": 1787401159,
+      "game_url": "https://roobet.com/casino/game/hacksaw:2536"
+    },
     {
       "challenge_id": 401,
       "game_name": "Fist of Destruction",
