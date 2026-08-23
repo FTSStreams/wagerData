@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-23T10:59:08.700499+00:00",
-  "last_updated_timestamp": 1787482748,
+  "last_updated": "2026-08-23T11:09:08.974238+00:00",
+  "last_updated_timestamp": 1787483348,
   "summary": {
-    "total_tips_sent": 4167,
-    "total_amount_sent": 86134.19999999998,
+    "total_tips_sent": 4168,
+    "total_amount_sent": 86159.19999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 20590.2,
-        "tip_count": 3302
+        "total_amount": 20615.2,
+        "tip_count": 3303
       },
       "monthly_leaderboard": {
         "total_amount": 27585.0,
@@ -118,8 +118,8 @@
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
-      "total_received": 1841.27,
-      "total_tips": 246
+      "total_received": 1866.27,
+      "total_tips": 247
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -621,10 +621,10 @@
       "username": "MrBrizz",
       "tips_by_type": {
         "milestone": {
-          "amount": 773.75,
-          "count": 209,
+          "amount": 798.75,
+          "count": 210,
           "first_tip": "2025-05-04T16:37:49.184577",
-          "latest_tip": "2026-08-17T10:25:50.226361"
+          "latest_tip": "2026-08-23T11:00:34.998552"
         },
         "monthly_leaderboard": {
           "amount": 560.0,
@@ -663,7 +663,7 @@
           "latest_tip": "2025-06-30T00:46:56.683986"
         }
       },
-      "total_received": 1850.27
+      "total_received": 1875.27
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -2126,6 +2126,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 69.0,
+      "count": 16,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
       "username": "Jakaflip",
       "tip_type": "milestone",
@@ -2136,16 +2146,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "tip_type": "manual",
-      "month": 8,
-      "year": 2026,
-      "amount": 60.0,
-      "count": 3,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -2153,6 +2153,16 @@
       "year": 2026,
       "amount": 60.0,
       "count": 1,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "amount": 60.0,
+      "count": 3,
       "period_key": "2026-08"
     },
     {
@@ -2176,16 +2186,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 44.0,
-      "count": 15,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
       "username": "Ezeesq96",
       "tip_type": "milestone",
@@ -2196,16 +2196,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "tip_type": "monthly_leaderboard",
-      "month": 8,
-      "year": 2026,
-      "amount": 40.0,
-      "count": 1,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tip_type": "weekly_multiplier",
@@ -2213,6 +2203,16 @@
       "year": 2026,
       "amount": 40.0,
       "count": 2,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "monthly_leaderboard",
+      "month": 8,
+      "year": 2026,
+      "amount": 40.0,
+      "count": 1,
       "period_key": "2026-08"
     },
     {
