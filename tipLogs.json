@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-08-24T17:32:16.102991+00:00",
-  "last_updated_timestamp": 1787592736,
-  "total_tips": 4169,
+  "last_updated": "2026-08-24T17:42:15.941506+00:00",
+  "last_updated_timestamp": 1787593335,
+  "total_tips": 4170,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-24T17:38:21.480960"
+    },
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
