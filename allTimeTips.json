@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-25T14:42:38.469329+00:00",
-  "last_updated_timestamp": 1787668958,
+  "last_updated": "2026-08-25T14:52:38.248816+00:00",
+  "last_updated_timestamp": 1787669558,
   "summary": {
-    "total_tips_sent": 4171,
-    "total_amount_sent": 87071.69999999998,
+    "total_tips_sent": 4172,
+    "total_amount_sent": 87171.69999999998,
     "by_type": {
       "milestone": {
         "total_amount": 20617.7,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 30834.07,
-        "tip_count": 457
+        "total_amount": 30934.07,
+        "tip_count": 458
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -98,6 +98,12 @@
       "total_tips": 194
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "total_received": 2075.0,
+      "total_tips": 69
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "total_received": 2065.0,
@@ -114,12 +120,6 @@
       "username": "hotrunners",
       "total_received": 2003.33,
       "total_tips": 88
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "total_received": 1975.0,
-      "total_tips": 68
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -500,6 +500,43 @@
       "total_received": 2135.38
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tips_by_type": {
+        "manual": {
+          "amount": 1501.0,
+          "count": 5,
+          "first_tip": "2026-08-17T14:10:45.722891",
+          "latest_tip": "2026-08-25T14:48:40.511935"
+        },
+        "milestone": {
+          "amount": 337.0,
+          "count": 54,
+          "first_tip": "2026-06-15T21:18:41.401982",
+          "latest_tip": "2026-08-22T15:18:54.631564"
+        },
+        "monthly_leaderboard": {
+          "amount": 125.0,
+          "count": 1,
+          "first_tip": "2026-07-01T14:34:18.685918",
+          "latest_tip": "2026-07-01T14:34:18.685918"
+        },
+        "weekly_multiplier": {
+          "amount": 110.0,
+          "count": 7,
+          "first_tip": "2026-06-26T00:20:39.506256",
+          "latest_tip": "2026-08-21T00:17:24.361552"
+        },
+        "check_in": {
+          "amount": 2.0,
+          "count": 2,
+          "first_tip": "2026-07-16T18:02:40.468660",
+          "latest_tip": "2026-08-05T22:31:00.977860"
+        }
+      },
+      "total_received": 2075.0
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tips_by_type": {
@@ -615,43 +652,6 @@
         }
       },
       "total_received": 2003.33
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tips_by_type": {
-        "manual": {
-          "amount": 1401.0,
-          "count": 4,
-          "first_tip": "2026-08-17T14:10:45.722891",
-          "latest_tip": "2026-08-24T14:53:27.122033"
-        },
-        "milestone": {
-          "amount": 337.0,
-          "count": 54,
-          "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-08-22T15:18:54.631564"
-        },
-        "monthly_leaderboard": {
-          "amount": 125.0,
-          "count": 1,
-          "first_tip": "2026-07-01T14:34:18.685918",
-          "latest_tip": "2026-07-01T14:34:18.685918"
-        },
-        "weekly_multiplier": {
-          "amount": 110.0,
-          "count": 7,
-          "first_tip": "2026-06-26T00:20:39.506256",
-          "latest_tip": "2026-08-21T00:17:24.361552"
-        },
-        "check_in": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-07-16T18:02:40.468660",
-          "latest_tip": "2026-08-05T22:31:00.977860"
-        }
-      },
-      "total_received": 1975.0
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -2061,8 +2061,8 @@
       "tip_type": "manual",
       "month": 8,
       "year": 2026,
-      "amount": 1401.0,
-      "count": 4,
+      "amount": 1501.0,
+      "count": 5,
       "period_key": "2026-08"
     },
     {
