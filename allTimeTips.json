@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-27T04:59:27.946500+00:00",
-  "last_updated_timestamp": 1787806767,
+  "last_updated": "2026-08-27T05:09:28.767218+00:00",
+  "last_updated_timestamp": 1787807368,
   "summary": {
-    "total_tips_sent": 4191,
-    "total_amount_sent": 87328.32999999999,
+    "total_tips_sent": 4192,
+    "total_amount_sent": 87353.32999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20699.7,
-        "tip_count": 3320
+        "total_amount": 20724.7,
+        "tip_count": 3321
       },
       "monthly_leaderboard": {
         "total_amount": 27585.0,
@@ -94,8 +94,8 @@
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
-      "total_received": 2150.0,
-      "total_tips": 71
+      "total_received": 2175.0,
+      "total_tips": 72
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -485,10 +485,10 @@
           "latest_tip": "2026-08-25T15:04:35.906902"
         },
         "milestone": {
-          "amount": 362.0,
-          "count": 55,
+          "amount": 387.0,
+          "count": 56,
           "first_tip": "2026-06-15T21:18:41.401982",
-          "latest_tip": "2026-08-26T03:32:51.100383"
+          "latest_tip": "2026-08-27T05:00:55.337891"
         },
         "monthly_leaderboard": {
           "amount": 125.0,
@@ -509,7 +509,7 @@
           "latest_tip": "2026-08-05T22:31:00.977860"
         }
       },
-      "total_received": 2150.0
+      "total_received": 2175.0
     },
     {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
@@ -2096,6 +2096,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 139.0,
+      "count": 19,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
       "username": "Jakaflip",
       "tip_type": "monthly_leaderboard",
@@ -2103,16 +2113,6 @@
       "year": 2026,
       "amount": 125.0,
       "count": 1,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 114.0,
-      "count": 18,
       "period_key": "2026-08"
     },
     {
