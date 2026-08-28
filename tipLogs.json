@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-08-28T00:23:07.661421+00:00",
-  "last_updated_timestamp": 1787876587,
-  "total_tips": 4196,
+  "last_updated": "2026-08-28T00:33:07.618775+00:00",
+  "last_updated_timestamp": 1787877187,
+  "total_tips": 4198,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
+      "username": "gtggioflip83",
+      "amount": 15.0,
+      "tip_type": "weekly_multiplier",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-28T00:33:06.526415"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 10.0,
+      "tip_type": "weekly_multiplier",
+      "month": 8,
+      "year": 2026,
+      "period_key": "2026-08",
+      "tipped_at": "2026-08-28T00:28:36.779415"
+    },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
