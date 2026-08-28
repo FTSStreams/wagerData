@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-28T14:53:07.962301+00:00",
-  "last_updated_timestamp": 1787928787,
+  "last_updated": "2026-08-28T15:03:09.235605+00:00",
+  "last_updated_timestamp": 1787929389,
   "summary": {
-    "total_tips_sent": 4203,
-    "total_amount_sent": 87443.82999999999,
+    "total_tips_sent": 4205,
+    "total_amount_sent": 87493.82999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20735.2,
-        "tip_count": 3327
+        "total_amount": 20785.2,
+        "tip_count": 3329
       },
       "monthly_leaderboard": {
         "total_amount": 27610.0,
@@ -1011,10 +1011,10 @@
       "username": "Jakaflip",
       "tips_by_type": {
         "milestone": {
-          "amount": 168.0,
-          "count": 34,
+          "amount": 193.0,
+          "count": 35,
           "first_tip": "2026-07-02T12:10:10.605000",
-          "latest_tip": "2026-08-17T04:15:52.996471"
+          "latest_tip": "2026-08-28T14:54:34.355922"
         },
         "monthly_leaderboard": {
           "amount": 150.0,
@@ -1041,7 +1041,7 @@
           "latest_tip": "2026-07-28T00:10:46.492879"
         }
       },
-      "total_received": 418.0
+      "total_received": 443.0
     },
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
@@ -1244,6 +1244,31 @@
       "total_received": 132.54
     },
     {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 79.0,
+          "count": 25,
+          "first_tip": "2026-07-28T00:07:53.557007",
+          "latest_tip": "2026-08-28T14:55:07.153459"
+        },
+        "weekly_multiplier": {
+          "amount": 50.0,
+          "count": 3,
+          "first_tip": "2026-08-07T00:20:12.996639",
+          "latest_tip": "2026-08-28T00:42:36.344650"
+        },
+        "manual": {
+          "amount": 3.0,
+          "count": 1,
+          "first_tip": "2026-07-28T12:41:26.096771",
+          "latest_tip": "2026-07-28T12:41:26.096771"
+        }
+      },
+      "total_received": 132.0
+    },
+    {
       "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
       "username": "Alxxwilson",
       "tips_by_type": {
@@ -1261,31 +1286,6 @@
         }
       },
       "total_received": 116.0
-    },
-    {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 54.0,
-          "count": 24,
-          "first_tip": "2026-07-28T00:07:53.557007",
-          "latest_tip": "2026-08-13T03:38:56.241229"
-        },
-        "weekly_multiplier": {
-          "amount": 50.0,
-          "count": 3,
-          "first_tip": "2026-08-07T00:20:12.996639",
-          "latest_tip": "2026-08-28T00:42:36.344650"
-        },
-        "manual": {
-          "amount": 3.0,
-          "count": 1,
-          "first_tip": "2026-07-28T12:41:26.096771",
-          "latest_tip": "2026-07-28T12:41:26.096771"
-        }
-      },
-      "total_received": 107.0
     },
     {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
@@ -2148,6 +2148,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
+      "username": "Jakaflip",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 89.0,
+      "count": 17,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tip_type": "monthly_leaderboard",
@@ -2155,6 +2165,16 @@
       "year": 2026,
       "amount": 75.0,
       "count": 1,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tip_type": "milestone",
+      "month": 8,
+      "year": 2026,
+      "amount": 69.0,
+      "count": 16,
       "period_key": "2026-08"
     },
     {
@@ -2168,13 +2188,13 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
-      "username": "Jakaflip",
-      "tip_type": "milestone",
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "tip_type": "manual",
       "month": 8,
       "year": 2026,
-      "amount": 64.0,
-      "count": 16,
+      "amount": 60.0,
+      "count": 1,
       "period_key": "2026-08"
     },
     {
@@ -2185,16 +2205,6 @@
       "year": 2026,
       "amount": 60.0,
       "count": 3,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
-      "tip_type": "manual",
-      "month": 8,
-      "year": 2026,
-      "amount": 60.0,
-      "count": 1,
       "period_key": "2026-08"
     },
     {
@@ -2228,16 +2238,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tip_type": "milestone",
-      "month": 8,
-      "year": 2026,
-      "amount": 44.0,
-      "count": 15,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tip_type": "weekly_multiplier",
@@ -2248,16 +2248,6 @@
       "period_key": "2026-08"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "tip_type": "monthly_leaderboard",
-      "month": 8,
-      "year": 2026,
-      "amount": 40.0,
-      "count": 1,
-      "period_key": "2026-08"
-    },
-    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tip_type": "manual",
@@ -2265,6 +2255,16 @@
       "year": 2026,
       "amount": 40.0,
       "count": 4,
+      "period_key": "2026-08"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "tip_type": "monthly_leaderboard",
+      "month": 8,
+      "year": 2026,
+      "amount": 40.0,
+      "count": 1,
       "period_key": "2026-08"
     },
     {
