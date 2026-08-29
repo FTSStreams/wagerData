@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-29T10:26:23.397864+00:00",
-  "last_updated_timestamp": 1787999183,
+  "last_updated": "2026-08-29T10:36:23.089834+00:00",
+  "last_updated_timestamp": 1787999783,
   "summary": {
-    "total_tips_sent": 4215,
-    "total_amount_sent": 87961.82999999999,
+    "total_tips_sent": 4216,
+    "total_amount_sent": 87963.12999999999,
     "by_type": {
       "milestone": {
         "total_amount": 20847.2,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 143.56,
-        "tip_count": 65
+        "total_amount": 144.86,
+        "tip_count": 66
       },
       "weekly_multiplier": {
         "total_amount": 1442.0,
@@ -1512,13 +1512,13 @@
           "latest_tip": "2026-08-29T03:47:51.641540"
         },
         "check_in": {
-          "amount": 3.0,
-          "count": 1,
+          "amount": 4.3,
+          "count": 2,
           "first_tip": "2026-08-05T22:56:00.751841",
-          "latest_tip": "2026-08-05T22:56:00.751841"
+          "latest_tip": "2026-08-29T10:31:32.380819"
         }
       },
-      "total_received": 36.0
+      "total_received": 37.3
     },
     {
       "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
@@ -2624,6 +2624,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "tip_type": "check_in",
+      "month": 8,
+      "year": 2026,
+      "amount": 4.3,
+      "count": 2,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
       "tip_type": "milestone",
@@ -2651,16 +2661,6 @@
       "year": 2026,
       "amount": 3.65,
       "count": 3,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
-      "username": "Keno8",
-      "tip_type": "check_in",
-      "month": 8,
-      "year": 2026,
-      "amount": 3.0,
-      "count": 1,
       "period_key": "2026-08"
     },
     {
