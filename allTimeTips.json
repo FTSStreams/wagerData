@@ -1,18 +1,18 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-08-30T17:53:33.833137+00:00",
-  "last_updated_timestamp": 1788112413,
+  "last_updated": "2026-08-30T18:00:13.349958+00:00",
+  "last_updated_timestamp": 1788112813,
   "summary": {
-    "total_tips_sent": 4219,
-    "total_amount_sent": 88369.12999999999,
+    "total_tips_sent": 4220,
+    "total_amount_sent": 88419.12999999999,
     "by_type": {
       "milestone": {
         "total_amount": 20848.2,
         "tip_count": 3337
       },
       "monthly_leaderboard": {
-        "total_amount": 27610.0,
-        "tip_count": 164
+        "total_amount": 27660.0,
+        "tip_count": 165
       },
       "slot_challenge": {
         "total_amount": 5965.0,
@@ -136,8 +136,8 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "total_received": 1325.98,
-      "total_tips": 86
+      "total_received": 1375.98,
+      "total_tips": 87
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -731,17 +731,17 @@
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tips_by_type": {
+        "monthly_leaderboard": {
+          "amount": 600.0,
+          "count": 5,
+          "first_tip": "2026-07-01T14:35:22.034622",
+          "latest_tip": "2026-08-30T17:55:26.912388"
+        },
         "milestone": {
           "amount": 557.0,
           "count": 62,
           "first_tip": "2026-06-14T18:25:26.361490",
           "latest_tip": "2026-08-26T13:22:51.021186"
-        },
-        "monthly_leaderboard": {
-          "amount": 550.0,
-          "count": 4,
-          "first_tip": "2026-07-01T14:35:22.034622",
-          "latest_tip": "2026-08-22T13:38:30.128863"
         },
         "manual": {
           "amount": 155.1,
@@ -768,7 +768,7 @@
           "latest_tip": "2026-08-26T12:33:19.624130"
         }
       },
-      "total_received": 1325.98
+      "total_received": 1375.98
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -2109,8 +2109,8 @@
       "tip_type": "monthly_leaderboard",
       "month": 8,
       "year": 2026,
-      "amount": 525.0,
-      "count": 3,
+      "amount": 575.0,
+      "count": 4,
       "period_key": "2026-08"
     },
     {
