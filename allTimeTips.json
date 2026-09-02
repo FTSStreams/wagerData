@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-02T01:03:02.065246+00:00",
-  "last_updated_timestamp": 1788310982,
+  "last_updated": "2026-09-02T01:13:01.806295+00:00",
+  "last_updated_timestamp": 1788311581,
   "summary": {
-    "total_tips_sent": 4310,
-    "total_amount_sent": 89784.12999999999,
+    "total_tips_sent": 4311,
+    "total_amount_sent": 89785.12999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20978.2,
-        "tip_count": 3414
+        "total_amount": 20979.2,
+        "tip_count": 3415
       },
       "monthly_leaderboard": {
         "total_amount": 28830.0,
@@ -1110,10 +1110,10 @@
           "latest_tip": "2026-09-01T14:06:10.175734"
         },
         "milestone": {
-          "amount": 86.0,
-          "count": 32,
+          "amount": 87.0,
+          "count": 33,
           "first_tip": "2026-07-28T00:07:53.557007",
-          "latest_tip": "2026-09-02T00:14:28.561003"
+          "latest_tip": "2026-09-02T01:04:28.451400"
         },
         "weekly_multiplier": {
           "amount": 50.0,
@@ -1134,7 +1134,7 @@
           "latest_tip": "2026-08-29T02:14:02.132174"
         }
       },
-      "total_received": 270.0
+      "total_received": 271.0
     },
     {
       "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
@@ -2223,6 +2223,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "amount": 8.0,
+      "count": 8,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
       "username": "hubbi911",
       "tip_type": "milestone",
@@ -2235,16 +2245,6 @@
     {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
       "username": "Jakaflip",
-      "tip_type": "milestone",
-      "month": 9,
-      "year": 2026,
-      "amount": 7.0,
-      "count": 7,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
