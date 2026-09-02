@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-02T08:33:02.923177+00:00",
-  "last_updated_timestamp": 1788337982,
+  "last_updated": "2026-09-02T08:43:02.005461+00:00",
+  "last_updated_timestamp": 1788338582,
   "summary": {
-    "total_tips_sent": 4323,
-    "total_amount_sent": 89808.26,
+    "total_tips_sent": 4324,
+    "total_amount_sent": 89833.26,
     "by_type": {
       "milestone": {
-        "total_amount": 20990.7,
-        "tip_count": 3425
+        "total_amount": 21015.7,
+        "tip_count": 3426
       },
       "monthly_leaderboard": {
         "total_amount": 28830.0,
@@ -128,16 +128,16 @@
       "total_tips": 88
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "total_received": 1678.98,
+      "total_tips": 108
+    },
+    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "total_received": 1666.8,
       "total_tips": 87
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "total_received": 1653.98,
-      "total_tips": 107
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -703,31 +703,6 @@
       "total_received": 2003.33
     },
     {
-      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
-      "username": "GemEventual123",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 1141.8,
-          "count": 83,
-          "first_tip": "2025-05-06T16:32:32.359275",
-          "latest_tip": "2025-10-01T16:56:56.534258"
-        },
-        "manual": {
-          "amount": 4.0,
-          "count": 1,
-          "first_tip": "2025-05-07T14:47:40.331905",
-          "latest_tip": "2025-05-07T14:47:40.331905"
-        },
-        "slot_challenge": {
-          "amount": 15.0,
-          "count": 1,
-          "first_tip": "2025-07-26T18:20:36.731644",
-          "latest_tip": "2025-07-26T18:20:36.731644"
-        }
-      },
-      "total_received": 1670.8
-    },
-    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tips_by_type": {
@@ -738,10 +713,10 @@
           "latest_tip": "2026-08-30T18:10:54.012214"
         },
         "milestone": {
-          "amount": 610.0,
-          "count": 77,
+          "amount": 635.0,
+          "count": 78,
           "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-09-01T08:01:43.009427"
+          "latest_tip": "2026-09-02T08:34:28.556998"
         },
         "manual": {
           "amount": 230.1,
@@ -768,7 +743,32 @@
           "latest_tip": "2026-08-26T12:33:19.624130"
         }
       },
-      "total_received": 1653.98
+      "total_received": 1678.98
+    },
+    {
+      "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
+      "username": "GemEventual123",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 1141.8,
+          "count": 83,
+          "first_tip": "2025-05-06T16:32:32.359275",
+          "latest_tip": "2025-10-01T16:56:56.534258"
+        },
+        "manual": {
+          "amount": 4.0,
+          "count": 1,
+          "first_tip": "2025-05-07T14:47:40.331905",
+          "latest_tip": "2025-05-07T14:47:40.331905"
+        },
+        "slot_challenge": {
+          "amount": 15.0,
+          "count": 1,
+          "first_tip": "2025-07-26T18:20:36.731644",
+          "latest_tip": "2025-07-26T18:20:36.731644"
+        }
+      },
+      "total_received": 1670.8
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -2179,6 +2179,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "amount": 78.0,
+      "count": 16,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "tip_type": "monthly_leaderboard",
@@ -2196,16 +2206,6 @@
       "year": 2026,
       "amount": 70.0,
       "count": 3,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "milestone",
-      "month": 9,
-      "year": 2026,
-      "amount": 53.0,
-      "count": 15,
       "period_key": "2026-09"
     },
     {
