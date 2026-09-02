@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-02T02:53:00.804624+00:00",
-  "last_updated_timestamp": 1788317580,
+  "last_updated": "2026-09-02T03:03:01.843558+00:00",
+  "last_updated_timestamp": 1788318181,
   "summary": {
-    "total_tips_sent": 4318,
-    "total_amount_sent": 89792.12999999999,
+    "total_tips_sent": 4319,
+    "total_amount_sent": 89793.12999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 20986.2,
-        "tip_count": 3422
+        "total_amount": 20987.2,
+        "tip_count": 3423
       },
       "monthly_leaderboard": {
         "total_amount": 28830.0,
@@ -1949,6 +1949,19 @@
       "total_received": 8.0
     },
     {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 8.0,
+          "count": 8,
+          "first_tip": "2026-09-02T02:24:28.346738",
+          "latest_tip": "2026-09-02T02:54:28.249954"
+        }
+      },
+      "total_received": 8.0
+    },
+    {
       "user_id": "f3f76c8a-7d8a-4b23-a5a8-31fafb032226",
       "username": "Modernehustle",
       "tips_by_type": {
@@ -1976,19 +1989,6 @@
           "count": 6,
           "first_tip": "2026-03-09T19:29:15.148775",
           "latest_tip": "2026-03-10T04:15:39.325739"
-        }
-      },
-      "total_received": 7.0
-    },
-    {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 7.0,
-          "count": 7,
-          "first_tip": "2026-09-02T02:24:28.346738",
-          "latest_tip": "2026-09-02T02:44:28.257858"
         }
       },
       "total_received": 7.0
@@ -2261,13 +2261,13 @@
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
-      "amount": 7.0,
-      "count": 7,
+      "amount": 8.0,
+      "count": 8,
       "period_key": "2026-09"
     },
     {
-      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
-      "username": "Jakaflip",
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
@@ -2276,8 +2276,8 @@
       "period_key": "2026-09"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
+      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
+      "username": "Jakaflip",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
