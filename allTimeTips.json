@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-02T13:23:03.421293+00:00",
-  "last_updated_timestamp": 1788355383,
+  "last_updated": "2026-09-02T13:33:02.256305+00:00",
+  "last_updated_timestamp": 1788355982,
   "summary": {
-    "total_tips_sent": 4333,
-    "total_amount_sent": 90035.76,
+    "total_tips_sent": 4334,
+    "total_amount_sent": 90060.76,
     "by_type": {
       "milestone": {
-        "total_amount": 21218.2,
-        "tip_count": 3435
+        "total_amount": 21243.2,
+        "tip_count": 3436
       },
       "monthly_leaderboard": {
         "total_amount": 28830.0,
@@ -130,8 +130,8 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "total_received": 1878.98,
-      "total_tips": 116
+      "total_received": 1903.98,
+      "total_tips": 117
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -707,10 +707,10 @@
       "username": "Meepflips",
       "tips_by_type": {
         "milestone": {
-          "amount": 835.0,
-          "count": 86,
+          "amount": 860.0,
+          "count": 87,
           "first_tip": "2026-06-14T18:25:26.361490",
-          "latest_tip": "2026-09-02T12:04:28.497237"
+          "latest_tip": "2026-09-02T13:24:30.613920"
         },
         "monthly_leaderboard": {
           "amount": 750.0,
@@ -743,7 +743,7 @@
           "latest_tip": "2026-08-26T12:33:19.624130"
         }
       },
-      "total_received": 1878.98
+      "total_received": 1903.98
     },
     {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
@@ -2139,6 +2139,16 @@
   ],
   "monthly_breakdown": [
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "amount": 303.0,
+      "count": 25,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "tip_type": "monthly_leaderboard",
@@ -2146,16 +2156,6 @@
       "year": 2026,
       "amount": 300.0,
       "count": 1,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "milestone",
-      "month": 9,
-      "year": 2026,
-      "amount": 278.0,
-      "count": 24,
       "period_key": "2026-09"
     },
     {
