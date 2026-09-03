@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-03T19:29:10.081309+00:00",
-  "last_updated_timestamp": 1788463750,
+  "last_updated": "2026-09-03T19:39:11.086122+00:00",
+  "last_updated_timestamp": 1788464351,
   "summary": {
-    "total_tips_sent": 4369,
-    "total_amount_sent": 91510.26,
+    "total_tips_sent": 4370,
+    "total_amount_sent": 91511.26,
     "by_type": {
       "milestone": {
-        "total_amount": 21472.7,
-        "tip_count": 3461
+        "total_amount": 21473.7,
+        "tip_count": 3462
       },
       "monthly_leaderboard": {
         "total_amount": 28830.0,
@@ -2033,6 +2033,19 @@
       "total_received": 3.0
     },
     {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 3.0,
+          "count": 3,
+          "first_tip": "2026-09-02T06:14:28.214361",
+          "latest_tip": "2026-09-03T19:30:37.663311"
+        }
+      },
+      "total_received": 3.0
+    },
+    {
       "user_id": "943097ba-d9be-456e-9059-3ceb0ec6ad81",
       "username": "vipa1",
       "tips_by_type": {
@@ -2059,14 +2072,14 @@
       "total_received": 2.5
     },
     {
-      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
-      "username": "wwMww",
+      "user_id": "50ee3f41-b0e6-407d-8f42-16fee9f3db27",
+      "username": "dFxTANK",
       "tips_by_type": {
         "milestone": {
           "amount": 2.0,
           "count": 2,
-          "first_tip": "2026-09-02T06:14:28.214361",
-          "latest_tip": "2026-09-03T18:51:10.603797"
+          "first_tip": "2026-08-20T19:03:21.941602",
+          "latest_tip": "2026-08-20T19:03:57.421014"
         }
       },
       "total_received": 2.0
@@ -2080,19 +2093,6 @@
           "count": 2,
           "first_tip": "2026-08-28T06:15:34.690785",
           "latest_tip": "2026-08-28T06:16:07.468886"
-        }
-      },
-      "total_received": 2.0
-    },
-    {
-      "user_id": "50ee3f41-b0e6-407d-8f42-16fee9f3db27",
-      "username": "dFxTANK",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 2.0,
-          "count": 2,
-          "first_tip": "2026-08-20T19:03:21.941602",
-          "latest_tip": "2026-08-20T19:03:57.421014"
         }
       },
       "total_received": 2.0
@@ -2374,8 +2374,8 @@
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
-      "amount": 2.0,
-      "count": 2,
+      "amount": 3.0,
+      "count": 3,
       "period_key": "2026-09"
     },
     {
