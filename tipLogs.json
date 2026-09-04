@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-09-04T02:19:10.668263+00:00",
-  "last_updated_timestamp": 1788488350,
-  "total_tips": 4385,
+  "last_updated": "2026-09-04T02:29:10.803829+00:00",
+  "last_updated_timestamp": 1788488950,
+  "total_tips": 4386,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-04T02:20:37.239450"
+    },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
