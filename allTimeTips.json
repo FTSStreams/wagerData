@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-04T01:29:09.900231+00:00",
-  "last_updated_timestamp": 1788485349,
+  "last_updated": "2026-09-04T01:39:10.473126+00:00",
+  "last_updated_timestamp": 1788485950,
   "summary": {
-    "total_tips_sent": 4381,
-    "total_amount_sent": 91693.26,
+    "total_tips_sent": 4382,
+    "total_amount_sent": 91694.26,
     "by_type": {
       "milestone": {
-        "total_amount": 21605.7,
-        "tip_count": 3470
+        "total_amount": 21606.7,
+        "tip_count": 3471
       },
       "monthly_leaderboard": {
         "total_amount": 28830.0,
@@ -124,8 +124,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 2069.0,
-      "total_tips": 166
+      "total_received": 2070.0,
+      "total_tips": 167
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -676,10 +676,10 @@
       "username": "Gabtoupin",
       "tips_by_type": {
         "milestone": {
-          "amount": 810.0,
-          "count": 141,
+          "amount": 811.0,
+          "count": 142,
           "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-09-04T01:20:37.302011"
+          "latest_tip": "2026-09-04T01:30:37.285387"
         },
         "monthly_leaderboard": {
           "amount": 685.0,
@@ -700,7 +700,7 @@
           "latest_tip": "2026-06-26T00:21:13.583703"
         }
       },
-      "total_received": 2069.0
+      "total_received": 2070.0
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -2400,13 +2400,13 @@
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
-      "amount": 4.0,
-      "count": 4,
+      "amount": 5.0,
+      "count": 5,
       "period_key": "2026-09"
     },
     {
-      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
-      "username": "gtggioflip83",
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
@@ -2415,8 +2415,8 @@
       "period_key": "2026-09"
     },
     {
-      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
-      "username": "wwMww",
+      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
+      "username": "gtggioflip83",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
@@ -2435,8 +2435,8 @@
       "period_key": "2026-09"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
@@ -2445,8 +2445,8 @@
       "period_key": "2026-09"
     },
     {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
@@ -2615,6 +2615,16 @@
       "period_key": "2026-08"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "manual",
+      "month": 8,
+      "year": 2026,
+      "amount": 45.0,
+      "count": 5,
+      "period_key": "2026-08"
+    },
+    {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "tip_type": "weekly_multiplier",
@@ -2627,11 +2637,11 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "tip_type": "manual",
+      "tip_type": "weekly_multiplier",
       "month": 8,
       "year": 2026,
-      "amount": 45.0,
-      "count": 5,
+      "amount": 40.0,
+      "count": 2,
       "period_key": "2026-08"
     },
     {
@@ -2642,16 +2652,6 @@
       "year": 2026,
       "amount": 40.0,
       "count": 1,
-      "period_key": "2026-08"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "weekly_multiplier",
-      "month": 8,
-      "year": 2026,
-      "amount": 40.0,
-      "count": 2,
       "period_key": "2026-08"
     },
     {
