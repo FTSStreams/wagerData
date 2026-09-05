@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-05T16:20:24.768841+00:00",
-  "last_updated_timestamp": 1788625224,
+  "last_updated": "2026-09-05T16:30:25.272355+00:00",
+  "last_updated_timestamp": 1788625825,
   "summary": {
-    "total_tips_sent": 4407,
-    "total_amount_sent": 92571.94999999998,
+    "total_tips_sent": 4408,
+    "total_amount_sent": 92596.94999999998,
     "by_type": {
       "milestone": {
         "total_amount": 21775.2,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 33799.07,
-        "tip_count": 486
+        "total_amount": 33824.07,
+        "tip_count": 487
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -94,8 +94,8 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "total_received": 2500.01,
-      "total_tips": 130
+      "total_received": 2525.01,
+      "total_tips": 131
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -497,10 +497,10 @@
           "latest_tip": "2026-08-30T18:10:54.012214"
         },
         "manual": {
-          "amount": 375.1,
-          "count": 22,
+          "amount": 400.1,
+          "count": 23,
           "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-09-04T17:51:37.417876"
+          "latest_tip": "2026-09-05T16:21:27.589792"
         },
         "weekly_multiplier": {
           "amount": 40.0,
@@ -521,7 +521,7 @@
           "latest_tip": "2026-09-04T08:55:47.034157"
         }
       },
-      "total_received": 2500.0099999999998
+      "total_received": 2525.0099999999998
     },
     {
       "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
@@ -2200,6 +2200,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "amount": 240.0,
+      "count": 8,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
       "username": "Jakaflip",
       "tip_type": "monthly_leaderboard",
@@ -2207,16 +2217,6 @@
       "year": 2026,
       "amount": 225.0,
       "count": 1,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "manual",
-      "month": 9,
-      "year": 2026,
-      "amount": 215.0,
-      "count": 7,
       "period_key": "2026-09"
     },
     {
