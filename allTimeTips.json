@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-07T20:25:30.360281+00:00",
-  "last_updated_timestamp": 1788812730,
+  "last_updated": "2026-09-07T20:35:29.700295+00:00",
+  "last_updated_timestamp": 1788813329,
   "summary": {
-    "total_tips_sent": 4446,
-    "total_amount_sent": 93270.94999999998,
+    "total_tips_sent": 4447,
+    "total_amount_sent": 93280.94999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 21943.2,
-        "tip_count": 3514
+        "total_amount": 21953.2,
+        "tip_count": 3515
       },
       "monthly_leaderboard": {
         "total_amount": 29030.0,
@@ -1596,6 +1596,19 @@
       "total_received": 29.0
     },
     {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 28.0,
+          "count": 13,
+          "first_tip": "2026-09-02T02:24:28.346738",
+          "latest_tip": "2026-09-07T20:26:57.061970"
+        }
+      },
+      "total_received": 28.0
+    },
+    {
       "user_id": "0097beeb-d32b-4788-b48a-7d87400bcf59",
       "username": "TMandame",
       "tips_by_type": {
@@ -1636,19 +1649,6 @@
           "count": 12,
           "first_tip": "2026-09-01T18:31:44.220466",
           "latest_tip": "2026-09-07T18:06:56.993303"
-        }
-      },
-      "total_received": 18.0
-    },
-    {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 18.0,
-          "count": 12,
-          "first_tip": "2026-09-02T02:24:28.346738",
-          "latest_tip": "2026-09-07T19:46:57.044886"
         }
       },
       "total_received": 18.0
@@ -2296,6 +2296,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "amount": 28.0,
+      "count": 13,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
       "tip_type": "weekly_multiplier",
@@ -2313,16 +2323,6 @@
       "year": 2026,
       "amount": 25.0,
       "count": 1,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
-      "tip_type": "milestone",
-      "month": 9,
-      "year": 2026,
-      "amount": 18.0,
-      "count": 12,
       "period_key": "2026-09"
     },
     {
