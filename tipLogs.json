@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-09-07T18:05:29.803644+00:00",
-  "last_updated_timestamp": 1788804329,
-  "total_tips": 4441,
+  "last_updated": "2026-09-07T18:15:30.190303+00:00",
+  "last_updated_timestamp": 1788804930,
+  "total_tips": 4443,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 100.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-07T18:12:06.018752"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-07T18:06:56.993303"
+    },
     {
       "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
       "username": "Ezeesq96",
