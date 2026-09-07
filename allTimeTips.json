@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-07T18:45:29.451613+00:00",
-  "last_updated_timestamp": 1788806729,
+  "last_updated": "2026-09-07T18:55:29.881542+00:00",
+  "last_updated_timestamp": 1788807329,
   "summary": {
-    "total_tips_sent": 4443,
-    "total_amount_sent": 93263.44999999998,
+    "total_tips_sent": 4444,
+    "total_amount_sent": 93265.94999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 21935.7,
-        "tip_count": 3511
+        "total_amount": 21938.2,
+        "tip_count": 3512
       },
       "monthly_leaderboard": {
         "total_amount": 29030.0,
@@ -1731,6 +1731,19 @@
       "total_received": 13.33
     },
     {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 13.0,
+          "count": 10,
+          "first_tip": "2026-09-02T02:24:28.346738",
+          "latest_tip": "2026-09-07T18:46:57.129392"
+        }
+      },
+      "total_received": 13.0
+    },
+    {
       "user_id": "c349e2e3-ce5c-4587-9d64-9901a2ae9eb5",
       "username": "Lunglolly",
       "tips_by_type": {
@@ -1774,19 +1787,6 @@
         }
       },
       "total_received": 11.0
-    },
-    {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 10.5,
-          "count": 9,
-          "first_tip": "2026-09-02T02:24:28.346738",
-          "latest_tip": "2026-09-02T03:14:28.326676"
-        }
-      },
-      "total_received": 10.5
     },
     {
       "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
@@ -2346,8 +2346,8 @@
       "period_key": "2026-09"
     },
     {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
@@ -2366,18 +2366,18 @@
       "period_key": "2026-09"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
-      "amount": 10.5,
-      "count": 9,
+      "amount": 13.0,
+      "count": 10,
       "period_key": "2026-09"
     },
     {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
