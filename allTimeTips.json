@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-09T23:12:05.950603+00:00",
-  "last_updated_timestamp": 1788995525,
+  "last_updated": "2026-09-09T23:22:05.688879+00:00",
+  "last_updated_timestamp": 1788996125,
   "summary": {
-    "total_tips_sent": 4464,
-    "total_amount_sent": 93406.12,
+    "total_tips_sent": 4465,
+    "total_amount_sent": 93418.62,
     "by_type": {
       "milestone": {
-        "total_amount": 22017.2,
-        "tip_count": 3528
+        "total_amount": 22029.7,
+        "tip_count": 3529
       },
       "monthly_leaderboard": {
         "total_amount": 29080.0,
@@ -118,8 +118,8 @@
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
       "username": "Gabtoupin",
-      "total_received": 2093.0,
-      "total_tips": 175
+      "total_received": 2105.5,
+      "total_tips": 176
     },
     {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
@@ -623,6 +623,37 @@
       "total_received": 2189.88
     },
     {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 846.5,
+          "count": 151,
+          "first_tip": "2025-10-22T23:57:06.297944",
+          "latest_tip": "2026-09-09T23:13:33.369688"
+        },
+        "monthly_leaderboard": {
+          "amount": 685.0,
+          "count": 7,
+          "first_tip": "2026-02-01T17:35:22.409761",
+          "latest_tip": "2026-08-01T15:22:18.375142"
+        },
+        "manual": {
+          "amount": 524.0,
+          "count": 14,
+          "first_tip": "2025-11-02T22:44:03.643896",
+          "latest_tip": "2026-05-01T15:07:54.842712"
+        },
+        "weekly_multiplier": {
+          "amount": 50.0,
+          "count": 4,
+          "first_tip": "2026-02-20T22:17:55.250987",
+          "latest_tip": "2026-06-26T00:21:13.583703"
+        }
+      },
+      "total_received": 2105.5
+    },
+    {
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "tips_by_type": {
@@ -670,37 +701,6 @@
         }
       },
       "total_received": 2094.24
-    },
-    {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 834.0,
-          "count": 150,
-          "first_tip": "2025-10-22T23:57:06.297944",
-          "latest_tip": "2026-09-09T22:53:33.171022"
-        },
-        "monthly_leaderboard": {
-          "amount": 685.0,
-          "count": 7,
-          "first_tip": "2026-02-01T17:35:22.409761",
-          "latest_tip": "2026-08-01T15:22:18.375142"
-        },
-        "manual": {
-          "amount": 524.0,
-          "count": 14,
-          "first_tip": "2025-11-02T22:44:03.643896",
-          "latest_tip": "2026-05-01T15:07:54.842712"
-        },
-        "weekly_multiplier": {
-          "amount": 50.0,
-          "count": 4,
-          "first_tip": "2026-02-20T22:17:55.250987",
-          "latest_tip": "2026-06-26T00:21:13.583703"
-        }
-      },
-      "total_received": 2093.0
     },
     {
       "user_id": "0dbf266b-1680-4057-86be-22ac6470842e",
@@ -2276,6 +2276,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "amount": 40.5,
+      "count": 14,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
       "username": "WhiteRabbit420",
       "tip_type": "monthly_leaderboard",
@@ -2298,16 +2308,6 @@
     {
       "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
       "username": "smithloic321",
-      "tip_type": "milestone",
-      "month": 9,
-      "year": 2026,
-      "amount": 28.0,
-      "count": 13,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
-      "username": "Gabtoupin",
       "tip_type": "milestone",
       "month": 9,
       "year": 2026,
