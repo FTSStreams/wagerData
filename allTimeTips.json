@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-09T02:58:24.766716+00:00",
-  "last_updated_timestamp": 1788922704,
+  "last_updated": "2026-09-09T03:08:26.259113+00:00",
+  "last_updated_timestamp": 1788923306,
   "summary": {
-    "total_tips_sent": 4455,
-    "total_amount_sent": 93324.94999999998,
+    "total_tips_sent": 4456,
+    "total_amount_sent": 93329.94999999998,
     "by_type": {
       "milestone": {
         "total_amount": 21997.2,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 34130.07,
-        "tip_count": 494
+        "total_amount": 34135.07,
+        "tip_count": 495
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -1413,6 +1413,31 @@
       "total_received": 67.0
     },
     {
+      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
+      "username": "gtggioflip83",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 39.0,
+          "count": 23,
+          "first_tip": "2026-08-11T23:21:43.039303",
+          "latest_tip": "2026-09-08T20:26:25.689511"
+        },
+        "weekly_multiplier": {
+          "amount": 15.0,
+          "count": 1,
+          "first_tip": "2026-08-28T00:33:06.526415",
+          "latest_tip": "2026-08-28T00:33:06.526415"
+        },
+        "manual": {
+          "amount": 12.0,
+          "count": 3,
+          "first_tip": "2026-08-21T20:53:25.799039",
+          "latest_tip": "2026-09-09T03:01:00.582888"
+        }
+      },
+      "total_received": 66.0
+    },
+    {
       "user_id": "8db52919-093e-4dc2-b3c6-0b8b8ccf9ad7",
       "username": "hexta",
       "tips_by_type": {
@@ -1430,31 +1455,6 @@
         }
       },
       "total_received": 61.55
-    },
-    {
-      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
-      "username": "gtggioflip83",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 39.0,
-          "count": 23,
-          "first_tip": "2026-08-11T23:21:43.039303",
-          "latest_tip": "2026-09-08T20:26:25.689511"
-        },
-        "weekly_multiplier": {
-          "amount": 15.0,
-          "count": 1,
-          "first_tip": "2026-08-28T00:33:06.526415",
-          "latest_tip": "2026-08-28T00:33:06.526415"
-        },
-        "manual": {
-          "amount": 7.0,
-          "count": 2,
-          "first_tip": "2026-08-21T20:53:25.799039",
-          "latest_tip": "2026-09-07T04:55:15.492655"
-        }
-      },
-      "total_received": 61.0
     },
     {
       "user_id": "f6a288d0-ec25-4168-86e6-053a5c139efe",
@@ -1686,19 +1686,6 @@
       "total_received": 16.0
     },
     {
-      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
-      "username": "4TIFLIP",
-      "tips_by_type": {
-        "manual": {
-          "amount": 15.0,
-          "count": 3,
-          "first_tip": "2025-06-23T16:12:36.850105",
-          "latest_tip": "2025-07-22T16:07:44.059101"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
       "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
       "username": "HippoMike",
       "tips_by_type": {
@@ -1707,6 +1694,19 @@
           "count": 13,
           "first_tip": "2025-11-09T22:21:26.283801",
           "latest_tip": "2025-11-17T03:02:08.061438"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
+      "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
+      "username": "4TIFLIP",
+      "tips_by_type": {
+        "manual": {
+          "amount": 15.0,
+          "count": 3,
+          "first_tip": "2025-06-23T16:12:36.850105",
+          "latest_tip": "2025-07-22T16:07:44.059101"
         }
       },
       "total_received": 15.0
@@ -2406,6 +2406,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
+      "username": "gtggioflip83",
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "amount": 10.0,
+      "count": 2,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
       "username": "DNich11",
       "tip_type": "weekly_multiplier",
@@ -2473,16 +2483,6 @@
       "year": 2026,
       "amount": 5.0,
       "count": 5,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "7531f2d4-c277-4209-9ecc-4c71817e08be",
-      "username": "gtggioflip83",
-      "tip_type": "manual",
-      "month": 9,
-      "year": 2026,
-      "amount": 5.0,
-      "count": 1,
       "period_key": "2026-09"
     },
     {
