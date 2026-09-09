@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-09-09T19:48:25.321643+00:00",
-  "last_updated_timestamp": 1788983305,
+  "last_updated": "2026-09-09T19:58:25.422454+00:00",
+  "last_updated_timestamp": 1788983905,
   "summary": {
-    "total_tips_sent": 4459,
-    "total_amount_sent": 93387.44999999998,
+    "total_tips_sent": 4460,
+    "total_amount_sent": 93388.62,
     "by_type": {
       "milestone": {
         "total_amount": 21999.7,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 150.68,
-        "tip_count": 70
+        "total_amount": 151.85,
+        "tip_count": 71
       },
       "weekly_multiplier": {
         "total_amount": 1492.0,
@@ -1035,13 +1035,13 @@
           "latest_tip": "2026-07-10T00:18:52.377419"
         },
         "check_in": {
-          "amount": 7.98,
-          "count": 4,
+          "amount": 9.15,
+          "count": 5,
           "first_tip": "2026-06-16T12:27:37.041356",
-          "latest_tip": "2026-09-04T05:01:44.988925"
+          "latest_tip": "2026-09-09T19:57:47.472279"
         }
       },
-      "total_received": 566.36
+      "total_received": 567.53
     },
     {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
@@ -2506,6 +2506,16 @@
       "period_key": "2026-09"
     },
     {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "amount": 3.25,
+      "count": 2,
+      "period_key": "2026-09"
+    },
+    {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "tip_type": "milestone",
@@ -2513,16 +2523,6 @@
       "year": 2026,
       "amount": 3.0,
       "count": 3,
-      "period_key": "2026-09"
-    },
-    {
-      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
-      "username": "flipmiller",
-      "tip_type": "check_in",
-      "month": 9,
-      "year": 2026,
-      "amount": 2.08,
-      "count": 1,
       "period_key": "2026-09"
     },
     {
