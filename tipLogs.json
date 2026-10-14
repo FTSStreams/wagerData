@@ -1,11 +1,3751 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-09-10T13:42:06.597543+00:00",
-  "last_updated_timestamp": 1789047726,
-  "total_tips": 4470,
+  "last_updated": "2026-10-14T05:37:06.349282+00:00",
+  "last_updated_timestamp": 1791956226,
+  "total_tips": 4844,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-14T04:37:01.934586"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-14T01:27:01.805199"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-14T00:07:02.076942"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T23:17:01.848805"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T22:57:01.862141"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T22:37:02.058012"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T22:17:01.819897"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T22:07:01.960733"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T21:57:01.879799"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T21:47:02.025874"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T21:27:01.797750"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T21:17:01.955966"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T21:07:37.008533"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T21:07:03.522157"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T20:57:02.088982"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T20:37:02.247002"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T19:17:01.886860"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 50.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T17:55:11.894112"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T17:17:02.199849"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 50.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T16:13:35.320676"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 879.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T16:13:01.950444"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T15:47:02.231521"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 50.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T04:43:00.858526"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 17.5,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T00:16:58.191981"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 52.5,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-13T00:16:32.861195"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T20:35:48.686600"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T20:06:21.471598"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T20:05:48.445876"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T19:45:48.593787"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T19:26:22.264363"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T19:25:48.640018"
+    },
+    {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T19:15:49.013313"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T18:45:48.683867"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T18:15:48.769437"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 3.4,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T15:24:50.959694"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T15:15:48.736309"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T13:45:49.968099"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 75.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-12T00:29:12.765143"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T21:48:14.573099"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T19:58:14.428021"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T19:48:14.482658"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 50.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T19:29:37.133867"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T19:29:25.322296"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T19:28:14.671140"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:48:14.542981"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 15.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:34:42.975816"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 21.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:34:12.954416"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 400.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:30:01.603386"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:28:14.481906"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 400.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:27:09.747730"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 400.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:20:18.658681"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 140.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:13:30.023989"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 140.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T17:06:41.545241"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T15:58:15.569752"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T13:48:14.448751"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.04,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T13:31:10.192781"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-11T11:48:14.922863"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T23:47:40.784806"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T23:28:13.729346"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T23:27:40.865989"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T22:37:40.808607"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T21:07:42.335219"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T20:57:40.802892"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T18:48:46.354163"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T18:48:13.583666"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T18:47:40.765958"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 3.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T18:42:59.921284"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T18:35:25.050139"
+    },
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T18:32:51.059599"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 140.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T16:31:40.269477"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T14:18:24.435359"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T13:17:40.948931"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T12:37:40.923021"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T12:27:40.835253"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-10T12:07:42.044348"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T22:24:43.241462"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T21:44:43.359616"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T20:44:43.248451"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T20:14:43.430504"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T14:44:44.574195"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.05,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T09:01:36.114832"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.43,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T08:58:31.516023"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 10.0,
+      "tip_type": "weekly_multiplier",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T00:17:52.102553"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 15.0,
+      "tip_type": "weekly_multiplier",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T00:17:19.410126"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "weekly_multiplier",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-09T00:16:46.765965"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T19:48:43.712656"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T19:11:23.215164"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T19:10:05.706945"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T17:48:43.138847"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T17:18:43.241957"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T17:04:38.825705"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T16:48:43.386448"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T15:46:05.863070"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T13:48:43.037859"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T12:58:43.244427"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.14,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T12:05:42.448598"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T08:18:42.999925"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-08T07:48:44.356149"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-07T19:43:21.477819"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-07T15:33:19.957543"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-07T05:03:19.926446"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.03,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-07T04:52:05.293655"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-07T03:30:25.137151"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-07T02:50:25.016651"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T20:10:24.806811"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T19:50:24.853707"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T19:30:24.899876"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:50:24.765388"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:40:58.224874"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:40:25.054258"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:31:02.572365"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:30:25.273978"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:10:24.740571"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T16:00:24.997400"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T15:40:24.786101"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T15:30:25.071183"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T14:52:51.850397"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T03:05:40.462041"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T01:15:40.494589"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T00:56:14.277511"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-06T00:55:40.817563"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T21:16:15.305103"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T21:15:40.913548"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T16:43:33.649616"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T09:35:41.891082"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T08:45:41.883607"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T07:35:40.692895"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T06:25:40.420968"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T06:15:40.440435"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T06:06:13.719667"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T06:05:40.549975"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T05:56:13.585092"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T05:55:40.579845"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T05:45:41.882948"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T04:25:41.838177"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T02:55:14.337912"
+    },
+    {
+      "user_id": "05955851-d561-4108-81cd-d6a92727c15e",
+      "username": "chikytun",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-05T00:15:14.453528"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T17:25:14.252960"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T17:15:14.356292"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T17:05:14.295925"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T16:55:14.309910"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T16:25:14.463987"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T16:15:14.298747"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:55:14.198605"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:45:14.457553"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:35:14.185679"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:25:47.066372"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:25:14.259060"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:15:50.329062"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T15:15:15.582788"
+    },
+    {
+      "user_id": "05955851-d561-4108-81cd-d6a92727c15e",
+      "username": "chikytun",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T13:25:14.258421"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T11:05:14.222238"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T10:15:14.250990"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 2.6,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T08:52:05.990802"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T04:55:14.223611"
+    },
+    {
+      "user_id": "05955851-d561-4108-81cd-d6a92727c15e",
+      "username": "chikytun",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-04T02:16:32.801000"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T20:46:33.164367"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T18:26:33.635305"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 15.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T16:52:34.898814"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T13:07:40.633463"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T13:07:07.753233"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T13:06:33.018150"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T06:06:32.999824"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T05:56:32.852787"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T05:36:32.845945"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T05:06:34.130850"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T03:16:32.833866"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T02:34:09.335979"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T02:14:09.226076"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T01:24:09.467052"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T01:04:09.284712"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T00:54:09.165335"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T00:45:50.525674"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T00:45:17.947932"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T00:44:41.985639"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T00:44:09.254642"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-03T00:34:09.555129"
+    },
+    {
+      "user_id": "05955851-d561-4108-81cd-d6a92727c15e",
+      "username": "chikytun",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T23:04:09.344657"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T21:54:09.596297"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T20:44:09.768253"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T16:54:09.855735"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T14:24:09.520066"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.38,
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T12:36:29.667601"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T11:14:10.669306"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T06:24:50.386475"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T06:24:09.516102"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T04:14:09.200004"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T03:24:09.250102"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T03:04:42.148211"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T03:04:09.372077"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T02:55:15.557300"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T02:54:42.919572"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T02:54:09.341696"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T02:34:10.543531"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:47:57.035348"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:37:57.080846"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:28:30.193937"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:27:57.202734"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "weekly_multiplier",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:17:05.108199"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 15.0,
+      "tip_type": "weekly_multiplier",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:16:32.685960"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "weekly_multiplier",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-02T00:15:59.577954"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:48:30.221590"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:47:57.220018"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:38:30.290170"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:37:57.201472"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:29:36.844928"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:29:04.278484"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:28:31.123661"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T16:27:57.298789"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T15:47:56.937889"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T15:37:57.080979"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T15:27:56.925040"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T15:17:57.013674"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 325.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:51:57.935215"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 175.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:51:20.016099"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 125.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:50:43.049521"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 75.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:50:12.065288"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 40.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:49:36.395333"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 30.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:48:23.403825"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:47:56.964522"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:47:51.155847"
+    },
+    {
+      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
+      "username": "Jakaflip",
+      "amount": 5.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:47:13.707933"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T14:37:56.954663"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:57:56.973212"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:49:03.061813"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:48:29.920386"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:47:57.323303"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:27:57.031976"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:18:31.918764"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:17:58.413838"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T13:07:58.764737"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T09:57:57.030513"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T08:37:57.225948"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T02:37:56.945927"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T02:17:56.951857"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T02:09:03.605940"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T02:08:30.910703"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-01T02:07:57.243885"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-30T22:58:04.252377"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-30T18:13:30.922687"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-30T16:34:39.012279"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-30T16:34:06.279476"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-30T16:33:31.316678"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T23:56:40.138215"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T21:46:41.524231"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T02:25:39.440578"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T02:15:39.300371"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T01:55:39.438327"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T01:45:39.355129"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-29T00:10:35.267792"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-28T23:50:35.402715"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 2.1,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-28T21:54:12.615609"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 4.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-28T18:18:30.850055"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-28T17:00:36.219845"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-28T15:30:36.079923"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-28T14:37:24.110264"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 200.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T23:45:23.519624"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 200.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T23:44:48.661215"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T23:42:37.914438"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T22:37:15.578085"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T22:08:19.973016"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T22:07:47.184255"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T16:34:44.997740"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T16:29:40.268812"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.65,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-27T01:25:41.126168"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-26T12:52:18.450152"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T17:31:04.965817"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T16:30:15.627190"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T16:01:05.274318"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 15.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T13:40:50.149396"
+    },
+    {
+      "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "amount": 10.0,
+      "tip_type": "weekly_multiplier",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T00:20:11.933225"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 15.0,
+      "tip_type": "weekly_multiplier",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T00:19:39.569806"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "weekly_multiplier",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-25T00:19:07.116454"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-24T23:30:49.608819"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-24T23:27:39.382715"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 250.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-24T23:11:05.925721"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 11.1,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-24T13:27:31.118438"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-23T22:50:22.108586"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-23T21:49:41.420461"
+    },
+    {
+      "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-23T15:10:11.884541"
+    },
+    {
+      "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-23T14:50:13.050058"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.28,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-23T12:16:25.175039"
+    },
+    {
+      "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-22T11:33:07.996968"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-22T05:43:09.490332"
+    },
+    {
+      "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T21:51:41.439269"
+    },
+    {
+      "user_id": "4ac628f6-9b06-4716-aa34-b17f8a3e2cca",
+      "username": "DNich11",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T21:41:41.522662"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T20:51:41.570634"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T16:17:46.381502"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T16:01:00.955420"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T10:37:46.458883"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.15,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-20T09:53:43.342248"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-19T20:20:32.577793"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-19T19:57:46.409874"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-19T15:57:22.420750"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 3.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-19T15:49:20.587800"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-19T15:44:37.252754"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T23:19:01.287880"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 250.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T07:39:50.820219"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 250.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T07:39:01.161880"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T07:32:10.870787"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 75.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T07:23:07.975582"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 75.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T07:19:22.662030"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T04:03:18.886581"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T00:33:18.632390"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "weekly_multiplier",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T00:17:25.998407"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 15.0,
+      "tip_type": "weekly_multiplier",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T00:16:53.564242"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 25.0,
+      "tip_type": "weekly_multiplier",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-18T00:16:20.881810"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-17T21:43:19.402332"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-17T16:52:07.684825"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-17T15:01:13.458829"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 250.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-17T09:41:12.259531"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-17T04:11:13.117840"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 500.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T21:42:12.146224"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 250.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T21:40:17.461372"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 150.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T21:29:27.298728"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T21:23:28.644601"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T17:28:01.668618"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.28,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T14:03:37.053153"
+    },
+    {
+      "user_id": "cc81a926-c6cc-4e65-accf-5c2f7eaa4aeb",
+      "username": "hubbi911",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T13:38:01.547452"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T12:58:02.002078"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T12:48:02.907427"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-16T10:58:02.920051"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 25.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-15T21:19:22.673360"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-15T16:51:56.811927"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 150.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-15T16:33:50.660112"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-15T15:41:56.689831"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-15T04:11:55.381144"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T17:48:39.318198"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T12:08:39.489494"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T04:28:37.992580"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T03:28:37.972129"
+    },
+    {
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T02:28:38.206801"
+    },
+    {
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T00:18:38.346213"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-14T00:08:38.100247"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T20:58:38.044620"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T20:48:38.040659"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T20:28:39.502371"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 10.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T19:08:39.391804"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T17:38:38.117679"
+    },
+    {
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T17:14:15.590187"
+    },
+    {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "amount": 1.06,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T16:36:16.718899"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-13T04:04:16.525791"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 200.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-12T15:30:50.596600"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 200.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-12T15:29:19.840854"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-12T15:27:26.633298"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 100.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-12T15:25:58.339332"
+    },
+    {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T19:19:55.125693"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 10.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T17:00:11.906759"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T16:59:54.458942"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 150.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T16:26:32.975899"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 200.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T15:21:45.661211"
+    },
+    {
+      "user_id": "79c0ff7b-dde8-4998-beea-4f3bb4e61c3b",
+      "username": "flipmiller",
+      "amount": 1.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T14:40:11.180389"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T12:36:05.370748"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.08,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T10:27:42.700654"
+    },
+    {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T09:16:06.396085"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T05:46:05.233942"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 100.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T04:44:38.185178"
+    },
+    {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T04:16:05.485352"
+    },
+    {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "amount": 1.22,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-11T01:08:36.373320"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 2.64,
+      "tip_type": "check_in",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T20:12:13.452659"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T20:06:05.304485"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 150.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:54:47.197563"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 200.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:49:25.069511"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:45:10.870099"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 150.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:36:08.255391"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 150.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:32:54.323438"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:28:45.934348"
+    },
+    {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "amount": 50.0,
+      "tip_type": "manual",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T19:24:49.662404"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T18:56:38.709994"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T18:56:05.505664"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 25.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T18:43:33.152022"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T18:33:33.109284"
+    },
+    {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T18:13:33.153119"
+    },
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 9,
+      "year": 2026,
+      "period_key": "2026-09",
+      "tipped_at": "2026-09-10T17:23:34.650064"
+    },
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
@@ -42047,6 +45787,46 @@
       "tipped_at": "2025-07-03T02:55:34.943377"
     },
     {
+      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
+      "username": "enimatekkkk",
+      "amount": 300.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
+      "username": "WhiteRabbit420",
+      "amount": 125.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
+      "username": "kaswasright123",
+      "amount": 175.0,
+      "tip_type": "monthly_leaderboard",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 7,
+      "year": 2025,
+      "period_key": "2025-07",
+      "tipped_at": "2025-07-03T00:00:00"
+    },
+    {
       "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
       "username": "jonnyb12345",
       "amount": 25.0,
@@ -42090,46 +45870,6 @@
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "amount": 500.0,
-      "tip_type": "manual",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "6296748b-68e3-4203-932f-49831e32d53c",
-      "username": "enimatekkkk",
-      "amount": 300.0,
-      "tip_type": "monthly_leaderboard",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "8ec037ae-a2b4-4266-8239-c31d9c95ef04",
-      "username": "WhiteRabbit420",
-      "amount": 125.0,
-      "tip_type": "monthly_leaderboard",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-      "username": "kaswasright123",
-      "amount": 175.0,
-      "tip_type": "monthly_leaderboard",
-      "month": 7,
-      "year": 2025,
-      "period_key": "2025-07",
-      "tipped_at": "2025-07-03T00:00:00"
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "amount": 5.0,
       "tip_type": "manual",
       "month": 7,
       "year": 2025,
@@ -42987,29 +46727,9 @@
       "tipped_at": "2025-06-30T16:26:06.936482"
     },
     {
-      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-      "username": "kaswasright123",
-      "amount": 15.0,
-      "tip_type": "slot_challenge",
-      "month": 6,
-      "year": 2025,
-      "period_key": "2025-06",
-      "tipped_at": "2025-06-30T00:46:56.683986"
-    },
-    {
-      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
-      "username": "MacMacman",
-      "amount": 50.0,
-      "tip_type": "slot_challenge",
-      "month": 6,
-      "year": 2025,
-      "period_key": "2025-06",
-      "tipped_at": "2025-06-30T00:46:56.683986"
-    },
-    {
-      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
-      "username": "kaswasright123",
-      "amount": 10.0,
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 5.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
@@ -43027,9 +46747,9 @@
       "tipped_at": "2025-06-30T00:46:56.683986"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "amount": 5.0,
+      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
+      "username": "kaswasright123",
+      "amount": 15.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
@@ -43037,9 +46757,9 @@
       "tipped_at": "2025-06-30T00:46:56.683986"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "amount": 5.0,
+      "user_id": "9b1238e9-ed68-43f8-8f57-b9c897073844",
+      "username": "kaswasright123",
+      "amount": 10.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
@@ -43047,9 +46767,9 @@
       "tipped_at": "2025-06-30T00:46:56.683986"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
-      "amount": 5.0,
+      "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
+      "username": "MacMacman",
+      "amount": 50.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
@@ -43060,6 +46780,26 @@
       "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
       "username": "MrBrizz",
       "amount": 10.0,
+      "tip_type": "slot_challenge",
+      "month": 6,
+      "year": 2025,
+      "period_key": "2025-06",
+      "tipped_at": "2025-06-30T00:46:56.683986"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 5.0,
+      "tip_type": "slot_challenge",
+      "month": 6,
+      "year": 2025,
+      "period_key": "2025-06",
+      "tipped_at": "2025-06-30T00:46:56.683986"
+    },
+    {
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "amount": 5.0,
       "tip_type": "slot_challenge",
       "month": 6,
       "year": 2025,
