@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-19T12:55:31.312482+00:00",
-  "last_updated_timestamp": 1792414531,
+  "last_updated": "2026-10-19T13:05:32.570939+00:00",
+  "last_updated_timestamp": 1792415132,
   "summary": {
-    "total_tips_sent": 4895,
-    "total_amount_sent": 105336.87999999999,
+    "total_tips_sent": 4896,
+    "total_amount_sent": 105337.87999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 24439.2,
-        "tip_count": 3835
+        "total_amount": 24440.2,
+        "tip_count": 3836
       },
       "monthly_leaderboard": {
         "total_amount": 30380.0,
@@ -1780,6 +1780,25 @@
       "total_received": 14.0
     },
     {
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 9.0,
+          "count": 9,
+          "first_tip": "2026-09-04T05:20:37.359823",
+          "latest_tip": "2026-10-19T12:57:00.518450"
+        },
+        "manual": {
+          "amount": 5.0,
+          "count": 1,
+          "first_tip": "2026-09-04T13:38:34.395981",
+          "latest_tip": "2026-09-04T13:38:34.395981"
+        }
+      },
+      "total_received": 14.0
+    },
+    {
       "user_id": "59e78d58-585d-4781-8132-6bb24e327040",
       "username": "farsant5",
       "tips_by_type": {
@@ -1797,25 +1816,6 @@
         }
       },
       "total_received": 13.33
-    },
-    {
-      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
-      "username": "SwitchAlbania",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 8.0,
-          "count": 8,
-          "first_tip": "2026-09-04T05:20:37.359823",
-          "latest_tip": "2026-10-12T20:35:48.686600"
-        },
-        "manual": {
-          "amount": 5.0,
-          "count": 1,
-          "first_tip": "2026-09-04T13:38:34.395981",
-          "latest_tip": "2026-09-04T13:38:34.395981"
-        }
-      },
-      "total_received": 13.0
     },
     {
       "user_id": "44cf1fdb-d6a8-41b1-839d-cd5fd564bb0a",
@@ -2509,8 +2509,8 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
       "tip_type": "weekly_multiplier",
       "month": 10,
       "year": 2026,
@@ -2519,8 +2519,8 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
       "tip_type": "weekly_multiplier",
       "month": 10,
       "year": 2026,
@@ -2569,18 +2569,18 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
-      "username": "MrBrizz",
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
-      "amount": 7.0,
-      "count": 7,
+      "amount": 8.0,
+      "count": 8,
       "period_key": "2026-10"
     },
     {
-      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
-      "username": "SwitchAlbania",
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
