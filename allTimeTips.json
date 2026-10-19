@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-19T13:25:31.587419+00:00",
-  "last_updated_timestamp": 1792416331,
+  "last_updated": "2026-10-19T13:35:31.713961+00:00",
+  "last_updated_timestamp": 1792416931,
   "summary": {
-    "total_tips_sent": 4896,
-    "total_amount_sent": 105337.87999999999,
+    "total_tips_sent": 4897,
+    "total_amount_sent": 105340.37999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 24440.2,
-        "tip_count": 3836
+        "total_amount": 24442.7,
+        "tip_count": 3837
       },
       "monthly_leaderboard": {
         "total_amount": 30380.0,
@@ -1385,10 +1385,10 @@
       "username": "hubbi911",
       "tips_by_type": {
         "milestone": {
-          "amount": 68.5,
-          "count": 26,
+          "amount": 71.0,
+          "count": 27,
           "first_tip": "2026-09-01T18:31:44.220466",
-          "latest_tip": "2026-10-13T20:37:02.247002"
+          "latest_tip": "2026-10-19T13:26:59.344822"
         },
         "monthly_leaderboard": {
           "amount": 40.0,
@@ -1397,7 +1397,7 @@
           "latest_tip": "2026-10-01T14:49:36.395333"
         }
       },
-      "total_received": 108.5
+      "total_received": 111.0
     },
     {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
@@ -2494,14 +2494,14 @@
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
-      "amount": 15.5,
-      "count": 11,
+      "amount": 18.0,
+      "count": 12,
       "period_key": "2026-10"
     },
     {
-      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
-      "username": "ohmyramm",
-      "tip_type": "manual",
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "weekly_multiplier",
       "month": 10,
       "year": 2026,
       "amount": 15.0,
@@ -2519,9 +2519,9 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tip_type": "weekly_multiplier",
+      "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
+      "username": "ohmyramm",
+      "tip_type": "manual",
       "month": 10,
       "year": 2026,
       "amount": 15.0,
