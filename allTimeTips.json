@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-21T16:21:23.809004+00:00",
-  "last_updated_timestamp": 1792599683,
+  "last_updated": "2026-10-21T16:31:24.230012+00:00",
+  "last_updated_timestamp": 1792600284,
   "summary": {
-    "total_tips_sent": 4929,
-    "total_amount_sent": 105945.09,
+    "total_tips_sent": 4930,
+    "total_amount_sent": 105947.59,
     "by_type": {
       "milestone": {
-        "total_amount": 24728.2,
-        "tip_count": 3862
+        "total_amount": 24730.7,
+        "tip_count": 3863
       },
       "monthly_leaderboard": {
         "total_amount": 30680.0,
@@ -1831,6 +1831,19 @@
       "total_received": 13.33
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 13.0,
+          "count": 10,
+          "first_tip": "2026-10-21T15:32:51.387629",
+          "latest_tip": "2026-10-21T16:22:51.315308"
+        }
+      },
+      "total_received": 13.0
+    },
+    {
       "user_id": "c349e2e3-ce5c-4587-9d64-9901a2ae9eb5",
       "username": "Lunglolly",
       "tips_by_type": {
@@ -1874,19 +1887,6 @@
         }
       },
       "total_received": 11.0
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 10.5,
-          "count": 9,
-          "first_tip": "2026-10-21T15:32:51.387629",
-          "latest_tip": "2026-10-21T16:12:52.018945"
-        }
-      },
-      "total_received": 10.5
     },
     {
       "user_id": "7c6bb3a1-7818-48a9-a7d4-8099d8e3b22f",
@@ -2562,8 +2562,8 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
-      "username": "SwitchAlbania",
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
@@ -2572,13 +2572,13 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
-      "amount": 10.5,
-      "count": 9,
+      "amount": 13.0,
+      "count": 10,
       "period_key": "2026-10"
     },
     {
