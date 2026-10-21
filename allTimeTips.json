@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-21T16:01:24.270181+00:00",
-  "last_updated_timestamp": 1792598484,
+  "last_updated": "2026-10-21T16:11:23.762566+00:00",
+  "last_updated_timestamp": 1792599083,
   "summary": {
-    "total_tips_sent": 4927,
-    "total_amount_sent": 105941.59,
+    "total_tips_sent": 4928,
+    "total_amount_sent": 105942.59,
     "by_type": {
       "milestone": {
-        "total_amount": 24724.7,
-        "tip_count": 3860
+        "total_amount": 24725.7,
+        "tip_count": 3861
       },
       "monthly_leaderboard": {
         "total_amount": 30680.0,
@@ -2042,6 +2042,19 @@
       "total_received": 8.0
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 8.0,
+          "count": 8,
+          "first_tip": "2026-10-21T15:32:51.387629",
+          "latest_tip": "2026-10-21T16:02:51.132004"
+        }
+      },
+      "total_received": 8.0
+    },
+    {
       "user_id": "f3f76c8a-7d8a-4b23-a5a8-31fafb032226",
       "username": "Modernehustle",
       "tips_by_type": {
@@ -2069,19 +2082,6 @@
           "count": 6,
           "first_tip": "2026-03-09T19:29:15.148775",
           "latest_tip": "2026-03-10T04:15:39.325739"
-        }
-      },
-      "total_received": 7.0
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 7.0,
-          "count": 7,
-          "first_tip": "2026-10-21T15:32:51.387629",
-          "latest_tip": "2026-10-21T15:53:24.005188"
         }
       },
       "total_received": 7.0
@@ -2612,6 +2612,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "amount": 8.0,
+      "count": 8,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
       "username": "wwMww",
       "tip_type": "manual",
@@ -2619,16 +2629,6 @@
       "year": 2026,
       "amount": 8.0,
       "count": 2,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2026,
-      "amount": 7.0,
-      "count": 7,
       "period_key": "2026-10"
     },
     {
