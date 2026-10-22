@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-22T05:41:24.206504+00:00",
-  "last_updated_timestamp": 1792647684,
+  "last_updated": "2026-10-22T05:51:23.958369+00:00",
+  "last_updated_timestamp": 1792648283,
   "summary": {
-    "total_tips_sent": 4937,
-    "total_amount_sent": 106713.59,
+    "total_tips_sent": 4938,
+    "total_amount_sent": 106716.09,
     "by_type": {
       "milestone": {
-        "total_amount": 24786.7,
-        "tip_count": 3868
+        "total_amount": 24789.2,
+        "tip_count": 3869
       },
       "monthly_leaderboard": {
         "total_amount": 30680.0,
@@ -1419,6 +1419,37 @@
       "total_received": 111.0
     },
     {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 53.0,
+          "count": 43,
+          "first_tip": "2026-03-07T01:59:43.872010",
+          "latest_tip": "2026-10-22T05:42:51.132392"
+        },
+        "manual": {
+          "amount": 13.0,
+          "count": 3,
+          "first_tip": "2025-05-09T17:27:57.168225",
+          "latest_tip": "2025-05-25T16:43:40.964777"
+        },
+        "monthly_leaderboard": {
+          "amount": 5.0,
+          "count": 1,
+          "first_tip": "2026-02-23T16:37:06.652221",
+          "latest_tip": "2026-02-23T16:37:06.652221"
+        },
+        "weekly_multiplier": {
+          "amount": 1.0,
+          "count": 1,
+          "first_tip": "2026-01-05T18:57:04.967191",
+          "latest_tip": "2026-01-05T18:57:04.967191"
+        }
+      },
+      "total_received": 93.0
+    },
+    {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
       "username": "Deg4Flip",
       "tips_by_type": {
@@ -1448,37 +1479,6 @@
         }
       },
       "total_received": 92.94
-    },
-    {
-      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 50.5,
-          "count": 42,
-          "first_tip": "2026-03-07T01:59:43.872010",
-          "latest_tip": "2026-10-20T14:18:07.348866"
-        },
-        "manual": {
-          "amount": 13.0,
-          "count": 3,
-          "first_tip": "2025-05-09T17:27:57.168225",
-          "latest_tip": "2025-05-25T16:43:40.964777"
-        },
-        "monthly_leaderboard": {
-          "amount": 5.0,
-          "count": 1,
-          "first_tip": "2026-02-23T16:37:06.652221",
-          "latest_tip": "2026-02-23T16:37:06.652221"
-        },
-        "weekly_multiplier": {
-          "amount": 1.0,
-          "count": 1,
-          "first_tip": "2026-01-05T18:57:04.967191",
-          "latest_tip": "2026-01-05T18:57:04.967191"
-        }
-      },
-      "total_received": 90.5
     },
     {
       "user_id": "024c6db1-74b0-4341-af0c-9f63d5075218",
@@ -2518,6 +2518,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "amount": 18.0,
+      "count": 12,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
       "username": "ftsrewards",
       "tip_type": "milestone",
@@ -2535,16 +2545,6 @@
       "year": 2026,
       "amount": 18.0,
       "count": 12,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2026,
-      "amount": 15.5,
-      "count": 11,
       "period_key": "2026-10"
     },
     {
