@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-24T09:57:41.324326+00:00",
-  "last_updated_timestamp": 1792835861,
+  "last_updated": "2026-10-24T10:07:41.634673+00:00",
+  "last_updated_timestamp": 1792836461,
   "summary": {
-    "total_tips_sent": 4959,
-    "total_amount_sent": 110301.09,
+    "total_tips_sent": 4960,
+    "total_amount_sent": 110302.09,
     "by_type": {
       "milestone": {
         "total_amount": 24824.2,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 208.82,
-        "tip_count": 95
+        "total_amount": 209.82,
+        "tip_count": 96
       },
       "weekly_multiplier": {
         "total_amount": 1792.0,
@@ -76,8 +76,8 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "total_received": 5410.19,
-      "total_tips": 208
+      "total_received": 5411.19,
+      "total_tips": 209
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -404,13 +404,13 @@
           "latest_tip": "2026-08-22T12:19:19.918241"
         },
         "check_in": {
-          "amount": 7.09,
-          "count": 6,
+          "amount": 8.09,
+          "count": 7,
           "first_tip": "2026-07-26T04:29:24.550283",
-          "latest_tip": "2026-10-11T13:31:10.192781"
+          "latest_tip": "2026-10-24T10:04:11.148177"
         }
       },
-      "total_received": 5410.1900000000005
+      "total_received": 5411.1900000000005
     },
     {
       "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
@@ -2788,22 +2788,22 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "amount": 3.18,
+      "count": 3,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
       "tip_type": "check_in",
       "month": 10,
       "year": 2026,
       "amount": 2.41,
-      "count": 2,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "check_in",
-      "month": 10,
-      "year": 2026,
-      "amount": 2.18,
       "count": 2,
       "period_key": "2026-10"
     },
