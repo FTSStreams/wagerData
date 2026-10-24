@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-24T05:47:41.514993+00:00",
-  "last_updated_timestamp": 1792820861,
+  "last_updated": "2026-10-24T05:57:41.185966+00:00",
+  "last_updated_timestamp": 1792821461,
   "summary": {
-    "total_tips_sent": 4950,
-    "total_amount_sent": 107238.59,
+    "total_tips_sent": 4954,
+    "total_amount_sent": 107938.59,
     "by_type": {
       "milestone": {
         "total_amount": 24811.7,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 43146.07,
-        "tip_count": 578
+        "total_amount": 43846.07,
+        "tip_count": 582
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -134,6 +134,12 @@
       "total_tips": 88
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "total_received": 1788.0,
+      "total_tips": 23
+    },
+    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "total_received": 1666.8,
@@ -150,12 +156,6 @@
       "username": "Laztheraz",
       "total_received": 1146.3,
       "total_tips": 264
-    },
-    {
-      "user_id": "99fe2581-2089-4534-992a-50ab22e7313d",
-      "username": "Rusi46",
-      "total_received": 1118.0,
-      "total_tips": 73
     }
   ],
   "detailed_data": [
@@ -746,6 +746,25 @@
       "total_received": 2003.33
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "tips_by_type": {
+        "manual": {
+          "amount": 1760.0,
+          "count": 10,
+          "first_tip": "2026-10-21T16:40:01.083900",
+          "latest_tip": "2026-10-24T05:55:47.154098"
+        },
+        "milestone": {
+          "amount": 28.0,
+          "count": 13,
+          "first_tip": "2026-10-21T15:32:51.387629",
+          "latest_tip": "2026-10-23T06:58:00.425461"
+        }
+      },
+      "total_received": 1788.0
+    },
+    {
       "user_id": "b4bfeb0b-880d-4e87-86f1-0d60be1ad5a9",
       "username": "GemEventual123",
       "tips_by_type": {
@@ -856,25 +875,6 @@
         }
       },
       "total_received": 1118.0
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
-      "tips_by_type": {
-        "manual": {
-          "amount": 1060.0,
-          "count": 6,
-          "first_tip": "2026-10-21T16:40:01.083900",
-          "latest_tip": "2026-10-24T03:21:14.182473"
-        },
-        "milestone": {
-          "amount": 28.0,
-          "count": 13,
-          "first_tip": "2026-10-21T15:32:51.387629",
-          "latest_tip": "2026-10-23T06:58:00.425461"
-        }
-      },
-      "total_received": 1088.0
     },
     {
       "user_id": "8f79fff3-052e-4692-9d4f-ae3a36931d21",
@@ -2253,8 +2253,8 @@
       "tip_type": "manual",
       "month": 10,
       "year": 2026,
-      "amount": 1060.0,
-      "count": 6,
+      "amount": 1760.0,
+      "count": 10,
       "period_key": "2026-10"
     },
     {
