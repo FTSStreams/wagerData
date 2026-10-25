@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-25T17:40:28.484037+00:00",
-  "last_updated_timestamp": 1792950028,
+  "last_updated": "2026-10-25T17:50:28.249609+00:00",
+  "last_updated_timestamp": 1792950628,
   "summary": {
-    "total_tips_sent": 4962,
-    "total_amount_sent": 110314.59,
+    "total_tips_sent": 4963,
+    "total_amount_sent": 110315.76,
     "by_type": {
       "milestone": {
         "total_amount": 24826.7,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 209.82,
-        "tip_count": 96
+        "total_amount": 210.99,
+        "tip_count": 97
       },
       "weekly_multiplier": {
         "total_amount": 1792.0,
@@ -52,8 +52,8 @@
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
       "username": "WCDegen",
-      "total_received": 9398.41,
-      "total_tips": 159
+      "total_received": 9399.58,
+      "total_tips": 160
     },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
@@ -244,13 +244,13 @@
           "latest_tip": "2026-10-02T00:16:32.685960"
         },
         "check_in": {
-          "amount": 4.41,
-          "count": 4,
+          "amount": 5.58,
+          "count": 5,
           "first_tip": "2026-07-16T18:02:40.468660",
-          "latest_tip": "2026-10-20T17:03:36.740547"
+          "latest_tip": "2026-10-25T17:43:32.249789"
         }
       },
-      "total_received": 9398.41
+      "total_received": 9399.58
     },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
@@ -2788,6 +2788,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
+      "username": "WCDegen",
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "amount": 3.58,
+      "count": 3,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
       "tip_type": "check_in",
@@ -2795,16 +2805,6 @@
       "year": 2026,
       "amount": 3.18,
       "count": 3,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
-      "username": "WCDegen",
-      "tip_type": "check_in",
-      "month": 10,
-      "year": 2026,
-      "amount": 2.41,
-      "count": 2,
       "period_key": "2026-10"
     },
     {
