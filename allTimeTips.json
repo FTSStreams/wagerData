@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-25T09:40:28.265902+00:00",
-  "last_updated_timestamp": 1792921228,
+  "last_updated": "2026-10-25T09:50:28.676104+00:00",
+  "last_updated_timestamp": 1792921828,
   "summary": {
-    "total_tips_sent": 4961,
-    "total_amount_sent": 110312.09,
+    "total_tips_sent": 4962,
+    "total_amount_sent": 110314.59,
     "by_type": {
       "milestone": {
-        "total_amount": 24824.2,
-        "tip_count": 3872
+        "total_amount": 24826.7,
+        "tip_count": 3873
       },
       "monthly_leaderboard": {
         "total_amount": 30755.0,
@@ -1618,10 +1618,10 @@
       "username": "wwMww",
       "tips_by_type": {
         "milestone": {
-          "amount": 26.0,
-          "count": 20,
+          "amount": 28.5,
+          "count": 21,
           "first_tip": "2026-09-02T06:14:28.214361",
-          "latest_tip": "2026-10-18T01:28:07.977376"
+          "latest_tip": "2026-10-25T09:41:57.225686"
         },
         "check_in": {
           "amount": 12.08,
@@ -1636,23 +1636,23 @@
           "latest_tip": "2026-10-21T14:50:26.001065"
         }
       },
-      "total_received": 50.08
+      "total_received": 52.58
     },
     {
       "user_id": "87588145-0b0f-4d7e-923d-e46aa9001736",
       "username": "1who1",
       "tips_by_type": {
-        "manual": {
-          "amount": 25.0,
-          "count": 1,
-          "first_tip": "2026-02-01T16:43:40.138192",
-          "latest_tip": "2026-02-01T16:43:40.138192"
-        },
         "milestone": {
           "amount": 25.0,
           "count": 20,
           "first_tip": "2025-11-19T17:37:02.950879",
           "latest_tip": "2026-06-26T22:22:03.863541"
+        },
+        "manual": {
+          "amount": 25.0,
+          "count": 1,
+          "first_tip": "2026-02-01T16:43:40.138192",
+          "latest_tip": "2026-02-01T16:43:40.138192"
         }
       },
       "total_received": 50.0
@@ -1779,19 +1779,6 @@
       "total_received": 16.0
     },
     {
-      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
-      "username": "HippoMike",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 15.0,
-          "count": 13,
-          "first_tip": "2025-11-09T22:21:26.283801",
-          "latest_tip": "2025-11-17T03:02:08.061438"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
       "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
       "username": "4TIFLIP",
       "tips_by_type": {
@@ -1800,6 +1787,19 @@
           "count": 3,
           "first_tip": "2025-06-23T16:12:36.850105",
           "latest_tip": "2025-07-22T16:07:44.059101"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
+      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
+      "username": "HippoMike",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 15.0,
+          "count": 13,
+          "first_tip": "2025-11-09T22:21:26.283801",
+          "latest_tip": "2025-11-17T03:02:08.061438"
         }
       },
       "total_received": 15.0
@@ -2598,8 +2598,8 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
-      "username": "SwitchAlbania",
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
@@ -2608,13 +2608,13 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
-      "username": "wwMww",
+      "user_id": "e5691104-b300-48ea-bf6b-bde10bea2c79",
+      "username": "SwitchAlbania",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
-      "amount": 10.5,
-      "count": 9,
+      "amount": 13.0,
+      "count": 10,
       "period_key": "2026-10"
     },
     {
