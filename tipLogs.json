@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-10-26T16:52:25.626046+00:00",
-  "last_updated_timestamp": 1793033545,
-  "total_tips": 4967,
+  "last_updated": "2026-10-26T17:02:26.127828+00:00",
+  "last_updated_timestamp": 1793034146,
+  "total_tips": 4969,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "amount": 169.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-26T16:53:58.213379"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 125.0,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-26T16:53:53.133110"
+    },
     {
       "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
       "username": "Ezeesq96",
