@@ -1,11 +1,71 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-10-27T17:53:53.231334+00:00",
-  "last_updated_timestamp": 1793123633,
-  "total_tips": 4973,
+  "last_updated": "2026-10-27T18:03:51.894581+00:00",
+  "last_updated_timestamp": 1793124231,
+  "total_tips": 4979,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
+      "username": "MrExcitable",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-27T17:59:24.621441"
+    },
+    {
+      "user_id": "16a098a3-be65-45a4-bcb5-72716ba74664",
+      "username": "Gabtoupin",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-27T17:59:12.369654"
+    },
+    {
+      "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
+      "username": "ProxyWoxy",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-27T17:58:45.524663"
+    },
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 5.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-27T17:58:29.818198"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
+      "amount": 20.0,
+      "tip_type": "manual",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-27T17:57:31.596491"
+    },
+    {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "amount": 12.5,
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "period_key": "2026-10",
+      "tipped_at": "2026-10-27T17:55:52.321094"
+    },
     {
       "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
       "username": "ftsrewards",
