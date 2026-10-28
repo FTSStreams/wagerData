@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-28T18:01:08.082770+00:00",
-  "last_updated_timestamp": 1793210468,
+  "last_updated": "2026-10-28T18:11:09.723577+00:00",
+  "last_updated_timestamp": 1793211069,
   "summary": {
-    "total_tips_sent": 5004,
-    "total_amount_sent": 111785.76,
+    "total_tips_sent": 5005,
+    "total_amount_sent": 111786.79999999999,
     "by_type": {
       "milestone": {
         "total_amount": 25162.7,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 212.99,
-        "tip_count": 99
+        "total_amount": 214.03,
+        "tip_count": 100
       },
       "weekly_multiplier": {
         "total_amount": 1792.0,
@@ -1178,13 +1178,13 @@
           "latest_tip": "2026-10-05T16:43:33.649616"
         },
         "check_in": {
-          "amount": 10.12,
-          "count": 8,
+          "amount": 11.16,
+          "count": 9,
           "first_tip": "2026-08-29T02:14:02.132174",
-          "latest_tip": "2026-10-26T00:47:31.566111"
+          "latest_tip": "2026-10-28T18:10:43.250854"
         }
       },
-      "total_received": 373.12
+      "total_received": 374.16
     },
     {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
@@ -2698,6 +2698,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
+      "username": "Ezeesq96",
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "amount": 6.16,
+      "count": 5,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "c92f1498-d979-4ce8-b538-68234d5f0f2d",
       "username": "MrExcitable",
       "tip_type": "milestone",
@@ -2735,16 +2745,6 @@
       "year": 2026,
       "amount": 5.86,
       "count": 3,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
-      "username": "Ezeesq96",
-      "tip_type": "check_in",
-      "month": 10,
-      "year": 2026,
-      "amount": 5.12,
-      "count": 4,
       "period_key": "2026-10"
     },
     {
