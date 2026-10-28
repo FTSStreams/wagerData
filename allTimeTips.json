@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-28T09:31:13.009736+00:00",
-  "last_updated_timestamp": 1793179873,
+  "last_updated": "2026-10-28T09:41:09.428102+00:00",
+  "last_updated_timestamp": 1793180469,
   "summary": {
-    "total_tips_sent": 4998,
-    "total_amount_sent": 111559.76,
+    "total_tips_sent": 4999,
+    "total_amount_sent": 111560.76,
     "by_type": {
       "milestone": {
         "total_amount": 25087.7,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 211.99,
-        "tip_count": 98
+        "total_amount": 212.99,
+        "tip_count": 99
       },
       "weekly_multiplier": {
         "total_amount": 1792.0,
@@ -1253,13 +1253,13 @@
           "latest_tip": "2026-10-28T01:15:20.496982"
         },
         "check_in": {
-          "amount": 13.9,
-          "count": 6,
+          "amount": 14.9,
+          "count": 7,
           "first_tip": "2026-08-05T22:56:00.751841",
-          "latest_tip": "2026-10-15T15:43:59.812522"
+          "latest_tip": "2026-10-28T09:40:25.558715"
         }
       },
-      "total_received": 216.9
+      "total_received": 217.9
     },
     {
       "user_id": "bce53a59-c87c-4a48-b867-3df7b951aca4",
@@ -2728,6 +2728,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "tip_type": "check_in",
+      "month": 10,
+      "year": 2026,
+      "amount": 5.86,
+      "count": 3,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
       "username": "Ezeesq96",
       "tip_type": "check_in",
@@ -2735,16 +2745,6 @@
       "year": 2026,
       "amount": 5.12,
       "count": 4,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
-      "username": "Jakaflip",
-      "tip_type": "monthly_leaderboard",
-      "month": 10,
-      "year": 2026,
-      "amount": 5.0,
-      "count": 1,
       "period_key": "2026-10"
     },
     {
@@ -2758,13 +2758,13 @@
       "period_key": "2026-10"
     },
     {
-      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
-      "username": "Keno8",
-      "tip_type": "check_in",
+      "user_id": "dc3dc9eb-c862-4241-a546-8fb85437a0d3",
+      "username": "Jakaflip",
+      "tip_type": "monthly_leaderboard",
       "month": 10,
       "year": 2026,
-      "amount": 4.86,
-      "count": 2,
+      "amount": 5.0,
+      "count": 1,
       "period_key": "2026-10"
     },
     {
