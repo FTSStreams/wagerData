@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-28T06:21:09.416531+00:00",
-  "last_updated_timestamp": 1793168469,
+  "last_updated": "2026-10-28T06:31:10.407299+00:00",
+  "last_updated_timestamp": 1793169070,
   "summary": {
-    "total_tips_sent": 4997,
-    "total_amount_sent": 111534.76,
+    "total_tips_sent": 4998,
+    "total_amount_sent": 111559.76,
     "by_type": {
       "milestone": {
-        "total_amount": 25062.7,
-        "tip_count": 3888
+        "total_amount": 25087.7,
+        "tip_count": 3889
       },
       "monthly_leaderboard": {
         "total_amount": 30755.0,
@@ -88,8 +88,8 @@
     {
       "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
       "username": "ftsrewards",
-      "total_received": 4895.0,
-      "total_tips": 35
+      "total_received": 4920.0,
+      "total_tips": 36
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -454,13 +454,13 @@
           "latest_tip": "2026-10-28T06:04:35.772786"
         },
         "milestone": {
-          "amount": 53.0,
-          "count": 15,
+          "amount": 78.0,
+          "count": 16,
           "first_tip": "2026-10-21T15:32:51.387629",
-          "latest_tip": "2026-10-26T18:43:53.212644"
+          "latest_tip": "2026-10-28T06:22:36.516692"
         }
       },
-      "total_received": 4895.0
+      "total_received": 4920.0
     },
     {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
@@ -2408,6 +2408,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "amount": 78.0,
+      "count": 16,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
       "username": "tremor11",
       "tip_type": "monthly_leaderboard",
@@ -2430,16 +2440,6 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2026,
-      "amount": 53.0,
-      "count": 15,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
       "tip_type": "milestone",
       "month": 10,
       "year": 2026,
