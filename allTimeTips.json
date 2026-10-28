@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-28T17:21:09.555573+00:00",
-  "last_updated_timestamp": 1793208069,
+  "last_updated": "2026-10-28T17:31:09.326634+00:00",
+  "last_updated_timestamp": 1793208669,
   "summary": {
-    "total_tips_sent": 5003,
-    "total_amount_sent": 111760.76,
+    "total_tips_sent": 5004,
+    "total_amount_sent": 111785.76,
     "by_type": {
       "milestone": {
-        "total_amount": 25137.7,
-        "tip_count": 3891
+        "total_amount": 25162.7,
+        "tip_count": 3892
       },
       "monthly_leaderboard": {
         "total_amount": 30755.0,
@@ -70,8 +70,8 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "total_received": 6611.24,
-      "total_tips": 224
+      "total_received": 6636.24,
+      "total_tips": 225
     },
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
@@ -343,10 +343,10 @@
       "username": "slicksloth97",
       "tips_by_type": {
         "milestone": {
-          "amount": 2869.0,
-          "count": 196,
+          "amount": 2894.0,
+          "count": 197,
           "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2026-10-28T16:52:36.917490"
+          "latest_tip": "2026-10-28T17:22:37.114705"
         },
         "monthly_leaderboard": {
           "amount": 2505.0,
@@ -367,7 +367,7 @@
           "latest_tip": "2026-10-16T00:26:03.517397"
         }
       },
-      "total_received": 6611.24
+      "total_received": 6636.24
     },
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
@@ -2368,6 +2368,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "amount": 128.0,
+      "count": 18,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
       "username": "smithloic321",
       "tip_type": "milestone",
@@ -2385,16 +2395,6 @@
       "year": 2026,
       "amount": 125.0,
       "count": 1,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2026,
-      "amount": 103.0,
-      "count": 17,
       "period_key": "2026-10"
     },
     {
