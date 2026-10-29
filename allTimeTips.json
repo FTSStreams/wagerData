@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-10-29T06:05:17.993350+00:00",
-  "last_updated_timestamp": 1793253917,
+  "last_updated": "2026-10-29T06:15:17.788416+00:00",
+  "last_updated_timestamp": 1793254517,
   "summary": {
-    "total_tips_sent": 5014,
-    "total_amount_sent": 111819.79999999999,
+    "total_tips_sent": 5015,
+    "total_amount_sent": 111820.79999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 25195.7,
-        "tip_count": 3901
+        "total_amount": 25196.7,
+        "tip_count": 3902
       },
       "monthly_leaderboard": {
         "total_amount": 30755.0,
@@ -1285,10 +1285,10 @@
       "username": "liq543",
       "tips_by_type": {
         "milestone": {
-          "amount": 143.7,
-          "count": 114,
+          "amount": 144.7,
+          "count": 115,
           "first_tip": "2025-06-05T04:25:18.923348",
-          "latest_tip": "2026-10-29T01:22:36.951131"
+          "latest_tip": "2026-10-29T06:06:44.282282"
         },
         "manual": {
           "amount": 20.0,
@@ -1303,7 +1303,7 @@
           "latest_tip": "2026-10-09T00:17:19.410126"
         }
       },
-      "total_received": 178.7
+      "total_received": 179.7
     },
     {
       "user_id": "734805f3-3084-4811-be99-89a95167d52d",
@@ -2728,6 +2728,16 @@
       "period_key": "2026-10"
     },
     {
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
+      "tip_type": "milestone",
+      "month": 10,
+      "year": 2026,
+      "amount": 6.0,
+      "count": 6,
+      "period_key": "2026-10"
+    },
+    {
       "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
       "username": "Keno8",
       "tip_type": "milestone",
@@ -2755,16 +2765,6 @@
       "year": 2026,
       "amount": 5.86,
       "count": 3,
-      "period_key": "2026-10"
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "tip_type": "milestone",
-      "month": 10,
-      "year": 2026,
-      "amount": 5.0,
-      "count": 5,
       "period_key": "2026-10"
     },
     {
