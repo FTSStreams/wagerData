@@ -1,11 +1,31 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-11-03T16:35:25.235942+00:00",
-  "last_updated_timestamp": 1793723725,
-  "total_tips": 5125,
+  "last_updated": "2026-11-03T16:45:27.219751+00:00",
+  "last_updated_timestamp": 1793724327,
+  "total_tips": 5127,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-03T16:37:22.460084"
+    },
+    {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-03T16:36:50.854972"
+    },
     {
       "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
       "username": "ftsrewards",
