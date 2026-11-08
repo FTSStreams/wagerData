@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-08T05:06:18.525187+00:00",
-  "last_updated_timestamp": 1794114378,
+  "last_updated": "2026-11-08T05:16:18.052694+00:00",
+  "last_updated_timestamp": 1794114978,
   "summary": {
-    "total_tips_sent": 5194,
-    "total_amount_sent": 115142.73,
+    "total_tips_sent": 5195,
+    "total_amount_sent": 115145.23,
     "by_type": {
       "milestone": {
-        "total_amount": 27163.7,
-        "tip_count": 4054
+        "total_amount": 27166.2,
+        "tip_count": 4055
       },
       "monthly_leaderboard": {
         "total_amount": 31635.0,
@@ -1335,10 +1335,10 @@
       "username": "Alxxwilson",
       "tips_by_type": {
         "milestone": {
-          "amount": 126.0,
-          "count": 78,
+          "amount": 128.5,
+          "count": 79,
           "first_tip": "2026-03-16T18:33:37.189084",
-          "latest_tip": "2026-11-08T04:58:16.906807"
+          "latest_tip": "2026-11-08T05:08:15.160199"
         },
         "manual": {
           "amount": 30.0,
@@ -1347,7 +1347,7 @@
           "latest_tip": "2026-10-27T19:17:43.689633"
         }
       },
-      "total_received": 156.0
+      "total_received": 158.5
     },
     {
       "user_id": "b2e58746-e262-46fd-9de4-3c85af75daf7",
@@ -2391,6 +2391,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
+      "username": "Alxxwilson",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "amount": 15.5,
+      "count": 11,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
       "username": "smithloic321",
       "tip_type": "weekly_multiplier",
@@ -2408,16 +2418,6 @@
       "year": 2026,
       "amount": 14.77,
       "count": 3,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "7f921117-01a7-4d12-9605-3e33f03c14de",
-      "username": "Alxxwilson",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2026,
-      "amount": 13.0,
-      "count": 10,
       "period_key": "2026-11"
     },
     {
