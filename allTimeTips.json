@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-09T00:33:50.653037+00:00",
-  "last_updated_timestamp": 1794184430,
+  "last_updated": "2026-11-09T00:43:51.491335+00:00",
+  "last_updated_timestamp": 1794185031,
   "summary": {
-    "total_tips_sent": 5205,
-    "total_amount_sent": 115902.23,
+    "total_tips_sent": 5206,
+    "total_amount_sent": 115903.23,
     "by_type": {
       "milestone": {
-        "total_amount": 27923.2,
-        "tip_count": 4065
+        "total_amount": 27924.2,
+        "tip_count": 4066
       },
       "monthly_leaderboard": {
         "total_amount": 31635.0,
@@ -148,8 +148,8 @@
     {
       "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
       "username": "Laztheraz",
-      "total_received": 1401.3,
-      "total_tips": 271
+      "total_received": 1402.3,
+      "total_tips": 272
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -794,10 +794,10 @@
       "username": "Laztheraz",
       "tips_by_type": {
         "milestone": {
-          "amount": 741.3,
-          "count": 255,
+          "amount": 742.3,
+          "count": 256,
           "first_tip": "2025-05-04T22:21:44.901915",
-          "latest_tip": "2026-11-01T18:47:51.258586"
+          "latest_tip": "2026-11-09T00:35:18.755311"
         },
         "monthly_leaderboard": {
           "amount": 470.0,
@@ -824,7 +824,7 @@
           "latest_tip": "2025-08-13T00:42:24.849547"
         }
       },
-      "total_received": 1401.3
+      "total_received": 1402.3
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -2451,6 +2451,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
+      "username": "Laztheraz",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "amount": 6.0,
+      "count": 6,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "milestone",
@@ -2478,16 +2488,6 @@
       "year": 2026,
       "amount": 5.0,
       "count": 1,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "68465667-21bf-4cd7-b674-dce075b60755",
-      "username": "Laztheraz",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2026,
-      "amount": 5.0,
-      "count": 5,
       "period_key": "2026-11"
     },
     {
