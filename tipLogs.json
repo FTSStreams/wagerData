@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-11-10T14:10:24.277557+00:00",
-  "last_updated_timestamp": 1794319824,
-  "total_tips": 5209,
+  "last_updated": "2026-11-10T14:20:23.303528+00:00",
+  "last_updated_timestamp": 1794320423,
+  "total_tips": 5210,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "amount": 1.25,
+      "tip_type": "check_in",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-10T14:15:26.034183"
+    },
     {
       "user_id": "bd20777e-c782-4ab8-92c7-da5c25eb191c",
       "username": "Ezeesq96",
