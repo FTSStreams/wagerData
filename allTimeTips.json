@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-10T14:10:24.264635+00:00",
-  "last_updated_timestamp": 1794319824,
+  "last_updated": "2026-11-10T14:20:23.290847+00:00",
+  "last_updated_timestamp": 1794320423,
   "summary": {
-    "total_tips_sent": 5209,
-    "total_amount_sent": 116112.23,
+    "total_tips_sent": 5210,
+    "total_amount_sent": 116113.48,
     "by_type": {
       "milestone": {
         "total_amount": 27925.2,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 237.96,
-        "tip_count": 110
+        "total_amount": 239.21,
+        "tip_count": 111
       },
       "weekly_multiplier": {
         "total_amount": 1857.0,
@@ -1222,13 +1222,13 @@
           "latest_tip": "2026-11-08T15:08:44.999089"
         },
         "check_in": {
-          "amount": 18.04,
-          "count": 9,
+          "amount": 19.29,
+          "count": 10,
           "first_tip": "2026-08-05T22:56:00.751841",
-          "latest_tip": "2026-11-07T22:41:00.619602"
+          "latest_tip": "2026-11-10T14:15:26.034183"
         }
       },
-      "total_received": 228.04
+      "total_received": 229.29
     },
     {
       "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
@@ -2491,6 +2491,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "tip_type": "check_in",
+      "month": 11,
+      "year": 2026,
+      "amount": 4.39,
+      "count": 3,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
       "username": "Angelz420",
       "tip_type": "milestone",
@@ -2521,18 +2531,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
-      "username": "Keno8",
-      "tip_type": "check_in",
-      "month": 11,
-      "year": 2026,
-      "amount": 3.14,
-      "count": 2,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
-      "username": "jonnyb12345",
+      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
+      "username": "tremor11",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
@@ -2541,8 +2541,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "4c3b9e0e-cbed-48b6-9286-414dbe49ddd2",
-      "username": "tremor11",
+      "user_id": "5b5101c6-5fac-4945-9818-9edce46057a3",
+      "username": "jonnyb12345",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
