@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-10T22:41:04.515778+00:00",
-  "last_updated_timestamp": 1794350464,
+  "last_updated": "2026-11-10T22:51:04.507467+00:00",
+  "last_updated_timestamp": 1794351064,
   "summary": {
-    "total_tips_sent": 5213,
-    "total_amount_sent": 116179.48,
+    "total_tips_sent": 5214,
+    "total_amount_sent": 116180.48,
     "by_type": {
       "milestone": {
-        "total_amount": 27926.2,
-        "tip_count": 4068
+        "total_amount": 27927.2,
+        "tip_count": 4069
       },
       "monthly_leaderboard": {
         "total_amount": 31835.0,
@@ -1423,10 +1423,10 @@
       "username": "Angelz420",
       "tips_by_type": {
         "milestone": {
-          "amount": 57.0,
-          "count": 47,
+          "amount": 58.0,
+          "count": 48,
           "first_tip": "2026-03-07T01:59:43.872010",
-          "latest_tip": "2026-11-06T14:21:22.755554"
+          "latest_tip": "2026-11-10T22:42:30.510807"
         },
         "manual": {
           "amount": 13.0,
@@ -1447,7 +1447,7 @@
           "latest_tip": "2026-01-05T18:57:04.967191"
         }
       },
-      "total_received": 97.0
+      "total_received": 98.0
     },
     {
       "user_id": "bb392ccd-3ef8-43b7-adc2-28687b06519c",
@@ -2511,6 +2511,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
+      "username": "Angelz420",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "amount": 5.0,
+      "count": 5,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
       "username": "Keno8",
       "tip_type": "check_in",
@@ -2518,16 +2528,6 @@
       "year": 2026,
       "amount": 4.39,
       "count": 3,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
-      "username": "liq543",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2026,
-      "amount": 4.0,
-      "count": 4,
       "period_key": "2026-11"
     },
     {
@@ -2541,8 +2541,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "a77a45e6-df2e-4db0-a1e5-d1eaa5eae121",
-      "username": "Angelz420",
+      "user_id": "0df0959d-7648-41f4-bccc-349021c9d165",
+      "username": "liq543",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
