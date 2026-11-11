@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-11T23:46:11.065826+00:00",
-  "last_updated_timestamp": 1794440771,
+  "last_updated": "2026-11-11T23:56:11.255391+00:00",
+  "last_updated_timestamp": 1794441371,
   "summary": {
-    "total_tips_sent": 5224,
-    "total_amount_sent": 117300.76,
+    "total_tips_sent": 5225,
+    "total_amount_sent": 117303.26,
     "by_type": {
       "milestone": {
-        "total_amount": 28442.7,
-        "tip_count": 4074
+        "total_amount": 28445.2,
+        "tip_count": 4075
       },
       "monthly_leaderboard": {
         "total_amount": 31835.0,
@@ -1216,10 +1216,10 @@
           "latest_tip": "2026-11-10T20:00:43.224459"
         },
         "milestone": {
-          "amount": 27.0,
-          "count": 27,
+          "amount": 29.5,
+          "count": 28,
           "first_tip": "2026-07-24T23:13:47.687597",
-          "latest_tip": "2026-11-11T12:12:33.578088"
+          "latest_tip": "2026-11-11T23:47:37.807531"
         },
         "check_in": {
           "amount": 19.29,
@@ -1228,7 +1228,7 @@
           "latest_tip": "2026-11-10T14:15:26.034183"
         }
       },
-      "total_received": 245.29
+      "total_received": 247.79
     },
     {
       "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
@@ -2451,6 +2451,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "amount": 10.5,
+      "count": 9,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "tip_type": "weekly_multiplier",
@@ -2463,16 +2473,6 @@
     {
       "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
       "username": "wwMww",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2026,
-      "amount": 8.0,
-      "count": 8,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
-      "username": "Keno8",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
