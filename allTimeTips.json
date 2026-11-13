@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-13T18:11:17.979024+00:00",
-  "last_updated_timestamp": 1794593477,
+  "last_updated": "2026-11-13T18:21:18.158636+00:00",
+  "last_updated_timestamp": 1794594078,
   "summary": {
-    "total_tips_sent": 5247,
-    "total_amount_sent": 117721.44999999998,
+    "total_tips_sent": 5248,
+    "total_amount_sent": 117821.44999999998,
     "by_type": {
       "milestone": {
         "total_amount": 28493.7,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 48713.07,
-        "tip_count": 626
+        "total_amount": 48813.07,
+        "tip_count": 627
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -58,8 +58,8 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "total_received": 8932.06,
-      "total_tips": 268
+      "total_received": 9032.06,
+      "total_tips": 269
     },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
@@ -269,10 +269,10 @@
           "latest_tip": "2026-11-09T17:06:45.939597"
         },
         "manual": {
-          "amount": 1147.1,
-          "count": 53,
+          "amount": 1247.1,
+          "count": 54,
           "first_tip": "2026-06-14T17:38:49.480064",
-          "latest_tip": "2026-11-13T16:53:44.819328"
+          "latest_tip": "2026-11-13T18:16:08.657739"
         },
         "weekly_multiplier": {
           "amount": 125.0,
@@ -293,7 +293,7 @@
           "latest_tip": "2026-08-22T12:19:19.918241"
         }
       },
-      "total_received": 8932.06
+      "total_received": 9032.06
     },
     {
       "user_id": "a4fd519d-4cb0-478c-b08f-d062a6755b15",
@@ -2279,6 +2279,16 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
+      "tip_type": "manual",
+      "month": 11,
+      "year": 2026,
+      "amount": 336.0,
+      "count": 5,
+      "period_key": "2026-11"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
       "tip_type": "monthly_leaderboard",
       "month": 11,
       "year": 2026,
@@ -2294,16 +2304,6 @@
       "year": 2026,
       "amount": 300.0,
       "count": 1,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "manual",
-      "month": 11,
-      "year": 2026,
-      "amount": 236.0,
-      "count": 4,
       "period_key": "2026-11"
     },
     {
@@ -2347,8 +2347,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
@@ -2357,8 +2357,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
@@ -2387,16 +2387,6 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
-      "username": "Meepflips",
-      "tip_type": "weekly_multiplier",
-      "month": 11,
-      "year": 2026,
-      "amount": 40.0,
-      "count": 2,
-      "period_key": "2026-11"
-    },
-    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -2409,6 +2399,16 @@
     {
       "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
       "username": "smithloic321",
+      "tip_type": "weekly_multiplier",
+      "month": 11,
+      "year": 2026,
+      "amount": 40.0,
+      "count": 2,
+      "period_key": "2026-11"
+    },
+    {
+      "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
+      "username": "Meepflips",
       "tip_type": "weekly_multiplier",
       "month": 11,
       "year": 2026,
@@ -2457,8 +2457,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
-      "username": "F1Fan1997",
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
@@ -2467,8 +2467,8 @@
       "period_key": "2026-11"
     },
     {
-      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
-      "username": "Keno8",
+      "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
+      "username": "F1Fan1997",
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
