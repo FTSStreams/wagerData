@@ -6,37 +6,37 @@
     "start_timestamp": 1794528000,
     "end_timestamp": 1795132799
   },
-  "last_updated": "2026-11-13T00:31:17.758648+00:00",
-  "last_updated_timestamp": 1794529877,
+  "last_updated": "2026-11-13T00:41:17.864336+00:00",
+  "last_updated_timestamp": 1794530477,
   "entries": [
     {
       "rank": 1,
+      "username": "Keno8",
+      "multiplier": 8,
+      "game": "Keno",
+      "game_identifier": null,
+      "wagered": 0.3882873,
+      "payout": 3.1062984,
+      "prize": 25
+    },
+    {
+      "rank": 2,
       "username": "slicksloth97",
       "multiplier": 3.4000000000000004,
       "game": "Xmas Drop",
       "game_identifier": null,
       "wagered": 0.42064969343999997,
       "payout": 1.430208957696,
-      "prize": 25
+      "prize": 15
     },
     {
-      "rank": 2,
+      "rank": 3,
       "username": "WCDegen",
       "multiplier": 2.3,
       "game": "Medusa's Madness",
       "game_identifier": null,
       "wagered": 0.1,
       "payout": 0.23,
-      "prize": 15
-    },
-    {
-      "rank": 3,
-      "username": "N/A",
-      "multiplier": 0,
-      "game": "Unknown",
-      "game_identifier": null,
-      "wagered": 0,
-      "payout": 0,
       "prize": 10
     }
   ]
