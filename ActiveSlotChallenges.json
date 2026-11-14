@@ -1,8 +1,8 @@
 {
   "data_type": "active_slot_challenges",
-  "last_updated": "2026-11-14T19:21:32.484099+00:00",
-  "last_updated_timestamp": 1794684092,
-  "total_challenges": 3,
+  "last_updated": "2026-11-14T19:31:32.192731+00:00",
+  "last_updated_timestamp": 1794684692,
+  "total_challenges": 4,
   "challenges": [
     {
       "challenge_id": 430,
@@ -42,6 +42,19 @@
       "emoji": "\ud83d\udc36",
       "min_bet": 0.4,
       "start_timestamp": 1787338986
+    },
+    {
+      "challenge_id": 463,
+      "game_identifier": "engine:goose-on-the-loose",
+      "game_name": "Goose on the Loose",
+      "required_multiplier": 500.0,
+      "prize": 40.0,
+      "start_time": "2026-11-14T19:22:55+00:00",
+      "posted_by": 1058140474621300787,
+      "posted_by_username": "FlipTheSwitch",
+      "emoji": "\ud83e\udebf",
+      "min_bet": 0.2,
+      "start_timestamp": 1794684175
     }
   ]
 }
