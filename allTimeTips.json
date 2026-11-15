@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-15T21:09:22.157464+00:00",
-  "last_updated_timestamp": 1794776962,
+  "last_updated": "2026-11-15T21:19:22.411270+00:00",
+  "last_updated_timestamp": 1794777562,
   "summary": {
-    "total_tips_sent": 5268,
-    "total_amount_sent": 118020.77999999998,
+    "total_tips_sent": 5269,
+    "total_amount_sent": 118045.77999999998,
     "by_type": {
       "milestone": {
-        "total_amount": 28530.2,
-        "tip_count": 4098
+        "total_amount": 28555.2,
+        "tip_count": 4099
       },
       "monthly_leaderboard": {
         "total_amount": 31835.0,
@@ -70,8 +70,8 @@
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
-      "total_received": 7199.24,
-      "total_tips": 250
+      "total_received": 7224.24,
+      "total_tips": 251
     },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
@@ -343,10 +343,10 @@
       "username": "slicksloth97",
       "tips_by_type": {
         "milestone": {
-          "amount": 3147.0,
-          "count": 220,
+          "amount": 3172.0,
+          "count": 221,
           "first_tip": "2025-11-26T06:22:32.367250",
-          "latest_tip": "2026-11-06T20:06:48.161777"
+          "latest_tip": "2026-11-15T21:10:50.268928"
         },
         "monthly_leaderboard": {
           "amount": 2805.0,
@@ -367,7 +367,7 @@
           "latest_tip": "2026-11-06T00:20:23.621065"
         }
       },
-      "total_received": 7199.24
+      "total_received": 7224.24
     },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
@@ -2323,6 +2323,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
+      "username": "slicksloth97",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "amount": 178.0,
+      "count": 20,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "d6a0ca4d-0f66-47f2-a05b-464abdaa808b",
       "username": "ProxyWoxy",
       "tip_type": "monthly_leaderboard",
@@ -2330,16 +2340,6 @@
       "year": 2026,
       "amount": 175.0,
       "count": 1,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
-      "username": "slicksloth97",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2026,
-      "amount": 153.0,
-      "count": 19,
       "period_key": "2026-11"
     },
     {
