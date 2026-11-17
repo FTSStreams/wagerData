@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-11-17T05:24:05.895394+00:00",
-  "last_updated_timestamp": 1794893045,
-  "total_tips": 5281,
+  "last_updated": "2026-11-17T05:34:06.545713+00:00",
+  "last_updated_timestamp": 1794893646,
+  "total_tips": 5282,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "amount": 140.0,
+      "tip_type": "manual",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-17T05:31:39.418804"
+    },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
