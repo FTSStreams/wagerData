@@ -6,8 +6,8 @@
     "start_timestamp": 1795132800,
     "end_timestamp": 1795737599
   },
-  "last_updated": "2026-11-20T08:18:58.114207+00:00",
-  "last_updated_timestamp": 1795162738,
+  "last_updated": "2026-11-20T08:28:57.951381+00:00",
+  "last_updated_timestamp": 1795163337,
   "entries": [
     {
       "rank": 1,
@@ -21,22 +21,22 @@
     },
     {
       "rank": 2,
-      "username": "Keno8",
-      "multiplier": 13.000000000000002,
-      "game": "Keno",
-      "game_identifier": null,
-      "wagered": 1.7434602802499999,
-      "payout": 22.66498364325,
-      "prize": 15
-    },
-    {
-      "rank": 3,
       "username": "F1Fan1997",
       "multiplier": 2,
       "game": "Blackjack",
       "game_identifier": null,
       "wagered": 0.272013949428,
       "payout": 0.544027898856,
+      "prize": 15
+    },
+    {
+      "rank": 3,
+      "username": "N/A",
+      "multiplier": 0,
+      "game": "Unknown",
+      "game_identifier": null,
+      "wagered": 0,
+      "payout": 0,
       "prize": 10
     }
   ]
