@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-23T20:19:43.525475+00:00",
-  "last_updated_timestamp": 1795465183,
+  "last_updated": "2026-11-23T20:29:43.703034+00:00",
+  "last_updated_timestamp": 1795465783,
   "summary": {
-    "total_tips_sent": 5315,
-    "total_amount_sent": 120549.45999999999,
+    "total_tips_sent": 5316,
+    "total_amount_sent": 120559.45999999999,
     "by_type": {
       "milestone": {
-        "total_amount": 29949.2,
-        "tip_count": 4124
+        "total_amount": 29959.2,
+        "tip_count": 4125
       },
       "monthly_leaderboard": {
         "total_amount": 31835.0,
@@ -1222,10 +1222,10 @@
           "latest_tip": "2026-11-22T16:06:40.796963"
         },
         "milestone": {
-          "amount": 37.0,
-          "count": 31,
+          "amount": 47.0,
+          "count": 32,
           "first_tip": "2026-07-24T23:13:47.687597",
-          "latest_tip": "2026-11-23T15:11:40.053148"
+          "latest_tip": "2026-11-23T20:21:11.768304"
         },
         "check_in": {
           "amount": 21.47,
@@ -1240,7 +1240,7 @@
           "latest_tip": "2026-11-13T00:16:53.910382"
         }
       },
-      "total_received": 282.47
+      "total_received": 292.47
     },
     {
       "user_id": "f1221846-8619-403a-85f1-f867a82967d2",
@@ -1797,19 +1797,6 @@
       "total_received": 16.0
     },
     {
-      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
-      "username": "HippoMike",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 15.0,
-          "count": 13,
-          "first_tip": "2025-11-09T22:21:26.283801",
-          "latest_tip": "2025-11-17T03:02:08.061438"
-        }
-      },
-      "total_received": 15.0
-    },
-    {
       "user_id": "b4ae25fb-da28-43c0-99a8-8f5518e19502",
       "username": "4TIFLIP",
       "tips_by_type": {
@@ -1818,6 +1805,19 @@
           "count": 3,
           "first_tip": "2025-06-23T16:12:36.850105",
           "latest_tip": "2025-07-22T16:07:44.059101"
+        }
+      },
+      "total_received": 15.0
+    },
+    {
+      "user_id": "c185a7b0-0d02-4777-9429-46a0d1b45e55",
+      "username": "HippoMike",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 15.0,
+          "count": 13,
+          "first_tip": "2025-11-09T22:21:26.283801",
+          "latest_tip": "2025-11-17T03:02:08.061438"
         }
       },
       "total_received": 15.0
@@ -1913,6 +1913,19 @@
       "total_received": 11.0
     },
     {
+      "user_id": "7c6bb3a1-7818-48a9-a7d4-8099d8e3b22f",
+      "username": "SnowK77",
+      "tips_by_type": {
+        "manual": {
+          "amount": 10.0,
+          "count": 2,
+          "first_tip": "2025-09-09T16:17:38.378839",
+          "latest_tip": "2025-09-10T00:40:32.339637"
+        }
+      },
+      "total_received": 10.0
+    },
+    {
       "user_id": "bb8a11c9-b202-46c1-88f5-69769e3790fb",
       "username": "juanchef",
       "tips_by_type": {
@@ -1921,19 +1934,6 @@
           "count": 2,
           "first_tip": "2026-01-27T22:18:25.916013",
           "latest_tip": "2026-03-12T23:58:34.838259"
-        }
-      },
-      "total_received": 10.0
-    },
-    {
-      "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
-      "username": "Joeyforreal",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 10.0,
-          "count": 10,
-          "first_tip": "2025-09-11T21:57:25.282972",
-          "latest_tip": "2026-08-26T03:34:56.274697"
         }
       },
       "total_received": 10.0
@@ -1952,14 +1952,14 @@
       "total_received": 10.0
     },
     {
-      "user_id": "7c6bb3a1-7818-48a9-a7d4-8099d8e3b22f",
-      "username": "SnowK77",
+      "user_id": "88a9a813-d9d4-4124-93dd-cfe941688f74",
+      "username": "Joeyforreal",
       "tips_by_type": {
-        "manual": {
+        "milestone": {
           "amount": 10.0,
-          "count": 2,
-          "first_tip": "2025-09-09T16:17:38.378839",
-          "latest_tip": "2025-09-10T00:40:32.339637"
+          "count": 10,
+          "first_tip": "2025-09-11T21:57:25.282972",
+          "latest_tip": "2026-08-26T03:34:56.274697"
         }
       },
       "total_received": 10.0
@@ -2215,19 +2215,6 @@
       "total_received": 2.0
     },
     {
-      "user_id": "f726cbf9-075c-4a2e-8ba9-05817aa24172",
-      "username": "Calabaza333",
-      "tips_by_type": {
-        "milestone": {
-          "amount": 1.0,
-          "count": 1,
-          "first_tip": "2026-10-31T23:05:04.883054",
-          "latest_tip": "2026-10-31T23:05:04.883054"
-        }
-      },
-      "total_received": 1.0
-    },
-    {
       "user_id": "b9bfa8ed-b4d3-4799-92c0-8d60f5b8474f",
       "username": "Kohei2000",
       "tips_by_type": {
@@ -2262,6 +2249,19 @@
           "count": 1,
           "first_tip": "2026-06-29T21:18:18.183534",
           "latest_tip": "2026-06-29T21:18:18.183534"
+        }
+      },
+      "total_received": 1.0
+    },
+    {
+      "user_id": "f726cbf9-075c-4a2e-8ba9-05817aa24172",
+      "username": "Calabaza333",
+      "tips_by_type": {
+        "milestone": {
+          "amount": 1.0,
+          "count": 1,
+          "first_tip": "2026-10-31T23:05:04.883054",
+          "latest_tip": "2026-10-31T23:05:04.883054"
         }
       },
       "total_received": 1.0
@@ -2449,6 +2449,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
+      "username": "Keno8",
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "amount": 28.0,
+      "count": 13,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
       "username": "ftsrewards",
       "tip_type": "weekly_multiplier",
@@ -2476,16 +2486,6 @@
       "year": 2026,
       "amount": 20.0,
       "count": 2,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
-      "username": "Keno8",
-      "tip_type": "milestone",
-      "month": 11,
-      "year": 2026,
-      "amount": 18.0,
-      "count": 12,
       "period_key": "2026-11"
     },
     {
