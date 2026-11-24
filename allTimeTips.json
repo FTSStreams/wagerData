@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-24T18:19:43.752073+00:00",
-  "last_updated_timestamp": 1795544383,
+  "last_updated": "2026-11-24T18:29:43.670324+00:00",
+  "last_updated_timestamp": 1795544983,
   "summary": {
-    "total_tips_sent": 5323,
-    "total_amount_sent": 120916.45999999999,
+    "total_tips_sent": 5324,
+    "total_amount_sent": 120965.45999999999,
     "by_type": {
       "milestone": {
         "total_amount": 29966.2,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 50286.07,
-        "tip_count": 645
+        "total_amount": 50335.07,
+        "tip_count": 646
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -68,16 +68,16 @@
       "total_tips": 156
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "total_received": 7587.0,
+      "total_tips": 77
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "total_received": 7559.24,
       "total_tips": 263
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
-      "total_received": 7538.0,
-      "total_tips": 76
     },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
@@ -339,6 +339,31 @@
       "total_received": 8076.35
     },
     {
+      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
+      "username": "ftsrewards",
+      "tips_by_type": {
+        "manual": {
+          "amount": 7381.0,
+          "count": 43,
+          "first_tip": "2026-10-21T16:40:01.083900",
+          "latest_tip": "2026-11-24T18:21:49.402017"
+        },
+        "milestone": {
+          "amount": 181.0,
+          "count": 33,
+          "first_tip": "2026-10-21T15:32:51.387629",
+          "latest_tip": "2026-11-23T00:11:36.809188"
+        },
+        "weekly_multiplier": {
+          "amount": 25.0,
+          "count": 1,
+          "first_tip": "2026-11-20T00:18:26.158913",
+          "latest_tip": "2026-11-20T00:18:26.158913"
+        }
+      },
+      "total_received": 7587.0
+    },
+    {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
       "username": "slicksloth97",
       "tips_by_type": {
@@ -368,31 +393,6 @@
         }
       },
       "total_received": 7559.24
-    },
-    {
-      "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
-      "username": "ftsrewards",
-      "tips_by_type": {
-        "manual": {
-          "amount": 7332.0,
-          "count": 42,
-          "first_tip": "2026-10-21T16:40:01.083900",
-          "latest_tip": "2026-11-24T18:19:01.989896"
-        },
-        "milestone": {
-          "amount": 181.0,
-          "count": 33,
-          "first_tip": "2026-10-21T15:32:51.387629",
-          "latest_tip": "2026-11-23T00:11:36.809188"
-        },
-        "weekly_multiplier": {
-          "amount": 25.0,
-          "count": 1,
-          "first_tip": "2026-11-20T00:18:26.158913",
-          "latest_tip": "2026-11-20T00:18:26.158913"
-        }
-      },
-      "total_received": 7538.0
     },
     {
       "user_id": "ee7092eb-12c5-4187-89c2-6a970abe4647",
@@ -2284,8 +2284,8 @@
       "tip_type": "manual",
       "month": 11,
       "year": 2026,
-      "amount": 2340.0,
-      "count": 20,
+      "amount": 2389.0,
+      "count": 21,
       "period_key": "2026-11"
     },
     {
