@@ -1,11 +1,21 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-11-26T03:54:10.336300+00:00",
-  "last_updated_timestamp": 1795665250,
-  "total_tips": 5340,
+  "last_updated": "2026-11-26T04:04:10.587076+00:00",
+  "last_updated_timestamp": 1795665850,
+  "total_tips": 5341,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "3eef6ec4-55e2-4325-9290-11104b59c924",
+      "username": "wwMww",
+      "amount": 1.12,
+      "tip_type": "check_in",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-26T03:54:17.903978"
+    },
     {
       "user_id": "ea574ea5-c03b-4ef5-9461-28a5774097f4",
       "username": "Altforjackpots",
