@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-26T15:24:10.515888+00:00",
-  "last_updated_timestamp": 1795706650,
+  "last_updated": "2026-11-26T15:34:10.781281+00:00",
+  "last_updated_timestamp": 1795707250,
   "summary": {
-    "total_tips_sent": 5343,
-    "total_amount_sent": 121539.01999999999,
+    "total_tips_sent": 5344,
+    "total_amount_sent": 121540.26,
     "by_type": {
       "milestone": {
         "total_amount": 30535.2,
@@ -27,8 +27,8 @@
         "tip_count": 8
       },
       "check_in": {
-        "total_amount": 350.75,
-        "tip_count": 128
+        "total_amount": 351.99,
+        "tip_count": 129
       },
       "weekly_multiplier": {
         "total_amount": 1957.0,
@@ -52,8 +52,8 @@
     {
       "user_id": "ec5371fd-0e98-40d0-897f-e389773c0684",
       "username": "Meepflips",
-      "total_received": 10647.06,
-      "total_tips": 274
+      "total_received": 10648.3,
+      "total_tips": 275
     },
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
@@ -244,10 +244,10 @@
           "latest_tip": "2026-11-20T00:18:57.359125"
         },
         "check_in": {
-          "amount": 23.96,
-          "count": 11,
+          "amount": 25.2,
+          "count": 12,
           "first_tip": "2026-07-26T04:29:24.550283",
-          "latest_tip": "2026-11-12T18:32:25.530345"
+          "latest_tip": "2026-11-26T15:32:26.132370"
         },
         "slot_challenge": {
           "amount": 20.0,
@@ -256,7 +256,7 @@
           "latest_tip": "2026-08-22T12:19:19.918241"
         }
       },
-      "total_received": 10647.06
+      "total_received": 10648.300000000001
     },
     {
       "user_id": "fb2475ce-e59f-4fd1-8edb-17b3e743423e",
@@ -2533,8 +2533,8 @@
       "tip_type": "check_in",
       "month": 11,
       "year": 2026,
-      "amount": 15.87,
-      "count": 4,
+      "amount": 17.11,
+      "count": 5,
       "period_key": "2026-11"
     },
     {
