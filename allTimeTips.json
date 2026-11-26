@@ -1,14 +1,14 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-26T16:24:11.244455+00:00",
-  "last_updated_timestamp": 1795710251,
+  "last_updated": "2026-11-26T16:34:11.380839+00:00",
+  "last_updated_timestamp": 1795710851,
   "summary": {
-    "total_tips_sent": 5348,
-    "total_amount_sent": 121780.26,
+    "total_tips_sent": 5350,
+    "total_amount_sent": 121865.26,
     "by_type": {
       "milestone": {
-        "total_amount": 30535.2,
-        "tip_count": 4145
+        "total_amount": 30560.2,
+        "tip_count": 4146
       },
       "monthly_leaderboard": {
         "total_amount": 31835.0,
@@ -19,8 +19,8 @@
         "tip_count": 80
       },
       "manual": {
-        "total_amount": 50576.07,
-        "tip_count": 651
+        "total_amount": 50636.07,
+        "tip_count": 652
       },
       "roo_vs_flip": {
         "total_amount": 560.0,
@@ -70,8 +70,8 @@
     {
       "user_id": "c07bb1d1-4168-4a9a-85fd-3e12255b4de2",
       "username": "ftsrewards",
-      "total_received": 7827.0,
-      "total_tips": 81
+      "total_received": 7887.0,
+      "total_tips": 82
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -154,8 +154,8 @@
     {
       "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
       "username": "smithloic321",
-      "total_received": 1289.0,
-      "total_tips": 74
+      "total_received": 1314.0,
+      "total_tips": 75
     }
   ],
   "detailed_data": [
@@ -343,10 +343,10 @@
       "username": "ftsrewards",
       "tips_by_type": {
         "manual": {
-          "amount": 7621.0,
-          "count": 47,
+          "amount": 7681.0,
+          "count": 48,
           "first_tip": "2026-10-21T16:40:01.083900",
-          "latest_tip": "2026-11-26T16:24:06.741471"
+          "latest_tip": "2026-11-26T16:26:43.675544"
         },
         "milestone": {
           "amount": 181.0,
@@ -361,7 +361,7 @@
           "latest_tip": "2026-11-20T00:18:26.158913"
         }
       },
-      "total_received": 7827.0
+      "total_received": 7887.0
     },
     {
       "user_id": "d57ed2f5-814a-42cd-b347-0675b4dc3dcd",
@@ -837,10 +837,10 @@
       "username": "smithloic321",
       "tips_by_type": {
         "milestone": {
-          "amount": 584.0,
-          "count": 62,
+          "amount": 609.0,
+          "count": 63,
           "first_tip": "2026-09-02T02:24:28.346738",
-          "latest_tip": "2026-11-25T18:46:33.912600"
+          "latest_tip": "2026-11-26T16:25:39.168104"
         },
         "monthly_leaderboard": {
           "amount": 400.0,
@@ -861,7 +861,7 @@
           "latest_tip": "2026-11-13T00:15:48.808927"
         }
       },
-      "total_received": 1289.0
+      "total_received": 1314.0
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -2303,8 +2303,8 @@
       "tip_type": "manual",
       "month": 11,
       "year": 2026,
-      "amount": 2629.0,
-      "count": 25,
+      "amount": 2689.0,
+      "count": 26,
       "period_key": "2026-11"
     },
     {
@@ -2373,8 +2373,8 @@
       "tip_type": "milestone",
       "month": 11,
       "year": 2026,
-      "amount": 128.0,
-      "count": 18,
+      "amount": 153.0,
+      "count": 19,
       "period_key": "2026-11"
     },
     {
