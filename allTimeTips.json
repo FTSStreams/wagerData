@@ -1,10 +1,10 @@
 {
   "data_type": "all_time_tips",
-  "last_updated": "2026-11-27T00:12:19.883257+00:00",
-  "last_updated_timestamp": 1795738339,
+  "last_updated": "2026-11-27T00:22:19.678768+00:00",
+  "last_updated_timestamp": 1795738939,
   "summary": {
-    "total_tips_sent": 5350,
-    "total_amount_sent": 121865.26,
+    "total_tips_sent": 5351,
+    "total_amount_sent": 121875.26,
     "by_type": {
       "milestone": {
         "total_amount": 30560.2,
@@ -31,8 +31,8 @@
         "tip_count": 129
       },
       "weekly_multiplier": {
-        "total_amount": 1957.0,
-        "tip_count": 131
+        "total_amount": 1967.0,
+        "tip_count": 132
       }
     }
   },
@@ -154,8 +154,8 @@
     {
       "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
       "username": "smithloic321",
-      "total_received": 1314.0,
-      "total_tips": 75
+      "total_received": 1324.0,
+      "total_tips": 76
     }
   ],
   "detailed_data": [
@@ -855,13 +855,13 @@
           "latest_tip": "2026-11-15T21:31:47.822464"
         },
         "weekly_multiplier": {
-          "amount": 115.0,
-          "count": 5,
+          "amount": 125.0,
+          "count": 6,
           "first_tip": "2026-09-25T00:19:07.116454",
-          "latest_tip": "2026-11-13T00:15:48.808927"
+          "latest_tip": "2026-11-27T00:17:48.549273"
         }
       },
-      "total_received": 1314.0
+      "total_received": 1324.0
     },
     {
       "user_id": "87eae031-80ea-4110-aaf5-19ded331a8e2",
@@ -2438,6 +2438,16 @@
       "period_key": "2026-11"
     },
     {
+      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
+      "username": "smithloic321",
+      "tip_type": "weekly_multiplier",
+      "month": 11,
+      "year": 2026,
+      "amount": 50.0,
+      "count": 3,
+      "period_key": "2026-11"
+    },
+    {
       "user_id": "b6ea05f7-28b2-4c81-8adc-8afce3b53c64",
       "username": "F1Fan1997",
       "tip_type": "manual",
@@ -2445,16 +2455,6 @@
       "year": 2026,
       "amount": 40.0,
       "count": 1,
-      "period_key": "2026-11"
-    },
-    {
-      "user_id": "2077ccc2-5abc-46a2-9b04-4a0eb04aea3b",
-      "username": "smithloic321",
-      "tip_type": "weekly_multiplier",
-      "month": 11,
-      "year": 2026,
-      "amount": 40.0,
-      "count": 2,
       "period_key": "2026-11"
     },
     {
