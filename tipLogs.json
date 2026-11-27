@@ -1,11 +1,41 @@
 {
   "data_type": "tip_logs",
-  "last_updated": "2026-11-27T19:02:20.291919+00:00",
-  "last_updated_timestamp": 1795806140,
-  "total_tips": 5354,
+  "last_updated": "2026-11-27T19:12:19.787399+00:00",
+  "last_updated_timestamp": 1795806739,
+  "total_tips": 5357,
   "source_table": "manualtips",
   "used_fallback_query": false,
   "tips": [
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-27T19:04:53.761517"
+    },
+    {
+      "user_id": "9ed55e72-3faa-4fbe-bf35-1291fb365c07",
+      "username": "MrBrizz",
+      "amount": 1.0,
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-27T19:04:20.807236"
+    },
+    {
+      "user_id": "ea574ea5-c03b-4ef5-9461-28a5774097f4",
+      "username": "Altforjackpots",
+      "amount": 2.5,
+      "tip_type": "milestone",
+      "month": 11,
+      "year": 2026,
+      "period_key": "2026-11",
+      "tipped_at": "2026-11-27T19:03:47.945698"
+    },
     {
       "user_id": "84bcbd5b-a80a-49b0-9dbb-030bfeb0f52a",
       "username": "Keno8",
